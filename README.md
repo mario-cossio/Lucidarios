@@ -1,7 +1,7 @@
 # Lucidarios
-**Repositorio de los testimonios de Lucidario**
+**Repositorio de los testimonios del <em>Lucidario</em>**
 
-En este repositorio encontrarán los testimonios de los siete manuscritos del Lucidario de Sancho IV, en transcripción semipaleográfica empleando 
+En este repositorio encontrarán los testimonios de los siete manuscritos del <em>Lucidario</em> de Sancho IV, en transcripción semipaleográfica empleando 
 el [sistema de transcripción](http://www.hispanicseminary.org/manual-en.htm) del Hispanic Seminary of Medieval Studies, como explico [aquí](enlace).
 
 Por el momento está disponibles los siguientes testimonios:
