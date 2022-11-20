@@ -25,7 +25,11 @@ MCO
 Citar como:
 
 Cossío Olavide, Mario (2022). «Lucidario, testimonio C». <em>Lucidarios</em>, https://github.com/mario-cossio/Lucidarios/blob/main/Lucidario%20C.txt, fecha de consulta.
+
 Cossío Olavide, Mario (2022). «Lucidario, testimonio D». <em>Lucidarios</em>, https://github.com/mario-cossio/Lucidarios/blob/main/Lucidario%20D.txt, fecha de consulta.
+
 Cossío Olavide, Mario (2022). «Lucidario, testimonio E». <em>Lucidarios</em>, https://github.com/mario-cossio/Lucidarios/blob/main/Lucidario%20E.txt, fecha de consulta.
+
 Cossío Olavide, Mario (2022). «Lucidario, testimonio G». <em>Lucidarios</em>, https://github.com/mario-cossio/Lucidarios/blob/main/Lucidario%20G.txt, fecha de consulta.
+
 Cossío Olavide, Mario (2022). «Lucidario, testimonio H». <em>Lucidarios</em>, https://github.com/mario-cossio/Lucidarios/blob/main/Lucidario%20H.txt, fecha de consulta.
