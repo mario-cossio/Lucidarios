@@ -7,9 +7,13 @@ el sistema de Hispanic Seminary of Medieval Studies.
 Por el momento está disponibles los siguientes testimonios:
 
 C (parcialmente, Real Biblioteca, ms. II/793)
+
 D (Real Academia Española, ms. 15, códice de Puñonrostro)
+
 E (Biblioteca Nacional de España, ms. 6958)
+
 G (Real Academia de la Historia, ms. 101)
+
 H (Bibliothèque patrimonial Villon, ms. A283)
 
 Actualmente estoy realizando la transcripción de C (Real Biblioteca, ms. II/793). Le seguirá A (Biblioteca Nacional de España, ms. 3369), entre enero y
