@@ -24,12 +24,12 @@ MCO
 
 Citar como:
 
-Cossío Olavide, Mario (2022). «Lucidario, testimonio C». <em>Lucidarios</em>, https://github.com/mario-cossio/Lucidarios/blob/main/Lucidario%20C.txt, fecha de consulta.
+Cossío Olavide, Mario (2022). «Lucidario, testimonio C (Real Biblioteca, ms. II/793), transcripción semipaleográfica». <em>Lucidarios</em>, https://github.com/mario-cossio/Lucidarios/blob/main/Lucidario%20C.txt, fecha de consulta.
 
-Cossío Olavide, Mario (2022). «Lucidario, testimonio D». <em>Lucidarios</em>, https://github.com/mario-cossio/Lucidarios/blob/main/Lucidario%20D.txt, fecha de consulta.
+Cossío Olavide, Mario (2022). «Lucidario, testimonio D (Real Academia Española, ms. 15), transcripción semipaleográfica». <em>Lucidarios</em>, https://github.com/mario-cossio/Lucidarios/blob/main/Lucidario%20D.txt, fecha de consulta.
 
-Cossío Olavide, Mario (2022). «Lucidario, testimonio E». <em>Lucidarios</em>, https://github.com/mario-cossio/Lucidarios/blob/main/Lucidario%20E.txt, fecha de consulta.
+Cossío Olavide, Mario (2022). «Lucidario, testimonio E (Biblioteca Nacional de España, ms. 6958), transcripción semipaleográfica». <em>Lucidarios</em>, https://github.com/mario-cossio/Lucidarios/blob/main/Lucidario%20E.txt, fecha de consulta.
 
-Cossío Olavide, Mario (2022). «Lucidario, testimonio G». <em>Lucidarios</em>, https://github.com/mario-cossio/Lucidarios/blob/main/Lucidario%20G.txt, fecha de consulta.
+Cossío Olavide, Mario (2022). «Lucidario, testimonio G (Real Academia de la Historia, ms. 101), transcripción semipaleográfica». <em>Lucidarios</em>, https://github.com/mario-cossio/Lucidarios/blob/main/Lucidario%20G.txt, fecha de consulta.
 
-Cossío Olavide, Mario (2022). «Lucidario, testimonio H». <em>Lucidarios</em>, https://github.com/mario-cossio/Lucidarios/blob/main/Lucidario%20H.txt, fecha de consulta.
+Cossío Olavide, Mario (2022). «Lucidario, testimonio H (Bibliothèque patrimonial Villon, ms. A283), transcripción semipaleográfica». <em>Lucidarios</em>, https://github.com/mario-cossio/Lucidarios/blob/main/Lucidario%20H.txt, fecha de consulta.
