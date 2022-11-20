@@ -21,3 +21,11 @@ marzo de 2023, y B (Biblioteca Histórica de la Universidad de Salamanca, ms. 19
 Histórica de la Universidad de Salamanca, ms. 2401), la traducción latina, está en evaluación.
 
 MCO
+
+Citar como:
+
+Cossío Olavide, Mario (2022). «Lucidario, testimonio C». <em>Lucidarios</em>, https://github.com/mario-cossio/Lucidarios/blob/main/Lucidario%20C.txt, fecha de consulta.
+Cossío Olavide, Mario (2022). «Lucidario, testimonio D». <em>Lucidarios</em>, https://github.com/mario-cossio/Lucidarios/blob/main/Lucidario%20D.txt, fecha de consulta.
+Cossío Olavide, Mario (2022). «Lucidario, testimonio E». <em>Lucidarios</em>, https://github.com/mario-cossio/Lucidarios/blob/main/Lucidario%20E.txt, fecha de consulta.
+Cossío Olavide, Mario (2022). «Lucidario, testimonio G». <em>Lucidarios</em>, https://github.com/mario-cossio/Lucidarios/blob/main/Lucidario%20G.txt, fecha de consulta.
+Cossío Olavide, Mario (2022). «Lucidario, testimonio H». <em>Lucidarios</em>, https://github.com/mario-cossio/Lucidarios/blob/main/Lucidario%20H.txt, fecha de consulta.
