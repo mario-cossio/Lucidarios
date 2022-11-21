@@ -19,7 +19,7 @@ Actualmente estoy realizando la transcripción de C (Real Biblioteca, ms. II/793
 
 Además encontrarán la transcripción semipaleográfica de la única traducción castellana del <em>Elucidarium</em> de Honorio de Autun, el <em>Lucidario romanceado</em>, conservado en la Biblioteca Histórica Marqués de Valdecilla de la Universidad Complutense de Madrid, ms. 148, cuya edición crítica puede consultarse en el número 41 de la revista [<em>Incipit</em>](http://www.iibicrit-conicet.gov.ar/ojs/index.php/incipit/article/view/541).
 
-MCO
+<p align="right">MCO</p>
 
 Citar como:
 
