@@ -352,9 +352,9 @@ vno co<n>tra el otro e estos son la theologia e}
 [fol. 7r]
 {CB1.
 las naturas Ca las naturas es arte q<ue> todas las
-cosas q<ue> son bjuas sobre t<ie>rra se p<ru><<e>>ua<n> por ella
+cosas q<ue> son bjuas sobre t<ie>rra se p<r><<e>>ua<n> por ella
 en com<m>o son fechas por rrazo<n> de natura. ot<r><<o>>si se
-p<ru><<e>>ua por ella las cosas q<ue> so<n> fechas so el arco
+p<r><<e>>ua por ella las cosas q<ue> so<n> fechas so el arco
 asy com<m>o el ayre so el c'ielo com<m>o truenos e
 rrelanpagos e las otras cosas q<ue> so<n> enlas nu-
 ues. otrosi. las q<ue> so<n> en<e>l c'ielo com<m>o se faze<n> se-
@@ -1002,7 +1002,7 @@ q<ue> la luna es vna d<e>las siete planetas e ella
 anda mas c'erca de nos q<ue> otra planeta nj<n>gu-
 na e de nueue c'ielos q<ue> so<n> ella anda en<e>ste
 p<r><<i>>mero c'ielo q<ue> es el menor de todos los ot<r><<o>>s.
-desto te dare p<ru><<e>>ua verdadera. bie<n> asi com<m>o
+desto te dare p<r><<e>>ua verdadera. bie<n> asi com<m>o
 vn om<n>e q<ue> faze vna casa e despues q<ue>la}
 [fol. 20r]
 {CB1.
@@ -1562,7 +1562,7 @@ mos q<ue> dixo el n<uest>ro sen<n>or en vn eua<n>gellio
 asus dec'iplos dond<e> dos. otres fuerdes ayu<n>-
 tados enel mj no<n>bre en medio de vos sere
 yo
-{RUB. % cap<itul><<o>>. .xviij<<o>>. com<m>o finco el c'ielo e la t<ie>rra mje<n>-
+{RUB. % cap<itul><<o>> .xviij<<o>>. com<m>o finco el c'ielo e la t<ie>rra mje<n>-
 tra n<uest>ro sen<n>or estouo enc'errado en santa
 maria}
 {IN1.}Pregu<n>to el dec'iplo al maestro. en aq<ue>l t<ien>po}
@@ -2208,31 +2208,6 @@ si esto asi fuese luego la Justic'ia de dios
 seria me<n>guada e la esperanc'a de los bue-
 nos seria vana e no<n> valdria nada. e
 la maldat delos malos puJaria sobre}
-
-
-[TRANSKRIBUS]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [fol. 46v]
 {CB1.
 la bondat delos buenos. e no<n> abria la mal-
@@ -2646,17 +2621,6 @@ com<m>o le viero<n> los doze apostoles e los
 otros sus dec'iplos q<ue> con<e>l andoujero<n>. por esto}
 [fol. 55v]
 {CB1.
-
-
-
-
-
-
-
-
-
-
-
 fallamos q<ue> dixo el a aq<ue>llos q<ue> andaua<n>
 con<e>l e le veya<n>. bie<n> aue<n>turados sodes vos
 q<ue> me vedes. Ca muchos rreys e p<r><<i>>nc'ipes e
@@ -2777,7 +2741,7 @@ de v<er>tud q<ue> ha ensi este grano de trigo.
 despues q<ue> es cogido alj<n>pian lo muchas ve-
 zes fasta q<ue> fi<n>ca ello puro ensu cabo e des-
 pues muele<n> lo e amasan lo e todas estas
-p<ru><<e>>uas le faze<n> e q<u><<a>>nto mas lo p<ru><<e>>uan tanto
+p<r><<e>>uas le faze<n> e q<u><<a>>nto mas lo p<r><<e>>uan tanto
 fi<n>ca el meJor. despues es cosa q<ue> por tener
 lo vn dia odos oq<u><<a>>ntos q<u><<i>>siere<n> q<ue> nu<n>ca vie-
 ne a p<er>dic'io<n> nj<n> a corro<n>per se. p<ar>a auer mal
@@ -3610,7 +3574,7 @@ somos mu<n>do. pues q<ue> nos q<ue> somos mu<n>-
 do. oujesemos a durar por sienp<r><<e>> e q<ue> nos
 oujesemos a enge<n>drar vnos aot<r><<o>>s de padre
 afiJo. Ca si nos no<n> oujesemos fin en<e>l mu<n>-
-do nu<n>ca abria fin e por esto p<ru><<e>>ua el
+do nu<n>ca abria fin e por esto p<r><<e>>ua el
 filosofo aristotel<e>s (^su) [^su] rrazo<n> muy derecha
 ment<e> segu<n>d esta rrazo<n>. mas el Juyzio
 dela v<er>dat desto te dire. segu<n>d q<ue> se Jud-
@@ -3857,7 +3821,7 @@ do dispuesto e desordenado de com<m>o solia
 seer q<u><<a>>ndo era bjua. acaesc'e le com<m>o al
 rreloJo q<ue> mjll ta<n>to es de adouar desq<ue> es fe-
 cho e se dan<n>a. q<ue> fazer le de nueuo. e
-por esta rrazo<n> q<ue> te he dicho. te p<ru><<e>>uo na-
+por esta rrazo<n> q<ue> te he dicho. te p<r><<e>>uo na-
 tural ment<e> segu<n>d mj ente<n>djmje<n>to. q<ue>}
 [fol. 83r]
 {CB1.
@@ -3881,282 +3845,2020 @@ la crio dios de no<n> nada. despues en com<m>o
 la mete en aq<ue>l cuerpo p<ar>a q<ue> le crie e q<ue> es
 alli com<m>o anda en<e>l cuerpo del om<n>e e com<m>o
 bjue fasta q<ue> ha end<e> a saljr e des q<ue> sale}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [fol. 83v]
 {CB1.
-}
+d<e>l cuerpo. sabemos ta<n>to q<ue> segu<n>d las o-
+bras q<ue> faze buenas omalas. ha de auer
+el gualardo<n>. e por esto la fizo dios anjma
+de rrazo<n> e de ente<n>djmje<n>to. e p<ar>a seer Jud-
+gada o co<n>denada segu<n>d su obra. mas se-
+gu<n>d theologia fallamos en vn ljbro q<ue> fi-
+zo sant agosti<n> q<ue> llama<n> {LAT. c'iujtas dei} q<ue>
+q<u><<i>>ere dezjr ljbro dela c'ibdat de dios. la rra-
+zo<n> por q<ue> ha este no<n>bre te dire. agora llamo
+sant agosti<n> c'ibdat de dios atodas las
+cosas q<ue> so<n> en<e>l mu<n>do maraujllosas puso
+las ordenadas en man<er>a de c'ibdat. por eso
+dize sant agosti<n> en<e>ste ljbro. q<ue> las anjmas
+q<ue> so<n> en<e>l p<ar>ayso. q<ue> no<n> ha<n> vic'io agora co<n>-
+plido. Ca sienp<r><<e>> desean veer el dia q<ue> ha<n>
+de rrec'uc'itar. esto es por cobdic'ia de tornar
+alos cuerpos enq<ue> solia<n> seer por q<ue> q<ue>-
+rria<n> q<ue> el bie<n> q<ue> ellas ha<n>. q<ue> lo oujese<n>. los
+cuerpos enq<ue> solia<n> seer e co<n> q<u><<i>>en pasaro<n>
+su t<ien>po enla vida deste mu<n>do. esto es ase-
+meJanc'a de vn om<n>e q<ue> bjue co<n> vn rrey oco<n>}
 [fol. 84r]
 {CB1.
-}
+vn senor e le va bie<n> con<e>l. q<ue>rria q<ue> su a-
+mjgo osu parient<e> oujese p<ar>te en aq<ue>l bie<n>
+q<ue> el ha e trauaJa q<u><<a>>nto el puede por le
+allegar asi mesmo por q<ue> aya p<ar>te en aq<ue>l
+bie<n>. e por q<ue> sabe<n> q<ue> esto no<n> puede seer.
+fasta el dia del Juyzio q<ue> dios ordeno q<ue>
+fuese. por esto han a cobdic'iar q<u><<a>>ndo les
+verna aq<ue>l dia. e por esta cobdic'ia q<ue> ha<n>
+p<r><<e>>ua sant agosti<n> q<ue> el su vic'io no<n> es co<n>pli-
+do. fasta q<ue> aya<n> aq<ue>llo q<ue> cobdic'ia<n>. e despu<e>s
+q<ue> lo oujere<n> sera el vic'io co<n>plido. e ot<r><<o>>si
+la carne dize sant agosti<n> eneste logar me-
+smo. q<ue> alli dond<e> yaze soterrado com<m>o
+q<u><<i>>er q<ue> sea toda desfecha e tornada en
+c'enjza q<ue> sienpre. fi<n>ca en<e>lla v<er>tud de cob-
+dic'iar a Seer {AD. cuerpo co<n>plido co<n> anjma co<n> q<ue> solia seer} p<r><<i>>mero enla materia en q<u><<a>>l
+q<u><<i>>er estado q<ue> sea. sienp<r><<e>> cobdic'ia de auer
+forma e por estas dos cobdic'ias. la vna q<ue>
+ha el anjma d<e>l cuerpo d<e>le auer co<n>sigo. la
+otra q<ue> ha el cuerpo q<ue> es materia de seer
+con<e>l anjma q<ue> es forma. p<r><<e>>ua sant agosti<n>}
 [fol. 84v]
 {CB1.
-}
+{el dia de n<uest>ro rrec'uc'itamje<n>to. q<ue> estas dos cobdi-
+c'ias q<ue> so<n>. verna la obra de dios q<ue> las ayu<n>-
+tara deso vno. q<ue> nu<n>ca auera<n> cobdic'ia nj<n>gu<na>
+de nj<n>guna cosa
+{RUB. % cap<itul><<o>> .xlj. si fizo dios todas las cosas bj-
+uas q<ue> so<n> sobre t<ie>rra. ocomo se fiziero<n>}
+{IN2.}El dec'iplo p<r><<e>>gu<n>to al maestro. si todas las
+cosas q<ue> so<n> bjuas sobre t<ie>rra si las fi-
+zo dios ocom<m>o se fizjero<n> e esto ta<n> bie<n>
+lo p<r><<e>>gu<n>to por las cosas enpoc'on<n>adas com<m>o
+por las buenas. rrespo<n>dio el maestro % Se-
+pas q<ue> todas las cosas q<ue> so<n> bjuas enel
+c'ielo e enla t<ie>rra e en<e>l agua d<e>la mar
+todas las fizo dios. saluo q<ue> fizo dios
+las vnas de vna manera e las otras de
+otra. Com<m>o agora te dire. las vnas for-
+mo el por si. e las otras dio natura de
+q<ue> se fizjero<n> e las [^<<otras>>] co<n>sintio q<ue> se fizje-
+se<n> e de q<ue> natura. e q<u><<i>>ero te agora dezjr}
 [fol. 85r]
 {CB1.
-}
+cada vna destas tres man<er>as en com<m>o se
+fiziero<n> e se faze<n> la[^s] vnas criaturas q<ue> so<n>
+mayores e menor<e>s. asi com<m>o angeles e
+el sol e la luna e las estrellas e la a-
+njmas. delos om<ne>s e q<u><<a>>ndo las mete enlos
+cuerpos q<ue>las faze(^r) seer om<ne>s co<n>plidos. e ot<r><<o>>
+si aues e pec'es e bestias. crio las dios por
+su palabra e ma<n>dado q<ue> fuese<n> e desq<ue>
+lo el ma<n>do. obro la natura en cada vna de-
+llas. asi com<m>o enlos cuerpos delos {AD. om<ne>s} e en
+las {AD. aues} e enlos pec'es. en<e>stos obro la natura
+en aq<ue>lla p<ar>te q<ue> era suya. e ot<r><<o>>si los ar-
+uoles e bestias e yeruas e ot<r><<o>>s gusanos
+q<ue> alli ha q<ue> nasc'e<n> enlos aruoles e enlas yer-
+uas. estas se cria<n> dela natura dela t<ie>rra se-
+gu<n>d es la t<ie>rra ado nasc'e<n> otras anjmalias
+asi com<m>o sapos e culebras e ot<r><<o>>s gusanos
+enpoc'on<n>ados q<ue> so<n> malos. cria<n> se d<e>l podri-
+mje<n>to d<e>la t<ie>rra e por aq<ue>l podrimje<n>to de q<ue>
+estos se cria<n> so<n> enpocon<n>ados p<ar>a fazer}
 [fol. 85v]
 {CB1.
-}
+mal. avn q<ue> faga<n> mal en algu<na>s cosas. en ot<r><<a>>s
+so<n> buenas e viene end<e> p<r><<o>>uecho a aq<ue>llos
+q<ue> se sabe<n> aprouechar dellas en aq<ue>llo q<ue> es
+men<e>ster. otras criaturas ay q<ue> se tornaro<n> a
+fazer de buenas anjmas. esto es por el
+sofrimje<n>to de dios. E este sofrimje<n>to veno por
+la desconoc'e<n>c'ia suya e por la su maldat
+dellos q<ue>se tornaro<n> de angeles q<ue> era<n> a seer
+diablos. esto fue por el sofrimje<n>to e ot<r><<o>>si
+por q<ue>lo q<u><<i>>so el sofrir metio el diablo en ye-
+rro a adam e en<e>stas man<er>as q<ue> te he co<n>ta-
+do crio dios todas las cosas q<ue> bjue<n> sobre
+t<ie>rra. Ca criador tanto q<u><<i>>ere dezjr Com<m>o fa-
+zedor q<ue> fizo todas las cosas de no<n> nada.
+e q<ue> sea<n> buenas e aya en<e>llas pro e asi
+fue en todas las cosas q<ue> el fizo q<ue> desde
+los angeles fasta la menor cosa q<ue> es bjua
+sobre t<ie>rra todas las crio dios de no<n> nada
+en general. ca las vnas fizo el por si e
+las {AD. otras} dio la natura de q<ue> se fizjese<n>. e alas
+otras sufrio q<ue> tornase<n> de buenas q<ue> era<n>}
 [fol. 86r]
 {CB1.
-}
+a seer malas por la maldat q<ue> auja<n> ensi. por
+meresc'imje<n>to desu obra. otras sufrio q<ue>
+se fiziese<n> de mala simjent<e> e de mala
+humor corro<n>pida por la nesc'esidat dela
+materia q<ue> ouo ensi de venjr aq<ue>llo. e en<e>sta
+gujsa q<ue> yo he dicho crio dios todas las
+cosas q<ue> so<n> en<e>l mu<n>do. ta<n> bie<n> las del c'ielo
+com<m>o las dela t<ie>rra E dio acada vna com<m>o
+bjujese e q<u><<a>>nto valiese. segu<n>d el bie<n> q<ue>
+en<e>lla fuese
+{RUB. % cap<itul><<o>> .xlij. de q<u><<a>>l delos costados de adam sa-
+co dios la costilla de q<ue> formo aeua}
+{IN2.}El dec'iplo p<r><<e>>gu<n>to al maestro. de q<u><<a>>l delas
+costillas de adam saco el n<uest>ro sen<n>or la
+costilla de q<ue> fizo aeua. si fue del
+costado derecho o del ezq<u><<i>>erdo. Sepas por
+c'ierto q<ue> fue del costado ezq<u><<i>>erdo. e q<u><<i>>ero
+te dar rrazo<n> de theologia q<ue> por c'ierto fa-
+llamos segu<n>d los eua<n>gellios q<ue> fizjero<n>
+los eua<n>geljstas delo q<ue> dixo el n<uest>ro sen<n>or}
 [fol. 86v]
 {CB1.
-}
+dios e ot<r><<o>>s espritos q<ue> ha q<ue> todos los om<ne>s
+del mu<n>do ta<n> bie<n> el varo<n> com<m>o la muger todos
+ha<n> vn ang<e>l bueno q<ue> le g<u><<a>>rda ala mano de-
+recha e ot<r><<o>> malo ala sinjestra. e estos de-
+p<ar>tidos el vno d<e>l ot<r><<o>>. luego lo p<r><<i>>mero enla bon-
+dat desi enla volu<n>tad e enc'ima de todo en
+lo q<ue> obra. ca el vno tira p<ar>a bie<n> e q<u><<i>>ere q<ue> se
+faga el bie<n>. el ot<r><<o>> tira p<ar>a mal e q<u><<i>>ere q<ue> se
+faga el mal. e por esta rrazo<n> fallamos q<ue>
+ha mayor v<er>tud en<e>l lado derecho q<ue> en<e>l ez-
+q<u><<i>>erdo e mayor fuerc'a. por eso dixo el rrey
+daujd. {LAT. dextera d<omi>nj fec'it birtute<m>. dextera
+d<omi>nj exaltaujt me} % q<u><<i>>ere {AD. dezjr} la diestra d<e>l se-
+n<n>or fizo v<er>tud e la diestra d<e>l sen<n>or me
+enxalc'o pues vees tu aq<u><<i>> com<m>o lo ha dicho
+el rrey daujd mas la diestra d<e>l sen<n>or. q<ue>
+no<n> la sinjestra. pues mas fechos somos a
+su ymage<n>. e asi com<m>o el q<u><<i>>so poner gra<n>d
+v<er>tud e gra<n>d fuerc'a ala su diestra. asi q<u><<i>>so
+q<ue> la oujese enla n<uest>ra. asemeJanc'a dela suya
+pues esta p<ar>te diestra q<ue>el q<u><<i>>so poner todo este}
 [fol. 87r]
 {CB1.
-}
+bie<n>. bie<n> deues tu creer e ente<n>der q<ue> no<n> q<u><<i>>ere
+end<e> sacar nj<n>guna cosa q<ue> mal oujese a nas-
+c'er asi com<m>o nos veno de eua q<ue> co<n>seio a
+adam todo aq<ue>l mal. por q<ue> cay(^a)mos enla yra
+de dios. mas ella fue fecha del costado ezq<u><<i>>er-
+do e por el sp<irit>u malo ha mayor poder en
+aq<ue>lla p<ar>te. q<ue> enla otra. contra tiro asu na-
+tura en q<ue>rer aq<ue>l mal todo ella q<ue> el q<u><<i>>ere por
+q<ue> oujese poder en<e>lla e enlos q<ue> aujamos a ve-
+njr de su generac'io<n> q<ue> mala carrera toujese<n>.
+por eso q<u><<i>>ero q<ue> sepas. q<ue> enel ofic'io de santa
+egl<es>ia q<u><<a>>ndo casan el marido e la muger deso
+vno. e les dize<n> {AD. la} mjsa d<e>l casamje<n>to. pone<n> la
+muger ala sinjestra p<ar>te d<e>l marido e es ase-
+meJa<n>c'a. Com<m>o el n<uest>ro sen<n>or crio a adam e ae-
+ua fuera d<e>l p<ar>ayso q<u><<a>>ndo los fizo p<r><<i>>mero
+e despues q<ue> los ouo fecho. metio los amos
+ados en<e>l p<ar>ayso terrenal. por eso toma el
+cl<er>igo q<ue> dize la mjsa ala puerta dela egl<es>ia
+les faze rresc'ebjr por marido e muger. e
+despues da les sus bendic'ion<e>s. despues}
 [fol. 87v]
 {CB1.
-}
+mete los amos por las manos ant<e> el altar
+e dize les la mjsa enq<ue> rresc'ibe<n> bendic'io<n> e
+onrra de su casamje<n>to
+{RUB. % cap<itul><<o>> .xliij. si el angel q<ue> g<u><<a>>rda el om<n>e. si es de
+los q<ue> puso dios enel c'ielo. osi es fecho de nu-
+euo}
+{IN4.}Pregu<n>to el dec'iplo al maestro. si el angel q<ue>
+g<u><<a>>rda el om<n>e e anda ala su mano de<re>cha.
+si es delos angeles q<ue> puso dios en el c'ie-
+lo. osi es fecho angel de nueuo q<ue> criase
+dios q<u><<a>>ndo faze el anjma q<ue> le da por g<u><<a>>rdador.
+rrespo<n>dio el maestro. sabe por c'ierto q<ue> q<u><<a>>ndo
+dios fizo los angeles. ordeno q<ue> fueze<n> nueue
+orden<e>s de angeles. e en cada orde<n> puso mu-
+chas elesion<e>s. e en cada vna d<e>las elesion<e>s
+ha seys mjll e seysc'ie<n>tos e sese<n>ta e
+seys angeles e destas elegion<ne>s ay muchas.
+Ca el n<uest>ro sen<n>or sabia bie<n> la obra q<ue> fazia
+e q<ue> auja de acabar tan bie<n> en<e>l c'ielo com<m>o
+enla t<ie>rra e ente<n>dio q<ue> enlos cuerpos de en-
+c'ima del c'ielo q<ue> so<n> las planetas e las}
 [fol. 88r]
 {CB1.
-}
+estrellas. q<ue> acada vna auja de dar v<er>tud co<n>
+su angel. q<ue> la moujese e fuese mouedor e
+g<u><<a>>rdador d<e>lla. segu<n>d el cuerpo q<ue> le dio en q<ue>
+andoujese. e estos cuerpos de enc'ima estable-
+sc'io q<ue> fuese<n> firm<e>s fasta aq<ue>l t<ien>po q<ue> el ordeno q<ue>
+durase<n>. e por eso los afirmo el co<n>los sus
+angeles e asi com<m>o este ordenamje<n>to fizo
+enlos c'ielos asi ordeno aca en t<ie>rra en dar
+acada vna delas anjmas q<ue> so<n> de rrazo<n> q<ue>te
+dixe q<ue> oujese<n> vn ang<e>l q<ue> la g<u><<a>>rdase p<ar>a
+auer mas rrazo<n> contra ella si pecase o
+errase Ca ente<n>dio dios q<ue> el anjma q<ue> el fa-
+zia de no<n> nada e la metia en<e>l cuerpo
+q<ue> es contra esto apareJado de fazer errar el
+anjma e dela meter en todo mal. por eso
+le q<u><<i>>so dar el angel q<ue> la g<u><<a>>rdase fasta aq<ue>l
+logar q<ue> fuese ado ha de yr segu<n>d la su
+obra. e tan bien com<m>o el angel bueno
+g<u><<a>>rda el anjma q<ue> anda ala p<ar>te diestra.
+bie<n> asi anda con<e>lla otro q<ue> es esp<irit>u malo
+ala p<ar>te ezq<u><<i>>erda e q<u><<a>>ndo el anjma viene
+a enc'imar bie<n> su t<ien>po. lieua la el angel}
 [fol. 88v]
 {CB1.
-}
+bueno p<ar>a purgatorio e mje<n>tra ella esta alli
+purga<n>do se de sus pecados. besita la aq<ue>l
+angel bueno e dale esfuerc'o a aq<ue>lla pena
+en q<ue> esta fasta q<ue> sale de alli e va ala glo-
+ria de p<ar>ayso ant<e> la p<r><<e>>senc'ia d<e>la ymage<n> de
+n<uest>ro sen<n>or dios e de alli adelant<e>. no<n> ha me-
+nester angel q<ue> la g<u><<a>>rde nj<n> le de conort<e> nj<n> es-
+fuerc'o e alli es abo<n>dada de aq<ue>l bie<n> q<ue> ha
+men<e>ster e de todo lo q<ue> ha de auer e la ot<r><<a>>
+anjma mal aue<n>turada. q<ue> trae el angel dela
+maldat q<ue> anda ala mano ezq<u><<i>>erda lieua la
+co<n>sigo al Jnfierno e despues dexa la alli
+sen<n>era e desanpara la p<ar>a sienp<r><<e>> jamas
+en aq<ue>llas penas en q<ue> la dexo. por eso falla-
+mos q<ue> dixo iob. {LAT. quja Jn Jnfernu<m> nulla est
+rredenpc'io} % q<ue> q<u><<i>>ere dezjr en<e>l Jnfierno no<n>
+ay nj<n>guna rredenc'io<n> de bagar nj<n> de soltu-
+ra q<ue> da<n> al om<n>e mas vna ora q<ue> otra. sien-
+pre faze<n> ala mal aue<n>turada del anjma q<ue>
+alli cae de mal en peor. e conort<e> nj<n> espe-
+ra<n>c'a de bie<n> no<n> puede auer de nj<n>guna p<ar>te.
+por end<e> sabe por c'ierco q<ue> deste angel q<ue> te
+digo segu<n>d la dema<n>da q<ue> me fezjste q<u><<i>>ero}
 [fol. 89r]
 {CB1.
-}
+q<ue> sepas q<ue> este angel. no<n> le crio dios de nue-
+uo. q<u><<a>>ndo crio el anjma ant<e>s es de aq<ue>llos
+coros delos angeles en q<ue> so<n> todas aq<ue>llas
+elegion<e>s. Ca los angel<e>s no<n> los crio el n<uest>ro
+sen<n>or. mas de vna vegada q<u><<a>>ndo los fizo
+p<r><<i>>mero. estonc'e fizo ta<n> gra<n>d abondamje<n>to
+dellos segu<n>d ente<n>dio q<ue> abria conpljmje<n>to
+p<ar>a las anjmas d<e>los om<ne>s q<ue> auja<n> a seer en<e>l
+mu<n>do e p<ar>a todas las otras cosas q<ue> se a-
+uja<n> amjnjstrar por los angeles. esto fizo
+el n<uest>ro sen<n>or por tres cosas q<ue> agora te dire.
+% la p<r><<i>>mera por mostrar el su poder % la
+segu<n>da por q<ue> viesemos el su (^poder)[^<<saber>>] % la
+terc'era p<ar>a auer dep<ar>timje<n>to en com<m>o cria
+e faze las anjmas de no<n> nada asemeJa<n>-
+c'a d<e>lo al e com<m>o crio e fizo los angel<e>s.
+p<r><<i>>mero % q<u><<i>>ero te dep<ar>tir cada vna destas
+tres cosas com<m>o es. E p<ar>a bie<n> mjent<e>s luego
+lo p<r><<i>>mero lo del poder q<u><<i>>so el n<uest>ro sen<n>or
+mostrar q<u><<a>>n gra<n>de es el su poder en q<ue> fizo
+los angeles todos en vn dia e en vna
+ora. {AD. ca en fazie<n>do los en vn dia & en vna ora} com<m>o los fizo dio a enteder el su
+poderio muy gra<n>de. el q<u><<a>>l no<n> podria auer}
 [fol. 89v]
 {CB1.
-}
+nj<n>guna otra cosa en<e>l c'ielo nj<n> enla t<ie>rra. si no<n>
+dios q<ue> es criador e fazedor de todo. e en
+estu sabeduria co<n>to e sumo todas las cosas
+q<ue> era<n> e auja<n> a seer fasta la fin del mu<n>do. Ca
+si el n<uest>ro sen<n>or cada ora q<ue> cria el anjma d<e>l
+om<n>e. oujese a criar dela (^q<ue>) otra p<ar>te el angel. q<ue>
+le da por g<u><<a>>rdador luego seria el poder de
+dios me<n>guado. mas enesto se mostro q<ue> era
+co<n>plido en criar vna vez todos los angel<e>s q<ue>
+oujese abo<n>damje<n>to p<ar>a todas las anjmas q<ue>
+auja<n> a seer % la segu<n>da cosa q<ue> te dixe en
+com<m>o nos q<u><<i>>so mostrar el su saber en<e>l orde-
+namje<n>to q<ue> fizo delos angel<e>s q<ue> so<n> nueue
+orden<e>s q<ue> te q<u><<i>>ero agora dezjr el n<uest>ro sen<n>or
+nos mostro el su saber q<u><<a>>n gra<n>de era. en q<ue>
+fizo los angeles en vn dia. da se a ente<n>-
+der q<ue> el ouo saber e poder delos fazer
+todos en vna ora q<ue> poder auja de fazer
+acada vno {AD. q<u><<a>>ndo} q<u><<i>>siese. ca natural cosa de rra-
+zo<n> es q<ue> dond<e> se da a ente<n>der el poder ma-
+yor {AD. alli se entiende el menor. ca del mayor} sale el menor. mas d<e>l menor no<n> se
+puede fazer lo q<ue> es mas % la terc'era cosa
+e q<ue> te dixe en com<m>o q<u><<i>>so de[+]p<ar>tir los angel<e>s}
 [fol. 90r]
 {CB1.
-}
+delas anjmas es por lo q<ue> agora te dire.
+Ca[^<<da] dia cria dios las anjmas e las faze
+de no<n> nada. asi las pudiera fazer de al-
+guna cosa en q<ue> oujese p<r><<e>>c'io si q<u><<i>>siese
+mas no<n> q<u><<i>>so. esto fizo por q<ue> toda via ouje-
+se<n> conosc'e<n>c'ia las anjmas ael. q<ue> era e es
+su fazedor e su criador. q<ue> conosc'iese<n>
+e ente<n>diese<n> q<ue> el las fiziera de no<n> nada. e
+otrosi q<ue> conosc'iese<n> meJoria alos angeles q<ue>
+so<n> mas allegados adios q<ue> ellas so<n> sus
+mjnjstrador<e>s dellas. e fallamos q<ue> q<u><<a>>ndo
+dios crio los angel<e>s avn no<n> era criada nj<n>
+fecha anjma de om<n>e bjuo sobre t<ie>rra. p<r><<i>>mero
+fizo dios los angel<e>s q<ue> criase a adam e me-
+tiese en<e>l sp<irit>u de vida q<ue> fue el p<r><<i>>mero om<n>e.
+por end<e> por q<ue> los om<ne>s vee cada dia q<ue> nasc'en
+las anjmas. vnas al mu<n>do nasc'ie<n>do los
+cuerpos en q<ue> esta<n>. van se deste mu<n>do al ot<r><<o>>
+por q<ue> esto es obra de cada dia. de aq<u><<i>> toma<n>
+ellos aborre<n>c'ia desi e conosc'imje<n>to contra
+los angel<e>s. en conosc'er q<ue> so<n> meJor<e>s q<ue>
+ellas. por tres cosas q<ue> agora te dire % la pri-
+mera por q<ue> los fizo el n<uest>ro sen<n>or e los crio}
 [fol. 90v]
 {CB1.
-}
+p<r><<i>>mero q<ue> alas anjmas. q<ue> d<e>l mesmo afuera q<ue>
+las fizo. no<n> fue otra cosa eneste mu<n>do bjua
+q<ue> pudiese veer q<u><<a>>ndo los fizo nj<n> de q<ue> avn no<n>
+era nj<n>gu<na> otra fecha. si no<n> el mesmo q<ue> nu<n>ca ouo
+comje<n>c'o nj<n> abra fin % la segu<n>da cosa por
+q<ue> las anjmas ha<n> esta conoc'e<n>c'ia de meJoria.
+alos angeles. e por q<ue>l su estado es cosa q<ue>
+ordeno dios q<ue> fuese firme q<ue> no<n> andoujese en
+las penas nj<n> enlos torme<n>tos en q<ue> anda<n> las
+anjmas ta<n> bie<n> en<e>ste mu<n>do com<m>o en<e>l ot<r><<o>> % la
+terc'era es q<ue> so<n> custodios e mjnjstros d<e>llos
+mje<n>tra ellas se guja<n> por el su co<n>seio
+{RUB. % cap<itul><<o>> .xliiij<<o>>. q<u><<a>>ndo el anjma esta en purgato-
+rio e el angel la viene a co<n>fortar. si se q<ue>-
+ma o rresc'ibe pena este angel com<m>o la anj-
+ma}
+{IN2.}El dec'iplo p<r><<e>>gu<n>to al maestro e dixo le ma-
+estro rruego te q<ue> me digas vna rrazo<n> q<ue>
+pare mjent<e>s en<e>sta q<u><<i>>stio<n> q<ue> me asolujste ago-
+ra ant<e> desta alli do dezia. q<ue> esta<n>do el anjma
+en purgatorio q<ue> viene el angel a besitar}
 [fol. 91r]
 {CB1.
-}
+la e a co<n>fortarla. pu<e>s si el anjma q<ue> es sp<irit>u
+esta ardie<n>do e purga<n>do se delos pecados q<ue>
+fizo. si el q<ue> es sp<irit>u arde en<e>ste fuego de
+purgatorio Com<m>o no<n> se q<ue>ma ta<n> bie<n> com<m>o
+ella. Ca entie<n>do q<ue> si vn sp<irit>u arde e ha po-
+der de sofrir mal ensi. q<ue> ta<n> bie<n> lo puede
+sofrir el ot<r><<o>>. q<ue> es sp<irit>u asi com<m>o el % por end<e>
+si me q<u><<i>>sieres tu dezjr q<ue> ta<n> bie<n> lo sufre
+el angel com<m>o el anjma. luego entie<n>do
+yo segu<n>d mj ente<n>djmje<n>to. q<ue> es el ang<e>l ta<n>
+pecador com<m>o ella e no<n> paresc'e q<ue> ha difi-
+re<n>c'ia della nj<n> nj<n>gu<na> meJoria. pues rruego
+vos maestro q<ue> me digad<e>s com<m>o es esto. rres-
+po<n>dio el maestro. sepas q<ue> tres maneras.
+so<n> de fuego % la p<r><<i>>mera es fuego terre-
+nal. este fuego es de q<ue> vsamos e de q<ue> be-
+ujmos en<e>l mu<n>do e aeste llama<n> los sabios
+fuego material. por dos cosas. la p<r><<i>>mera
+por q<ue> es grueso de natura % la segu<n>da
+es por q<ue> se ap<r><<e>>nde en aq<ue>llo en q<ue> ha de arder
+de q<ue> toma corro<n>pjmje<n>to e por esta espesu-
+ra q<ue> el ha ensi desta manera sobre q<ue>}
 [fol. 91v]
 {CB1.
-}
+arde le llama<n> fuego corporal % el segu<n>do fue-
+go es el q<ue> se faze en<e>l ayre de q<ue> viene<n> los
+rrayos e com<m>o q<u><<i>>er q<ue> este es el mas sotil fue-
+go q<ue> se faze es de dos naturas. la vna de
+calie<n>te e seco. la ot<r><<a>> de frio e vmjdo. e es-
+tas dos naturas de ayre se cria<n> delas cosas
+espesas dela t<ie>rra e delas aguas e vienen
+las nubes del c'ielo e el vno q<ue> te dixe q<ue>
+es frio e vmjdo es del bafo q<ue> sale espeso
+delas aguas. e coge<n> lo las nubes ensi. e
+en subie<n>do mas arriba por la freura d<e>l ayre
+faze<n> lo mas espeso % el ot<r><<o>> se faze d<e>l fu-
+mo q<ue> sube arriba delas cosas q<ue> se q<ue>ma<n>
+arriba sobre t<ie>rra e dela cale<n>tura dela t<ie>rra
+las nubes lo coge<n> e suben [^<<lo>>] arriba e q<u><<a>>ndo
+lo allega<n> al ayre mas arriba q<ue> es de natura
+calient<e>. torna lo a seer natura de fuego e
+viene<n> despues las vnas nubes contra las
+ot<r><<a>>s e ha<n> a entrar las vnas por las otras
+e este ayre q<ue> se fizo del fumo es calient<e>
+e seco e entra por el ot<r><<o>> q<ue> es frio e humj-
+do e de alli sale el rrayo q<ue> llama<n> fuego}
 [fol. 92r]
 {CB1.
-}
+c'elestial e por q<ue> se faze destos dos ayr<e>s q<ue>
+cada vno dellos es segu<n>d natura espeso.
+por end<e> ha este fuego poder ensi. com<m>o q<u><<i>>er
+q<ue> c'elestial sea de dec'e<n>der e de q<ue>mar toda
+cosa terrenal en q<ue> fiera. ca aq<ue>llo de q<ue> el sa-
+llio e se faze dela t<ie>rra fue leuado arriba.
+por end<e> ha el poder de q<ue>mar aq<ue>llo q<ue> fuere
+de su natura. e atal fuego com<m>o este
+llama<n> fuego c'elestial. por q<ue> biene desuso
+del c'ielo. e despues q<ue> cae en t<ie>rra e q<ue>ma aq<ue>-
+llo aq<ue> fiere faze se corporado. bie<n> asi com<m>o
+el fuego terrenal q<ue> te dixe p<r><<i>>mero. e esta
+es la natura delos bafos delos fuegos d<e>la
+t<ie>rra de q<ue> se fizo enlas nubes. e com<m>o q<u><<i>>er
+q<ue> este fuego paresc'e avista delos oJos {AD. de los om<ne>s}. q<ue>
+es tal com<m>o este ot<r><<o>> fuego ta<n>to q<u><<a>>nto el dura
+en<e>l ayre en q<ue> se faze. mas despues q<ue> se
+ap<r><<e>>nde a aq<ue>llo q<ue> q<ue>ma en t<ie>rra por rrazo<n> de
+aq<ue>llo [^<<en>>] q<ue> esta. torna [^<<a>>] seer de gruesa materia
+Com<m>o el ot<r><<o>> fuego. e desto te dare seme-
+Ja<n>c'a dela piedra q<ue> llama<n> bericle q<ue> la pone<n>
+al sol e ala claridat d<e>los rrayos da<n>}
 [fol. 92v]
 {CB1.
-}
+en<e>lla. e ella q<ue> es clara de natura escalie<n>ta
+se d<e>la cale<n>tura d<e>l sol q<ue> entra en<e>lla. e des-
+ta cale<n>tura sale fuego e este fuego es
+muy sotil. Ca se faze de muy sotil ma-
+teria e esta sotilidat le dura fasta q<ue>
+pone<n> algo en q<ue> se ap<r><<e>>nda p<ar>a arder. e desq<ue>
+se ap<r><<e>>nde aq<ue>llo q<ue> le pone<n> p<ar>a arder. de
+alli adelant<e> es corporado e de gru( )esa ma-
+teria com<m>o el ot<r><<o>>. por end<e> q<u><<i>>ero tornar a
+fablar del terc'ero fuego q<ue> es llamado es-
+p<ri>tual. fallamos q<ue> dize sant agosti<n> q<ue> a-
+si com<m>o este fuego terrenal ha gra<n>d fuer-
+c'a sobre el q<ue> pjnta<n> enla pared. q<ue> otra
+tan gra<n>d fuerc'a ha el de purgatorio sobr<e>
+este terrenal e ta<n> gra<n>d poder Com<m>o ha el
+de purgatorio sobre el fuego terrenal. ta<n>
+gra<n>d poder ha el del Jnfierno sobre el d<e>l
+purgatorio. por esta rrazo<n> le llama<n> fuego
+esp<rit>ual. por q<ue> para aq<ue>llo q<ue> es dado de dios
+atorme<n>tase. enlas almas es mas fuert<e>
+fuego q<ue> podria seer nj<n> q<ue> om<n>e pudiese
+pe<n>sar ca estos ot<r><<o>>s fuegos q<ue> te he co<n>tado}
 [fol. 93r]
 {CB1.
-}
+q<ue> so<n> el terrenal e el c'elestial ha<n> su sali-
+da fasta do q<ue>man. esto es mje<n>tra dura co<n>-
+sumje<n>do se aq<ue>llo enq<ue> arde e no<n> mas % mas
+el fuego sp<ri>tual es de otra man<er>a. q<ue> por
+mucho q<ue> arda dias e noches nu<n>ca se co<n>-
+sume aq<ue>llo q<ue> en<e>l se q<ue>ma. Ca asi com<m>o
+el anjma del om<n>e q<ue> es sp<irit>u nu<n>ca ha fin
+q<u><<a>>nto ensi. asi este fuego en q<ue> es ella ator-
+me<n>tada nu<n>ca ha fin en<e>l su arder. e a-
+q<u><<i>> puedes veer q<u><<a>>n ordenada ment<e> lo dios
+fizo. en com<m>o ordeno q<ue> pues q<ue>l alma q<ue> es
+sp<irit>u q<ue> ha comje<n>c'o e no<n> fin. en dar le el fue-
+go sp<rit>ual en q<ue> se atorme<n>tase e q<ue>l su tor-
+me<n>to q<ue> lieua no<n> oujese acabamje<n>to nj<n>
+fin. por q<ue> las almas e aq<ue>l fuego fuese
+todo de vna natura. Ca este fuego no<n> pue-
+de om<n>e fallar termjno saluo end<e> las a-
+njmas q<ue> yaze<n> en purgatorio q<ue> sale<n> d<e>l
+& va<n> aparayso. despues q<ue> so<n> purgadas
+d<e>l mal q<ue> fizjero<n> en<e>ste mu<n>do. esto pued<e>s
+tomar asemeJa<n>c'a de vnos bestiglos q<ue> llama<n>
+calandras q<ue> son asi com<m>o mur<e>s q<ue> toda}
 [fol. 93v]
 {CB1.
-}
+su vida es en<e>l fuego. e fuera d<e>l fuego
+no<n> pueden beujr nada. e asi com<m>o estos
+bestiglos bjue<n> en<e>l fuego. asi las anjmas
+delos om<ne>s bjuen en<e>l purgatorio e en<e>l
+Jnfierno q<ue> les dios dio p<ar>a torme<n>to desi.
+saluo end<e> q<ue> q<u><<a>>ndo q<u><<i>>sier<e>s bie<n> parar mje<n>-
+tes. q<ue> ente<n>deras por buenas rrazon<e>s e
+derechas q<ue> gra<n>d maraujlla es de beujr
+aq<ue>llos bestiglos q<ue> so<n> mortal<e>s en aq<ue>l fue-
+go material. q<ue> no<n> las anjmas q<ue> no<n> so<n>
+mortal<e>s en<e>l fuego q<ue> es sp<rit>ual e no<n> es
+material. otrosi deste fuego esp<rit>ual te dire
+ot<r><<a>> semeJa<n>c'a q<u><<a>>l es ensi. sabe q<ue> no<n> ha fi-
+gura {AD. asi com<m>o este fuego material. ca si figura} oujese luego abria cuerpo e si cuer-
+po oujese no<n> podria tener ensi nj<n>gu<na>
+cosa q<ue> esp<ri>tu fuese. ca natural cosa es.
+q<ue> las cosas espesas no<n> puede<n> tener en
+si {AD. corporadas E otrosi las sotiles no<n> puede<n> tener ensi} las espezas. por end<e> este fuego q<ue>
+no<n> ha semeJa<n>c'a a paresc'er de fuera es
+muy sotil. com<m>o aq<ue>l q<ue> esta metido
+enla mas sotil cosa q<ue> dios crio. q<ue>}
 [fol. 94r]
 {CB1.
-}
+es el sp<irit>u d<e>l anjma delos angel<e>s afuera e
+asi com<m>o el sp<irit>u del anjma no<n> ha semeJa<n>c'a
+nj<n>guna. q<ue> oJos de om<n>e la pueda veer q<u><<a>>ndo
+sale del cuerpo enq<ue> anda. nj<n> puede om<n>e veer
+q<u><<a>>ndo le sale del cuerpo si no<n> q<ue> fi<n>ca el de-
+sanparado com<m>o c'erro. e de alli adelant<e> entie<n>-
+den q<ue> es el cuerpo muerto. pues q<ue>le vee<n> sin
+anjma. por end<e> en<e>sta rrazo<n> pued<e>s veer q<u><<a>>n
+sotil es este fuego q<ue> yo te fable. Ca pu<e>s
+el anjma no<n> ha semeJa<n>c'a nj<n>guna e el
+esta metido en<e>lla e la faze arder. aq<u><<i>> pue-
+d<e>s tu ente<n>der q<u><<a>>nto es el sotil E por esta
+rrazo<n> llama<n> fuego sp<rit>ual. q<ue> tan sp<rit>ual es
+q<ue> entra en<e>l sp<irit>u e arde mucho mas rre-
+zio. segu<n>d dize sant agosti<n> q<ue> no<n> el ot<r><<o>>
+q<ue> este en<e>l madero seco q<ue>le pone<n> enq<ue> arda.
+por end<e> te q<u><<i>>ero agora asoluer la dema<n>da
+d<e>l ang<e>l d<e>l purgatorio do esta<n> las anjmas.
+tu deues sauer q<ue> no<n> ha<n> ellas ot<r><<o>> fuego en q<ue>
+arda<n> saluo aq<ue>l q<ue> tiene cada vna dellas en
+si q<ue> esta<n> ardie<n>do dentro d<e>llas. Ca no<n> de}
 [fol. 94v]
 {CB1.
-}
+fuera. por end<e> arde cada vna segu<n>d el me-
+resc'imje<n>to de sus obras. Ca si todo el fuego fue-
+se vno. arderia<n> todas por vn ygual. pues fuego
+q<ue> no<n> paresc'e de fuera. no<n>se puede p<r><<e>>nder al
+angel. de mas q<ue> los angel<e>s so<n> criaturas de
+dios. q<ue> el crio si<n> ma<n>zilla e si<n> pecado. Ca
+ellas nu<n>ca peca<n> de fecho nj<n> de volu<n>tad. saluo
+end<e> los q<ue> se p<er>diero<n> por la desconoc'e<n>c'ia q<ue> o-
+ujero<n> contra su sen<n>or dios ant<e>s q<ue>los el co<n>-
+firmase en su bondat. e por aq<ue>lla descono-
+sc'e<n>c'ia se tornaro<n> diablos. e los q<ue> fi<n>caro<n>
+buenos oujero<n> co<n>firmado el bie<n> p<ar>a sienp<r><<e>>
+q<ue>el su sen<n>or les fizo. destos angel<e>s falla-
+mos vna palabra q<ue> dixo dios en<e>l eua<n>gellio.
+los angel<e>s d<e>l mj padre sienp<r><<e>> vee<n> la su faz
+e faze<n> su ma<n>dado. pues tales angel<e>s
+com<m>o estos. no<n> les es dado de auer torme<n>to
+nj<n> mal Com<m>o ot<r><<o>> sp<irit>u pecador q<ue> aya fecho
+por q<ue> lo deua auer e tan santa cosa e
+ta<n> ljnpia so<n> ellos de todo pecado q<ue> avn q<ue>
+gra<n>d fuego fuese podria<n> pasar por medio
+dela vna p<ar>te ala otra. sin enbargo e sin}
 {CW. enpesc'imj<ent><<o>>}
 [fol. 95r]
 {CB1.
-enpesc'imje<n>to desi.
-}
+enpesc'imje<n>to desi. demas q<ue> no<n> ha ot<r><<o>> fuego
+si no<n> aq<ue>l q<ue> esta ardie<n>do. en cada vna delas
+anjmas q<ue> tiene ayu<n>tado co<n>sigo e esta en<e>l
+ardiendo e purga<n>dose dentro ensi mesmas.
+fasta q<ue> es co<n>plido el t<ien>po q<ue> es dado acada
+vna q<ue> ha de estar en aq<ue>lla pena
+{RUB. % cap<itul><<o>> .xlv. de q<u>al delas nueue orden<e>s es el
+angel q<ue> guarda el anjma del om<n>e}
+{IN2.}El dec'iplo p<r><<e>>gu<n>to asu maestro. el angel de
+q<ue> tu as fablado q<ue> g<u><<a>>rda el anjma del
+om<n>e. de q<u><<a>>l delas nueue orden<e>s delos an-
+geles es. rrespo<n>dio el maestro % sabe q<ue> las
+orden<e>s delos angeles a q<ue> llama<n> gerachias so<n>
+asi puestas e ordenadas segu<n>d dize sant
+dionjs. q<ue> com<m>o q<u><<i>>er q<ue>las orden<e>s aya<n> no<n>bre
+gerachias. q<ue> este no<n>bre es sen<n>alado de
+q<u><<a>>tro orden<e>s de angel<e>s q<ue> esta<n> mas allegados
+al n<uest>ro sen<n>or q<ue>las otras c'inco orden<e>s e ha<n>
+no<n>bre cateluz q<ue> q<u><<i>>ere dezjr amor. e estos
+angel<e>s delas q<u><<a>>tro orden<e>s. esta<n> sienpre ant<e>}
 {SG. vij.}
 [fol. 95v]
 {CB1.
-}
-{GL. Este capitulo
-falta por com-
-pleto en el
-otro codice}
+la magestad de n<uest>ro sen<n>or de noche e de dia q<ue>
+nu<n>ca c'esan nj<n> toma<n> ende abo<n>damje<n>to. estos
+sienpre esta<n> [^<<que>>]dos % enla p<r><<i>>mera destas q<u><<a>>tro
+orden<e>s. esta<n> los serafin<e>s. este no<n>bre ta<n>to q<u><<i>>e-
+re dezjr com<m>o cosa si<n> fin. Ca en<e>llos se
+acaban las nueue orden<e>s delos angel<e>s e
+de alli adelante no<n> ay mas orden<e>s nj<n>g<una>s de
+angel<e>s q<ue> ta<n> allegadas sea<n> adios com<m>o ellos
+{GL. desde aqui no
+se encuentra?? en
+el capitulo corres-
+pondiente del
+otro codice} % enla segu<n>da orde<n> esta<n> los cherubjn<e>s e ta<n>-
+to q<u><<i>>ere dezir cherubjn en caldeo com<m>o testigos
+de dios. por eso fallamos q<ue> los ma<n>do dios
+fazer amoyse<n> e le mostro q<ue> figura auja<n>
+e ma<n>do le q<ue>los pusiese sobre el arca del
+testame<n>to dentro enla tie<n>da d<e>l santuario
+q<ue> llama<n> {LAT. santo santuru<m>.} q<ue> asi com<m>o ellos
+ha<n> este no<n>bre de seer testigos por las figu-
+ras suyas. q<ue> era<n> en<e>lla entre dios e los
+fijos de yrrael. % la terc'era orde<n> es llama-
+da domjnac'ion<e>s. este no<n>bre q<u><<i>>ere ta<n>to dezjr
+com<m>o sen<n>orios e aq<ue>lla orde<n> de aq<ue>llos an-
+geles so<n> sen<n>or<e>s delos cuerpos e c'elestial<e>s en
+mouer los e dar les v<er>tud co<n> q<ue> obre<n> % la}
 [fol. 96r]
 {CB1.
-}
+otra orde<n> es d<e>los arcangel<e>s q<ue> es llamada
+{LAT. p<r><<i>>nc'ipatus} q<ue> q<u><<i>>ere dezjr ta<n>to com<m>o p<r><<i>>nc'i-
+pes e sen<n>or<e>s delas cosas q<ue> so<n> si. en<e>sta
+orde<n> esta sant mjg<ue>ll e sant gabriel e
+sant rrefael e mjcael. ta<n>to q<u><<i>>ere dezjr
+com<m>o poderio de dios. este no<n>bre es verdade-
+ro. Ca fallamos q<ue> todas las cosas q<ue> el n<uest>ro
+sen<n>or q<u><<i>>so acabar besible ment<e> en<e>l vieJo te-
+stame<n>to e en<e>l nueuo todas las acabo con<e>ste
+mjcael. grabiel ta<n>to q<u><<i>>ere dezjr com<m>o me<n>-
+sagero de dios. por end<e> fallamos q<ue> todas
+las me<n>sagerias q<ue> el n<uest>ro sen<n>or q<u><<i>>so rrecab-
+dar por alg<uno>s de los sus angel<e>s. ta<n> bie<n> co-
+m<m>o en<e>l vieJo testame<n>to com<m>o en<e>l nueuo q<ue>
+todas las andouo este gabriel. rrefael q<ue> es
+el terc'ero ta<n>to q<u><<i>>ere dezjr com<m>o melezjna de
+dios. Ca este fallamos nos q<ue> dio melezjna
+atoujas q<ue> era c'iego co<n> q<ue> le sano. estos tres
+angel<e>s q<ue> te he dicho e todos los ot<r><<o>>s q<ue> so<n> d<e>la
+su orde<n> ha<n> poder sobre las cosas terrenal<e>s.
+en q<ue> da dios vertud acada vno dellos. e
+las otras c'inco orden<e>s de angel<e>s en q<ue> se}
 [fol. 96v]
 {CB1.
-}
+acaba<n> las nueue orden<e>s. destas toma dios
+los angel<e>s q<ue> g<u><<a>>rda<n> las anjmas d<e>los om<ne>s
+en<e>ste mu<n>do. fasta q<ue> va<n> a aq<ue>l logar do deue<n>
+yr segu<n>d la obra q<ue> fiziero<n> de bie<n> o de mal
+{RUB. % cap<itul><<o>> .xlvj. en q<ue> man<er>a g<u><<a>>rda el angel el anj-
+ma del om<n>e} {GL. Este capitulo
+falta por com-
+pleto en el
+otro codice.} 
+{IN3.}Dixo el dec'iplo al maestro. el angel q<ue> g<u><<a>>rda
+el anjma del om<n>e. en q<ue> man<er>a la g<u><<a>>rda.
+anda<n>do con<e>l toda via ala su diestra o
+si le g<u><<a>>rda estando en aq<ue>lla su orde<n> enel
+c'ielo. ond<e> es aq<ue>l angel. Ca entie<n>do yo q<ue>
+ha de dos cosas la vna. si el angel anda toda
+via con<e>l om<n>e e no<n> se p<ar>te del. entie<n>do segu<n>d
+mj ente<n>djmje<n>to q<ue> luego es me<n>guada la si-
+lla de aq<ue>l ang<e>l. otrosi q<ue>remos dezjr q<ue> es
+en<e>l c'ielo e de alla q<ue>la g<u><<a>>rda. entie<n>do yo q<ue>la
+no<n> puede g<u><<a>>rdar de alla. ta<n> bie<n> com<m>o de aca
+andando con<e>lla. rrespo<n>dio el maestro. sepas q<ue>
+verdat es q<ue> el ang<e>l q<ue> anda con om<n>e ala su
+diestra p<ar>te. mas com<m>o es sp<irit>u muy sotil}
 [fol. 97r]
 {CB1.
-}
+no<n> le puede om<n>e veer. mas q<ue> si no<n> andouje-
+se co<n> el. mje<n>tra el anjma se q<u><<i>>ere gujar por
+el en fazer las obras q<ue> deue fazer cont<r><<a>> su
+criador dios q<ue>la crio e la fizo de nada. mje<n>-
+tra el anjma esto faze. sienp<r><<e>> esta el ang<e>l
+c'erca della e la g<u><<a>>rda q<ue> se no<n> p<ar>te d<e>lla. e
+q<u><<a>>ndo ella viene a fazer algu<n>d pecado toma
+end<e> gra<n>d enoJo. en gujsa q<ue> le no<n> puede
+veer de enoJo e pesar q<ue> d<e>llo toma. esto<n>c'e
+vase p<ar>a aq<ue>lla orde<n> delos angel<e>s ond<e> el vie-
+ne. ca pues se p<ar>te de aq<ue>lla anjma. mje<n>-
+tra ella mal faze. no<n> ha otra p<ar>te ado va-
+ya nj<n> ado este. saluo en aq<ue>lla orde<n> dond<e>
+fue escablesc'ido. e com<m>o el n<uest>ro sen<n>or es pia-
+doso e muy co<n>plido de gra<n>d merc'ed. bie<n> asi
+a semeJanc'a desto so<n> los sus angel<e>s llenos
+de piadat. e com<m>o q<u><<i>>er q<ue> el anjma sea ta<n>
+pecadora tiene por derecho de tornar la abuena
+carrera. q<u><<a>>nto ellos puede<n> e p<ar>tir la d<e>l mal
+q<ue> faze {AD. & las buenas obras q<ue> ella faze}. p<r><<e>>senta las el angel ant<e> dios. por
+las q<u>ales torna ella a verdadera penjte<n>c'ia.
+E q<u><<a>>ndo ella se p<ar>te d<e>l mal q<ue> solia fazer}
 [fol. 97v]
 {CB1.
-}
+torna el angel a estar con<e>lla asi com<m>o esta-
+ua de p<r><<i>>mero. esta la g<u><<a>>rda<n>do ala su diestra
+p<ar>te. mje<n>tra ella faze lo q<ue> deue. ca ta<n> gra<n>-
+de es el pesar q<ue> ha el angel por q<ue> ha el anj-
+ma pecado por fuerc'a dela volu<n>tad d<e>la car-
+ne en q<ue> esta metida e q<ue> la aya de co<n>traer
+alas cosas terrena<le>s. por esta rrazo<n> no<n> se p<ar>te
+d<e>lla. sola ment<e> vna ora toma<n>to esfuerc'o en
+si. q<ue> la tornara d<e>lo peor alo meJor por end<e>
+fallamos q<ue> dize el apostol sant pablo. q<ue>
+beujr el anjma enla carne e no<n> fazer vida
+de om<n>e. mas vida de ang<e>l % por end<e> sepas
+q<ue> sienp<r><<e>> esta el ang<e>l con<e>l anjma e la g<u><<a>>rda
+mje<n>tra entie<n>de. q<ue> la puede tirar d<e>l mal. e
+tornar la al bie<n>. e q<u><<a>>ndo vee q<ue> puede mas
+el mal q<ue> el bie<n>. p<ar>te se d<e>lla co<n> gra<n>d pesar q<ue> to-
+ma d<e>lla. por q<ue> no<n> puede dar adios buena
+cue<n>ta de aq<ue>lla anjma de q<ue>le fizo guardador
+{RUB. % cap<itul><<o>> .xlvij. el angel q<ue> g<u><<a>>rda vna anjma. si
+puede despues guardar ot<r><<a>>}
+{IN2.}El dec'iplo p<r><<e>>gu<n>to al maestro. el angel q<ue> g<u><<a>>rda
+esta anjma q<ue> tu dezias. despues q<ue>}
 [fol. 98r]
 {CB1.
-}
+(q<ue>) aq<ue>lla anjma es enla gloria de p<ar>ayso. q<ue>rria
+saber de ti este angel si g<u><<a>>rdara despu<e>s
+otra anjma. mas de aq<ue>lla q<ue> ha g<u><<a>>rdado.
+rrespo<n>dio el maestro. sabe por c'ierto q<ue>
+el angel no<n> es mas de vna vez g<u><<a>>rdador d<e>l
+anjma q<ue> le da<n> por g<u><<a>>rdador de vna anjma. la
+rrazo<n> por q<ue> dios ordeno esto te dire. tres co-
+sas so<n> por q<ue> dios se torna a dema<n>dar al
+anjma q<ue> faze. e asi com<m>o el se acalon<n>a
+por estas tres cosas el mal q<ue> faze. asi le
+da gualardo<n> del bie<n> q<ue> faze por estas tres
+cosas % la p<r><<i>>mera es ente<n>djmje<n>to q<ue> pone
+enel anjma del om<n>e p<ar>a ente<n>der el bie<n> e el
+mal. e tomar end<e> lo meJor e dexar aq<ue>llo
+q<ue> es el mal % la segu<n>da rrazo<n> es q<ue> le da
+dios el anjma del om<n>e p<ar>a rrazonar las
+cosas e ente<n>der las com<m>o so<n> e saber las
+(^las) estremar las vnas delas otras segu<n>d
+q<ue> so<n> % la terc'era es el angel q<ue> le da en
+g<u><<a>>rda e la co<n>sege q<ue> faga el bie<n> e se p<ar>ta d<e>l
+mal. e estas tres cosas no<n> ha anjma en
+todo el mu<n>do bjua sobre t<ie>rra q<ue> las aya}
 [fol. 98v]
 {CB1.
-}
+si no<n> {AD. <<la>>} d<e>l om<n>e e por estas tres cosas la co<n>-
+dena. lo q<ue> no<n> faze [^<<a>>] otra anjma nj<n>guna q<ue>
+sea de criatura bjua. e por q<ue> dios tiene
+aq<ue>l angel por testigo p<ar>a seer cont<r><<a>> aq<ue>lla
+anjma q<ue> no<n> se q<u><<i>>so gujar por el com<m>o de-
+uja. por esta rrazo<n> no<n> le q<u><<i>>ere dar por
+g<u><<a>>rdador de ot<r><<a>>. mas torna le a aq<ue>lla silla
+dela orde<n> delos angel<e>s ond<e> es odo estaua
+p<r><<i>>mero e tiene le alli g<u><<a>>rdado por testigo de
+aq<ue>lla anjma co<n> q<u><<i>>en andouo p<ar>a el dia d<e>l
+Juyzjo
+{RUB. % cap<itul><<o>> .xlviij<<o>>. el ant<e> xp<ist>o. si ha de auer
+angel bueno q<ue> le guarde Com<m>o aotro
+om<n>e}
+{IN1.}El dec'iplo p<r><<e>>gu<n>to al maestro. si ha de
+auer el ant<e> xp<ist>o angel bueno q<ue> le g<u><<a>>rde
+com<m>o ot<r><<o>> om<n>e. rrespo<n>dio el maestro. sabe
+por c'ierto q<ue> el ante xp<ist>o ha de seer om<n>e
+carnal. fijo de padre e de madre q<ue>
+aq<ue>l anjma q<ue> el ha de auer metida en<e>l}
 [fol. 99r]
 {CB1.
-}
+cuerpo q<ue> dios la ha de criar com<m>o cria e faze
+las ot<r><<a>>s anjmas de todos los ot<r><<o>>s d<e>l mu<n>do q<ue>
+fuero<n> e ha<n> de seer fasta la fin del mu<n>do.
+pues todas las cosas q<ue> dios faze e cria
+q<ue> so<n> su obra todas las faze co<n>plidas sin
+algu<na> me<n>gua e co<n>ujene q<ue> com<m>o se acaes-
+c'e muchas vegadas com<m>o en lisio<n> o en mje<n>-
+bros me<n>guados e esta me<n>gua acaesc'e por
+la me<n>gua dela natura q<ue> no<n> cu<n>ple a aq<ue>-
+llo q<ue> ha a fazer por muchas ocasion<e>s
+q<ue> acaesc'e<n>. mas lo q<ue> es obra de dios. en q<ue>
+no<n> ha p<ar>te natura nj<n>guna. asi com<m>o las
+obras q<ue> el fizo de mjraglo q<ue> so<n> sobre
+natura. ent<r><<e>> las q<u><<a>>les obras es fazer las
+anjmas de no<n> nada. tal<e>s obras com<m>o estas
+q<ue> faze el n<uest>ro sen<n>or. sienp<r><<e>> las faze co<n>-
+plidas. p<ar>a mostrar q<u><<a>>l es el su poder e
+el su saber. en<e>stas nu<n>ca el q<u><<i>>ere q<ue> aya<n>
+me<n>gua. si no<n> q<ue> todas sea<n> co<n>pljdas.
+por end<e> deste ant<e> xp<ist>o q<ue> me fablaste sa-
+bida cosa es e c'ierta q<ue> ha de seer om<n>e
+carnal bjuo de si( )mje<n>te de varo<n>. pues}
 [fol. 99v]
 {CB1.
-}
+co<n>ujene q<ue> este anjma aya pu<e>s esta anjma no<n> ha
+poder ot<r><<o>> dela fazer. si no<n> el q<ue> fizo e faze
+todas las ot<r><<a>>s cosas. por end<e> pu<e>s el anjma
+d<e>l es obra q<ue> faze el n<uest>ro sen<n>or todo su co<n>-
+pljmje<n>to le dara Com<m>o da alas ot<r><<a>>s anjmas.
+p<ar>a mjent<e>s enlos de Judas escariot<e> q<ue> fue de-
+c'iplo de n<uest>ro sen<n>or. q<u><<a>>ndo dios fizo la su
+anjma ta<n> bie<n> sabia aq<ue>l sen<n>or q<ue> fue c<r><<i>>a-
+dor d<e>lla el mal e la trayc'io<n> q<ue> auja a fazer
+contra el. aq<ue>l Judas com<m>o lo sopo despues q<u><<a>>n-
+do paso por ello e lo padesc'io ensi mesmo.
+por eso fallamos q<ue> dixo enla pasio<n> deste
+Judas. {bonu<m> erat ei si natus no<n> fuyset ho-
+mo ille} % q<ue> q<u><<i>>ere dezjr buena cosa fuera
+a aq<ue>l om<n>e si no<n> fuera nasc'ido. en ot<r><<o>> logar
+fallamos q<ue> dixo el rrey daujd en p<er>sona de
+ih<es>u xp<ist>o fabla<n>do deste Judas de aq<ue>llos q<ue> me
+diste no<n> p<er>di nj<n>gu<n><<o>> si no<n> el fijo de p<er>dic'io<n>.
+pues mj dec'iplo bie<n> pued<e>s tu veer q<ue> q<u><<a>>ndo
+daujd esto dezia e sabia q<ue> muy mayor rra-
+zo<n> es q<ue> lo sopiese aq<ue>l sen<n>or q<ue> era criador
+e fazedor de todo aq<u><<i>>en nada no<n> se pue-
+de encobrir en el c'ielo nj<n> enla t<ie>rra. ca}
 [fol. 100r]
 {CB1.
-}
+daujd por el lo sabia % por ende sabe por
+c'ierto q<ue> asi com<m>o la anjma de Judas dio dios
+ang<e>l bueno q<ue> la g<u><<a>>rdase ala mano diestra
+e el sp<irit>u malo q<ue> andaua ala sinjestra la
+ouo de ve<n>c'er en tirar la dela carrera del
+bie<n>. p<ar>a la {AD. <<del>>} mal. fasta q<ue> fue el todo su-
+yo e q<u><<i>>to. bie<n> asi ha de acaesc'er del ant<e>
+xp<ist>o. Ca de p<r><<i>>mero su angel bueno ha
+de auer la su anjma. bie<n> asi com<m>o las
+ot<r><<a>>s anjmas d<e>los om<ne>s. e sienp<r><<e>> aq<ue>l an-
+gel bueno la ha de g<u><<a>>rdar. no<n> co<n> espera<n>-
+c'a dele saluar. Ca bie<n> sabe el q<ue> p<er>di-
+do es. mas si le dexase faria muchos
+mas males. de q<u><<a>>nto ha de fazer. el
+no<n> le g<u><<a>>rda<n>do
+{RUB. % cap<itul><<o>>. xljx. q<u><<a>>ndo la anjma va ap<ar>a
+yso aq<ue>l angel q<ue> la g<u><<a>>rdaua. si va a
+aq<ue>lla orden}
+{IN2.}El dec'iplo p<r><<e>>gu<n>to al maestro. el anj-
+ma q<u><<a>>ndo va ap<ar>ayso. si va a aq<ue>lla
+orde<n> onde es el angel q<ue>la g<u><<a>>rdo. o}
 [fol. 100v]
 {CB1.
-}
+si sube a mas alto logar o mas baxo.
+rrespo<n>dio el maestro % sepas q<ue> q<u><<a>>ndo dios
+fizo las orden<e>s delos angel<e>s. ordeno q<ue>
+fuese<n> nueue com<m>o agora e de cada
+vna destas orden<e>s cayero<n> muchos e fi<n>-
+caro<n> muchos. e el n<uest>ro sen<n>or q<ue> es fa-
+zedor e ordenador de todo. ente<n>dio q<ue>
+auja men<e>ster de enchjr se aq<ue>llas sillas.
+por q<ue> no<n> fuese<n> vazias. e paro mje<n>-
+tes Com<m>o aq<ue>llos q<ue> cayero<n> de aq<ue>llas si-
+llas. era<n> espritus angelicos. e se
+p<er>diero<n> por soberuja e por desconosc'i[^mj<ent><<o>>]
+(^mje<n>to). q<ue> auja men<e>ster de poner espri-
+tus q<ue> oujese<n> ensi omjldat. e por esta
+rrazo<n> fizo el n<uest>ro sen<n>or a adam. q<ue> de
+la generac'io<n> q<ue> d<e>l venjese<n> e de aq<ue>llas
+anjmas q<ue> del venjese<n> q<ue> fuesen saluas
+e de aq<ue>llas q<ue> se ynchese<n> aq<ue>llas si-
+llas q<ue> fuero<n> vazias. q<ue> asi com<m>o se p<er>-
+diero<n> de alli. los ot<r><<o>>s espritus angelicos.
+q<ue> se cobrase<n> por los sp<irit>us delas anj-
+mas delos om<ne>s. Ca fallamos q<ue> no<n>}
 [fol. 101r]
 {CB1.
-}
+ha cosa en<e>l mu<n>do. q<ue> mas faze saluar el
+anjma del om<n>e. q<ue> es la omjldat. por eso
+fallamos q<ue> dixo santa m<ari>a en vna cantica q<ue>
+dixo de {LAT. manjficat. q<u><<i>>a rrespexit humjlita-
+tem anc'ille sue ecc'e ex hoc beata me dic'ent
+om<ne>s genera(^s)c'ion<e>s} % q<ue> q<u><<i>>ere dezjr q<ue> por q<ue>
+cato la omjldat d<e>la su sierua. por end<e> le
+dize<n> bie<n> aue<n>tura[^<<da>>]. todas las generac'ion<e>s.
+por end<e> sabe por c'ierto q<ue> no<n> ha cosa en<e>l
+mu<n>do por q<ue> el anjma mas gane. q<ue> por o-
+mjldat. q<ue> enla ora q<ue> ella ha ensi omjldat.
+luego ha conosc'imje<n>to. e del conosc'imje<n>to.
+viene a conosc'er asu fazedor q<ue>la fizo e la
+crio de no<n> nada. e este conosc'imje<n>to trae
+el amor. e del amor viene al temor. por
+end<e> lo q<ue> p<er>diero<n> los sp<irit>us angelicos por
+desconosc'i( )mje<n>to aq<ue>llas sus sillas q<ue> fuero<n>
+vazias sera<n> llenas de anjmas q<ue> se sal-
+ua<n> por conosc'imje<n>to. estas no<n> van aot<r><<a>>
+orde<n> nj<n> aot<r><<o>> logar. si no<n> a aq<ue>llas sillas
+mesmas q<ue> so<n> vazias. e alli es asenta<n>ta}
 [fol. 101v]
 {CB1.
-}
+cada vna. por su logar. por auer abo<n>da-
+mje<n>to dela gr<ac'i>a de dios para sienpre
+jamas
+{RUB. % cap<itul><<o>> .l. despues q<ue> aq<ue>llas sillas dond<e>
+cayero<n> los angeles. fuere<n> llenas do
+pone dios las anjmas q<ue> van ap<ar>ayso}
+{IN2.}Dixo el dec'iplo al maestro. tu dixieste
+enesta rrazo<n> p<r><<i>>mera q<ue> las anjmas de
+los om<ne>s q<ue> yua<n> ap<ar>ayso. q<ue> las ponja
+dios en aq<ue>llas sillas donde cayero<n> los an-
+geles por soberuja e por desconoc'imje<n>to.
+por end<e> ta<n>tas anjmas q<u><<a>>ntas ha aujdo
+de comje<n>c'o del mu<n>do aca. digamos q<ue> aq<ue>llas
+sillas q<ue> so<n> llenas tanta q<u><<a>>ntidad de anj-
+mas com<m>o era<n> los angel<e>s q<ue> dende caye-
+ro<n> las ot<r><<a>>s q<ue> so<n> mas de aq<ue>llas. q<ue>rria sa-
+ber en q<ue> logar las pone dios. si las po-
+ne en mas alto logar de aq<ue>l oen mas
+baxo. rrespo<n>dio el maestro. sepas q<ue> en}
 [fol. 102r]
 {CB1.
-}
+esta rrazo<n> fizo [^<<dios>>] dos cosas. la p<r><<i>>mera es
+ordenamje<n>to. la segu<n>da es poderio.
+estas dos cosas puso dios enesta man<er>a.
+la p<r><<i>>mera q<ue> es el ordenamje<n>to. por
+este ordenamje<n>to ordeno q<ue> las anjmas
+delos santos fuese<n> puestas e ordena-
+das e asentadas. alli donde cayero<n> los
+angel<e>s malos e en<e>sto se cu<n>plio el su
+ordenamje<n>to. en q<ue> q<u><<i>>so e ordeno q<ue> fuese<n>
+tantos los sp<irit>us delas anjmas q<ue> se sal-
+uase<n> en aq<ue>l logar com<m>o los q<ue> se p<er>diero<n>.
+por end<e> mj fijo la segu<n>da cosa q<ue> es
+el su poderio. q<u><<i>>so el tener ensi mesmo.
+g<u><<a>>rdado p<ar>a obrar co<n> el despues q<ue> fuese
+co<n>plido. el ordenamje<n>to q<ue> el auja ordena-
+do en<e>l logar delos angel<e>s. e este pode-
+rio q<ue>l g<u><<a>>rdo ensi. no<n> q<u><<i>>so q<ue> el ente<n>dimj-
+e<n>to d<e>l om<n>e pudiese saber. por gra<n>d sa-
+beduria q<ue> oujese. p<ar>a q<u><<a>>ndo el toujese por
+bie<n> de obrar con<e>l. si no<n> el mesmo q<ue> lo
+sabia q<ue> es fazedor de todo. por end<e> q<u><<i>>-
+so el obrar destas dos cosas. p<r><<i>>mero del
+saber. en q<ue> es el ordenamje<n>to. (^sale d<e>l)
+{AD. despues d<e>l poder. ca la obra d<e>l ordenamj<ent><<o>> sale del}
 [fol. 102v]
 {CB1.
-}
+saber e del poder sale el q<ue>rer. Ca q<u><<i>>en
+ha el poder. puede fazer lo q<ue> q<u><<i>>ere. por
+ende despues q<ue> aq<ue>llas sillas fuere<n> lle-
+nas delas anjmas delos bie<n> aue<n>turados
+q<ue> alli meresc'e<n> seer ayu<n>tados. las ot<r><<a>>s
+q<ue> so<n> de mas poner las ha dios c'erca de
+si. en vn bue<n> logar. com<m>o aq<ue>llas ot<r><<a>>s. de
+mas q<ue> fallamos segu<n>d natura q<ue> por seer
+muchos sp<irit>us ayu<n>tados en vn logar. q<ue> no<n>
+enbarga<n> vno aot<r><<o>>. pues q<ue> no<n> han forma
+ensi. no<n> se puede<n> dar enoJo nj<n> enbargo
+vno aot<r><<o>>. mas q<ue> si no<n> fuese mas de vno
+sen<n>ero. mas tu deues saber q<ue> tan gra<n>d
+muche( )du<n>bre fue delos angel<e>s q<ue> cayero<n>
+del c'ielo. q<ue> por q<u><<a>>ntas anjmas desde adam
+aca so<n> pasadas deste mu<n>do al ot<r><<o>>. q<u><<a>>ndo 
+todas fuese<n> saluas. lo q<ue> mal pecado.
+mas so<n> las q<ue> se pierde<n>. q<ue> no<n> las q<ue> se
+salua<n>. avn q<ue> todas se salue<n> e avn q<ue>
+nj<n>guna no<n> se p<er>diese. por aue<n>tura co<n> to-
+do esto. no<n> seria co<n>plido el cue<n>to d<e>l numero
+delos angel<e>s q<ue> se p<er>diero<n>}
 [fol. 103r]
 {CB1.
-}
+{RUB. % cap<itul><<o>> .lj. las anjmas q<ue> esta<n> enlas sillas d<e>l c'ielo
+si estara<n> alli en anjma e en cuerpo. asi com<m>o
+estan agora}
+{IN2.}El dec'iplo p<r><<e>>gu<n>to al maestro. si las anjmas
+q<ue> esta<n> agora enlas sillas del c'ielo. si
+estara<n> alli despues en cuerpos e en anj-
+ma[^s] asi com<m>o esta<n> agora en anjmas sen<n>e-
+ras & la {AD. Razo<n>} por q<ue> esto dema<n>do es por lo q<ue> agora
+te dire. los angel<e>s so<n> espritus q<ue> no<n> ha<n>
+forma nj<n> figura nj<n>gu<na>. saluo la q<ue> toma<n>
+por ma<n>dado de dios {AD. alli do (es)} es menester. % pues
+enlas nueue orden<e>s enq<ue> esta<n> los angeles.
+esta<n> esp<irit>us sin figura estara<n> en aq<ue>llas
+mesmas orden<e>s. ond<e> cayero<n> los angel<e>s
+malos sp<irit>us co<n> figura. Ca entie<n>do yo
+q<ue> mayor gloria abran aq<ue>llos. q<ue> los an-
+geles seye<n>do en cuerpos e en anjmas en
+aq<ue>llas sillas. rrespo<n>dio el maestro. tu me
+fazes grand<e>s dema<n>das. entre las q<u><<a>>les es
+esta q<ue> agora me as fecho. en p<er>o dios q<ue> me
+ayudo q<ue> te pudiese rrespo<n>der alas ot<r><<a>>s}
 [fol. 103v]
 {CB1.
-}
+dema<n>das. me dara ayuda q<ue> te pueda rrespo<n>-
+der a esta e rrespo<n>der te en esfuerc'o dela
+palabra q<ue> el dixo en<e>l eua<n>gellio. {LAT nolite p<r><<e>>-
+meditary quem[+]admodum rrespo<n>deatis ego
+enjm dabo vobis os et sapienc'iam et enjm
+no<n> poterunt rresistere et cont<r><<a>>dic'ere om<ne>s ad-
+uersarij vestri} % q<ue> q<u><<i>>ere dezjr alli do los fue-
+re men<e>ster yo vos dare palabra e sabedu-
+ria. co<n> q<ue> no<n> vos podra<n> enbargar v<uest>os aduer-
+sarios. e en esfuerc'o deste sen<n>or q<ue> esto dize,
+te q<u><<i>>ero rrespo<n>der aesta dema<n>da q<ue> me fazes.
+sabe por c'ierto q<ue> de aq<ue>l dia q<ue> las anjmas
+fuere<n> tornadas a seer enlos cuerpos glori-
+ficados. e estos cuerpos delos om<ne>s leuar los
+ha dios n<uest>ro sen<n>or corporada ment<e> ala
+su santa gloria de p<ar>ayso dond<e> estaua<n>
+ellas de p<r><<i>>mero. e el estara entre ellas. en
+aq<ue>l cuerpo mesmo. en q<ue> q<u><<i>>so tomar e rres-
+c'ebjr muert<e> por nos fasta aq<ue>l dia. com<m>o
+q<u><<i>>er q<ue> dios tenga co<n>sigo la carne d<e>l cuerpo.
+glorificado de ih<es>u xp<ist>o su fijo. no<n> ha nj<n>-
+guna anjma de q<u><<a>>ntas so<n> en<e>l p<ar>ayso. q<ue>le
+pueda<n> veer en figura de om<n>e carnal. ca}
 [fol. 104r]
 {CB1.
-}
+la djujnjdat q<ue> es el padre. tiene c'errada en
+si. la vmanjdat q<ue> es del fijo. ca esta dj-
+ujnjdat. no<n> le puede om<n>e fallar otra se-
+meJanc'a. si no<n> com<m>o vna gra<n>d claridat de
+fuego. e esta claridat vee<n> los angeles e
+las anjmas q<ue> esta<n> agora en p<ar>ayso. mas
+del dia d<e>l Juyzio adelant<e>. asi com<m>o la dj-
+ujnjdat enc'ierra ensi. la humanjdat. asi
+sera enc'errada la djujnjdat enla vma-
+njdat. ca todo es e sera vna cosa. e esto
+es por rrazo<n> q<ue> es glorificado. Ca pues
+glorificado es. no<n> es co<n>puesto de q<u><<a>>tro ele-
+me<n>tos e pues q<ue> q<u><<a>>tro eleme<n>tos no<n> ha ensi.
+mas se cue<n>ta por djujnal. q<ue> por huma-
+njdat. los q<u><<a>>tro ele( )me<n>tos le faze<n> q<ue> sea
+humanal del mu<n>do. e desde aq<ue>l dia a-
+delante. paresc'era atodos los d<e>l p<ar>ayso
+corporal ment<e>. asi com<m>o dixo el en vn
+eua<n>gellio alos apostoles. q<u><<a>>ndo veno aellos.
+despues q<ue> rrec'uc'ito q<ue> entro enla casa ado
+esta[^<<uan>>] ellos enc'errados. e les dixo [^<<paz>>] sea co<n>bu-
+sco e palpad me e tan<n>ed me. ca no<n> es
+la mj carne la q<ue> solia seer. esto dezia}
 [fol. 104v]
 {CB1.
-}
+el por q<ue>l su cuerpo. era ya demudado de
+com<m>o solia seer. ca glorificado era en
+aq<ue>l glorificamje<n>to. en q<ue> el q<u><<i>>so g<u><<a>>rdar el su
+cuerpo. p<ar>a se mostrar anos el dia d<e>l Juy-
+zio. e en aq<ue>l cuerpo le ha<n> a conosc'er an-
+gel<e>s e om<ne>s. por dios verdadero. q<u><<a>>ntos fue-
+ron fasta aq<ue>lla ora. e de alli adelant<e>
+sera afirmado p<ar>a sienp<r><<e>> en aq<ue>lla p<er>so-
+na de aq<ue>l cuerpo carnal. e asi com<m>o lo
+el fuere. lo sera<n> todos los ot<ro>s. aseme-
+Ja<n>c'a del e esta semeJa<n>c'a pued<e>s tu en-
+te<n>der. por lo q<ue> fallamos enla es<cr><<i>>ptura.
+q<ue> dize q<ue> todos ha<n> a seer de hedat de tre-
+y<n>ta e tres an<n>os. por q<ue> desta hedat fizo
+a adam q<u><<a>>ndo le crio p<r><<i>>mero de t<ie>rra. Ca
+no<n> le fizo moc'o peq<ue>n<n>o. mas om<n>e co<n>pli-
+do de trey<n>ta e tres an<n>os. e esta<n>do ih<es>u
+xp<ist>o enla cruz se mudo el su cuerpo
+a seer glorificado. e este mudamje<n>to pa-
+resc'io. q<u><<a>>ndo rrec'uc'ito al terc'ero dia de
+muert<e> a vida. por end<e> de alli adelant<e>
+fincara el en aq<ue>lla figura mesma
+Por q<ue> q<u><<i>>so p<r><<e>>nder muert<e> e pasio<n> por}
 [fol. 105r]
 {CB1.
-}
+nos saluar. e des q<ue> las anjmas fuere<n> tor-
+nadas a aq<ue>llos cuerpos ond<e> saliero<n>. se-
+ra<n> en cuerpos e en anjmas. en las sillas
+delas orden<e>s. donde cayero<n> aq<ue>llos angel<e>s
+malos. e estara<n> todos enla gloria de p<ar>a-
+yso. ante la faz del padre e del fijo
+e del esp<irit>u santo. q<ue> so<n> tres personas
+e vn dios. Ca pues todos los cuerpos
+fuero<n> glorificados. por ta<n>to abo<n>dado se
+terna de aq<ue>l bie<n> de p<ar>ayso. el vno com<m>o
+el ot<r><<o>>. ca si el vno oujese abo<n>damje<n>to
+de gloria. e el ot<r><<o>> no<n> oujese q<u><<a>>nto le co<n>-
+plia. no<n> seria p<ar>ayso. Ca p<ar>ayso ta<n>to
+q<u><<i>>ere dezjr com<m>o cosa abondada. en q<ue> no<n>
+ay nj<n>guna me<n>gua nj<n> cobdic'ia nj<n>guna
+q<ue> se pueda veer en dicho nj<n> en volu<n>tad.
+alo otro q<ue> dizes q<ue> te diga por q<ue> rrazo<n>
+auera<n> esta aua<n>taJa los om<ne>s delos an-
+geles. en seer ellos en cuerpos glori-
+ficados e auer forma e figura. q<u><<a>>l
+vees q<ue> la ha<n> agora los om<ne>s. e no<n> la auer
+los angeles. si no<n> seer cosa sp<rit>ual.
+q<ue> le no<n> pueda om<n>e poner figura nj<n>gu<n><<a>>.}
 [fol. 105v]
 {CB1.
-}
+aesto te rrespo<n>do. q<ue> el n<uest>ro sen<n>or dios padr<e>
+ordeno de dar alos om<ne>s aq<ue>lla figura enq<ue>
+fizo al p<r><<i>>mero om<n>e q<ue> fue adam n<uest>ro padr<e>.
+ca en<e>ste comedio d<e>l dia d<e>l Juyzio q<ue> dios
+estrema las anjmas delos cuerpos. e
+este estre( )mamje<n>to es por el pecado de a-
+dam. por ende este estre( )mamje<n>to q<u><<a>>ndo
+venjere aq<ue>l dia sera el pecado purgado
+e lauado e tornara el anjma a auer
+todo su co<n>pljmje<n>to con<e>l cuerpo. asi com<m>o
+dixo dios a adam q<u><<a>>ndo le fizo. q<ue> le dixo
+fagomos om<n>e an<uest>ra semeJa<n>c'a e an<uest>ra fi-
+gura. e estas dos palabras se entie<n>de
+co<m>o agora te dire. la figura dixo por
+el anjma ala djujnjdat de dios padre
+por tres cosas q<ue> ha ensi. la p<r><<i>>mera por
+q<ue> es sp<rit>ual. la segu<n>da por el ente<n>dj-
+mjento q<ue> ha. la terc'era por la rrazo<n> q<ue>
+dios puso en<e>lla. e por estas tres cosas ha
+figura (^ha figura) dela djujnjdat de
+dios padre. por tres cosas. q<ue> asemeJa<n>c'a
+n<uest>ra dixo por el cuerpo del om<n>e q<ue> ha}
 [fol. 106r]
 {CB1.
-}
+semeJanc'a e es fecho segu<n>d la vmanjdat
+de ih<es>u xp<ist>o fijo de dios verdadero. q<ue> com<m>o
+q<u><<i>>er q<ue> la humanjdat dela p<er>sona del fijo
+no<n> era descubierta. avn q<ue> los om<ne>s la pu-
+diese<n> ente<n>der E conosc'er. ya ella era ensi.
+bie<n> asi q<u><<a>>ndo despu<e>s encarno en s<an>ta m<ari>a
+su madre. e mas el ente<n>djmje<n>to d<e>l om<n>e
+no<n> se podia este<n>der a conosc'er lo fasta q<ue>
+lo viese por demostrac'io<n> de obra. segu<n>d
+despues paresc'io por la encarnac'io<n>. esta
+figura e esta semeJa<n>c'a. sera muy mas
+co<n>plida q<ue> de p<r><<i>>mero q<u><<a>>ndo fizo el om<n>e de aq<ue>l
+dia d<e>l Juyzio adelant<e> sera<n> todos glorifi-
+cados en cuerpos e en anjmas e alli aue-
+ra<n> la su figura e la su semeja<n>c'a. mas
+co<n>plida q<ue> la ouo adam p<r><<i>>mero. Ca estos
+la auera<n> p<r><<i>>mero co<n>firmada p<ar>a sienpre
+e nu<n>ca lo ha<n> de p<er>der de aq<u><<i>> adelante. e
+sera<n> tales en seer glorificados com<m>o
+ih<es>u xp<ist>o fijo de dios q<ue> so<n> tres p<er>sonas e
+vn dios. q<ue> asemeJa<n>c'a dela humanjdat e
+d<e>la djujnjdat q<ue> el ha ensi ayu<n>tada se-
+ra<n> ellos co<n>firmados p<ar>a sienpre enla
+gloria % por end<e> estos cuerpos q<ue> dios}
 [fol. 106v]
 {CB1.
-}
+ha de dar alas anjmas aq<ue>l dia d<e>l Juyzjo
+no<n> g<e>los da de nueuo. Ca aq<ue>llos cuerpos
+mesmos son q<ue> ante era<n> metidas las
+anjmas fuera[^s] q<ue> so<n> mas apurados e
+mucho mas ljnpios q<ue> ant<e>s era<n>. e por
+eso los llama<n> glorificados. e tanto q<u><<i>>ere
+dezjr glorificado Com<m>o cosa corro<n>pida sin
+corro<n>pjmje<n>to e si<n> ma<n>zilla. e en<e>ste ayu<n>-
+tamje<n>to delas anjmas e delos cuerpos de
+q<ue> saliero<n>. no<n> auera humanjdat nj<n>gu<n><<a>>
+saluo end<e> tanto q<ue> se faze en mas ljn-
+pia materia q<ue> no<n> fue de p<r><<i>>mero. la ot<r><<a>>
+q<ue> lo fue. fue por t<ien>po sabido e este sera
+p<ar>a sienp<r><<e>> jamas q<ue> no<n> auera fin. por
+ende estas anjmas q<ue> dios rreujste d<e>los
+sus cuerpos q<ue> auja<n> p<er>dido mucho meJor<e>s
+q<ue> ant<e> era<n>. e Reujstio los de aq<ue>llos q<ue>
+era<n> desnudos. mas alos angel<e>s no<n> da
+cuerpos. Ca no<n> los oujero<n> nj<n> los ha<n> me-
+nester. Ca sienp<r><<e>> fuero<n> esp<irit>us Com<m>o
+agora so<n>. mas ta<n> gra<n>de es el poder
+q<ue> han los angel<e>s por la santidat q<ue>
+dios en<e>llos puso. q<ue> q<u><<a>>ndo algu<n><<o>> en algu<n>d}
 [fol. 107r]
 {CB1.
-}
+logar ha de paresc'er. toma semeJa<n>c'a
+de otra figura en q<ue> paresca. esto es por
+q<ue> los oJos del ente<n>djmje<n>to d<e>l anjma no<n> le
+podria conosc'er. si paresc'iese com<m>o sp<irit>u
+% por ende fallamos q<ue> los tres angeles q<ue>
+aparesc'iero<n> a abraha<n>. le aparesc'iero<n> en
+figura de tres ma<n>c'ebos. otrosi el ang<e>l
+rrefael veno atoujas e aparesc'io le en
+figura de om<n>e ma<n>c'ebo. otrosi el angel
+gabriel q<u><<a>>ndo veno a saludar la bie<n> aue<n>-
+turada santa m<ari>a veno en figura de
+om<n>e ma<n>c'ebo bestido de bla<n>co. e asi com<m>o
+te cue<n>to estos logar<e>s do ellos apares-
+c'iero<n> en<e>sta figura de om<n>e. te podria co<n>-
+tar de ot<r><<a>>s estorias muchas enq<ue> lo cuenta<n>.
+mas seria mucho largo de co<n>tar todo.
+mas com<m>o q<u><<i>>er q<ue> las anjmas sea<n> rreues-
+tidas segu<n>d q<ue> de suso te dixe delos
+cuerpos q<ue> p<er>diero<n> los q<u><<a>>les abra glorifi-
+cados. otrosi ih<es>u xp<ist>o estara rrebestido
+en<e>l su cuerpo glorificado. el q<u><<a>>l es glo-
+rificado del t<ien>po dela rresurec'ion aca. los
+angel<e>s no<n> abra<n> nj<n>gunos cuerpos. q<ue>}
 [fol. 107v]
 {CB1.
-}
+nu<n>ca los oujero<n> desu natura suyos njn
+agenos. Com<m>o q<u><<i>>er q<ue> de suso te dixe q<ue> en
+alg<uno>s t<ien>pos q<u><<i>>so dios q<ue> paresc'iese<n> a alg<uno>s
+en figuras corporales. mas asi com<m>o de
+alli adelante auera<n> las anjmas co<n> los cuer-
+pos glorificados gloria acabada sin fin.
+bie<n> asi los angel<e>s q<ue> so<n> sp<irit>us auera<n>
+gloria {AD. co<n>plida} q<ue> co<n>ujene ala man<er>a delos esp<irit>us
+angelicos
+{RUB. % cap<itul><<o>> .lij. si las anjmas q<ue> esta<n> en p<ar>ay-
+so veen alas del Jnfierno e alas de pujr-
+gatorio osi las del Jnfierno vee<n> alas
+de p<ar>ayso e alas de purgatorio}
+{IN4.}Pregu<n>to el dec'iplo asu maestro. las anj-
+mas q<ue> esta<n> en p<ar>ayso. si vee<n> alas q<ue>
+esta<n> en<e>l Jnfierno e alas q<ue> esta<n> en
+purgatorio. osi las q<ue> esta<n> en<e>l Jnfierno.
+si vee<n> alas q<ue> esta<n> en p<ar>ayso e alas q<ue>
+esta<n> en purgatorio. osi las de purga-
+torio si veen alas q<ue> esta<n> en p<ar>ayso e
+en<e>l Jnfierno. rrespo<n>dio el maestro. sabe
+por c'ierto. q<ue> las anjmas q<ue> esta<n> en p<ar>ayso}
 [fol. 108r]
 {CB1.
-}
+vee<n> (^alos q<ue>) [^alas q<ue>] esta<n> enel Jnfierno. por tanto gra-
+desc'en adios el bie<n> q<ue> les fizo. e q<u><<a>>ndo vee<n>
+el bie<n> q<ue> ha<n> e para<n> mjent<e>s al mal q<ue> las ot<r><<a>>s
+ha<n>. tanto siente<n> meJor e gradesc'e<n> adios
+mas el bie<n> q<ue> ha<n>. los del Jnfierno vee<n> alos
+del p<ar>ayso por q<ue>bra<n>to desi. e este q<ue>( )bran-
+to q<ue> dende toma<n>. se les torna a seer
+vna delas mayor<e>s penas q<ue> ha<n>. Ca en
+veye<n>do aq<ue>llo ha<n> de conosc'er e veer el
+mal q<ue> ha<n> q<ue> les ha de durar p<ar>a sienp<r><<e>>.
+otrosi vee<n> el bie<n> q<ue> ha<n> co<n>firmado p<ar>a sie<n>-
+pre jamas. e toma<n> dello cobdic'ia e
+pesar q<u><<a>>l nu<n>ca puede<n> p<er>der e por end<e>
+fallamos q<ue> ay tres man<er>as de penas.
+com<m>o q<u><<i>>er q<ue> estas tres aya<n> otras muchas
+ay q<ue> sale<n> dellas % la p<r><<i>>mera es los
+torme<n>tos q<ue> dan alas anjmas % la se-
+gu<n>da es la enbidia e el pesar q<ue> toma<n>
+del bie<n>. q<ue> vee<n> q<ue> ha<n> los q<ue> esta<n> en p<ar>ay-
+so % la terc'era desesperamje<n>to q<ue> toma<n>
+en nu<n>ca salljr de aq<ue>lla pena enq<ue> esta<n>
+Com<m>o mal q<ue> es sin t<ien>po e duradero}
 [fol. 108v]
 {CB1.
-}
+p<ar>a sienp<r><<e>> % por ende fallamos q<ue> dixo
+el n<uest>ro sen<n>or en vn eua<n>gellio q<ue> co<n>ue-
+nja mucho a esta rrazo<n> % dize q<ue> era
+vn om<n>e rrico acuya casa veno a me<n>digar
+vn om<n>e pobre q<ue> dezia<n> lazaro. e este po-
+bre era gafo. este rrico en logar de dar
+le a comer. echo le vnos alanos q<ue> le comje-
+se<n>. e los can<e>s no<n> le q<u><<i>>siero<n> mal fazer
+despues fuese de alli de casa d<e>l rrico e
+a cabo de dios muriose e leuaro<n> le los an-
+geles su anjma ap<ar>ayso q<ue> es llamada
+seno de abraha<n>. e despu<e>s a cabo de
+t<ien>po murio el rrico e leuaro<n> le los diablos
+su anjma al Jnfierno. e come<n>c'aro<n> lo a-
+torme<n>tar. ent<r><<e>> las q<u><<a>>les penas q<ue> ella
+auja era q<ue> moria de sed. e esta<n>do
+ella eneste torme<n>to. vio <<en>> el seno de abra-
+ha<n> alazaro el q<ue> era pobre e conosc'io le {AD. & dixo}
+{AD. le} alazaro amjgo. si me q<u><<i>>sieses dar de
+q<u><<a>>nta agua tienes c'erca de ti vna gota
+con<e>l dedo peq<ue>n<n>o q<ue> pusieses en<e>sta mj
+lengua fazer me yas gra<n>d merc'ed.}
 [fol. 109r]
 {CB1.
-}
+rrespo<n>dio lazaro otu rrico mje<n>bra te q<u><<a>>n ma-
+lo me fueste q<u><<a>>ndo fue a pedjr ala puerta
+de tu casa. e de q<u><<a>>nto bie<n> tu esto<n>c'e aujas.
+no<n> me q<u><<i>>siste dar vn bocado de pan q<ue> comje-
+se. e por eso es agora mal en<e>ste mu<n>do
+e yo q<ue> oue mucho mal q<u><<a>>ndo fue bjuo
+en<e>l mu<n>do. agora esto bie<n>. por end<e> no<n> te
+podria dar nada del bie<n> q<ue> he. q<ue> no<n> fizjste
+tu cosa por q<ue> lo deuas auer. dixo el rrico
+o padre abraha<n>. yo he hermanos e parien-
+t<e>s e muger bjuos. p<i>do te por merc'ed q<ue>
+me dexes yr aellos e castigar los he q<ue> se
+g<u><<a>>rde<n> q<ue> no<n> venga<n> aeste logar enq<ue> yo so.
+Respo<n>dio le el padre abraha<n> e dixo le p<r><<o>>-
+fetas e padr<e>s santos oujst<e>s q<ue> vos casti-
+garo<n> e dixiero<n> e vos dexaro<n> es<cr><<i>>pto lo q<ue>
+aujad<e>s a fazer. pues si de aq<ue>llo no<n>
+tomare<n> castigo e co<n>( )seJo. no<n> lo tomara<n>
+delo q<ue> tu les diras. por end<e> no<n> es ya
+t<ien>po de poder tu castigar ati mesmo nj<n>
+aellos. Ca mje<n>tra oujste el t<ien>po q<ue> lo po-
+dias fazer no<n> lo fezjste. e agora q<u><<a>>ndo
+q<u><<i>>er<e>s no<n> es t<ien>po nj<n> pued<e>s. por end<e> te he}
 [fol. 109v]
 {CB1.
-}
+co<n>tado este ensie<n>plo delo q<ue> co<n>tesc'io aeste
+rrico co<n> lazaro el pobre. segu<n>d lo cue<n>ta
+n<uest>ro sen<n>or en<e>l eua<n>gellio por su boca
+e la rrazo<n> por q<ue> telo cont<e> es por p<r><<o>>uar
+telo por preua derecha e verdadera d<e>lo 
+q<ue> n<uest>ro sen<n>or dixo en<e>l eua<n>gellio segu<n>d
+la dema<n>da q<ue> tu me fezjste delas anjmas.
+si podia<n> veer las vnas alas ot<r><<a>>s. esta<n>-
+do las vnas en p<ar>ayso e las ot<r><<a>>s en pur-
+gatorio e las ot<r><<a>>s en<e>l Jnfierno % por
+ende sabe q<ue> las de p<ar>ayso vee<n> alas del
+Jnfierno e en veye<n>do las gradesc'e<n> mas
+adios el bie<n> q<ue> ellas ha<n>. las del Jnfierno
+vee<n> ot<r><<o>>si alas de p<ar>ayso por q<ue>bra<n>to desi
+e de su mal. bie<n> com<m>o vio por mal desi.
+el anjma d<e>l rrico ala de lazaro el pobre
+en<e>l seno de abraha<n> q<ue> es llamado p<ar>ayso
+segu<n>d te conte de suso. los q<ue> esta<n> en<e>l
+Jnfierno. no<n> vee<n> alos de purgatorio. nj<n> los
+q<ue> esta<n> en purgatorio alos del Jnfierno. mas
+los de purgatorio vee<n> alos de p<ar>ayso. Ca
+en veye<n>do los toma<n> esfuerco p<ar>a sofrir}
 [fol. 110r]
 {CB1.
-}
+aq<ue>lla pena en q<ue> esta<n>. Ca saben q<ue> ha<n>
+a yr a aq<ue>l bie<n>. q<u><<a>>ndo sea<n> purgados aq<ue>-
+llos pecados q<ue> fiziero<n>. los de p<ar>ayso no<n>
+vee<n> alos de purgatorio. mas veen al Jnfi-
+erno com<m>o te dixe la rrazo<n> por q<ue> te q<u><<i>>ero
+dezjr. bie<n> asi com<m>o vn om<n>e q<ue> dixiese yo no<n>
+he por q<ue> yr atal logar q<ue> yo alli fue
+ot<r><<a>>s vegadas e se q<ue> logar es mas vaya
+alla fulano q<ue> nu<n>ca fue alla. bie<n> aseme-
+Ja<n>c'a desto alas anjmas de p<ar>ayso co<n>tes-
+c'e<n> co<n> las de purgatorio. en rrazo<n> delo no<n>
+veer no<n> por q<ue> lo no<n> pudiese<n> veer. si q<u><<i>>-
+siese<n>. mas tan gra<n>de es el despaga-
+mje<n>to q<ue> cada vna delas anjmas toma
+en aq<ue>l logar en q<ue> esta purga<n>do se d<e>l
+mal q<ue> lieua q<ue> despues q<ue> end<e> salle e
+va ap<ar>ayso. ta<n>ta es la gloria e el bie<n>
+q<ue> ha. q<ue> le faze olujdar todo aq<ue>l mal
+q<ue> ha pasado. Ca si le end<e> me<n>brase al-
+guna cosa. luego no<n> seria p<ar>ayso co<n>-
+plido. Ca en<e>l p<ar>ayso no<n> ha de auer nj<n>-
+guna me<n>gua % por end<e> bie<n> vees tu segu<n>d}
 [fol. 110v]
 {CB1.
-}
+Razo<n>. q<ue> si el anjma q<ue> es d<e>l om<n>e. q<ue> es ta<n>
+ente<n>dida e ta<n> co<n>p<a>nda de rrazo<n> e de me-
+moria seye<n>do en p<ar>ayso si oujese de ve
+er el purgatorio. co<n>ujene q<ue> ala ora q<ue>le
+viese sele me<n>brase d<e>l mal q<ue> en<e>l pasara
+e en me<n>bra<n>do se d<e>llo abria de auer end
+espanto e pesar. e luego no<n> abria p<ar>a
+yso co<n>plido. % Ca pocas so<n> las anjmas
+delas q<ue> so<n> en<e>l p<ar>ayso. q<ue> no<n> ay<a pasa
+do por el purgatorio. mas bie<n> es verdat
+q<ue> vnas esta<n> alli mas t<ien>po e ot<r><<o>>s menos.
+segu<u>d q<ue> see ha de purgar. mas las q<ue>
+esta<n> en purgatoro. no<n> vee<n> alas del Jn-
+fierno. la rrazo<n> es por lo q<ue> te q<u><<i>>ero dezjr
+los q<ue> esta<n> en purgatario. esta<n> en pe-
+na e en torme<n>to enq<ue> pasan mucho
+mal. por end<e> asaz les abonda aellos
+el mal q<ue> ha<n>. e no<n> ha<n> por q<ue> veer mase q<ue>l
+co<n> aq<ue>llo q<ue> ha<n>. si viese<n> lo al. fazer se
+les ya la pena doeblada. por end<e> no<n> q<u><<i>>e-
+re dios q<ue> estas anjmas de purgatorio vea<n>}
 {CW. mas mal}
 [fol. 111r]
 {CB1.
-mas mal de lo q<ue> esta<n>
-}
+mas mal de lo q<ue> esta<n> su frie<n>do. mas q<ue> vea<n>
+aq<ue>llo dond<e> ha<n> de seer saluas enla s<an>ta
+gloria de p<ar>ayso adonde ha<n> de yr. otrosi
+los del Jnfierno no<n> vee<n> alas de purta
+torio. Ca si las viese<n>. veye<n>do el mal
+q<ue> ellas ha<n>. tomaria<n> conort<e> en<e>l su mal
+por ende no<n> q<u><<i>>ere dios q<ue> las vean. mos
+q<ue> vea<n> el p<ar>ayso dond<e> tome<n> q<ue>branto e
+iesesperac't<n> e mal. Ca saben q<ue> nunca
+han de auer aq<ue>l bie<n>. este es el mal q<ue>
+ellas toma<n> E este mal les es la mayor
+pena q<ue> ellas han
+% cap<itul><<o>> .liij. por q<ue> rrazo<n> puso dios plaso
+ala fin del mu<n>do q<ue> fuese aq<u><<a>>ntia sabi-
+da de an<n>os
+{IN3.}Maestro rruego te q<ue> me digas por q<ue>
+E rrazo puso dios plazo ala fin d<e>l
+mu<n>do q<ue> fuese aq<u><<a>>ntia sabida de
+an<n>os. Com<m>o q<u><<i>>er q<ue> nos los om<ne>s. no<n>
+podemos saber el t<ien>po c'ierto q<u><<a>>ndo ha de
+seer. Ca fallamos q<ue> desde adam fasta
+noe. euo m<jll an<n>os. e desde noe fasta}
 {SG. viij<<o>>}
 [fol. 111v]
 {CB1.
-}
+abraham ouo ot<r><<a>>s nj<n>ll an<n>os. q<ue> se cue<n>ta
+por dos hedad<e>s. e deste abraha<n> fasta el
+rrey daujd onostres m<jell an>os. q<ue> fue la
+terc'era hedat. e des de daujd fasta la
+nasc'ec'ia de ih<es>u xp<ist>o. fue la q<u><<a>>rta hedat
+agora desde ih<es>u xp<ist>o aca. es pasada la
+q<u><<a>>nta hedat. Ca q<u><<a>>nto ha mas de mjll an<n>os
+tanto ha mas de aq<ue>lla hedat nos ago-
+ra andamos enla sesta hedat. e se
+gu<n>d q<ue> los om<ne>s dize<n> e cuyda<n> ha de seer
+la fin del mu<n>do enla setena hedat. mas
+no<n> puede om<n>e saber enq<ue> t<ien>po sera en
+la setena hedat. si sera en<e>l comje<n>-
+do oenla fin % Por end<e> vos rruego mae-
+ftro q<ue> me asoluad<e>s estas dos dema<n>das.
+% la p<r><<i>>mera por q<ue> rrazo<n> sera la fin mas
+enla setena hedat q<ue> en nj<n>guna delas
+ot<r><<o>>s q<u<<i>>dade>s. ta<n> bie<n> delas q<ue> so<n> pasa
+das com<m>o delas q<ue> han de venjr despues
+q<ue> si aq<ue>lla fin no<n> fuere en aq<ue>lla ledat
+q<ue> ha de seer % rrespondio el maestro. .a
+si com<m>o el n<uest>ro sen<n>or dixo en<e>l eua<n>gello}
 [fol. 112r]
 {CB1.
-}
+co<n>fiteor tibi pater c'eli e terre guj abs-
+co<n>disti ea asapie<n>tib<s> e prude<n>tibs> e rreue
+lasti ea paruulis. q<ue> q<u><<i>>ere dezjr co<n>fieso me-
+ati padre del c'ielo e dela t<ie>rra. q<ue> asco<n>diste
+estas cosas alos sabios e alos ente<n>didos
+e las q<u><<i>>sieste mostrar alos peq<ue>n<n>os om<jl.
+dosos de corac'o<n> % por end<e> entre los pe-
+q<ue> nos me q<u><<i>>ero yo poner. ca no<n> entre los
+segu<n>dos. Ca yo soy muy peq<ue>n<n>o en sa-
+ber saluo eu lo q<ue> dios q<u><<i>>ere q<ue> sea
+por la su gr<ac'i>a. Ca no<n> por ot<er lotra du-
+ra q<ue> aya en mj % Por end<e> q<u><<i>>ero q<ue> se
+pas q<ue> desta setena hedat. no<n> auemos
+a auer otra nj<n>guna. mas no<n> puede om<n>e
+del mu<n>do saber por seso nj<n> por letra
+dura q<ue> aya. si ha de seer la fin. ant<e>
+q<ue> la hedat sea co<n>plida. oen<e>l comje<n>-
+co d<e>lla. auje<n>do a come<n>c'ar ot<r><<o>> hedat. si
+la fin ante no<n> fuese. la rrazo<n> por q<ue>
+no<n> ha<n> de seer mas de siet<t heda<de>
+q<u><<i>>ero te agora dezjr e p<r><<o>>uar te lo he por}
 [fol. 112v]
 {CB1.
-}
+ley e por natura derecha. siet<n> so<n> las
+estrellas q<ue> so<n> llamadas planetas q<ue> de
+los cuerpos dellas q<ue> era<n> de curso. se mu-
+eue<n> los ot<r><<o>>s terrena<nles. q<ue> esta<n> de yuso e
+acada vna destas si et< planetas q<u><<i>>so
+dar cue<n>to de mjll saluo end<e> ala
+planeta q<ue> es llamada venus q<ue> esta no<n> ha
+su co<n>plimje<n>to del cue<n>to delos mjll.
+com<m>o ha<n> cada vna delas ot<r><<a>>s plane
+tas. Caesta planeta es de plazer e de
+alegria q<ue> pasa ayna e no<n> dura mucho
+% por ende aq<ue>llas q<ue> so<n> firmadas en<e>lla
+no<n> so<n> ta<n> bie<n> firmes. com<m>o las q<ue> so<n> de
+las ot<r><<a>>s. en<e>l leua<n>tamje<n>to q<ue> se leua<n>to
+maljomas. fue enla eyaltac'io<n> desta pla-
+neta. e de aq<u><<i>> se fizo la seta delos
+moros q<ue> llama<n> ellos ley mq<u><<i>>ete Ca ley
+no<n> puede seer dada de dios opor obra
+de dios. e estas dos ley<e> q<ue> so<n> en el
+mu<n>do. asi fuer<e> fechas la vieJa ley
+e la nueua Ca la vieJa le q<ue> fue<n>}
 [fol. 113r]
 {CB1.
-}
+de p<r><<i>>mero. dio dios amoysen e ma<n>do le en
+com<m>o la fiziese. la nueua ley fizo el por
+su obra el dia q<ue> q<u><<i>>so nasc'er e tomar
+carne dela virge<n> bie<n> aue<n>turada santa
+ma<n> su madre. e despues q<u><<a>>ndo tomo
+muerd<e> enla cruz por q<ue> ouo arrecuc'itar al
+terc'ero dia. e estas dos ley<e>s q<ue> te dixe
+agora. dio dios <n> g<u><<a>>rdador<e>s q<u><<a>>les yo a-
+gora te dire en cuya eyaltac'io<n> fuero<n>
+ellas come<n>c'adas e fechas. e q<u><<i>>ero te
+dezjr enq<ue> man<er>a % ala ley vieja dio le
+la planeta de saturno. q<ue> es la mas alta-
+planeta q<ue> ha enlos c'ielos e la q<ue> esta
+mas firme % por ende ma<n>do dios alos
+fijos de yrrael. q<ue> el dia del sabado q<ue>
+le g<u><<a>>rdase<n>. por q<ue> es dia sen<n>alado de
+aq<ue>lla planeta e por eso ha no<n>bre sa-
+bado. por aq<ue>lla planeta q<ue> ha no<n>bre sa-
+turno. e asi com<m>o ella es firme. Com<m>o
+q<u><<i>>er q<ue> los Judios so<n> llamados fijos de
+yrrael. por q<ue> viene<n> de aq<ue>l ljnage meres-
+c'iese<n>}
 [fol. 113v]
 {CB1.
-}
+mucho mal adios por q<ue> oujero<n> ap<er>der q<u><<a>>nta
+onrra e q<u><<a>>nto bie<n> e q<u><<a>>nto sen<n>orio auja<n>
+e fuese<n> metidos en<e>l catiuo q<ue> so<n> ees-
+ta su ley vieja sienp<r><<e>> ha de durar fas-
+ta la fin del mu<n>do. Ca ellos fuero<n> los
+q<ue> erraro<n> e pecaro<n> enla no<n> ente<n>der. ca la
+ley ljnpia e santa es e firme para
+sienpre. e por end<e> ha de durar Ca a-
+si es duradera aq<ue>lla planeta q<ue> es su
+g<u><<a>>rdador % e la meua ley q<ue> es n<uest>ra delos
+xpianos de dios. el mayor d<e>lla es el sol
+e de aq<u><<i>> auemos dos cosas % la p<r><<i>>mera q<ue>
+fazemos orac'io<n> contra brient<e>. q<ue> es aq<ue>-
+lla p<ar>te donde nasc'e el sol % la segu-
+da cosa es q<ue> auemos por fiesta el dia
+del domj<n>go q<ue> es su dia se na<n>lado del
+sol. E este dia no<n> le auemos nos. por
+q<ue> lo q<u><<i>>siesemos nos tomar de n<uest>ro. mas
+dies nos le dio. ca el fizo obras se-
+na<n> ladas en aq<ue>l dia. mas q<ue> enlos otros
+dias. por q<ue> le oujmos atomar por fiesta
+sen<n>alada. Ca en tal dia q<u><<i>>so nasc'er de}
 {GL. com<m>o la ley vie-
 ja ha de durar
 p<ar>a sienp<r><<e>>}
 [fol. 114r]
 {CB1.
-}
+san>ta m<ari>a su madre. e ental dia rrec'uc'ito
+de muert<e> avida. e en<e>l dia dei comj<n>go
+astrmo los apostol<e>s enla su santa cree<n>-
+c'ia. por q<ue> la sopiese<n> mostrar. anos los
+q<ue> aujamos a beujr en<e>ste mu<ndo en pos ellos
+esto fue en el dia de mn<ue>sma. q<ue> cae sie<es
+pre en donj<n>go. e com<m>o q<u><<i>>er q<ue> las siete
+planetas. aya cada vna dellas su vertud
+mayor vertud ha el sol. q<ue> nj<n>guna d<e>las
+otras. esto puedes veer en tres cosas % la
+p<r><<i>>mera en gra<n>deza % la segu<n>da enfermo
+sura % la terc'era en claridat. e q<u><<a>>ndo
+q<u><<i>>sieres parar mjent<e>s veras q<ue> nj<n>guna d<e>las
+siete planetas no<n> es ta<n> gra<n>de com<m>o el sol
+otrosi no<n> veras ta<n> fermosa nj<n>guna com<m>o
+el sol nj<n> ta<n> clara q<ue> ta gra<n>d claridat es
+la suya q<ue> atodas las otras faze q<ue> no<n>
+paresca. demas q<ue> no<n> ay nj<n>guna q<ue> aya
+claridat. si no<n> del sol. e por q<ue>l n<uest>ro
+sen<n>or no<n> fallo nj<n>guna planeta ta<n> bue-
+na e ta<n> fermosa com<m>o el sol. por eso
+q<u><<i>>so el poner en g<u><<a>>rda de n<uest>ra ley delos}
 [fol. 114v]
 {CB1.
-}
+{IN 3.}pianos en conosimje<n>to d<e>l sol. por q<ue>
+fiziesemos conosc'e<n>c'ia a aq<ue>l sen<n>or q<ue> es
+su fazedor. e asi com<m>o el sol alu<n>bra
+todo el mu<n>do. asi alu<n>bro ih<es>u xp<ist>o todo el
+mu<n>do dela tjnjebra del pecado a adam
+en q<ue> era caydo. si por el no<n> fueze % Por
+ende fallamos q<ue> dixo sant ioh<a>n apos-
+tol e eua<n>gelista. fabla<n>do delos siete
+cuerpos c'elestia<n>to en<e>l ljbro q<ue> es llama
+do apocalipsi. q<ue> dize asi. yo ioha<an viestar
+ante la macrestad de dios ca<n>deleros oro
+c<n> sus ca<n>delas. e cada vno destos ca<n>de
+leros auja su sp<irit>u. q<ue> auja su g<u><<a>>rdador
+e los mjnjstraua<n>. en derecho destos
+ca<n>deleros. viestar de yuso en tra siete
+eg<e>lilas. en q<ue> es partido el mu<n>do % por
+ende mj dec'iplo. p<ar>a mjent<e>s. aesta vision
+de sant< ioh<a>. e veras q<ue> aq<ue>llos sie-
+te ta<n>delerns de oro q<ue>l vio. q<ue> se da cien
+te<n> der. por estas siete planetas q<ue> rre-
+luze<n> ante la faz de dicos. e los spit>u}
 [fol. 115r]
 {CB1.
-}
+d<e>los ca<n>deleros. son los angel<e>s. q<ue> g<u><<a>>rda cada
+vno su planeta e la mueue e faze an-
+dar por el c'erco del c'ielo. enq<ue> esta astr-
+mada cada vna dellas. e asi com<m>o aq<ue>-
+llas siete planetas esta<n> sobre las siers>
+egl<es>ias e ha<n> poder sobre ellas. asi ha<n>
+poder sobre los cuerpos del mu<n>do. e
+les dan vertus segu<n>d el poder e la
+vertud q<ue> dios puso en cada vna d<e>llas
+ca dios lo q<u><<i>>so asi ordenar. q<ue> cada vna
+oujese su poder e su vertud. e el
+mayor poder e la mayor vertud. es la
+uya. q<ue> touo el p<ar>a si. q<ue> no<n> q<u><<i>>so dar a-
+nj<n>guno si no<n> asi mesmo. Com<m>o aq<ue>l
+q<ue> por gra<n>d abo<n>damje<n>to de vertud q<ue> en
+si fue. es fazedor delas cosas. e
+asi com<m>o el gra<n>d poder tiene ensi. bie<n>
+asi q<u><<i>>so el tener ensi q<ue>lo no<n> sopiese}
 [fol. 115v]
 {CB1.
-}
+santo nj<n> santa q<u><<a>>ndo auja a seer el
+dia dela fin. q<ue> no<n> lo sabe otrosi no<n>
+el. esto fizo el por dos cosas. la p<r><<i>>me-
+ra por q<ue> oujesen los omt<ne>s mjedo q<u><<a>>ndo se
+ria aq<ue>l dia e se g<u><<a>>rdase<n> de fazer mal
+por eso fallamos q<ue> dixo el n<uest>ro sen<n>or
+en vn eua<n>gellio. vigilate e orate q<u><<a>>a
+nesc'itis diem ho<n>ram guando domj<e>s-
+ve<n>turus st % q<ue> q<u><<i>>ere dezjr q<ue> no<n> sa-
+bed<e>s el dia nj<n> la ora enq<ue> verna el se
+n<n>or. e este venjr dixo el por la venj-
+da q<ue> ha de fazer. q<u><<a>>ndo venjere aJuo
+gar el mu<n>do % la segu<n>da cosa por
+q<ue> no<n> q<u><<i>>so q<ue> lo sopiese nj<n>guno. por
+q<ue> no<n> tomasen los om<ne>s desconort<e> en
+q<u><<a>>nto bjujese<n> en el mu<n>do. Ca mje<n>tra
+esta<n> en dubda de no<n> saber el t<ien>po
+sienp<r><<e>> cuyda<n> q<ue> sera mas tarde. de
+q<u><<a>>nto ha de seer. e en<e>sta tarda<n>ca}
 [fol. 116r]
 {CB1.
-}
+toma<n> es fuerc'o. p<ar>a beujr e pasar la
+vida de este mu<n>do. tenje<n>do q<ue> ellos nj<n>
+sus njetos nj<n> visnjetos no<n> alcanc'ara<n>
+aq<ue>l dia. por esta rrazo<n> ordeno dios q<ue>
+sopiese<n> los om<ne>s del mu<n>do q<ue> auja
+a soer la fin. mas no<n> q<u><<i>>so q<ue> sopiesen-
+en q<u><<a>>l an<n>o nj<n> en q<u><<a>>l mes nj<n> en q<u><<a>>l dia
+auja a seer. saluo end<e> q<ue> sabemos
+q<ue> ha de seer enla setena hedat. mas
+com<m>o te dixe de p<r><<i>>mero. no<n> puede om<n>e
+saber. si ha de seer en comje<n>c'o o-
+en medio oen cabo. e la rrazo<n> por
+q<ue> dios esto fizo. te q<u><<i>>ero dezjr. q<u><<i>>so q<ue>
+los om<ne>s fuese<n> ap<er>c'ebidos q<ue> auja de
+seer la fin. por q<ue> se g<u><<a>>rdase<n> de
+fazer mal. e fiziesen buenas obras
+por q<ue> les oujese adar bue<n> Juyzjo aq<ue>l
+dia q<ue> los ha de Jutrar. de la oe}
 [fol. 116v]
 {CB1.
-}
+p<ar>te no<n> q<u><<i>>so q<ue> los q<ue> en<e>l mu<n>do bjuje<n>zen> q<ue>
+oujesen atomar ta<n> gra<n>d tristeza nj<n> tan
+gra<n>d pesar q<ue> se enbargase nj<n> oujese
+ame<n>guar la voida de cada dia por gra<n>d
+pesar e gra<n>d cuydado q<ue> ensi oujese<n>
+% cap<itul><<o>> .viij<<o>>. enq<ue> se ma<n>tiene la anjma.
+mje<n>tra esta metida en<e>l cuerpo del
+om<n>e
+{IN3.}Eegu<n>to el dec'iplo al maestro. el anj-
+ma del om<n>e enq<ue> bjue e en q<ue> se
+ma<n>tiene mje<n>tra esta metida en<e>l
+cuerpo. si esta vertud deste ma<n>te
+njmje<n>to. si lo ha de suyo osi la
+ha de cale<n>tura natural. rrespo<n>dio el
+maestro % Sepas q<ue>l anjma no<n> ha en
+si ot<r><<o>> ayuda p<ar>a biujr. si no<n> la
+vertud q<ue> dios puso en<e>lla. ca alli do}
 [fol. 117r]
 {CB1.
-}
+la el ordeno. q<u><<a>>ndo la fizo de p<r><<i>>mero q<ue> nu<n>
+ca pudiese morir. le dio vertud q<ue> ouje
+se de suyo en q<ue> se ma<n>toujese p<ar>a
+sienp<r><<e>>. e asi com<m>o no<n> ha fin. asi non>-
+ha t<ien>po taJado esta v<er>tud e esto com<m>o
+seye<n>do el anjma si el cuerpo carnal
+del om<n>e. ca mje<n>tra es metida en<e>l cuer-
+po. no<n> se puede ma<n>tener sin ayu-
+da dela cale<n>tura natural. e ayuda<n>
+se entre amos ados la vna ala otra
+p<ar>a ma<n>tener. e q<u><<i>>ero te dezjr com<m>o la
+calentura nh. q<ue> no<n> seria si no<n>
+por el moujmje<n>to del anjma. Ca la
+v<er>tu d<e>l anjma. faze correr la san
+gre por el cuerpo del om<n>e. e los ot<r><<o>>s
+humor<e>s e deste moujmje<n>to q<ue> se mu-
+ue a andar por el cuerpo. se fa-
+ze la cale<n>tura natural en<e>l corac'o<n> e
+en to<on>tos sus mje<n>bros. e desta ca<n>-
+le<n>tura natural}
 [fol. 117v]
 {CB1.
-}
+toma es fuerc'o & ayuda p<ar>a se ma<n>te
+ner mje<n>tra esta en<e>l cuerpo. e en<e>sta gruj
+sa q<ue> te he dicho se ayuda la vna ala
+ot<r><<o>>. po en<e>sta man<er>a q<ue> el anjma es fa-
+zedor la cale<n>tura natural. es Jnfier-
+no<n> co<n> q<ue> ella faze sus obras e des q<ue> en
+la ha fecha ma<n>tiene se con<e>lla. e por
+esto pued<e>s tu veer. q<ue> la ora q<ue> el anj-
+m>a es fuera del cuerpo. luego la cale<n>
+tura natural se dosfaze. e q<u><<a>>ndo la
+cale<n>tura natural se desfaze e el co-
+m<ari>a fuera del cuerpo. E no<n> puede y es-
+tar la vna si<n> la otra. Ca todas las
+cosas del mu<n>do q<ue> se mueue<n> paresc'e<n> q<ue>
+no<n> ha<n> mouedor q<ue> las mueua e asi co<n>-
+tesc'e ala cale<n>tura natural. q<ue> es su
+mouedor d<e>l anjma mje<n>tra esta en<e>l cuer-
+po e despu<e>s q<ue> den<n>o sale<n> fica ella
+des fecha e ha<n> se a corro<n>per los humo
+res}
 [fol. 118r]
 {CB1.
-}
+q<ue> por ella se ma<n>tiene<n>. e pues q<ue> ella fa-
+llesc'e viene el cuerpo apodrimje<n>to. ca es-
+ta. ca esta cale<n>tura natural q<ue> te di-
+go va en pos el anjma p<ar>a rretener la co<n>-
+sigo mje<n>tra ella esta en<e>l cuerpo. e al
+su gra<n>do no<n> se p<ar>tiria della si pudie
+ze. esto pue<n>d>s veer en<e>l om<n>e q<u><<a>>ndo
+muere. q<ue> asi com<m>o ella va salie<n>do del
+cuerpo. bie<n> asi se va p<er>die<n>do la cale<n>
+tura natural de los mje<n>bros q<ue> so<n> mas
+aleyos. asi com<m>o delos pies e delas pier-
+nas. e q<u><<a>>ndo mas va subie<n>do el anjma
+encogie<n>do se co<n>tra el corac'o<n>. asi se va<n>
+es fria<n>do los mje<n>bros q<ue> so<n> mas leyos d<e>l
+por end<e> en<e>sto pued<e>s tu veer q<ue> la cale<n>-
+tura natural del cuerpo es fechura d<e>l
+anjma e su ma<n>tenjmje<n>to con<e>l anjma
+obra en<e>l cuerpo del om<n>e. por ende q<u><<a>>ndo
+el anjma viene asaljr d<e>l cuerpo. toda la}
 [fol. 118v]
 {CB1.
-}
+vertud d<e>la figura d<e>la calentura se alle
+ga aella p<ar>a tener la q<ue> no<n> la dexa sa-
+ljr del cuerpo. ca sienp<r><<e>> ha espera<n>c'a
+dela tornar adentro en<e>l su gra<n>do si
+pudiese. e q<u><<a>>ndo lo no<n> puede fazer fi-
+ca ella toda des fecha e torna ella
+en no<n> nada
+% cap<itul<l><<o>> .lv. si la anjma q<ue> dios faze e
+la cria de nada. si puede seer co<n>-
+plida. despu<e>s q<ue> dios la ha fecha
+{IN2.}Dixo el dec'iplo maestro fuegote q<ue> me
+digas. si el anjma del om<n>e q<ue> dios
+faze e la cria de no<n> nada. si pue
+de seer co<n>plida despu<e>s q<ue> dios la ha fe-
+t. so<n>po seye<n>do en cuerpo del om<n>e. ta<n>
+bie<n> com<m>o seye<n>do dent<e> metida. rrespo<n>dio
+el maestro. ys te rrespo<n>dere en dos ma-
+neras % la p<r><<i>>mera q<ue> no<n> puede seer %}
 [fol. 119r]
 {CB1.
-}
+la segu<n>da q<ue> q<u><<a>>ndo por ve<n>tura fuese dar te
+rrazo<n> en q<ue> gujsa seria. segu<n>d lo q<ue>
+fallamos de natura % por end<e> te q<u><<i>>ero
+rrespo<n>der luego enla p<r><<i>>mera destas man<er>as
+e despu<e>s rrespo<n>der te enla ot<r><<a>> % q<u><<i>>ero q<ue>
+sepas q<ue> q<u><<a>>ndo dios faze el anjma e
+la faze de nada. q<ue> nu<n>ca la faze dios.
+si non q<u><<a>>ndo tiene el cuerpo aparejad en
+q<ue> la pone. Ca nu<n>ca cria dios el anjma en
+alde. Ca p<ar>a aq<ue>l cuerpo q<ue>luria asu ora.
+alli la pone. desq<ue> es el cuerpo co<n>plida me-
+te aparejado p<ar>a rresc'ebjr la. por end<e>
+dize vna palabra enla esc<r><<i>>mura anjma
+creando Jnfie<n>det e en Jnfudie<n>do creant<e>
+q<u><<i>>ere dezjr el anjma en fazie<n>do la dios
+la pone en<e>l cuerpo e en ponje<n>do la. la
+faze cada vna destas dos cosas e no<n>
+sin esprac'io<n> de t<ien>po segu<n>d la natura
+lo dema<n>da. ca p<r><<i>>mero se faze el cuerpo}
 [fol. 119v]
 {CB1.
-}
+carnal d<e>la criatura. e des q<ue> es fecho e
+aparejado. p<ar>a auer vida. pone dios el
+sp<irit>u q<ue> es el anjma en<e>l. por end<e> pued<e>s
+veer e ente<n>der. q<ue> dios no<n> crio el anjma
+sobeja. si no<n> p<ar>a cuerpo enq<ue>la pone
+q<ue> q<u><<a>>ndo el viene a fazer le formado es-
+ta alli cuerpo enq<ue> la pone e en q<ue> bjua.
+por esta rrazo<n> pued<e>s veer q<ue> nu<n>ca dios
+la faze en valde. si no<n> p<ar>a aq<ue>l logar
+do es men<e>ster. e pues q<ue> te he dicho esta
+p<r><<i>>mera rrazo<n>. q<u><<i>>ero te tornar ala ot<r><<ao>>
+segu<n>d te dixe p<r><<i>>mero %pues q<ue> dios
+es poderoso de criar el anjma e fazer
+la denada. pues q<ue> el es ta<n> podeoso e
+ha este poder delo fazer fuera del cuer-
+po. com<m>o dentro en<e>l cuerpo en q<ue> la cria-
+Ca si dios oujese poder d<e>la fazer en
+vn logar e no<n> en otro. luego seme-
+aria q<ue> el su poder era me<n>guadso. E}
 [fol. 120r]
 {CB1.
-}
+semeJaria q<ue> la no<n> fazia denada. mas
+q<ue> la fazia en aq<ue>l logar por aparejamje<n>-
+to de ayuda q<ue> fallaua alli % por ende
+q<u><<i>>ero q<ue> sepas q<ue> el poder de dios co<n>plido
+es en todo lo q<ue> q<u><<i>>ere fazer asi com<m>o lo
+q<ue> q<u><<i>>ere e en<e>l logar q<ue> q<u><<i>>ere e la su obra
+nu<n>ca es me<n>guada. en p<er>o no<n> faze el
+la cosa si no<n> com<m>o co<n>ujene. segu<n>d la
+natura de ca<n>da cosa. e si vees alguna
+mengua en<e>l cuerpo del om<n>e. asi com<m>o lj-
+sio<n>o q<ue> aya en algu<n>d mje<n>bro. esto es por
+la me<n>gua dela natura. q<ue> me<n>gua en a-
+q<ue>llo q<ue> ha de co<n>pljr. mas en<e>l anjma q<ue> es
+criatura de dios no<n> puede auer nj<n>gu<no>
+me<n>gua % por end<e> do q<u><<i>>er q<ue> dios la fizie-
+se. q<u><<i>>er dentro en el cuerpo del om<n>e. q<u><<i>>er
+fuera d<e>l. sienpre es co<n>plida. mas nos
+los om<ne>s. no<n> podemos conosc'er el co<n>plj-
+mje<n>to q<ue> ella ha. fasta q<ue> veemos su obra}
 [fol. 120v]
 {CB1.
-}
+e esta obraes de sp<irit>u q<ue> esta en<e>l cuerpo d<e>l
+om<n>e. en q<ue> la dios pone. e asi es el cuerpo
+aco<n>parac'io<n> d<e>l anjma. com<m>o vn estrument<e>
+de cuerdas q<u><<a>>ndo esta bie<n> te<n>prado. e q<u><<i>>en-
+le sabe tan<n>er puede fazer en<e>l q<u><<a>>l so<n> q<ue>
+siere. por end<e> los mjenbros q<ue> son en<e>l cuer-
+po. so<n> cuerdas co<n> q<ue> dize e faze el anjma
+aq<ue>llo q<ue> entie<n>de q<ue> cu<n>ple. e el maestro q<ue> sa
+ve tan<n>er el estrument<e> es el anjma q<ue> por el
+saber e el ente<n>djmje<n>to q<ue> dios pone en<e>lla
+q<u><<a>>ndo la cria e la faze de nueuo e de no<n>
+nada. sabe ella obrar esta<n>do en aq<ue>l cuer-
+po enq<ue>la dios crio. e q<u><<a>>nto el cuerpo faze
+e dize. todo es por ella. casin ella no<n>
+vale nada. e pued<e>s ente<n>der por esto q<u><<a>>ndo
+el anjma sale d<e>l cuerpo. q<u><<a>>n desanparado
+el finca d<e>l bie<n> q<ue> ant<e> solia auer. e por es-
+ta obra q<ue> ella faze. la conosc'emos nos
+Com<m>o dios la ha cria<n> e fecha. co<n> todo}
 [fol. 121r]
 {CB1.
-}
+su co<n>plimje<n>to. ca de ot<r><<o>> gujsa. no<n> ha en
+te<n>djmje<n>to de om<n>e. q<ue> lo pudiese conosc'er
+Ca por la su obra q<ue> faze en aq<ue>l cuerpo
+en q<ue> esta. la auemos a conosc'er. en com<m>o
+es criatura de dios
+% cap<itul><<o>> .vj. com<m>o puede dios saber todas
+las cosas q<ue> el om<n>e faze e piensa
+{IN3.}Pregu<n>to el dec'iplo e dixo maestro sue
+len dezjr los om<ne>s q<ue> tan gra<n>de es el
+poderio q<ue> dios ha ensi. q<ue> sabe todas
+las cosas q<ue> se piensa<n> e faze<n> e dize<n>
+q<ue> asi com<m>o el om<n>e piesa la cosa ensu co-
+rac'o por encubierta ment<e> q<ue> lo piense
+luego lo sabe % por end<e> te<n>go yo por
+maraujlla estando dios tan alto com<m>o
+esta enlos c'ielos e fazie<n>do tantas obras
+com<m>o el faze en todo el t<ien>po. auje<n>do ta<n>
+tos om<ne>s e ta<n>tas muger<e>s con<mi>o laa por}
 [fol. 121v]
 {CB1.
-}
+el mu<n>do. segu<n>d q<ue> so<n> las leys & las cree<n>-
+c'ias en q<ue> cada vno bjue. e otrosi com<m>o
+so<n> las volu<n>tado<s>s e los corac'on<e>s los
+vnos dep<ar>tidos delos ot<r><<o>>s. ca vnos se-
+paga<n> del mal. e ot<r><<o>>s del bie<n>. e vnos
+saln ve<n>c'er su volu<n>tad e ot<r><<a>>s se ven-
+c'e<n> ala volu<n>tad. por end<e> te<n>go por ma-
+raujlla Com<m>o q<u><<i>>er q<ue> el poder de dios
+sea muy gra<n>de en poder escodrin<n>ar el
+corac'o<n>. de cada vno. e esta<n>do el corac'o en
+buelta enla volu<n>tad d<e>l om<n>e. e si esto
+acaesc'iese en vn om<n>e solo. lo ternja
+por gra<n>d maraujlla. mas lo q<ue> co<n>tesc'e-
+por tantos om<ne>s aq<ue> om<n>e no<n> puede po-
+ner cue<n>to. esto es mucho de maraujllar
+por end<e> te rruego q<ue> me sag<e>s desta
+dubda. si es asi o no<n>. rrespo<n>dio el
+maestro e dixo. rrespo<n>der te proua<n>do
+telo por p<r><<e>>ua derecha. aq<ue> om<n>e no<n> pues}
 [fol. 122r]
 {CB1.
-}
+dezjr de no<n>. por sabeouria q<ue> ensi aya. e
+la p<r><<i>>ua q<ue> te q<u><<i>>ero fazer es esta. p<ar>a mje<n>-
+tes ala muger p<r><<e>>na<n>da e veras com<m>o trae
+la criatura c'errada en<e>l su vientre.
+q<u><<a>>ndo la criatura ha pasado su t<ien>po. e se
+llega el termjno de rresc'ebjr anjma de vi
+da ensi. luego gela da dios. Ca bie<n> vees
+tu q<ue> nj<n>guna cosa no<n> ha poder de fazer
+anjma de nueuo si no<n> dios. pues el
+sabe e entie<n>de q<u><<a>>ndo es t<ien>po de dar aq<ue>
+lla criatura e meter en<ella anjma de den-
+tro. e aq<ue>lla criatura anda enc'errada
+en otro cuerpo % por end<e> p<ar>a mjent<e>s ala-
+claridat del sol. q<ue> mas rrefez ha de-
+pasar vn teJado q<ue> q<u><<a>>ndo so<n> dos. vno
+sobre ot<r><<o>>. por esto pued<e>s veer e ente<n>
+der. q<ue> mas rrafez es adios. de saber
+la volu<n>tad del corac'o<n> d<e>l om<n>e q<ue> yaze en
+vn cuerpo demas do ha volu<n>tad. q<u><<i>>er va}
 [fol. 122v]
 {CB1.
-}
+la volu<n>tas buena. q<u><<i>>er mala. Com<m>o q<u><<i>>er q<ue> aya
+dep<ar>timje<n>to dela buena alamala % por end<e>
+p<ar>a mjent<e>s e veras q<ue> mayor mjraglo e
+mayor maraujlla e poderio es. ado no<n>
+es la vertud co<n>plida. asi com<m>o acaesc'io a-
+la criatura. q<ue> pues no<n> ha anjma ensi.
+sabida cosa es q<ue> no<n> puede auer vo
+lu<n>tad ensi nj<n> otra v<er>tud nj<n>guna. mas
+tan sola ment<e> por el aparejamje<n>to q<ue>
+aq<ue>lla carne toma ensi q<ue> es muerta. asi
+ha menester de auer anjma por q<ue> sea
+bjua. luego ala ora la pone dios alli
+e p<ar>a fazer esto. nj<n> dec'iende el d<e>l c'ielo
+nj<n> toma gra<n>d afan % por ende p<ar>a
+mjent<e>s e veras por todo el mu<n>do q<u><<a>>n-
+tas so<n> las criaturas q<ue> por el an<n>o pa-
+san por esto. e de aq<u><<i>> pued<e>s tomar
+ente<n>djmje<n>to. q<ue> q<u><<i>>en da rrecabdo aesto.
+mas rrafez le es de saber la volu<n>tad de
+ca<n>ta vno. e destremar el coraco<n> q<ue> cada}
 [fol. 123r]
 {CB1.
-}
+vno tiene. e por q<ue> veas e entie<n>das. q<u><<a>>n gra<n>
+de ediel poder de dios. no<n> ta<n> sola
+mente lo q<ue> om<n>e piensa ensu corac'o<n>. mas
+lo q<ue> puede pensar en su corac'o sabe
+dios. esto es por la rrazo<n> q<ue> agora te dire
+q<u><<a>>ndo dios de p<r><<i>>mero crio el c'ielo e la
+t<ie>rra e fizo todas las cosas q<ue> so. Com<m>o
+q<u><<i>>er q<ue> el fuese criador sobre todo. or
+deno q<ue> ar alli adelant<e se criaze<n> e se
+fiziese<n> las vnas cosas por los cuerpos
+de suso e las ot<r><<a>>s por los eleme<n>tos de yu-
+so. e el finco por fazedar e ma<n>tenedor
+de todo. asi com<m>o el maestro faze el rrelo
+o e pueda meJor saber e mas c'ierto a-
+q<u><<a>>les oras del dia o dela noche ha de de-
+sarmar el su rreloJo. ant<e> q<ue> desarme ot<r><<o>>
+si sabra meJor q<ue> no<n> el ot<r><<o>>. en fazer
+le q<ue> canto es aq<ue>l q<ue> porna enel rreloJo.
+Com<m>o aq<ue>l q<ue> puso las ca<n>panas. e sabe}
 [fol. 123v]
 {CB1.
-}
+de q<ue> metal so<n> e deq<ue> pu<n>to es cada vno. por
+este maestro pued<e>s tu ente<n>der adios q<ue> es
+criador e fazedor de todo e sobre todo
+Ca aq<ue>l es el q<ue> crio cuerpos morcab<e>o e no<n> mor
+tales. Ca sabe de q<ue> man<er>a es cada vno cpr<<i>>u
+end<e> fallamos q<ue> el diablo es criatura. der
+dios. com<m>o q<u><<i>>er q<ue> el sea malo ensi. q<ue> el de
+las criaturas q<ue> el crio de comje<n>c'o el fue
+e fallamos d<e>l. q<ue> no<n> ha mas de dos sabe
+durias. la vna es la antiguedat q<ue> piesa
+las cosas q<ue> so<n> por venjr segu<n>d las q<ue>
+pasaro<n>. la otra es por lo q<ue> dios co<n>sient<e>
+q<ue> el pueda saber deya<n>do le vsar d<e>llo. so
+bre aq<ue>llos q<ue> en vso de maldat so<n> deses-
+perados d<e>la merc'ed de dios. otra vegada
+fallamos q<ue>le da poder sobre los Justos de
+xanda shes tentar en muchos maneras}
 [fol. 124r]
 {CB1.
-}
+segu<n>d cuenta<n> las vidas delos santos. es-
+to es por p<r><<o>>uar la su bondat d<e>llos. asi
+com<m>o dize la esc<r><<i>ptura. ign<n>e me eyamj-
+njsti si cut eyamjnatur argentum belau-
+rum % q<ue> q<u><<i>>ere dezjr asi com<m>o el oro se-
+apura enla fragua. asi dios p<r><<e>>ua los
+sus escogidos. pues q<u><<a>>ndo el diablo ha
+este poder e esta sabeduria sobre to-
+das estas cosas. bie<n> puedes tu ente<n>der
+q<u><<a>>n gra<n>de dirre<n>c'ia ha d<e>l q<ue> es criatura
+al q<ue> es criador del e de todas las ot<r><<a>>s
+cosas d<e> cap<itul><<o>> .lviij. si ay algu> anjma
+q<ue> aya mayor ente<n>djmje<n>to omayor seso
+mayor v<er>tud q<ue> otra
+{IN2.}Dixo el dec'iplo al maestro. pues q<ue> dixos
+q<ue> dios cria las anjmas e las faze
+de no<n> nada. ca sabida cosa es segu<n>d}
 [fol. 124v]
 {CB1.
-}
+lo q<ue> tu me as dicho enla dema<n>da q<ue> yo te
+fize en rrazo<n> del anjma q<ue> dios es criador de
+lla q<ue> la no<n> fizo de nj<n>guna materia nj<n> de
+nj<n>gu<n>d enge<n>dramje<n>to. pues dios q<ue> las cria-
+e las faze de vna gujsa todas ha<n> vn cria-
+dor. q<ue>rria saber deti ay alguna anjma q<ue>
+sea mayor ode mayor vertud oseso o<e
+mayor ente<n>djmje<n>to q<ue> otra. la rrazo<n> por q<ue>lo
+rregu<n>to es. por q<ue> ves q<ue> vn om<n>e ha gra<n>d
+auatasa sobre ot<r><<o>>. ca veras vn om<n>ese
+sudo e ot<r><<o>> de mal seso e otro q<ue> sera
+cuerdo e ente<n>dido. e ot<r><<o>> q<ue> no<n> abra se
+so nj<n> cordura. mas q<ue> si fuese bestia e ot<r><<o>>
+muy rrazonado e ot<r><<o>> mal rrazonado. e
+otro q<ue> co<n>las malas costu<n>bres d<e>la carne q<ue>
+desfaze las buenas costu<n>bres del anjma
+pues todas estas aua<n>tajas vee vn om<n>e}
 [fol. 125r]
 {CB1.
-}
+cada dia de vn om<n>e a otro. pensaria yo asi lo
+q<ue> ha de vna anjma a otra. rrespondio el
+maestrer sabe por c'ierto dios q<ue> crio todas
+estas anjmas. q<ue> tan co<n>plida faze la vna
+com<m>o la otra. mas des q<ue> el anjma es me-
+tida en<e>l cuerpo del om<n>e. es tal com<m>o el
+Juglar. toma vn Juglar el meJor del mu<n>-
+do e dile q<ue> faga vn tan<n>er ensu estru-
+ment<e>. no<n> le fara si no<n> le toujere. da-
+le vn estrument<e> dan<n>ado. nu<n>ca en<e>l po-
+dra bie<n> so<n>. fazer fasta q<ue> adue el es-
+rrument<e>. bie<n> atal es el anjma. siaq<ue>l
+cuerpo en q<ue>la dios pone. falla endre
+cado delos cnco sentidos q<ue> el om<n>e ha de-
+auer. q<ue> no<n> aya enbargo en nj<n>guno de
+llos. e otrosi q<ue> las tres casas dela ca-
+bec'a aya sanas sin nj<n>gu<n>d enbarto}
 {GL. aliud aliq<u><<o>><d>
 sensere}
 [fol. 125v]
 {CB1.
-}
+delas q<u><<a>>les la p<r><<i>>mera es la emagen>ac'io
+desta p<ar>te adelant<e>. la segu<n>da q<ue> esta en
+medio dela cabec'a es p<ar>a pensar e ente<n>der
+las cosas. e p<ar>a saber las estremar vna
+de otra. la terc'era casa q<ue> es contra el co-
+lodrillo es p<ar>a rretener las cosas. ta<n> bie<n>
+las q<ue> vee e oye en p<r><<e>>sent<e> ant<e>si. com<m>o las
+q<ue> pasaro<n>. q<u><<a>>ndo es metida en<e>l cuerpo com<m>o
+este. luego ella puede mostrar. q<u><<a>>n co<n>plida
+es en<e>lla la v<er>tud q<ue> dios le dio. e q<u><<a>>ndo en<e>sl
+to ay algu<n>d enbargo. luego enla su obra
+paresc'e q<ue> es a>tes aq<ue>llo en q<ue> toma enbara
+p<ar>a mjent<e>s en<e>l moc'o peq<ue>n<n>o. e semeJar.
+te ha q<ue> la su anjma es desfallesc'ida o<n>-
+parac'io dela del om<n>e gra<n>de. mas no<n> es
+asi. ca ella ta<n> co<n>plida es com<m>o la d<e>l ma-
+ybr om<n>e del mu<n>do. mas la rrazo<n> por q<ue>
+el anjma del om<n>e. toma enbartgo ensi}
 [fol. 126r]
 {CB1.
-}
+es por dos cosas. la vna por el cuerpo co<n>-
+q<ue> ella ha de obrar. no<n> auer los dias nj<n> la
+fuerc'a. p<ar>a q<ue> pueda mostrar la su v<er>tuds
+del anjma. la otra por la gra<n>d vmjdat q<ue>
+ha ensi. q<ue> le enbarga<n> todas las v<er>tudes
+del cuerpo. e com<m>o q<u><<i>>er q<ue> esto asi sea
+el anjma con toda su vertud esta si
+enpre. mas de fuera no<n> puede pares-
+c'er por todos estos enbargos. bie<n> asi
+com<m>o co<n>tesc'e esto d<e>l om<n>e moc'o. bie<n> asi
+co<n>tesc'e del om<n>e vieio. despues q<ue> es cay-
+do en dias. e desq<ue> el cuerpo desfalles-
+c'e. por rrazo<n> d<e>los dias q<ue> so<n> pasades. esta
+la v<er>tud d<e>l anjma toda enbarga> por rra-
+zo<n> d<e>l desfallesc'imje<n>to d<e>l cuerpo. por
+end<e> torna aseer. d<e>l com<m>o de moc'o pe-
+q<ue>n<n>o. mas bie<n> es verdat q<ue> ha poder sobr<e>}
 [fol. 126v]
 {CB1.
-}
+todas las cosas. q<u><<a>>ndo el q<u><<a>> q<u><<i>>ere fazer
+obra de mjraglo q<ue> es sobre natura
+acaesc'e muchas vegadas q<ue> por el su
+mjraglo. enbia g<ac'i>a sen>alada sobre
+el anjma de vn om<n>e. por la q<u<<e>>l g<r<ac'i>a le fa-
+ze seer om<n>e santo. com<m>o alg<na>s bezes
+acaesc'io de algu<na>s santos muchos q<ue> esto
+gio dios p<ar>asi. por las g<e>i>as sen<n>aladio
+de alu<n>bramje<n>to q<ue> puso enlas sus an<nj-
+mas. esta g<e>i>a acaesc'e q<ue> viene en<e>l anj-
+mri>a seye<n>do peq<ue>n<n>o o seye<n>do en<e>l vie<n>tre
+de su madre el om<n>e. asi com<m>o aca-
+esc'io dela virge<n> santa m<ari>a madre de-
+sih<as>u xp<ist>o e de sant noh<an bautista
+e de ot<r><<a>>s santos. e esto es por mjri-.
+glo. mas loal q<ue> te dixe es por natura}
 {CW. % cap<itul><<o>> .lviij<<o>>.}
 [fol. 127r]
 {CB1.
@@ -4164,172 +5866,1167 @@ sensere}
 cuerpo c'errada por q<ue> no<n> conosc'e al an-
 gel q<ue> es de su natura. si no<n> toma
 otrafigura en q<ue> le paresca}
-}
+{IN2.}El dec'iplo p<r><<e>>gu<n>to asu maestro e
+dixo le tu as dicho q<ue> el anjma d<e>l
+om<n>e es de natura de angel. ca
+asi es sp<irit>u com<m>o angel e asi ha comj-
+o e no<n> fin. bie<n> asi no<n> ha figura
+nj<n>guna com<m>o el angel. por end<e> te rrue-
+go q<ue> me digas pues q<ue> el anjma asi se
+meJa al angel. por q<ue> rrazo<n> seye<n>do el
+anjma en<e>l cuerpo del om<n>e enc'errada
+no<n> conosc'e al angel q<ue> es de su natu-
+ra e su semeJant<e>. si no<n> toma ot<r><<o>>
+figura en q<ue> le paresta. por q<ue> he aya a-
+conosc'er}
 {SG. jx}
 [fol. 127v]
 {CB1.
-}
+Ci los angebs q<ue> so<n> sp<irit>us conosc'ense vno
+aot<r><<o>>s. pues el anjma q<ue> es sp<irit>u. asi los
+deue conosc'er com<m>o ellas se conosc'en-
+% respo<n>dio el maestro e dixo com<m>o q<u><<i>>er q<ue>
+el anjma del om<n>e sea sp<irit>u noble q<ue> dios
+cria e faze de nada. bie<n> asi com<m>o fizo
+los angel<e>s q<ue> el los crio e los fizosyn-
+nj<n>guna otra materia e tanto q<u><<a>>nto a-
+q<ue>lla anjma esta enc'errada en aq<ue>l cuer-
+po. no<n> es tan libre el sp<irit>u por si
+Ca yaze a p<r><<i>>mjada en aq<ue>l cuerpo en q<ue>
+esta metida e por q<ue> la carne e los
+huesos de q<ue> el cuerpo es fecho. es de
+q<u><<a>>tro eleme<n>tos. asemeJa<n>c'a delos q<u><<a>>tro ele
+me<n>tos de q<ue> es el mu<n>do fecho. e por q<ue>
+el cuerpo no<n> puede de vn ta<n>pre estar
+toda via. q<ue> ha de dia e de noche}
 [fol. 128r]
 {CB1.
-}
+sazon<e>s sabidas q<ue> cada vno destos q<u><<a>>tro
+humor<e>s rreyna e se apodera mas en<e>l
+cuerpo q<ue> los ot<r><<o>>s. e otrosi por el mu-
+cho com<er e mucho beuer q<ue> los om<ne>s faze
+avolu<n>tad dela carne. ot<r><<o>>si por los cuydados
+e las enfermedads e trauaJos q<ue> om<n>e
+ha ensi. q<ue> enbarga mucho el anjma e le
+da<n> gra<n>d enbargo p<ar>a la sotileza e cono-
+simje<n>to q<ue> ella ha ensi co<n> q<ue> deue obrar
+e q<u><<a>>ndo ella por los enbargos del cuerpo
+no<n> puede mostrar su conosc'e<n>c'ia de mues-
+tra lo. desq<ue> el cuerpo q<ue>da e yaze dujr
+mje<n>do q<ue>do. el cuerpo Case desapoderado
+en su suen<n>o. el anjma nu<n>ca q<u><<i>>ra de andar
+ensus vision<e>s e escodrin<n>ar las cosas q<ue> ha<n>
+de venjr. e avn q<ue> el cuerpo cansa. ta<n> fue
+r<e> es ella q<ue> no<n> cansa p<ar>a rresc'ebjr ella}
 [fol. 128v]
 {CB1.
-}
+nj<n>gu<n>d cansamje<n>to segu<n>d la palabra q<ue>
+dixo n<uest>ro sen<n>or enla pasio<n> o dize. sp<ir<it>s
+qujden p<r><<i>>ntus caro autem Jn firma % q<ue>
+q<u><<i>>ere dezjr el sp<irit>u sin fabla es prestoer-
+fuert<e> e rrezio p<ar>a sofrir toto afan.
+mas la carne es enferma e flaca q<ue>lo
+no<n> puede sosrir % Por end<e> tal es el anj-
+m>a enc'errada enla carne. Com<m>o el om<n>e q<ue>
+esta enc'errado en vna torre. q<ue> no<n> puede
+veer. si no<n> por vnas finjestras dela torre
+e el anjma esta<n>do dentro en<e>l cuerpo no<n>
+puede obrar desus vertudes. si no<n> co<n>los
+estrument<e>s del cuerpo. los q<ue>les so<n> c'ino
+sentidos. q<ue> de suso oyste. pues el q<ue> esta
+enla torre. por gra<n>de q<ue> sea. vera aq<ue>llo
+q<ue> q<u><<i>>ere veer. de fuera estando no<n> lo podria}
 [fol. 129r]
 {CB1.
-}
+veer. si no<n> segu<n>d la gra<n>dez d<e>l logar por
+do lo viere % por end<e> el anjma d<e>l om<n>e ta<n>
+encarnada es e ta<n> corporada es en<e>l cuer-
+po del om<n>e enq<ue> yaze. q<ue> por estas rrazon<e>s
+no<n> puede conosc'er al angel nj<n> a otra anj-
+ma. avn q<ue> es de su natura. si no<n> le
+paresc'e en figura de cuerpo. asi com<m>o ella
+yaze en cuerpo. e por q<ue> veas q<ue> esto es
+verdat. p<ar>a mjent<e>s si tu toujer<e>s vn tu-
+sieruo bien rrecabdado en gra<n>des cadenas
+co<n>ujene q<ue> diga e faga lo q<ue> tu mada
+o Ca no<n> lo q<ue> el q<u><<i>>ere. bie<n> asi co<n>tesc'e d<e>l
+anjma. q<ue> com<m>o q<u><<i>>er q<ue> q<u><<a>>nto bie<n> ha en<e>l cuer-
+po d<e>l om<n>e todo es en<e>lla e por ella. e
+ta<n> gra<n>de es la premja d<e>la carne q<ue> es sobr<e>
+si. q<ue> por esta rrazo<n> co<n>ujene q<ue> metosta
+be mucho mje<n>tra alli esta dela conosc'e<n>c'ia}
 [fol. 129v]
 {CB1.
-}
+dela sotileza q<ue> ha ensi. mas desq<ue>
+ella sale d<e>l cuerpo. finca ql<<dre delas
+p<r><<e>>mjas d<e>la carne e conosc'e los angel<e>s q<ue>
+so<n> sp<irit>us com<m>o ella sin ot<r><<o>> enbargo e
+sin auer men<e>ster otra figura. E ta<a
+bie<n> conosc'e los sp<irit>us buenos com<m>o los
+malos. alos malos conosc'e por las penas
+e alos buenos por el gualar<e>s de bie<n>
+e desq<ue> por la su bo<n>dat q<ue> ella cobro
+en<e>ste mu<n>do. forc'a<n>do le la carne. llega a-
+auer santidat de bie<n> anda<n>ca &ela glo
+ria de p<ar>ayso cdon<m>so fuero<n> echados los
+malos angel<e>s. cuyas sillas ellos p<er>die
+ro<n>. por el su meresc'imje<n>to se cobra<n> e
+se ynche delas anjmas bie<n> aue<n>turadas
+q<ue> rreyn<n>a en p<ar>uyso. E des q<ue> ellas alli}
 [fol. 130r]
 {CB1.
-}
+so<n>. se conosc'e<n> por la vmjldat e conos-
+c'e<n>c'ia de ente<n>djmje<n>to co<n>plido sin fin.
+los angel<e>s q<ue> so<n> sp<irit>us durables e ellos
+e ellas con<e>llos p<ar>a sienp<r><<e>> jamas E toda
+la su conosc'e<n>c'ia es alli acabada. la q<u><<a>>l
+no<n> podria seer ant<e> ta<n> co<n>plida. e d<e>l
+dia del Juyzio adelant<e>. auera<n> aq<ue>llas aj-
+mas sus cuerpos glorificados. e en<e>sto
+sera<n> estremados delos angel<e>s. Ca los
+angel<e>s no<n> auera<n> cuerpos. ca nu<n>ca los
+oujero<n>. los angeles conosc'e<n> se vnos a-
+ot<r><<a>>s por q<ue> no<n> ay nj<n>guno d<e>los q<ue> aya
+enbargo nj<n> premja sobresi. asi com<m>o
+lo ha<n> las anjmas. nj<n> ha<n> de fazer en<e>
+ste mu<n>do otra cosa. si no<n> veer la glo
+ria de dios e co<n>pljr su ma<n>damje<n>to
+e mouer por su ma<n>damjento.}
 [fol. 130v]
 {CB1.
-}
+todas aq<ue>llas cosas q<ue> se muen<n>e d<e>l ayuso
+cada vna dellas. segu<n>d las orden<e>s. com<m>o
+mas so<n> allegadas adios. segu<n>d lossus
+meresc'imje<n>tos e el poderio q<ue> el les dio a-
+cada vno d<e>llos. por eso dize n<uest>ro sen<n>or
+en<e>l eua<n>gellio. angeli q>uj. Jnc'elo sunt senp
+vident fac'ien patris mey q>e>uj Jnc'elio est
+% q<u><<i>>ere dezjr los sus angel<e>s sienpre
+vee<n> la faz del mj padre q<ue> es enlos c'ie-
+los
+% cap<itul><<o>> .lx. si por peca<nbor q<ue> sea el
+om<n>e arrep<r><i>>tiendo se de sus pecados
+en q<ue> manera le ye dios e le ha m<n>
+{IN2.}Dixo el dec'iplo al maestro. yo oyo de
+zjr aestos q<ue> nos dize<n> la fe de ih<es>u
+xp<ist>o. q<ue> por pecador q<ue> sea el om<n>e. si}
 [fol. 131r]
 {CB1.
-}
+se conosc'e e se rre pient<e> desus pecados
+q<ue> dios le p<er>dona e le ha merc'eds. otrosi
+dize<n> los maestros. q<ue> q<u><<a>>ndo muere aq<ue>l peca-
+dor q<ue> la su anjma va apurgatorio. e q<ue>
+yaze alli penando e purga<n>do sus peca-
+dos ta<n>to t<ien>po q<u><<a>>nto dios tiene por bie<n>. se
+gu<n>d su meresc'imje<n>to d<e>lo q<ue> fizo. pues
+com<m>o es p<er>donada esta anjma. si pena ha
+de auer despues sobre aq<ue>l p<er>don % rrespo<n>-
+dio el maestro tu deues saber. q<ue> q<u><<a>>ndo
+el anjma sale dela carne. co<n>ujene q<ue> a-
+vno destos logar<e>s vaya. o aJnfierno o
+apurtratorio. si no<n> es anjma ta<n> sa<n>ta
+q<ue> sin ot<r><<o>> enbargo. se haya derecha
+ment<e> ap<ar>ayso. pues q<u><<a>>ndo dios p<er>dona
+el mjma del pecador. si sobre aq<ue>l}
 [fol. 131v]
 {CB1.
-}
+p<er>don. le toma la muert<e> enbu<n> esta. el p<aer>
+don de dios le tira la carrera del Jnfierno
+e da con<e>l en purtratorio e el p<ar>dam de
+dios le tuelle las penas del Jnfierno. q<ue>
+so<n> si<n> fin de t<ien>po segu<n>d dize. nob.
+q<u><<a>>a J Jnferm<n> nulla est rrede<n>c'io % q<u><<i>>e
+re dezir q<ue> en<e>l Jnfierno no<n> ha nj<n>gu<n>drre-
+me<n>dio. e com<m>o q<u><<i>>er q<ue> dios le p<er>done aq<ue>-
+llas penas al pecador por q<ue> se arrepi-
+ent<<e>. por eso no<n> le p<er>dona. q<ue> no<n> purgue-
+en<e>l purgatorio. por q<ue> la pena del pur-
+gatorio no<n> es ppetu<a p<ar>a sienp<r><<e>> e
+muy gra<n>d estre ma<n>c'a ha delas vnas pe-
+nas alas ot<r><<a>>s. ca tal es la pena del
+pujrgatorio al anjma del pecador. com<m>o
+el pan<e>s d<e>l ljno q<ue> esta suzio e despu<e>s}
 [fol. 132r]
 {CB1.
-}
+q<ue> es lauado. finca ljnpio sin ma<n>zilla
+nj<n>guna. q<ue> no<n> se puede aljnpiar. ame-
+nos de lauar se en<e>l agua e q<u><<a>>ndo lo la
+ua<n> esprimen>lo e tuerc'e<n> lo. por q<ue> se laue-
+meJor e sea mas bla<n>co e salga<n> d<e>l
+todas las ma<n>zillas. asi el anjma d<e>l
+pecador se aprieta e se aljnpia co<n>-
+las penas d<e>l purgatorio. en mana q<ue>
+finca bla<n>ca e syn ma<n>zilla. q<u><<a>>ndo va-
+p<ar>a p<ar>ayso. derecha amenos de seer pur-
+gada. Ca q<ue> estrema<n>c'a abria<n> los santos
+q<ue> fuero<n> sienpre si<n> ma<n>zilla de pe-
+car en sus anjmas en pecado mortal p<<e>
+los om<ne>s pecador<e>s amenos de seer puj-
+cados. oujese<n> tal gualardon com<m>o}
 [fol. 132v]
 {CB1.
-}
+ellos. ca el n<uest>ro sen<n>or p<er>cona la pena ma-
+yor del Jnfierno. mas no<n> p<er>dona la pen-
+menor del purgatorio. Ca si la el p<er>cona
+ze abria tres dan<n>os % lo p<r><<i>>mero se
+ria tal el gualardo<n> d<e>l q<ue> sienp<r><<e>> obro
+bie<n>. com<m>o del q<ue> obro bie<n> e mal. % lo
+segu<n>do p<er>deria<n> los om<ne>s mjedo p<ar>a fa-
+zer mal % lo terc'ere los buenos no<n>
+abria<n> por q<ue> p<er>seuerar nj<n> lazrar ensu
+bo<n>dat. si los ot<r><<o>>s fuese<n> sus ygua
+lo. ta<n> noble cosa e ta<n> santa com<m>o
+es el p<ar>ayso. no<n> deue alli nj<n>guno en
+trar. nj<n> nj<n>guna anjma q<ue> sea enli
+xada enlos saber<e>s deeste mu<n>do. ame-
+nos de seer lauada e purtada}
 [fol. 133r]
 {CB1.
-}
+p<r><<i>>mero desus. pecados
+% cap<itul><<o>> .vx. si tomara dios carne de sa<n>
+ta m<ari>a. si adam no<n> pecara
+{IN3.}Pregu<n>to el dec'iplo al maestror. si
+adam n<uest>ro padre no<n> pecara. si to-
+mara dios carne en santa m<ari>a segu<n>d
+q<ue> lo tomo. ca segu<n>d rrazo<n> dase aen-
+te<n>der q<ue> la nasc'e<n>c'ia e la pasio<n> de ih<es>u
+xp<ist>o no<n> fue si no<n> por el pecado de a-
+dam q<ue> fizo. por end<e> te rruego q<ue> me
+digas. si este pecado no<n> fuera. si vj
+njera anasc'er e a morir al mu<n>do segu<n>d
+q<ue> fue. rrespo<n>dio el maestro tu deuessa
+uer q<ue> todas las cosas q<ue> dios fizo. q<ue> to-
+das q<u><<i>>so q<ue> euje<n>se comje<n>c'o e fin. saluo}
 {GL. Is this a
 Sp. express.}
 [fol. 133v]
 {CB1.
-}
+las anjmas e los angele. q<ue> q<u><<i>>so q<ue> ouje-
+se<n> comje<n>c'o e no<n> fin por end<e> el n<uest>ro se-
+n<n>r dios por tal de venjr daco<n>pljmje<n>to
+dela rrazo<n> desta dema<n>da q<ue> tu me as fe-
+cho. fizo dos cosas % la p<r><<i>>mera orde
+namje<n>to q<ue> touo g<u><<a>>rdado ensi mesmo % la
+segu<n>da q<ue> q<u><<i>>so q<ue> los om<ne>s ente<n>diese<n>
+e conosc'iese<n> q<ue> lo q<ue> el fiziera q<ue> lo fa-
+zja co<n> rrazo<n>. e q<ue> esta<n rrazo<n> fuese
+en cargo q<ue> el echan<n>a sobre los om<ne>s
+por q<ue> no<n> fuese<n> ta<n> ligeros de pecar
+e de errar contra el. en cada vna des-
+tas dos cosas q<ue> te he dicho rrespo<n>dere
+agora por q<ue> las entie<n>das meJor % p<r><<i>>me-
+ra ment te digo q<ue> en<e>l ordenamje<n>to de
+dios q<ue> el ordenamje<n>to q<ue> e dia q<ue> dios}
 [fol. 134r]
 {CB1.
-}
+crio p<r><<i>>mera ment<e> en<e>l mu<n>do. puso q<ue> ouje
+se<n> fin. e en<e>sta fin co<n>uenja q<ue> oujese
+avenjr dios aJuogar el mu<n>do por q<ue> alli
+ge acabase todo % Por end<e> p<ar>a pares
+c'or el al Juyzio. co<n>uenja q<ue> figura ouje
+se p<ar>a conosc'er le los om<ne>s. e aq<ue>sta
+figura auja de seer d<e>la carne vma
+na asi com<m>o fue. Ca por la djujnjdat
+no<n> le podria<n> conosc'er. e el dia q<ue> dios
+crio el mu<n>do puso este ordenamje<n>to q<ue>
+co<n>uenja q<ue> asi fue se % por end<e> tu
+deues saber q<ue> com<m>o q<u><<i>>er q<ue> poderoso
+sea en fazer todas las cosas por q<ue>
+las fazia e esta rrazo<n> no<n> por q<ue> la
+el oujese men<e>ster. mas por me<n>gua
+d<e>los n<uest>ros ente<n>djmje<n>tos. de no<n> poder}
 [fol. 134v]
 {CB1.
-}
+ente<n>der ta<n> co<n>plida ment<e> com<m>o auemos.
+men<e>ster por ente<n>djmje<n>to e por obra los
+fechos de dios e cata<n>do dios estas des co-
+sas p<r><<i>>mero el su. ordenamje<n>to % lo
+segu<n>do la n<uest>ra me<n>gua q<u><<i>>so q<ue> a corriese el
+su ordenamje<n>to q<ue> en nos es poreso co<n>-
+sintio el. q<ue> pudiese pecar adam. por
+q<ue> el su patado se este<n>diese. sobre aq<ue>-
+llos q<ue> del aujamos de venjr. E por es-
+ta rrazo<n> del yerro deste pecado. q<ue> nos
+oujesemos q<ue> conosc'iesemos q<u><<a>>nta era la su-
+nu<n>. en tomar carne de santa ma. por
+heme<n>dar este mal. en q<ue> nos eramos cay
+dos. e por esta merc'ed ta<n> gra<n>de. en q<ue>rer
+dios padre. q<ue> la p<er>sona del fijo ih<es>u
+xp<ist>o q<ue> fuese om<n>e carnal bestido dela}
 [fol. 135r]
 {CB1.
-}
+carne q<ue> tomo santa m<ri>a su madre. q<u><<a>>n
+te la merc'es era la mayor q<ue> podria seer
+asi ta<n>to es mayor el enbargo q<ue> echo so-
+bre nos. p<ar>a el dia d<e>l Juyzjo q<ue> so todos
+los enbargos otros q<ue> ds puede pener
+sobre el pecador el dia d<e>l Juyzjo xa<ana>
+da e r
+drare<nter. % el p<r><<i>>mero es. en q<ue>rer-
+dios seer om<n>e e tornar de ta<n> alta
+cosa ata<n> baxa % el segu<n>do morir en
+la cruz com<m>o murio por nos saluar
+ca el en murie<n>do destruyo la n<uest>ra mu-
+tr<e>. ca el no<n> murio por las sus cul
+pas. mas por los n<uest>ros pecados. e esta
+culpa no<n> pudiera caer sobre nos. si
+adam no<n> pecara. e nos no<n> sigujera
+mos el su pecado. por estas rrazon<e>s}
 [fol. 135v]
 {CB1.
-}
+ayu<n>to dios el su ordenamje<n>to en aq<ue>llo q<ue>
+era men<e>ster segu<n>d el pecado de adam
+en q<ue> eramos caydos % por end<e> sabe tu-
+c'ierto. q<u><<i>>er pecase adam q<u><<i>>er no<n>. dios a-
+nasc'er auja de santa m<ari>a. e la rrazo<n> por
+q<ue> della auja de nasc'er te dire agora
+en<e>l comje<n>c'o q<u><<a>>ndo crio dios todas las cosas
+ordeno q<u><<a>>tro generac'ion<e>s. q<ue> co<n>uenja q<ue>
+se cu<n>pliese<n> todas % la p<r><<i>>mera fue
+q<u><<a>>ndo fizo a adaue si<n> padre e sin
+madre % la segu<n>da q<ue> adam saco
+aeua. e asi ouo padre e no<n> madre.
+asi se co<n>pliere<n> las dos generac'iont<e>s %
+la p<r><<i>>mera q<ue> fue si<n> padre e si<n> madre.
+% la terc'era segu<n>da fue de padre e
+si<n> madre % la terc'era es de q<ue> se ma<n>-
+tiene toco el mu<n>do de generac'io<n> q<ue> se fa-
+ze co<n> padre e co<n> madre. e veyendo
+dios q<ue> estas tres generac'ion<e>s. erraua.}
 [fol. 136r]
 {CB1.
-}
+E pecaua<n>. ouo se de tornar ala q<u><<a>>rta q<ue>
+tenja g<u><<a>>rdada ensi. e no<n> q<u><<i>>so descobrir la
+ta<n> ayna com<m>o las ot<r><<a>>s. e veye<n>do dios
+en q<u><<a>>n ayna fizjera la segu<n>da genera
+c'io<n> pecar ala p<r><<i>>mera. q<ue> vos deues sa-
+ber. q<ue> adam q<ue> era la p<r><<i>>mera generac'io<n>. no<n>
+pecara. si eua q<ue> era la segu<n>da genera
+c'io<n> no<n> le fiziera pecar. e veye<n>do dios q<ue>
+por el pecado desta generac'io<n>. se abria
+fuent e carrera p<ar>a yr en pos este peca-
+do. la terc'era generac'io<n> q<ue> vos ya di-
+xiemos q<ue> era de padre e de madre q<u><<i>>so ot<r><<a>>r
+dar % la q<u><<a>>rta generac'io<n> q<ue> vos dixiemos
+p<ar>a adelant<e> p<ar>a saluar con<e>lla estas ot<r><<a>>s
+com<m>o en mas come dinedo d<e>l mu<n>do. se
+gu<n>d lo q<ue> era pasado e auja apasar. la
+generac'io<n> es de madre e si<n> padre. este
+fue ih<es>u xp<ist>o q<ue> q<u><<i>>so nasc'er de santa m<ari>a
+q<ue> fue fio sin padre. ca no<n> ouo el
+nj<n>gu<n>d padre terrenal. si no<n> asi mesmo}
 [fol. 136v]
 {CB1.
-}
+ca el es padre e fijo e sp<irit>u soan>t. tres p<er>so
+nas. e vn dios. e en<e>sta man<er>a se cu<n>plie
+ro<n> estas q<u><<a>>tro generac'ion<e>s segu<n>d el su-
+ordenamj<n>to. asi com<m>o el dixo. pexptio<n> po-
+suyt e no<n> p<r><<e>>teribt. q<ue> q<u><<i>>ere dezjr el ma<n>da.
+mje<n>to q<ue> puso no<n> lo paso
+% cap<itul><<o>> .lxj. si prisiera dios muert<e> si
+adam no<n> pecara
+{IN2.}El dec'iplo p<r><<e>>gu<n>to al maestro. si dios
+si prisiera muert<e> enla cruzo. si
+adam no<n> pecara. rrespo<n>dio el maes-
+tro % Sepas q<ue> la nasc'e<n>c'ia fueya or
+denada segu<n>d dixe. mas la pasio<n> no<n> era
+ordenada nj<n> fuera. si el pecado de adam no<n>
+diera carrera p<ar>a ello. Ca por la muert<e> d<e>l
+pecado en q<ue> murio adam. ouo anos am<e-
+ter en carrera de muert<e> e por esta nmuer<e>}
 [fol. 137r]
 {CB1.
-}
+ouo el a morir enla cruz. E p<ar>a mjent<e>s al pe-
+cado de adam e veras com<m>o cogo en<e>l veer
+e en<e>l ente<n>der e en todas las otras cosas
+e por end<e> fallabtrs q<ue> c'egaro<n> todos aq<uei>->
+llos q<ue> pusiero<n> ainh<es>u xp<ist>o enla cruz. Ca nj<n>-
+beya<n> nj<n> ente<n>dian nj<n> conosc'ia<n> lo q<ue> fazia<n>. e
+enlos c'inco sentidos q<ue> om<n>e ha ensi. q<ue> so<n>
+estos. veer oyr. gostar. oler. pal par con-
+todos estos cinco sentidos erraro<n> todos
+aq<ue>llos q<ue> pusiero<n> aih<es>u xp<ist>o enla cruz. erra
+ro enla trenjdat q<ue> so<n> tres p<er>sonas e vn
+dios. Ca con<e>l veer e con<e>l yr erraro<n> ala
+prsna de dios padre. no<n> se me<n>brando de
+las muchas maraujllas q<ue> con<e>llos viera<n>
+e oyera<n> q<ue> el fiziera por sus padr<e>s
+nj<n> se me<n>brando delo q<ue> oyera<n> dezjr e
+ap<r><<e>>ndiera<n> d<e>l. con<e>l gostar e con<e>l palpar
+erraro<n> ala p<er>sena del fiJo. Ca dela vna
+p<ar>te gostaua<n> los muchos mjraglos q<ue> el
+fazja e tomaua<n> sabor en<e>llos. com<m>o q<u><<i>>er}
 [fol. 137v]
 {CB1.
-}
+q<ue> los no<n> creyese<n>. desi blasesmaua<n> le co<n> sus
+le<n>guas q<ue> es mje<n>bro sen<n>alado del gostar e
+tanja<n> lo co<n> las manos apalpa<n>do le. e no<n> le
+conosc'ia<n> nj<n> sabia<n> q<u><<i>>en era. e ala c'ima-
+palpa<n>do le oujero<n> le de poner enla cruz.
+tenje<n>do q<ue> no<n> era fijo de dios verdadero si
+no<n> q<ue> era ot<r><<o>> om<n>e pecador. Con<e>l oler erraro<n>
+ala p<er>sona del sp<irit>u santo. de q<ue> auemos
+los buenos olor<e>s e los buenos saber<e>s
+q<ue> nos el q<u><<i>>so dar por el q<ue> so<n> los siete do-
+n<e>s. e esta<n>do el n<uest>ro sen<n>or enla cruz.
+diero<n> le ellos aoler e agostar fiel e vj-
+nagre. e alli pecaro<n> contra la p<er>sona d<e>l
+sp<irit>u santo e en<e>sta gujsa pecaro<n> co<n> los
+c'inco sentidos enlas tres p<er>sonas. q<ue> es
+el padre e el fijo e el esp<irit>u santo
+% cap<itul><<o>> .lxiij. por q<ue> rrazo<n> bio dios amoysen
+escp<n>tos los diez ma<n>damje<n>tos dela
+ley enlas tablas}
 [fol. 138r]
 {CB1.
-}
+{IN2.}Dixo el dec'iplo al maestro. por q<ue> rrazon dio
+dios n<uest>ro sen<n>or a moysen estp<r<<i>>po enlas
+ctablas los diez ma<n>damje<n>tos d<e>la ley
+ca pues q<ue> los fijos de yrrael era om<ne>s de
+tribos de gran<nde>s generac'ion<e>s e auja<n> abe
+ujr e avsar delas cosas del mu<n>do. co<n>ue
+nja q<ue> ley e postura pusiese<n> entresi
+com<m>o bjnjeze<n> e delo q<ue> vsasen e delo q<ue>
+se g<u><<a>>rdase por tal de no<n> caer en yerro.
+com<m>o fiziero<n> despues ot<r><<a>>s muchas ge<n>tes
+pues si ellos esto no<n> podia<n> escusar e
+lo auja<n> de fazer ensi demas era lo q<ue>
+dios fazia en dar q<ue>lo. e dase aente
+der segu<n>d esto q<ue> suberano era % Por
+end<e> q<ue>rria saber de ti. esto q<ue> dios fizo.
+por q<ue> lo fizo. e las obras de dios bie<n>
+deuemos ente<n>der q<ue> no<n> so<n> haldias e
+rrespo<n>dio el maestro e dixo le de ma<n>da.
+es en theologia e en derecho % por
+ende tu deues saber q<ue> el p<r><<i>>mero pue-
+blo}
 [fol. 138v]
 {CB1.
-}
+q<ue> dios escogio p<ar>a si. fuern los fijos de
+yrrael simjente de abraham. e desq<ue>
+los ouo dios dados e leuados por moy
+sen su sieruo al desierto contra la t<ie>rra
+de promjsio<n> q<ue> les auja p<r><<i>>metido. veye<n>
+do el n<uest>ro sen<n>or q<ue> ellos era<n>dados avi-
+c'ios e apecados. mas q<ue> otra bo<n>dat. sin-
+tie<n>do se d<e>lo q<ue> auja fecho en<e>llos. q<u><<i>>soe lo<n>
+dar posturas e ma<n>damje<n>tos q<ue> g<u><<a>>rdasen
+e temjese<n>. por q<ue> esto<n>c'e los fiJos de
+yrrael no<n> auja<n> otro rrey nj<n> ot<r><<o>> sen<n>or. si
+no<n> adios e d<e>la sa mano moysen su
+sieruo q<ue> era cabdillo d<e>llos. dio les
+dios por el. estas posturas e estos ma<n>-
+damje<n>tes moysen los rresc'ibio de mano
+de dios e los dio alos fijos de yrrael
+por el. e com<m>o q<u><<i>>er q<ue> dios esto fiziese
+esto<n>c'e p<ar>a g<u><<a>>rdar los de yerro. ot<r><<o>> si les
+fizo por todas las ot<r><<a>>s gent<e>s q<ue> en os-
+estos abria<n> ea venjr. q<ue> de alli tomash}
 [fol. 139r]
 {CB1.
-}
+man<er>a de v<er>dat e costu<n>bre de rregla de to-
+das las cosas q<ue> aja<n> ag<u><<a>>rdar e tomar d<e>las
+cosas q<ue> auja<n> a obedesc'er e conosc'e<n>c'ia delas
+cosas q<ue> auja<n> a conosc'er e escoger. pues
+dios q<ue> es rrey sobre todos los ot<r><<o>>s rreyes
+e sen<n>or sobre todos los ot<r><<a>>s sen>or<e>s. su-
+co<n>o era esto del p<r><<i>>mero de abrir esta p<r><<i>>me-
+ra carrera. casi los om<ne>s ael no<n> conosc'ie
+szen e los ma<n>damje<n>tos des p<r><<e>>c'iasen. no<n>
+temeria<n> e des p<r><<e>>c'iaria<n> los ot<r><<a>>s ma<n>damje<n>-
+tos e las ot<r><<a>>s posturas. q<ue> fiziesen los
+ot<r<<o>>s senntr<e>s te<n> porales. q<ue> so aJuyzio
+e el rregn<n>ado e ma<n>dando dalos fijos de
+co<n>rrael. dio ensie<n>plo alos ot<r><<o>>s rreyes q<ue>
+rregna<n> so el. por estos diez ma<n>damje<n>tos.
+q<ue> les dio. com<m>o cada vno en<e>l rregno q<ue>
+ha. deue dar bue<n> fuero e toller el ma-
+lo e poner ley enq<ue> bjua<n> los om<ne>s segu<n>d
+derecho por q<ue> sepa<n> g<u><<a>>rdar se e lo q<ue> ha<n>}
 [fol. 139v]
 {CB1.
-}
+de obedesc'er e fazer e lo q<ue> deue<n> dexar e
+estremar e com<m>o q<u><<i>>er q<ue> los diez ma<n>da
+mje<n>tos aya<n> no<n> bre q<ue> todo so ma<n>damje<n>-
+tos e p<ar>a mjent<e>s. e fallaras q<ue> no<n> an-
+mas de tres q<ue> sea<n> ma<n>damje<n>tos. e los
+siete so<n> dere<n>djmje<n>tos e los ma<n>damje<n>tes
+so<n> estos auma atu dios de todo tu corac'o<n>
+e de toda tu anjma. el ente<n>djmje<n>to des-
+te ma<n>damje<n>to es este. q<ue> ames e q<ue> creas en
+vn solo dios q<ue> es criader e fazedor de to-
+das cosas. en<e>l q<u><<a>>l se enc'ierra la trenjdat
+d<e>las tres p<er>sonas q<ue> es vn dios e este vn so-
+lo dios no<n> le deyes nj<n> le aberrestas por
+los dioses agenos. e amale co<n>plida me<n>-
+te de todo tu corac'o. q<ue> toda la tu vobie<n>
+dat p<ar>tas de otra cree<n>c'ia e amale de
+toda tu anjma p<ar>tiendo la de todas los
+vic'ios e de todos los ot<r><<o>>s vic'ios e saber<e>s
+deste mu<n>do. e torna<n>dar la enc'ert-
+da enla tu carne q<ue> conostas por ella. q<ue>
+el es de todo su fazedorer saluador. el se
+gu<n>do ma<n>damje<n>to dize onrra a tu padre}
 [fol. 140r]
 {CB1.
-}
+e atu madre e esto te ma<n>do dios. q<ue> del
+ayuso q<ue> conoscas la sjmjent<e> on<n> saliste
+ca siel padre e la madre tenporal cono
+sc'ieres conosc'eras adios q<ue> es padre criador e
+fazedor sobre todo. el terc'aro ma<n>damje<n>to
+es ama al tu xp<st>i>uno allega<n>do le ati. asi
+com<m>o ati mesmo. en<e>ste ma<n>damje<n>to ma<n>da
+dios q<ue> fagas bo<n>dat e ames al dela
+tu ley q<ue> es allega ati por bo<n>dat e por
+bezjndat e por amor q<ue> aya contigo q<ue> le
+no<n> q<u><<i>>eras mal nj<n> c'oJas mal q<ue>renc'ia con<e>l
+pues no<n> te mesc'e por q<ue> tomes cobdic'ia
+delo suyo. por q<ue> no<n> metas ati en yerro
+e asi com<m>o el g<u><<a>>rdare ati. q<ue> tuseas tenu-
+do de g<u><<a>>rdar ael. por q<ue> yerro nj<n> mal no<n> se-
+lleua<n>te d<e>llo de ti ael. estos so<n> los tres-
+ma<n>damje<n>tos e los ot<r><<o>>s siete son dese<n>
+djmje<n>tos. e la rrazo<n> por q<ue> el n<uest>ro sente
+dios q<u><<i>>so q<ue> los ma<n>damje<n>tos fuese<n> tres-
+e los defe<n>djmje<n>tos si e es por esto. la
+carne d<e>l om<n>e e los vinos deste mu<n>do}
 [fol. 140v]
 {CB1.
-}
+q<ue> afoga<n> la bo<n>dat d<e>l anjma so<n> mas pre-
+stos e mas dados p<ar>a fazer mal. q<ue> no<n>
+p<ar>a rretener se dello e veyendo dios e co-
+nosctie<n>do q<ue> el om<n>e q<ue> criara e fiziera era
+fecho de tal materia e apareJado p<ar>a-
+esto. e por eso q<u><<i>>so q<ue> los de fendjmje<n>tos
+p<ar>a rretener se de no<n> obrar mal fuese<n>
+siete e los ma<n>damje<n>tos en q<ue> yaze
+toda la bo<n>dat fueze<n> tres. e estos tres-
+ma<n>damje<n>tos so<n> tres por las tres p<er>sonas
+dela trenjdat q<ue> se enc'ierra<n> en vn dios
+e los siet dere<n>djmje<n>tos so<n> siete. por
+los sie don<e>s del sp<irit>u santo. por los q<u><<a>>-
+les don<e>s se alu<n>bra el anjma d<e>l om<n>e e
+se tuelle de mala carrera. e torna a-
+buena e de tinjebra aclaridat. por este
+alu<n>bramje<n>to
+% cap<itul><<o>> .lxiij. por q<ue> rrazo<n> so<n> los eua<n>ge
+listas q<u><<a>>tro e no<n> so<n> mas nj<n> menos
+{IN3.}Pregu<n>to al dec'iplo al maestro. por q<ue>
+rrazo<n> so<n> los euangelistas q<u><<a>>tro}
 [fol. 141r]
 {CB1.
-}
+e no<n> so<n> mas nj<n> menos. rrespo<n>dio el ma-
+estro. esta dema<n>da q<ue> me fazes por vna
+cosa es graue de asboluer por lo q<ue> te dire.
+los n<uest>ros santos padr<e>s d<e>la n<uest>ra ley E
+tras lador<e>s e ordenador<e>s &las escp<r><<i>>ptuas
+no<n> fallamos en q<u><<a>>ntas escp<r><<i>>pturas fiziero<n>
+e co<n>pusiero<n>. q<ue> en nj<n>gu<na> dellas fablase des-
+te cue<n>to delos eua<n>geljstas. por q<ue> era<n> q<u><<a>>tro
+opor q<ue> no<n> era mas om<enos. saluo end<e> en
+lo q<ue> dixo ydzachias p<r><<o>>feta. allido fablo
+dela vilio<n> q<ue> viera del c'ielo cop<sa>r
+el q<u>al viera la silla de dios. odize yza-
+chel p<r><<o>>feta. asemeJa<n>c'a delas caras delos
+q<u><<a>>tro eua<n>gelistas. caua<n>llerias q<u><<a>>tro q<ue> auja
+fac'es de om<ne>s e de le on<n> e ala diestra-
+p<ar>te destos sobre dichos. ot<r><<a>>s q<u><<a>>tro faces de
+bueye<n>. e ala sinjestra p<ar>te otras q<u><<a>>tro
+fac'es de agujlas sobre estas q<u><<a>>tro
+de aq<u><<i>> adelant<e> dize este p<r><<o>>feta en<e>sta
+p<r><<e>>sfec'ia destas anjmalias de com<m>o auja<n>
+dellas de p<r>tidas las vnas delas ot<r><<o>>s}
 [fol. 141v]
 {CB1.
-}
+e de q<u><<a>>l fazo<n> era<n> e com<m>o se cobria d<e>llas
+e com<m>o se ayu<n>taua<n> las vnas co<n> las ot<r><<a>>s
+aderredor del trano enq<ue> estaua la sallade
+dios. ot<r><<o>>si dize sant iohu<n> apostol e enu<e>-
+gelista. enlas sus vision<e>s del apocalipsi
+en<e>l logar ado dize asi. e aq<ue>llos dias v-
+vna puerta abierta en<e>l c'ielo. e la voz p<r><<e>>
+mera q<ue> oyo era ta<n> gra<n>de com<m>o tropa. q<ue>
+fablaua comjgo e me dezia su be aca e
+mostrer te dr lo q<ue> co<n>ujene seer agora
+e despues q<ue> me lo ouo dicho. luego ala
+ora fue alli adon<n> el mema<n>do en sp<irit>u. e
+ahe q<ue> vi silla puesta en<e>l c'ielo. e sobi-
+aq<ue>lla silla era semeJant<e> de saspe. e
+otra q<ue> llama<n> sardjujs e otra ignjs e
+era en<e>l c'erco desta salla semeJanc'a se
+gno la mj visio<n> de esmeralda e ene>l
+to desta sala otras sialas de vernt<e> e
+q<u><<a>>tro. sobre los veynt<e> e q<u><<a>>tro tronos
+veynt<e> e q<u><<a>>tro vieJos q<ue> seya<n> en<e>ste c'ero-
+enestas sillas bestidos de bestiduras.
+blancas. e en sus cabecas corenas de-}
 [fol. 142r]
 {CB1.
-}
+de oro. e deste tinpo no salia gra<n>d claridat
+de fuego e bozes grandes
+e estaua<n> siete lanparas ar-
+dient<e>s ant<e> este ceces. las q<u><<a>>les siete la<n>
+paras. so<n> los siete don<e>s de gr<ac'i>a despu<e>-
+santo de dios. E ant<e> esta salla esta
+ua asi com<m>o mar de vidrio asemeJa<n>c'a de
+cristal e en medio desta silla e ade-
+rredor d<e>lla q<u><<a>>tro anjmalias llenas de oJos
+tan bie<n> delant<e> com<m>o en pos. si. tu-
+deues saber en<e>ste logar. q<ue> estos muchos
+oJos q<ue> cataua<n> atodas p<ar>tes. so<n> los oJos
+ve gra<n>d alu<n>bramje<n>to de c'enc'ia e de gra<n>d san-
+lidat q<ue> dios puso en<e>stos q<u><<a>>tro eua<n>gelistas
+por q<ue> conosc'iero<n> e ente<n>djero<n> e estujero<n>
+las sus palabras. e el su fecho todo
+p<r<<e>>sn com<m>o paso. enlos eua<n>gelios q<ue> fi-
+ziero<n> e por alli lo sabemos nos. ca
+ellos alu<n>braro<n> la egla por las palabras
+q<ue> estujero<n> % pues q<u><<i>>ero te agora tor-
+nar aesta visio<n> de sant iohn e aca-
+lar}
 [fol. 142v]
 {CB1.
-}
+te la he % la p<r><<i>>mera destas anjmalias a
+semeJa<n>c'a del leo<n> % la segu<n>da anjma
+lia de toro % la terc'era destas anjmalias
+era com<m>o om<n>e e auja alas % la q<u><<a>>rta an-
+malia asemeJa<n>c'a de agujla. e cada vna
+por si auja seys alas. e no<n> auja<n> folga
+ra de dia nj<n> de noche de dezjr santus
+santus santus domjnus sen<n>or poderosy
+q<ue> eras e eres e seras por sienp<r><<e>> sa-
+mas. >alq<ue> te q<u><<i>>ero acabar esta vizio<n> de
+sant< iohn. por ende deues saber. q<ue>>po
+este sant ioh<an> fablo mas alta ment<e> q<ue>
+los ot<r><<o>>s eua<n>gelistas. por esto la su figer
+ra paresc'e de agujla. e buela en alto
+la rrazo<n> q<ue> me dema<n>daste por q<ue> era<n> los
+eua<n>gelistas q<u><<a>>tror no<n> so<n> mas nj<n> menos.
+so<n> estas dos vison<e>s q<ue> agora te dixe
+la vna de sant Jua<n> aposto e eua<n>gelista
+la otra de ssachel p<r><<o>>feta. mas por
+estas vision<e>s q<ue> te he co<n>tado. no<n> se de-
+p<ar>te por ellas el cue<n>to q<ue> me dema<n>daste
+por q<ue> so<n> tro. e la mas derecha rrazo<n>
+q<ue> yo fallo es esta q<ue> so agora te dire.}
 {CW. tu deues}
 [fol. 143r]
 {CB1.
-tu deues saber.
-}
+tu deues saber. q<ue> en<e>l p<ar>a yso terrenal se
+p<ar>te el agua en q<u><<a>>tro p<ar>tes. e faze<n> se-
+den<e>s q<u><<a>>tro rrios. los q<u><<a>>les so<n> llamados
+crison. frison. tigrin>. eufratr<e>s. e destos
+q<u><<a>>tro rrios q<ue> sale<n> del p<ar>ayso. se riega<n> to
+das aq<ue>llas e a mochigua<n> todas las a-
+guas. e ente<n>djmje<n>to fue de alg sa
+vios. q<ue> dixiero<n> q<ue> <eaq<ue>llos rrios se ayuta-
+ra el agua dela mar. q<u><<a>>ndo al comje<n>c'o q<ue>
+dios crio el mu<n>do. ayu<n>to todas las agu-
+as del mu<n>do. e les puso no<n>bre mar % Por
+ende asemeJa<n>c'a d<e>l p<ar>ayso c'elestrial sobre
+q<ue> esta la silla de dios. el p<ar>ayso terrenal
+e la fuent<e> q<ue> esta en medio e nasc'ee
+medio d<e>l. es la djujnjdat de dios padre.
+el rrio q<ue> sale d<e>l agua del. fuent<e>. es la
+p<er>sona de ih<es>u xp<ist>o q<ue> nasc'io de dios padre
+e aq<ue>l rrio faze desi q<u><<a>>tro p<ar>tes. q<ue> so<n> los
+q<u><<a>>tro eua<n>gelistas q<ue> nasc'iero<n> en q<ue>les escgio di
+fuero<n> conosc'idos por lo q<ue> dixier<e> e este e
+ujero<n> lia djujnjdat de dios padre e d<e>la
+nasc'e<n>c'ia de ih<es>u xp<ist>o saluador del mu<n>do}
 {SG. x}
 [fol. 143v]
 {CB1.
-}
+n<e>la subida e d<e>la su pasion e d<e>las
+su madre. e por q<ue> estos rries q<ue> de suso<e
+dixiemos. no<n> fuero<n> mas de q<u><<a>>tro. por end<e>
+no<n> fuere<n> mas de q<u><<i>>tro eua<n>gelistas. e
+ant<e>s q<ue>los eua<n>gelistas fuese fechos e
+escogidos de dios. nj<n> fablasen lo q<ue> fa-
+blaro. nj<n> estujese<n> lo q<ue> estujero. estaua
+ca figurado en<e>l c'ielo. segu<n>d q<ue> de su-
+so oy>stes. q<ue> dixo el p<r><<o>>feta e sant no
+da enlas vision<e>s q<ue> viero<n> e segu<n>d las
+sus figuras. se de mostraua cada vno de-
+llos q<u>al auja de seer e de q<u>al materia
+de rrazo<n> auja de fablar. Ca si com<m>o la
+xpr>sona d<e>l fiJjo. desienp<r><<e>> syn comje<n>c'o fue
+co<n>la p<er>sona de>l padre. q<ue> fue ordenado q<ue>
+tomase carne de santa en<n>a. bie<n> asi es-
+taua ordenado en<e>l c'ielo q<ue> estos q<u><<a>>tro eua
+gelistas auja<n> a seer en t<ie>rra e en<e>l t<ien>po d<e>la
+encarnano> de ih<es>u xp<ist>o. por q<ue> por ellos
+sopiesemos de clarada mente la djujnj-
+dat e la vmanjdat
+% cap<itul><<o>> .lxiiij<<o>>. por q<ue> rrazo<n> sant iohn ha figura de
+agujla e sant mateo figura de om<n>e e
+sant marcos de leo<n> e sant lucas de bezeres}
 [fol. 144r]
 {CB1.
-}
+{IN2.}Dixo el dec'iplo al maestro. por q<ue> rrazon dier<e>
+sant lua<n> ha figura de agujla e a-
+sant mateo figura de ome co<n> alas
+e asant marcos figura de le on Ca com<m>o
+q<u><<i>>er q<ue> estas anjmalias fuesen puestas
+en<e>l c'ielo. e vistas enla jsio<n> de ysachel
+p<r><<o>>feta e de sant Jua<n>. segu<n>d de su
+so me deyieste. en nj<n>guna delas visio
+on<ne>s. no<n> dize esta anjmalia es de tal
+eua<n>gelista nj<n> de fulano % rrespo<n>dio el
+maestro. el agujla ha ensi tres p<r><<o>>pieda
+do<n> % la p<r><<i>>mera buela mas alto q<ue> todas
+las ot<r><<a>>s aues % la segu<n>da vee mas rrezio
+por el sol arriba. q<ue> todas las ot<r><<a>>s cria-
+turas terrenal<e>s. mas fallamos d<e>la a-
+gujla. q<ue> q<u><<a>>nto pone sus hueuos en<e>l nuesn>do
+pone los calos mas agudos d<e>los hueuos
+contra do sase<n> las cabec'as delos fiJos
+estau ornadas contra orient<e>. por tal
+q<ue> asi com<m>o nasc'e el sol. enla man<en>ana.
+q<ue> luego los rrayos del sol dan por los
+huen<u>os en aq<ue>lla p<ar>te q<ue> esta<n> las cabecas}
 [fol. 144v]
 {CB1.
-}
+E despues asi com<m>o el sol va toda via
+anda<n>do en derredor fasta q<ue> se pone. asi
+torna la agujla los sus hueuos en<e>l nu<n>do
+sienp<r><<e>> de pu<n>ta contra los rrayos del sol
+fasta q<ue>l sol es puesto. e esto q<ue> te digo.
+q<ue> faze alos hueuos. eso mesmo faze a-
+los tijos des q<ue> los ha sacado mje<n>tra los
+cria. fasta q<ue> so<n> grand<e>s e asi los abeza
+el padre e la madre por estas tres man<n>as
+q<ue> te. he co<n>tado q<ue> ha enla agujla. es
+sant ioh<an> puesto en figura de agujla.
+lo p<r><<i>>mero asi com<m>o el aguna buela mas al
+to q<ue> todas las ot<r><<a>>s aues. bie<n> asi sant<
+ohu<n> fablo meJor e mas alta ment<e> q<ue> to-
+dos los ot<r><<o>>s eua<n>gelistas nj<n> los santos q<ue>
+fuero<n> por eso dixo sant agosti<n>. q<ue> si
+este sant ohu<n> fablara vn poco mas es-
+curo de q<u><<a>>nto fablo. q<ue> nu<n> ca oujera ente<e>
+djmje<n>to de om<n>e q<ue> lo pudiera ente<n>der nj<n>
+disponer. q<ue> en aq<ue>llo q<ue> el dixo ta<n> alta
+ment<e> fablo. q<ue> mucho oujero<n> q<ue> dis
+poner los s<an>tos dotor<e>s q<ue> despues del
+fuero<n>. ot<r><<o>>si asi com<m>o la agujla vee mas}
 [fol. 145r]
 {CB1.
-}
+clara ment<e> por los rrayos d<e>l sol arriba
+q<ue> otra criatura. bie<n> asi este sant ohu<a>> vio
+mas clara ment<e> por los sus oJos de san-
+tidat e de virginjdat. los rrayos d<e>l sol
+q<ue> so<n> asemeJa<n>c'a de ih<es>u xp<ist>o fio de dios. elsol
+es dios padre e los rrayos vio el. estando
+ih<es>u xp<ist>o enla cruz salljr d<e>la llaga d<e>l su cos-
+tado sangre e agua. la q<u>al cosa no<n> vio ot<r><<o>>
+delos apostoles. ca todos era<n> foydos. sino el
+q<ue> lo vio por sus oJos. e da testi<moni>o dello aq<ue>l
+q<ue> lo vio. e por estos rrayos del sol ih<es>u
+xp<ist>o fijo de dios. vio el la djujnjdat de
+dios padre enlas cosas q<ue> el tenja escodidas
+e ordenadas p<ar>a mostrar por su rreuela.
+c'io<n> estujo vn libre. el q<u><<a>>l es llamao a poca-
+lipsi. este libro fizo el esta<n>do desterrado q<ue>
+la Jnsola de an. % la terc'era es
+asi com<m>o el agujla torna los calos mas
+agu<n>dos delos hueuos q<ue> tiene ensu n<n>do
+contra los rrayos d<e>l sol. eso mesmo fa-
+ze delos fijos despues q<ue> los ha sacad
+delos hueuos % otrosi sant< ol<n> por las
+palabras q<ue> el dixo enlos sus libros q<ue> el}
 [fol. 145v]
 {CB1.
-}
+E despues asi com<m>o el sol va toda via
+anda<n>do en derredor fasta q<ue> se pone. asi
+torna la agujla los sus hueuos en<e>l nu<en>do
+sienp<r><<e>> de pu<n>ta contra los rrayos del sol
+fasta q<ue>l sol es puesto. e esto q<ue> te digo
+q<ue> faze alos hueuos. eso mesmo faze a-
+los tijos des q<ue> los ha sacado mje<n>tra los
+cria. fasta q<ue> so<n> grand<e>s e asi los abeza
+el padre e la madre por estas tres man<n>as
+q<ue> te. he co<n>tado q<ue> ha enla agujla. es
+sant<e ioh<an> puesto en figura de agujla.
+lo p<r><<i>>mero asi com<m>o el agujla buela mas al
+to q<ue> todas las ot<r><<a>>s aues. bie<n> asi sant
+ohu<n> fablo meJor e mas alta ment<e> q<ue> to-
+dos los ot<r><<o>>s eua<n>gelistas nj<n> los santos q<ue>
+fuero<n> por eso dixo sant agoste. q<ue> si
+este sant ohu<n> fablara vn poco mas es-
+curo de q<u><<a>>nto fablo. q<ue> nu<n> ca oujera ente<e>
+djmje<n>to de om<n>e q<ue> lo pudiera ente<n>der nj<n>
+disponer. q<ue> en aq<ue>llo q<ue> el dixo ta<n> alta
+ment<e> fablo. q<ue> mucho oujero<n> q<ue> dis
+poner los s<an>tos dotor<e>s q<ue> despues del
+fuero<n>. ot<r><<o>>si asi com<m>o la agujla vee mas}
 [fol. 146r]
 {CB1.
-}
+clara ment<e> por los rrayos d<e>l sol arriba
+q<ue> otra criatura. bie<n> asi este sant ohu<a> vio
+mas clara ment<e> por los sus oJos de san-
+tidat e de virginjdat. los rrayos d<e>l sol
+q<ue> so<n> asemeJa<n>c'a de ih<es>u xp<ist>o fio de dios. elsol
+es dios padre e los rrayos vio el. estando
+ih<es>u xp<ist>o enla cruz salljr d<e>la llaga d<e>l su cos-
+tado sangre e agua. la q<u>al cosa no<n> vio ot<r><<o>>
+delos apostoles. ca todos era<n> foydos. sino el
+q<ue> lo vio por sus oJos. e da testi<moni>o dello aq<ue>l
+q<ue> lo vio. e por estos rrayos del sol ih<es>u
+xp<ist>o fijo de dios. vio el la djujnjdat de
+dios padre enlas cosas q<ue> el tenja escodidas
+e ordenadas p<ar>a mostrar por su rreuela-
+c'io<n> estujo vn libro. el q<u><<a>>l es llamas a poca-
+lipsi. este libro fizo el esta<n>do desterrado e<e>
+la Jnsola de % la terc'era es
+asi com<m>o el agujla torna los calos mas
+agu<n>dos delos hueuos q<ue> tiene ensu nu<n>do
+contra los rrayos d<e>l sol. eso mesmo fa-
+ze delos fijos despues q<ue> los ha sacad
+delos hueuos % otrosi sant< ol<n> por las
+palabras q<ue> el dixo enlos sus libros q<ue> el}
 [fol. 146v]
 {CB1.
-}
+fizo por la si bo<n>dat e por la su santidat
+E por la su virginjdat q<ue> en<e>l ouo alau<n>bro
+& enderec'o anos los xp<ist>ianos fijos d<e>la s<an>ta
+egl<es>ia de dios q<ue> somos fijos de de agujla.
+por rrazo<n> deste sant ohn q<ue> es n<uest>ro padre. e
+asi com<m>o la agujla torna asus fijos los oJos
+contra el solj bie<n> asi torna el anos los fie-
+les xop<ist>ina nos por las gu<n>d esp<r><<i>>pturas e por
+los sus eua<n>gelios a conosc'er la djujnj-
+dat e la trenjdat q<ue> ant<e>s no<n> conoslc'iamos
+nj<n> podiamos ta<n> derecha ment<e> conosc'er. ot<r><<o>>
+si la aguja ha por natura. q<ue> si en vna ca-
+sa mete<n> muchas pen<n>o las de buet<e>s e de
+ansar<e>s e de pauont<e>s e de ot<r><<a>>s aues q<u>ales
+q<u><<i>>er. por vna pen<n>ola ta<n> sola ment<e> q<ue> echen-
+entre ellas sera<n> todas comjdas las d<e>las
+ot<r><<a>>s. e la dela agujla fi<n>ca sana. bie<n>
+asi fizo sant< ohn q<ue> por las palabras q<ue>
+el dixo comjo e destruyo las setas q<ue> los ere-
+tres e los Judios dezia<n> contra la trenjdat
+e sen<n>alada ment<e> contra la p<er>sona deichu
+xp<ist>o fijo de dios % sant matheos ha fi-
+gura de om<n>e en com<m>o el era saluo end
+por q<ue> tiene alas. e la rrazo<n> por q<ue> el ouo}
 [fol. 147r]
 {CB1.
-}
+esta figura es esta. sant mateos enlossus
+eua<n>gellios. fablo mas sen<n>alada ment q<ue>
+los ot<r><<o>>s eua<n>gelistas enla generac'io<n> d<e>l ljna
+te de santa m<ari>a e ote si enla nasc'e<n>c'ia de
+ih<rit>u xp<ist>o e com<m>o q<u><<i>>so tomar figura de om<n>e
+por la carne en q<ue> nasc'io. figurado desanta
+ma<n>a su madre. e desi fablo en todo aq<ue>-
+llo q<ue> co<n>tesc'io aih<es>u xp<ist>o seye<n>do njn<n>o e asan-
+ta m<ari>a su madre mas q<ue> los ot<r><<a>>s eua<n>bre
+listas % Sant marcos figura de leo<n>. la
+rrazo<n> por q<ue> este sant marcos fablo mas
+q<ue> los ot<r><<o>>s eua<n>gelistas d<e>la rresurec'ico de
+ihlra xp<ist>o q<ue> fue vna cosa muy espa<n>tosa e
+muy maraujllosa. otrosi fablo delos de
+ciertos e dela q<ue>rentena q<ue> ih<es>u xp<ist>o tomo
+Ee por q<ue> el leo<n> es anjmalia muy espa<n>tosa
+e anda por los desiertos e por los mo-
+tes e dasu bramjdo muy espa<n>table. to<o>
+mo lo sant martos en si estujo sus
+eua<n>gellios e por esto le da<n> figura de
+leo<n>. de mas asi com<m>o el leo<n> es anjmalia
+muy guel. fallamos deste sant< marcos.
+en<e>la leye<n>da de su vida q<ue> fizo gra<n>d guel
+dat desi. ca el mesmo se taJo el dedo dia}
 {GL. Quid dicat
 nescit}
 [fol. 147v]
 {CB1.
-}
+mano. por tal de no<n> seer ob<in>po. Ca ta<n> gra<n>d
+volu<n>tads auja la gent<e> d<e> le fazer ovp<is>so. q<ue>
+estusa q<ue> ponja por si no<n> le valia nada
+diziendo q<ue> no<n> era digno de sobjr atal
+estado. e des q<ue> vio q<ue> todo vlo al no<n> valia
+nada. ouo co<n> gra> cuyta ataJar se el de
+do. e con<e>sto escapo q<ue> no<n> le fizjero<n> el p<ieon>po
+e asi cu<n>plio su volu<n>tad. % sant luras
+ha figura de buey por q<ue> fablo mas q<ue>
+los ot<r><<a>>s eua<n>gelistas enla omjldat e enla
+virginjdat de santa m<ari>a. e q<u><<a>>nto el es-
+fujo en fecho de ih<es>u x<p<ist>o E desanta m<ari>a
+su madre. todo lo escujo por la bora de
+santa maria. Ca ella le mostro com<m>o
+fiejese. ca sant pablo le fizo asant<
+lucas q<ue> lo estujese. e el asi lo fizo. e asi
+com<m>o sant pedro fizo eua<n>gelista asant
+marcos. asi fizo sant< pablo asant lu-
+cas. e todos los mas eua<n>gellios q<ue> oytre
+o<n> enla eglna de santa m<ari>a todos los es-
+p<r><<e>>ujo este sant lucas. e por estas rrazo
+no<n> q<ue> de suso so<n> dichas. pone<n> los eua<n>tre
+bistas en<e>sta q<u><<a>>tro figuras}
 [fol. 148r]
 {CB1.
-}
+% cap<itul><<o>> .lxv. por q<ue> no<n> so<n> por todo el m<n>.
+do ta<n> grades las noches com<m>o los dias
+en vna tierra com<m>o en otra
+El dec'iplo p<r><<e>>gu<n>to al maestro. por q<ue> sion
+por todo el mu<n>do las noches e los dias
+ta<n> grand<e>s en vna t<ie>rra com<m>o en ot<r><<o>>. rres-
+pondio el maestro sepas q<ue> esto es por dos-
+cosas. la p<r><<i>>mera por el andar d<e>l sol. la
+segu<n>da por la rredo<n>deza d<e>la t<ie>rra q<ue> es llama
+da mu<n>do en q<ue> beujmos. e q<u><<i>>ero te agora co<n>-
+tar en q<ue> maner>a es. por cada vna destas co-
+sas. el sol nasc'e abrient<e> e anda por la p<ar>te-
+de meridio q<ue> es llamada mu<n>dies q<ue> q<u><<i>>ere de-
+zjr medio dia. e pone se ala noche a pi-
+njent<e>. e en derecho de medio dia ay vna
+p<ar>te q<ue> es llamada setetrio<n> e todas las
+t<ie>rras q<ue> so<n> ayte de orient<e> manesc'e mas
+ayna q<ue> atodas las ot<r><<a>>s p<ar>tes. e por end<e>
+so<n> las noches mas peq<ue>n<n>as. e el dia viene
+mas ayna por q<ue> nasc'e alli ant<e> el sol q<ue>}
 [fol. 148v]
 {CB1.
-}
+en ot<r><<a>> logar. e q<u><<a>>nto mas va sendo cont<e>>
+ponjent<e>. ta<n>to mas arde amanesc'e alli.
+Ca la rredo<n>deza d<e>la t<ie>rra dela vna faz co<na
+ze en medio e ha de peJar el sol sobre
+ella ant<e> q<ue> paresca<n> los rrayos d<e>la ot<r><<o>> p<ar>te
+e ala p<ar>te q<ue> llama<n> satagi<n> e mayor la
+noche q<ue> en otra t<ie>rra e menor el diae aes-
+ta p<ar>te so<n> los dias e las t<ie>rras muy frias
+entre estas ay vna q<ue> llama<n> noreega e ot<r><<o>>s
+t<ie>rras q<ue> so<n> muy frias e alla cont<r><<a>> el cabo
+de noreega cont<<a>> satatrio<n> ay vna t<ie>rra q<ue>
+q<u><<a>>ndo comjenc'a<n> a cresc'er las noches llega<n>
+cresc'ie<n>do seys meses q<ue> dura la noche.
+e ot<r><<o>>si q<u><<a>>ndo comjenc'a cresc'er los dias
+llega<n> cresc'ie<n>do aseys meses e es com<m>o yo
+agora te dire. enlos seys meses q<ue> se sa-
+ze vn dia. q<u><<a>>ndo es dia enlas ot<r><<o>>s tie>ras
+es alla dia claro e lu<n>broso. e q<u><<a>>ndo elas
+ot<r><<a>>s t<ie>rras es noche es alli dia despues
+q<ue>l sol es puesto entre dia e la noche. e
+otro si el t<ien>po q<ue> dura la noche seys meses
+q<u><<a>>ndo por las ot<r><<a>>s t<ie>rras es noche. es alla}
 [fol. 149r]
 {CB1.
-}
+noche lobrega. e q<u><<a>>ndo por las ot<r><<a>>s t<ie>rras es
+dia. alla es asi com<m>o entre la noche e la
+man<n>ana<n> q<u><<a>>ndo amanesc'e e por rrazo<n> q<ue> los
+rrayos del sol no<n> puede<n> alca<n>c'ar en aq<ue>lla
+t<ie>rra asi com<m>o d<e>las ot<r><<a>>s. por end<e> es
+alla ta<n> fria q<ue> no<n> puede beujr om<n>e nj<n>-
+otra anjalia nj<n>guna ant<e> la gra<n>d freura
+e sobeja q<ue> es en aq<ue>lla t<ie>rra. fallamos
+ot<r><<o>>si q<ue> aca cont<<a>> meridio<n>. ay ot<r><<o>> t<ie>rra q<ue>lla
+ma el mar delas arenas e alli bjue<n> los
+moros negros. e por la gra<n>d cale<n>tura d<e>l
+ayre d<e>la t<ie>rra so<n> ellos ta<n> negros. asi alli
+do ellos mora adelant<e> no<n> puede<n> beujr nj<n>gun-
+trn> om<ne>s por rrazo<n> dela grad cale<n>tura del
+sol. E por estas rrazon<e>s q<ue> te he dicho. no<n>
+zo<n> los dias nj<n> las noches segualeo> por
+las t<ie>rras q<ue> so<n> en<e>l mu<n>do. e com<m>o q<u><<i>>er q<ue>
+este desuariamje<n>to acaesc'e por la rreco<n>de
+za dela t<ie>rra e por el andar del sol po-
+co<n> todo eso las oras d<e>l dia e dela noche
+sienp<r><<e>> so<n> ygual ment<e> veyint<e> e q<u><<a>>tro
+oras e q<u><<a>>ndo me<n>gua la noche. cresc'e en<e>l}
 [fol. 149v]
 {CB1.
-}
+dia e q<u><<a>>ndo me<n>gua en<e>l dia cresc'e enla
+nocho
+% cap<itul><<o>> .lxvj. q<u><<a>>ndo la luna. por q<ue> paresc'e alos
+om<ne>s el lunar mayor e mas claro q<u><<a>>ndo
+esta anublado. q<ue> q<u><<a>>ndo esta claro
+{IN2.}Dixo el dec'iplo al maestro. q<u><<a>>ndo la luna
+paresc'e anos toda llena e faze el
+lunar de noche. este lunar por q<ue> pa-
+resc'e anos los om<ne>s mayor e mas claro
+la noche q<ue> faze nublado. q<ue> q<u><<a>>ndo el c'ielo
+esta claro e estrellado. Ca segu<n>d mjen-
+te<n>djmje<n>to so ternja q<ue> me deuja pare
+sc'er el lunar en<e>l c'ielo estrellado q<ue> en<e>l ta
+nublado. pues rruego te q<ue> me digas por
+q<ue> es. rrespo<n>dio el maestro. sepas q<ue> el lu-
+nar d<e>la luna no<n> dura toda la noche. sal
+uo end<e> q<u><<a>>ndo la luna es llena. Ca asi com<m>o
+la luna va cresc'ie<n>do enla claridat q<ue> toma-
+del sol asi va<n> cada noche cresc'ie<n>do e du
+ra<n>do mas el su lunar por las oras d<e>la
+noche fasta q<ue> cu<n>ple atoda la noche. q<u><<a>>ndo}
 [fol. 150r]
 {CB1.
-}
+la luna es toda llena. pues yo te conte en-
+otra dema<n>da q<ue> de suso me fezjste en com<m>o
+la luna e las estrellas no<n> ha<n> nj<n>guna clari-
+dat de suyo. si no<n> la rresc'ibe<n> d<e>l sol. mes
+la luna enla claridat q<ue> da desi. q<u><<a>>ndo faze
+el lunar esta claridat. no<n> ha ella
+mas sen<n>alada q<ue> las ot<r><<a>>s estrellas Ca ella
+e las ot<r><<a>>s del sol la rresc'ibe<n>. mas pares-
+c'o anos q<ue> es mas lo d<e>la luna por doscosas
+la p<r><<i>>mera por q<ue> esta mas c'erca de nos q<ue>
+las ot<r><<a>>s planetas. la segu<n>da por q<ue> la lu-
+na es mas de natura de rresc'ebjr ensi cla
+ridat e d<e>la dar anos. e por esta rrazo<n>
+les puso dios no<n>bre al sol e ala luna lu-
+mjnarias. e las ot<r><<a>>s estrellas esta<n> mas
+altas enlos ot<r><<o>>s c'ielos e la luna esta
+en<e>ste p<r><<i>>mero. e ta<n>ta es la claridat q<ue>
+cada vna destas estrellas da desi q<ue> de
+q<u><<a>>ndo el c'ielo esta claro al d<e>la
+luna. e por eso no<n> puresc'e ta<n> bie<n> com<m>o
+esta nublado. q<ue> esta<n> las ot<r><<a>>s enbargadas.
+e q<u><<a>>ndo el t<ien>po esta nublado com<m>o esta<n> las}
 [fol. 150v]
 {CB1.
-}
+nubes de yuso d<e>la luna e esta<n> cargadas
+dela vmjdat de q<ue> se faze el agua q<ue> llue
+ue e da el lunar sobre ellas e faze las
+rresplandesc'er e de aq<ue>l rrespla<n>desc'imj<n> da-
+mayor claridat ala t<ie>rra. en man<er>a q<ue> co<n> es-
+te rrespla<n>dor. semeja q<ue> es dia claro. e
+asemeJa<n>c'a desto toma vn vaso de vidro e
+ynche le de agua e po<n> le al rrayo del sol
+en gujsa q<ue> entre por cima del baso. e ve-
+ras q<u><<a>>n gra<n>d claridat q<ue> dara aderredor desi
+dela otra p<ar>te d<e>l vidro. e bie<n> asi co<n>tesc'ee
+lo q<ue> te dixe de suso. en rrazo<n> d<e>l arco q<ue>
+paresc'e enlas nubes q<ue> por q<ue> los rrayos del
+sol. dan de cuesta enlas nubes q<u><<a>>ndo esta<n>
+cargadas de agua. faze paresc'er aq<ue>l ar-
+co de muchas color<e>s e dep<ar>tidas las vnas
+delas otras. esta es la asolujc'io desta de
+ma<n>da q<ue> me fezjste
+% cap<itul><<o>> .lxvij. el aruol delos ljmon<e> q<ue> lla
+ma<n> ljmonar e ot<r><<o>>si el c'idral. por q<ue> faze
+el fruto ago e frio de yuso dela corteza}
 [fol. 151r]
 {CB1.
-}
+{IN2.}El dec'iplo p<r><<e>>gu<n>to al maestro. por q<ue> rrazo<n>
+el arbol. delos ljmon<e>s q<ue> llama<n> ljmonar
+otrosi el c'idral. q<ue> so<n> aruoles calient<e>s
+de natura e por eso se cria<n> enla t<ie>rra ca
+liente e no<n> enla fria. por q<ue> es de su natu-
+ra. pues q<ue> ellos so<n> calient<e>s e se cria<n>-
+enla t<ie>rra callient<e>. por q<ue> faze<n> el fruto de
+yuso dela corteza agro e frio e no<n> dul
+c'e nj<n> calient<e> segu<n>d su natura. rrespo<n>-
+dio el maestro tu deues saber. q<ue> cada vno
+destos arboles q<ue> tu agora dizes han en
+si en<e>l tre<n>co tres naturas. las q<u><<a>>les a-
+gora te dire. la corteza del arbol es ca-
+lient<e> e seca en man<er>a q<ue> tanta es la ca-
+le<n>tura e la seura q<ue> ha ensi. q<ue> fallaras
+en<e>lla gra<n>d amargura por la gra<n>d fuerc'a
+dela sera e dela cale<n>tura. q<ue> ha ensi e
+de yuso desta corteza yaze el madero d<e>l
+arbol e es cubierto ensi mesmo de vnas co-
+rreas q<ue> so<n> vmjdas e la su vmjdat es
+com<m>o dulc'e e toda la corteza de enc'ima seria
+q<u><<i>>mada por la gra<n>d cale<n>tura e ga<nd se-
+q<u><<a>>rdad}
 [fol. 151v]
 {CB1.
-}
+q<ue> ha ensi. e ot<r><<o>>si por la gra<n>d cale<n>tura q<ue>
+ha del sol. q<ue> da en<e>l. si no<n> fuese por esta
+vmjdat de yuso q<ue> la ma<n>tiene. bie<n> asi com<m>o
+ma<n>tiene la saljua del om<n>e la boca e los
+labios. q<ue> no<n> se seq<u><<a>>n d<e>l mucho fablar-
+e en medio del t<ien>poco de arbel esta el me-
+ollo por do sube toda la vmjdat de q<ue> el
+artol. se ma<n>tiene. e este meollo es de nu
+ra muy frio e ta<n>ta es la freura q<ue> ensi ha
+por tres rrazon<e>s q<ue> agora te dire. la p<r><<i>>me-
+ra por q<ue> el es frio. la segu<n>da por la fre-
+ura d<e>la t<ie>rra q<ue> sube por el arriba. la ter-
+c'era por la vmjdat gra<n>de del agua co<n>q<ue>
+lo rriega<n> e todas estas freuras ayu<n>ta
+das deso vno. faze<n> el meollo destos arbo
+les tornar negro. e asi va subie<n>do este
+meollo derrama en rrama fasta alli do-
+cria su fruta e atodas semeJa<n>c'as q<ue> ha
+este arbol ensi. faze q<ue> este fruto semeJe-
+aq<ue>llo. esmo. E por q<ue> veas q<ue> te digo la
+vedat. p<ar>a mjent<e>s enla corteza dela c'idria
+odela narcona od<e>l ljm<o>. e fallaras}
 [fol. 152r]
 {CB1.
-}
+q<ue> las cortezas so<n> calient<e>s e amargas
+e en pos la corteza fallaras q<ue> ha en<e>l
+ljmo e enla narcona vna tela q<ue> es
+asi vmjda e no<n> es amartga co<nmc<cto la de-
+enc'><<ma. e eso esto fallaras el c'iumo de
+dentro muy agro e muy frio E todas
+estas tres naturas fallaras enlas pepi-
+tas de cada vna destas frutas. casi esto
+las pepitas no<n> oujese<n> por q<ue> no<n> so<n> se-
+meJant<e> a aq<ue>l fruto no<n> se podria end
+criar otro arbol q<ue> fuese de aq<ue>lla natura
+tal com<m>o aq<ue>lla c'idra com<m>o es mayor fru-
+ta de suso esta la corteza e entre la
+corteza e lo amargo q<ue> es muy agro de to-
+das las mas d<e>llas. saluo end<e> de alg<na>s q<ue>
+el. amartro de medio es dulc'e. por la rrazo<n>
+q<ue> te dire adelant<e> entre el amartgo e la
+corteza esta la encarnadura d<e>la cira e
+esta encarnadura es dulc'o vnjda e nuy
+fuert<e> ensi. mas q<ue> encarnadura de otra
+fruta q<ue> de arbol sea. destos q<ue> los om<ne>s
+com<m>o e esta encarnaduria q<ue> vo<n>aze ensi}
 [fol. 152v]
 {CB1.
-}
+medio g<u><<a>>rda aq<ue>llo alo amargo de dentro
+q<ue> no<n> te<n>ga dan<n>o ala corteza nj<n> la corte
+za alo amargo E por esto es ella ta gra<n>-
+de e tan fuert<e> por q<ue> la susta<n> c'ia no<n> pue
+de pasar d<e>la vna ala ot<r><<a>> p<ar>a fazer dan<n>o
+e por q<ue> tu veas q<ue> te digo verdat en to-
+dos estas naturas q<ue> so<n> en vn arbol. q<u><<i>>ero
+te lo p<r><<o>>uar q<ue> es asi. el arbol del ge<n>gibre
+e este arbol q<ue> syo agora te digo. la cale<n>-
+tura es enla corteza e el madero es el
+ge<n>gibre e la flor q<ue> aq<ue>l ar vbol lieua. q<u><<a>>n
+do ha de leuar su fruto. es nauos de gi-
+rosle e la foa deste arbol ha no<n>bre fouo
+e la fruta deste arbol so<n> las nuezes mos-
+cadas e todas estas man<er>as q<ue> te he co<n>ta
+do. com<m>o q<u><<i>>er q<ue> en vn arveol sea cada vna
+d<e>llas espec'ia dep<ar>tida es la vna dela otra
+ensusta<n>c'ia e en sabor e en p<r><<o>>piedat.
+bie<n> asi acaesc'e d<e>los arbeles q<ue> te he co<n>tado
+de suso. ca n<uest>ro sen<n>or dios q<ue> fizo la na-
+tura q<ue> es madre e ma<n>tenedor de todas
+estas cosas. da v<er>tud por el poder de dios
+ta<n> bie<n> alas vnas com<m>o alas otras. por q<ue>}
 {GL. Realism}
 [fol. 153r]
 {CB1.
-}
+la obra paresca de cada vna ensu logar. e
+la rrazo<n> por q<ue> el amargo delas cioras ay
+do q<ue> es duc'e te dire. sepas q<ue> las doras
+q<ue> enel dral esta<n>. esta<n> altas e q<ue> todo lo
+mas d<e>l dia les da el sol. e no<n> esta<n> ala
+sonbra nj<n> esta<n> c'erca t<ie>rra ala vmjdat q<ue>
+dela t<ie>rra sale. q<ue> de tals com<m>o estas por
+la gra<n>d cale<n>tura del sol q<ue> rresc'ibe<n> e
+per la vmjdat de q<ue> no<n> se ap<r><<e>>uecha enla
+fuerc'a d<e>la gra<n>d cale<n>tura torna el amar-
+go dellas a seer dulc'e. e pierde la agru-
+ra q<ue> auja ensi. si oujese sonbra e
+humjdat. e las ot<r><<a>>s q<ue> esta<n> ala so<n>bra e
+baxas c'erca la vmjdat dela t<ie>rra ha<n> el
+amartro agro. ca no<n> las cueze el sol. ta<n>
+te com>o alas otras
+% cap<itul><<o>> .lxviiij<<o>>. por q<ue> rrazo<n> la pulga e el
+peoJo ha<n> muchos pies e el cauallo
+e el elefante. no<n> ha<n> mas de cada
+q<u><<a>>tro
+{IN2.}Dixo el dec'iplo maestro. rruego te q<ue> me-
+dizas vna palabra q<ue> fallo escp<r><<i>>pta. ua}
 [fol. 153v]
 {CB1.
 }
