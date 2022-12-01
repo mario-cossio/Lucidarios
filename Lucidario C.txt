@@ -2,9 +2,10 @@
 {RMK: [LUC] Lucidario.}
 {RMK: Madrid | Real Biblioteca| II/793.}
 {RMK: Mario Antonio Cossío Olavide}
-{RMK: Gloss in the cover leaf, verso: Esta fize yo Juan Yn<n>jges de / Segura an<n>o de ijjv an<n>os. fe-/cha enla leal ciudad de murcia}
+{RMK: Property mark in the cover leaf, recto: de fran<cis><<co>> de saluatierra}
+{RMK: Incorrect scribal attribution in the cover leaf, verso: Esta fize yo Juan Yn<n>jges de / Segura an<n>o de ijjv an<n>os. fe-/cha enla leal ciudad de murcia}
 {RMK: Signature in the cover leaf, verso: Don p<edr><<o>> de ARieta}
-{RMK: All modern glosses in ink are by Pascual de Gayangos, who consulted the manuscript in the decade of 1850 and compared it to testimony B, Universidad de Salamanca ms. 1958, then in the Real Biblioteca. There are two pencil annotations in fols. 47r and 133r by Richard Kinkade}
+{RMK: All modern glosses in Spanish are by Pascual de Gayangos, who consulted the manuscript in the decade of 1850 and compared it to testimony B, Universidad de Salamanca ms. 1958, then in the Real Biblioteca. There are two pencil annotations in fols. 47r and 133r by Richard Kinkade}
 [fol. 1r]
 {CB1.
 libro q<ue> ordeno el rrey don sancho de esclaresc'ida memo-
@@ -470,7 +471,7 @@ fin. sabida cosa es e c'ierta. q<ue> el en q<u><<a>>nto seer
 dios. no<n> ouo comje<n>c'o nj<n> fin nj<n> lo auera. mas esto
 dase. a ente<n>der por las obras q<ue> el fizo. e faze
 e fara q<ue> aya c'ima de bie<n>. en man<er>a q<ue> la su {GL. hasta aqui
-desde? la
+hasta la
 señal se-
 mejante
 del folio vii
@@ -812,12 +813,12 @@ com<m>o agora te dire. ella es fria e rresc'ibe ca-
 le<n>tura en sy dela claridat del sol e por aq<u><<i>> es
 el curso de las aguas en nasc'er e en correr e
 en seer te<n>pradas e en cresc'er e en me<n>guar
-o es {GL. onda?} vmjda tie<n>prase e otrosi la vmjdat della
+o es {GL. onda es} vmjda tie<n>prase e otrosi la vmjdat della
 co<n> la cale<n>tura dela claridat {GL. desde aqui di-
 fiere del otro
 codice hasta
 el fin de antes
-capitulo v ? alli
+del capitulo v que alli
 es el fin del 10} todos sus mje<n>bros.
 pu<e>s ya vees estas dos criaturas com<m>o las fi-
 zo dios. mas el sol e la luna e las estre-
@@ -904,9 +905,9 @@ ha<n> no<n>bre fixas q<ue> esta<n> figurados los doze sig-
 nos q<ue> esta<n> en<e>l c'ielo q<ue> so<n> estos q<ue> agora te dire}
 [fol. 18r]
 {CB1.
-{GL. figuras
+{GL. las figuras
 de los doze
-signos ?} % el p<r><<i>>mero ha no<n>bre arias. este ha figura de
+signos} % el p<r><<i>>mero ha no<n>bre arias. este ha figura de
 carnero q<ue> anda % el segu<n>do es tauros. ha fi-
 gura de vn toro gra<n>de q<ue> esta tornado com<m>o de
 rrostro en gujsa q<ue> paresc'e todo el rrostro del % el
@@ -990,7 +991,7 @@ com<m>o esta el sol e la luna e q<ue> ac'identes
 ha<n> por si % la terc'era q<u><<a>>ntos grados so<n> gra-
 nados e menudos % la q<u><<a>>rta la triplic'idat e
 los termjnos. e despues q<ue> todas estas co-
-sas sopiere sabra mejor dar los juyzios {AD. ?}
+sas sopiere sabra mejor dar los juyzios {AD. de}
 {AD. aq<ue>llo} q<ue> q<u><<i>>ere judgar. agora te q<u><<i>>ero dezir aq<ue>llo
 q<ue> me dema<n>daste del fecho dela luna por q<ue>
 denegresc'e segu<n>d q<ue> paresc'e anos. ya te dixe
@@ -1117,7 +1118,7 @@ no a fazer. el c'ielo e la t<ie>rra. antes q<ue>lo}
 fiziese donde estaua. Ca pues el c'ielo nj<n> la
 t<ie>rra no<n> era<n> fechos no<n> se en q<ue> logar pudiese
 estar % dixo el maestro. verdat es q<ue> el lo fi-
-zo todo el no<n> estaua en nada. mas todo {AD. estaua?}
+zo todo el no<n> estaua en nada. mas todo {AD. estaua}
 en<e>l. Ca si dios no<n> se pudiese tener si no<n>
 en logar do pudiese estar firme luego seria
 dios me<n>guado. bie<n> asi com<m>o ot<r><<o>> om<n>e terrenal.
@@ -1531,7 +1532,7 @@ angel por q<ue> dezir mas palabras de alli ade-
 lante. mas el angel toda la me<n>sageria
 traxo ordenada de dios. e toda se auja
 de acabar fasta enc'ima. e alli ella respo<n>-
-dio ae? sierua de dios sea fecha en mj
+dio ae sierua de dios sea fecha en mj
 segu<n>d la tu palabra. luego en aq<ue>lla ora
 fue el n<uest>ro sen<n>or entrado en<e>lla. Ca en esta rres-
 puesta q<ue> ella dio vio el n<uest>ro sen<n>or dos cosas
@@ -1773,7 +1774,7 @@ despues q<ue> es q<ue>bra<n>tado el can<n>o. asi se des-
 parzio la su sangre por saluar todos
 los del mu<n>do. este can<n>o fue adouado con<e>l
 su rresuc'itamje<n>to q<ue> el fizo q<u><<a>>ndo rrec'uc'ito
-de muert<e> avida. e en tal gujsa fue ado-
+de muert<e> a vida. e en tal gujsa fue ado-
 uado el can<n>o por q<ue> pudo tornar el agua
 a aq<ue>lla altura donde dec'endiera. asi com<m>o
 lo viero<n> q<u><<a>>ntos alli estoujero<n>. q<ue> le viero<n> so-
@@ -2248,7 +2249,7 @@ cosas q<ue> han de venjr}
 {IN2.}Dixo el dec'iplo a su maestro. tu me dixieste {GL. Realism
 and
 prop-
-agandizing?}
+agandizing}
 q<ue> las cosas q<ue> auja<n> de venjr. q<ue> las no<n> podia
 otro saber. si no<n> dios. pues muchas ve-
 gadas falla om<n>e q<ue> el diablo sabe. las cosas
@@ -2373,7 +2374,7 @@ tomaro<n> de alli adelant<e> dones de amor v<er>da-
 dero co<n> n<uest>ro sen<n>or ih<es>u xp<ist>o morir e beujr
 por el. en todo logar ond<e> men<e>ster fuese. las
 (^las) gr<ac'i>as tomaro<n> delas le<n>guas q<ue> era<n> grand<e>s
-de sp<rit>u <santo>. Ca la le<n>gua del om<n>e es mje<n>bro[?]
+de sp<rit>u <santo>. Ca la le<n>gua del om<n>e es mje<n>(^bro)[^bro]
 sen<n>alado en q<ue> dios pone gr<ac'i>a. mas q<ue> en
 otro mje<n>bro nj<n>guno q<ue> en<e>l cuerpo del om<n>e sea.
 ca ella es dada p<ar>a mostrar la gr<ac'i>a q<ue> ella rres-
@@ -2394,7 +2395,7 @@ asi com<m>o lo gosta ella faze fazer el co<n>tjnent<e>}
 si es dulc'e osi es amargo e de mas dize
 lo ella mesma. otrosi co<n>tesc'e en<e>l palpar q<ue>
 se faze co<n> las manos e co<n>los pies. com<m>o
-q<u><<i>>er q<ue> lo om<n>e sient<e> & lo palpa (^en este gujsa) {AD. la le<n>gua lo dize & lo de[+]parte ? aq<ue>llo ? gujsa}
+q<u><<i>>er q<ue> lo om<n>e sient<e> & lo palpa (^en este gujsa) {AD. la le<n>gua lo dize & lo de[+]parte despues q<ue> es aq<ue>llo q<ue> palpa en<e>sta gujsa}
 se muestra<n> e se dep<ar>te<n> los c'i<n>co se<n>tidos d<e>l
 om<n>e co<n> la le<n>gua. toda via co<n> acordamje<n>to d<e>l
 seso del om<n>e. Ca si<n> esto no<n> podria ella fa-
@@ -2624,7 +2625,7 @@ altos om<n>es deseara<n> veer lo q<ue> vos[+]otros ved<e>s.
 e no<n> lo podra<n> veer. Ca despues desto dixo
 el a santo tomas apostol. por q<ue> no<n> q<ue>ria
 creer. q<ue> el era ih<es>u xp<ist>o fijo de dios verdade-
-ro. q<ue> rrec'uc'itara de muert<e> avida amenos
+ro. q<ue> rrec'uc'itara de muert<e> a vida amenos
 de veer las sus plagas e meter los sus
 dedos por ellas. e despues q<ue> lo ouo fecho
 el asi com<m>o q<ue>ria. dixo le el n<uest>ro sen<n>or. to-
@@ -2792,7 +2793,7 @@ tara p<r><<i>>mero en<e>l vientre de su madre santa}
 [fol. 59v]
 {CB1.
 m<ari>a fizo q<ue> tornase la djujnjdat ala vmanj-
-dat e q<ue> rrec'uc'itase de muert<e> avida corporal
+dat e q<ue> rrec'uc'itase de muert<e> a vida corporal
 ment<e> com<m>o ant<e> era. Ca enlo q<ue> es el gusa-
 no bermejo. semeja al sp<rit>u <santo> q<ue> apura e
 aljnpia. ca el sp<rit>u <santo> por la su djujnjdat e
@@ -3066,7 +3067,7 @@ deue estar por q<ue>las llamara ajuyzio
 otra vez. rrespo<n>dio el maestro. sepas
 q<ue> el juyzio e la justic'ia q<ue> dios faze
 en<e>l om<n>e en<e>l t<ien>po de agora faze se
-en<e>l anjma {AD. ca no<n> e<n>la carne mas de aq<ue>l dia adelant<e> faze se ha en ? el a?} e en<e>l cuerpo. ca alli se co<n>-
+en<e>l anjma {AD. ca no<n> e<n>la carne mas de aq<ue>l dia adelant<e> faze se ha en todo e<n> el anjma} e en<e>l cuerpo. ca alli se co<n>-
 firma el bie<n> e el mal. q<ue> cada vno de-
 ue auer p<ar>a sienp<r><<e>> jamas. la rrazo<n> por
 q<ue> esto n<uest>ro sen<n>or fizo. te dire agora.
@@ -3266,7 +3267,7 @@ todos los om<ne>s d<e>l mu<n>do ajuyzio e q<ue>
 tondos vaya<n> en cuerpo e en anjma. bie<n>
 asi com<m>o q<u><<a>>ndo pecaro<n> e en aq<ue>lla carne
 mesma enq<ue> cada vno bjujo en<e>ste mu<n>do.
-los vnos yra<n> en {GL. desde aqui faltan <<en su lugar>> en el otro codice hasta donde? en el folio lxxiij
+los vnos yra<n> en {GL. desde aqui faltan <<en su lugar>> en el otro codice hasta donde en el folio lxxiij
 de este se marca con la misma señal, pero se halla entre los folios xix y xx
 del primero.} cuerpo e en anjma}
 [fol. 70v]
@@ -3499,8 +3500,8 @@ ha mas co<n>plido el aran<n>a mas q<ue> otra
 anjmalia q<ue> en<e>l mu<n>do sea. e q<u><<i>>ero
 te dezir en q<ue> man<er>a. d<e>l aran<n>a fallamos
 q<ue> todas las cosa q<ue> ha de fazer q<ue> todas
-las faze tan<n>jendo muy sotil ment<e> e<n>?
-la tela enq<ue> ella bjue ella la vjde e
+las faze tan<n>jendo muy sotil ment<e> e
+la tela enq<ue> ella bjue ella la vrde e
 la faze tan<n>jedo co<n> las c'ancas q<ue> tiene
 en logar de manos}
 [fol. 76r]
@@ -3548,7 +3549,7 @@ su tela segu<n>d natura {GL. aqui con-
 cluye el capitulo
 29 del otro
 codice a 2 columnas
-y lo ?
+y lo que sigue
 desde la palabra
 'q<u><<a>>ndo' es el final
 del titulo 31 faltando por consiguiente casi todo el aqui.} q<u><<a>>ndo durase lue-
@@ -4431,7 +4432,7 @@ acaban las nueue orden<e>s delos angel<e>s e
 de alli adelante no<n> ay mas orden<e>s nj<n>g<una>s de
 angel<e>s q<ue> ta<n> allegadas sea<n> adios com<m>o ellos
 {GL. desde aqui no
-se encuentra? en
+se encuentra en
 el capitulo corres-
 pondiente del
 otro codice} % enla segu<n>da orde<n> esta<n> los cherubjn<e>s e ta<n>-
@@ -5168,7 +5169,7 @@ fierno. la rrazo<n> es por lo q<ue> te q<u><<i>>ero dezjr.
 los q<ue> esta<n> en purgatorio. esta<n> en pe-
 na e en torme<n>to enq<ue> pasan mucho
 mal. por end<e> asaz les abonda aellos
-el mal q<ue> ha<n>. e no<n> ha<n> por q<ue> veer mas {AD. de aq<ue>llo?}
+el mal q<ue> ha<n>. e no<n> ha<n> por q<ue> veer mas {AD. de aq<ue>llo}
 {AD. & co<n>} aq<ue>llo q<ue> ha<n>. si viese<n> lo al. fazer se
 les ya la pena doblada. por end<e> no<n> q<u><<i>>e-
 re dios q<ue> estas anjmas de purgatorio vea<n>}
@@ -5458,7 +5459,7 @@ po. no<n> se puede ma<n>tener sin ayu-
 da dela cale<n>tura natural. e ayuda<n>
 se entre amos ados la vna ala otra
 p<ar>a ma<n>tener. e q<u><<i>>ero te dezjr com<m>o la
-calentura (^?)[^<<natural>>]. no<n> seria si no<n>
+calentura (^nac'ense)[^<<natural>>]. no<n> seria si no<n>
 por el moujmje<n>to del anjma. Ca la
 v<er>tud d<e>l anjma. faze correr la san-
 gre por el cuerpo del om<n>e. e los ot<r><<o>>s
@@ -5474,7 +5475,7 @@ ner mje<n>tra esta en<e>l cuerpo. e en<e>sta guj-
 sa q<ue> te he dicho se ayuda la vna ala
 ot<r><<a>>. p<er>o en<e>sta man<er>a q<ue> el anjma es fa-
 zedor la cale<n>tura natural. es jnfier-
-no co<n> q<ue> ella faze sus obras {AD. ca el anjma faze la cale<n>tura natural?} e des q<ue>
+no co<n> q<ue> ella faze sus obras {AD. ca el anjma faze la cale<n>tura natural} e des q<ue>
 la ha fecha ma<n>tiene se con<e>lla. e por
 esto pued<e>s tu veer. q<ue> la ora q<ue> el anj-
 ma es fuera del cuerpo. luego la cale<n>-
@@ -6302,7 +6303,7 @@ sen su sieruo al desierto contra la t<ie>rra
 de promjsio<n> q<ue> les auja p<r><<o>>metido. veye<n>-
 do el n<uest>ro Sen<n>or q<ue> ellos era<n> dados avi-
 c'ios e apecados. mas q<ue> {AD. <<a>>} otra bo<n>dat. sin-
-tie<n>do se d<e>lo q<ue> auja fecho en<e>llos. q<u><<i>>sol<e>s?
+tie<n>do se d<e>lo q<ue> auja fecho en<e>llos. q<u><<i>>sol<e>s
 dar posturas e ma<n>damje<n>tos q<ue> g<u><<a>>rdasen
 e temjese<n>. por q<ue> esto<n>c'e los fijos de
 yrrael no<n> auja<n> otro rrey nj<n> ot<r><<o>> sen<n>or. si
@@ -6337,7 +6338,6 @@ ha. deue dar bue<n> fuero e toller el ma-
 lo e poner ley enq<ue> bjua<n> los om<ne>s segu<n>d
 derecho por q<ue> sepa<n> g<u><<a>>rdar se e lo q<ue> ha<n>}
 [fol. 139v]
-{RMK: 139v-140r and 140v-141r are inverted in the manuscript, however their foliation -old- is correct?}
 {CB1.
 {AD. de} obede[^s]c'er e fazer e lo q<ue> deue<n> dexar e
 estremar e com<m>o q<u><<i>>er q<ue> los diez ma<n>da-
@@ -6436,7 +6436,7 @@ e de q<u><<a>>l fac'io<n> era<n> e com<m>o se cobria d<e>llas
 e com<m>o se ayu<n>taua<n> las vnas co<n> las ot<r><<a>>s
 aderredor del trono en q<ue> estaua la silla de
 dios. ot<r><<o>>si dize sant ioh<a>n apostol e eua<n>-
-gelista. enlas sus vision<e>s del apocalipsi?
+gelista. enlas sus vision<e>s del apocalipsi.
 en<e>l logar ado dize asi. e aq<ue>llos dias vi
 vna puerta abierta en<e>l c'ielo. e la (^v)[^b]oz p<r><<i>>-
 mera q<ue> oyo era ta<n> gra<n>de com<m>o tro<n>pa. q<ue>
@@ -6531,7 +6531,7 @@ nasc'e<n>c'ia de ih<es>u xp<ist>o saluador del mu<n>do}
 {SG. x}
 [fol. 143v]
 {CB1.
-e d<e>la su vida e d<e>la su pasion e d<e>las {AD. se?}
+e d<e>la su vida e d<e>la su pasion e d<e>las {AD. su rresurec'ion & de todo el fecho de <santa> m<ari>a}
 su madre. e por q<ue> estos rrios q<ue> de suso
 dixiemos. no<n> fuero<n> mas de q<u><<a>>tro. por end<e>
 no<n> fuero<n> mas de q<u><<a>>tro eua<n>gelistas. e
@@ -7237,7 +7237,7 @@ eso todos aq<ue>llos q<ue> so<n> sangujnos so<n>
 bie<n> colorados e ha<n> los mje<n>bros bien}
 [fol. 158r]
 {CB1.
-? grand<e>s e bie<n> fac'ionados e asi com<m>o son
+grand<e>s e bie<n> fac'ionados e asi com<m>o son
 bie<n> colorados. asi so<n> dela otra p<ar>te
 bla<n>cos. esto es por la flema q<ue> anda buel-
 ta co<n> la sangre. ca mas tira asu natu-
@@ -7255,15 +7255,15 @@ gre te dire agora. q<u><<a>>ndo ella es mucha
 en<e>l cuerpo d<e>l om<n>e. en gujsa q<ue> es sobe-
 ja. auje<n>do mucho mas delo q<ue> es men<e>ster.
 atiesta se en gujsa q<ue> no<n> puede correr
-por las venas. ella nj<n> los (^ot<r><<o>>s) {AD. ot<r><<o>>s humor<e>s q<ue> anda<n> bueltos? con<e>lla nj<n> los espritus de q<ue>}
-(^q<ue> anda<n> buel? con<e>lla nj<n> los sp<rit>us)
+por las venas. ella nj<n> los (^ot<r><<o>>s) {AD. ot<r><<o>>s humor<e>s q<ue> anda<n> bueltos con<e>lla nj<n> los espritus de q<ue>}
+(^q<ue> anda<n> bueltos con<e>lla nj<n> los sp<rit>us)
 (^de q<ue>) se ma<n>tiene el cuerpo del om<n>e.
 no<n> puede<n> correr por las venas. por la
 sangre q<ue> es mucho espesa. en q<ue> ella}
 [fol. 158v]
 {CB1.
 no<n> puede correr de vna p<ar>te aotra. ha se
-de trauajar e esta<n>do q<ue>da viene ?corro<n>-
+de trauajar e esta<n>do q<ue>da viene a corro<n>-
 per se. e nasc'e end<e> mal p<ar>a el om<n>e. en
 man<er>a q<ue>si este mal es tal q<ue> pueda la
 natura con<e>l busca la natura logar por
@@ -7303,7 +7303,7 @@ tos va les mejor q<u><<a>>ndo so<n> ma<n>c'ebos q<ue>
 despues q<ue> comjenc'a<n> a enbegesc'er. q<ue> q<u><<a>>nto
 mas entra<n> en dias. ta<n>to les va peor
 cada dia. por {AD. q<ue>} cada dia cresc'e mas en<e>llos la
-flema e faze<n> se gruesos e p<er>leticos? e
+flema e faze<n> se gruesos e p<er>leticos e
 ha<n> ot<r><<a>>s enfermedad<e>s muchas co<n> q<ue> pasa<n>
 mala vida en<e>ste mu<n>do fasta q<ue> muere<n> %
 la malenconja es humor d<e>l eleme<n>to d<e>la
@@ -7467,7 +7467,7 @@ da es el purgatorio. q<ue> por los bien<e>s q<ue>}
 fazemos los bjuos por los muertos. sale<n>
 las anjmas q<ue> alli esta<n> de pena e va<n> a
 p<ar>ayso. esta ayuda es en cantar mjsas
-e en q<u><<i>>tar debdas e desfazer (^tuercos) ?
+e en q<u><<i>>tar debdas e desfazer (^tuercos) {AD. tuertos}
 e en dar ljmosnas alos pobr<e>s e en pagar
 las ma<n>das q<ue> ma<n>da el q<ue> muerte e otrosi
 en co<n>pljr las rromerias q<ue> p<r><<o>>metio aq<ue>l (^l) q<ue>las
@@ -7575,7 +7575,7 @@ seer % por {AD. <<ende>>} co<n>ujene q<ue> aya de tomar
 estran<n>eza e mjedo e por eso ha espa<n>to
 de conosc'er le este. mas con<e>l q<ue> conosc'e. q<ue>
 no<n> con<e>l q<ue> no<n> conosc'e. por q<ue> no<n> ha nj<n>gu<n>d
-fazimje<n>to de amor conel % los de p<ar>ayso {AD. fallamos?}
+fazimje<n>to de amor conel % los de p<ar>ayso {AD. fallamos}
 (^fa) q<ue> [^a]paresc'e<n> asus amjgos. no<n> por q<ue> ha<n> me-
 nester nj<n>guna ayuda dellos. Ca mejor lo-
 gar no<n> podria<n> ellos auer del q<ue> han menes-
@@ -7786,7 +7786,7 @@ es q<ue> nj<n>guna vmjdat no<n> ha ensi. saluo
 aq<ue>llo q<ue> ha enla vena de medio. de q<ue> se
 cria el fruto q<ue> faze. e com<m>o q<u><<i>>er q<ue> le
 tire<n> la corteza ta<n> seca com<m>o aq<ue>lla q<ue> le
-tira<n> e enesta gujsa lo podra<n> todo desfa[^zer]
+tira<n> e enesta gujsa lo podra<n> todo desfa[^zer de]
 {AD. corteza en} (^zer de) corteza fasta q<ue> le llegue<n> ala}
 [fol. 169r]
 {CB1.
@@ -8018,7 +8018,7 @@ mas calient<e> e vmjda q<ue> las ot<r><<a>>s. % la
 segu<n>da por q<ue> esta<n> en mas calient<e> logar}
 [fol. 173v]
 {CB1.
-e moran entre las casas e los om<ne>s e no<n>?
+e moran entre las casas e los om<ne>s e no<n> {AD. anda<n>}
 bolando fuera al ayre tanto com<m>o las
 ot<r><<a>>s % la terc'era por q<ue> alli do esta<n> en ca-
 sa entre los om<ne>s dan les a comer mas
@@ -8028,7 +8028,7 @@ co<n> aq<ue>l cresc'imje<n>to dela cale<n>tura e co<n> aq<ue>l
 vic'io q<ue> han faze<n> sus fijos cada mes.
 saluo en<e>l mes de dezie<n>bre q<ue> lo no<n> fa-
 ze<n>. por lo q<ue> agora te dire. esto es por q<ue>
-es el mes mas frio q<ue> los ot<r><<o>>s e por eso?
+es el mes mas frio q<ue> los ot<r><<o>>s e por eso
 no<n> han sabor de criar en<e>l com<m>o enlos
 otr<o><<s>>. por q<ue> esta<n> las vmjdad<e>s mas co<n>ge-
 ladas e mas esco<n>didas q<ue> enlos ot<r><<o>>s me-
@@ -8086,7 +8086,7 @@ su sangre e aq<ue>l tenpramje<n>to dar
 les ya volu<n>tad de fazer fijos com<m>o
 las ot<r><<a>>s. mas com<m>o so<n> estas palomas
 brauas mas calient<e>s e mas secas
-q<ue> las ot<r><<a>>s due<n>das. por eso no<n> faze<n> fijos?
+q<ue> las ot<r><<a>>s due<n>das. por eso no<n> faze<n> fijos
 si no<n> vna vegada o dos en<e>l an<n>o. esto
 es q<u><<a>>ndo falla<n> el ayre mas calient<e> e
 la freura del t<ien>po es ya tollida e la
@@ -8280,7 +8280,7 @@ mucho los om<ne>s % rrespondio el maestro
 sepas q<ue> son<n>ar ta<n>to q<u><<i>>ere dezjr com<m>o
 cosa q<ue> vee el anjma del om<n>e esta<n>do el
 cuerpo durmje<n>do e el son<n>ar acaesc'e por
-q<u><<a>>ntas maneras te dire % lo primero ac?-
+q<u><<a>>ntas maneras te dire % lo primero aca-
 esc'e por mucho comer e beuer q<ue> faze al
 om<n>e son<n>ar mas de su derecho muchas
 cosas estran<n>as e maraujllosas e aesto a-
@@ -8417,7 +8417,7 @@ q<ue> sepas q<ue> el son<n>ar ta<n> antigua cosa
 es e ta<n>tos om<ne>s sabios fablaro<n> en<e>llo e
 lo diero<n> por c'ierta cosa. q<ue> lo no<n> dixiera<n>
 si por c'ierto no<n> lo fallase<n>. e pues q<ue>
-ellos {AD. <<fueren>>?} ant<e> q<ue> nos. e lo pusiero<n> en ta<n> gra<n>d
+ellos {AD. <<fuesen>>} ant<e> q<ue> nos. e lo pusiero<n> en ta<n> gra<n>d
 fama. no<n> puede nj<n>guno cont<r><<a>> dezjr lo
 q<ue> ellos fiziero<n> e dixiero<n>. si no<n> fallase<n>
 verdat en<e>llo e nos cada dia lo fallamos
@@ -8484,7 +8484,7 @@ e estas siete planetas de q<ue> te he fabla-
 do esta<n> ordenadas en<e>l c'ielo asemeja<n>c'a d<e>l rrey
 co<n> sus ofic'iales. el sol es el rrey. venus
 es su muger. saturno es su co<n>segero.
-jupiter su all<cal>d<e>?. maris su justic'i[^a] mer-
+jupiter su al<ca>ld<e>. maris su justic'i[^a] mer-
 curio su esc<r><<i>>uano. la luna su me<n>sage-
 ro. estas siete planetas q<ue> te he co<n>tado
 q<ue> so<n> cuerpos c'elestial<e>s. ha<n> gra<n>d poder}
@@ -8600,7 +8600,7 @@ ayna enla cabec'a q<ue> enla barua e en to-
 dos los ot<r><<o>>s logares % rrespo<n>dio el maestro.
 tu deues saber q<ue> las anjmalias q<ue> anda<n> sobr<e>
 la t<ie>rra en q<u><<a>>tro pies. los q<u>ales so<n> todos
-cubiertos por natura muy calient<e>s mas q<ue>l?
+cubiertos por natura muy calient<e>s mas q<ue>l
 om<n>e Ca el om<n>e ha la su cale<n>tura mas te<n>-
 prada e no<n> la ha ta<n> fuert<e> com<m>o ellas.
 otrosi estas anjmalias de q<u><<a>>tro pies traen
@@ -8782,7 +8782,7 @@ cale<n>tura natural se abjua en<e>l e esta a-
 fac'ionado de fazer de nueuo mje<n>bros ta<n>
 nobles e en aq<ue>l trauajo q<ue> tomar va enxu-
 ga<n>do la criatura de aq<ue>llas (^de aq<ue>llas vmj)
-?[^vmj]dad<e>s sobejas q<ue> ha. otrosi ant<e> de aq<ue>l t<ien>po
+[^vmj]dad<e>s sobejas q<ue> ha. otrosi ant<e> de aq<ue>l t<ien>po
 no<n> [^<<ha>>] menester la criatura los dient<e>s. Ca el su
 goujerno todo es en mamar. mas q<u><<a>>ndo la
 criatura dema<n>da otra vianda p<ar>a la q<u><<a>>l ha
@@ -8806,14 +8806,14 @@ trae<n> los vnos co<n> los ot<r><<o>>s. otrosi en[â<e>l] fablar
 q<ue> se rretiene la le<n>gua enlos dient<e>s}
 [fol. 188v]
 {CB1.
-dela<n>teros. en fabla<n>do om<n>e los de yuso co<n>?
-los de suso. e p<ar>a sofrir todas estas co-?
-sas no<n> podria<n> durar si los dient<e>s no<n> fue-?
-se<n> rrezios. por eso la natura tuelle le los?
-flacos e dale los rrezios q<ue> lo podra<n> mejor?
-sofrir. las vn<n>as no<n> es el su mudamje<n>to?
-com<m>o delos dient<e>s. ca ellas nu<n>ca se muda<n>?
-si no<n> es por ferida o por dole<n>c'ia q<ue> acaesc'e?
+dela<n>teros. en fabla<n>do om<n>e los de yuso co<n>
+los de suso. e p<ar>a sofrir todas estas co-
+sas no<n> podria<n> durar si los dient<e>s no<n> fue-
+se<n> rrezios. por eso la natura tuelle le los
+flacos e dale los rrezios q<ue> lo podra<n> mejor
+sofrir. las vn<n>as no<n> es el su mudamje<n>to
+com<m>o delos dient<e>s. ca ellas nu<n>ca se muda<n>
+si no<n> es por ferida o por dole<n>c'ia q<ue> acaesc'e
 en<e>llas. mas cresc'e<n> asi com<m>o los cauellos e
 en cresc'ie<n>do sale<n> afuera. ca las vn<n>as so<n>
 fechas en manera de ternjllas. e por eso
@@ -8860,30 +8860,30 @@ del sol q<ue> (^es) es calient<e> e seco. se muestra
 en<e>lla co<n>plida ment<e> obras de anjma de}
 [fol. 189v]
 {CB1.
-vida q<ue> dios crio en<e>lla esto ta<n> bie<n> acaesc'e en<e>l ma-?
-cho com<m>o enla fenbra en<e>ste q<u><<a>>tro mes del sol?
+vida q<ue> dios crio en<e>lla esto ta<n> bie<n> acaesc'e en<e>l ma-
+cho com<m>o enla fenbra en<e>ste q<u><<a>>tro mes del sol
 % el q<u><<i>>nto mes [^<<es>>] de venus q<ue> es fria e vmjda
-e en<e>ste mes se estie<n>den mas sus mje<n>bros?
-e se apuesta<n> sus fac'ion<e>s % el sesto mes?
-[^es] de mercurio q<ue> es de co<n>plisio<n> com<m>o te<n>prada?
+e en<e>ste mes se estie<n>den mas sus mje<n>bros
+e se apuesta<n> sus fac'ion<e>s % el sesto mes
+[^es] de mercurio q<ue> es de co<n>plisio<n> com<m>o te<n>prada
 e tira aseq<ue>dat e en<e>ste mes se va<n> mas
 cria<n>do las criaturas de sus mje<n>bros e
 se va<n> abjua<n>do e esforc'a<n>do e aparejando
 se p<ar>a nasc'er % el seteno [^<<mes>>] es dela luna
-q<ue> es fria e te<n>prada e vmjda [^<<e>>] es de gra<n>?
-moujmje<n>to e la mas c'ercana planeta de?
-aca contra nos es. e esta le faze cresc'er e?
+q<ue> es fria e te<n>prada e vmjda [^<<e>>] es de gra<n>d
+moujmje<n>to e la mas c'ercana planeta de
+aca contra nos es. e esta le faze cresc'er e
 mouer p<ar>a p<r><<o>>uar a salir e si la criatura
 fuere esforc'ada p<ar>a saljr. sale e bjue
-e criase bie<n>. Ca la luna es planeta q<ue> ha?
+e criase bie<n>. Ca la luna es planeta q<ue> ha
 por natura de obrar bie<n> e de criar e de
-gouernar las vmjdad<e>s. e por aue<n>tura la?
+gouernar las vmjdad<e>s. e por aue<n>tura la
 criatura no<n> es esforc'ada p<ar>a nasc'er no<n> pue-
-de salljr finca p<ar>a el otauo mes e torna?
-saturno a gouernar la e por la freura e?
+de salljr finca p<ar>a el otauo mes e torna
+saturno a gouernar la e por la freura e
 seq<ue>dat q<ue> es en<e>l e por q<ue> ha natura de o-
-brar mal e de estroyr mas q<ue> de gouernar?
-e si nasc'e en<e>ste mes otauo afoga la e no?
+brar mal e de estroyr mas q<ue> de gouernar.
+e si nasc'e en<e>ste mes otauo afoga la e no<n>
 la dexa beujr nj<n> criar. e si finca p<ar>a el no-
 ueno mes. torna jupiter e goujerna}
 [fol. 190r]
@@ -8918,7 +8918,7 @@ q<ue> se faze la criatura es puesta en<e>l}
 {CB1.
 vientre d<e>la madre. q<ue> de aq<ue>l dia fasta trey<n>-
 ta e c'inco dias es formada e com<m>o q<u><<i>>er
-q<ue> peq<ue>n<n>a cosa sea toda aq<ue>lla forma. e com<m>o?
+q<ue> peq<ue>n<n>a cosa sea toda aq<ue>lla forma. e com<m>o
 ha de auer co<n>plida ment<e> fasta los trey<n>ta
 dias cabales q<ue> doblo deste t<ien>po a anjma de
 vida e a cabo delos dozientos e diez
@@ -8926,7 +8926,7 @@ dias q<ue> es el tras[+]doblo desto se mueue p<ar>a
 nasc'er. e enesta cue<n>ta so<n> co<n>plidos los
 siete meses. e asi com<m>o la criatura fasta
 los trey<n>ta e c'inco dias ha toda su for-
-ma asi fasta los trey<n>ta e c'inco an<n>os cres-?
+ma asi fasta los trey<n>ta e c'inco an<n>os cres-
 c'e toda via de lue<n>go e de ancho e espe-
 so com<m>o es co<n>plida de anjma e de todo
 lo q<ue> le cu<n>ple fasta los {BLNK.}
@@ -8934,7 +8934,7 @@ dias. bie<n> asi es la vida natural del
 om<n>e fasta los setenta an<n>os. por esto pue-
 des ente<n>der q<ue> el caso dela su vida es pue-
 sto por an<n>os asemeja<n>c'a delos dias q<ue> pasa
-enel vie<n>tre dela madre. e com<m>o q<u><<i>>er q<ue> alg<uno>s?
+enel vie<n>tre dela madre. e com<m>o q<u><<i>>er q<ue> alg<uno>s
 sabios dixiero<n>. q<ue> la forma dela criatura
 se acaba fasta los trey<n>ta dias. sen<n>a-
 lada ment<e> el macho q<ue> se forma mas
@@ -8988,7 +8988,7 @@ toma<n> dello gra<n>d encogimje<n>to ensi. por eso
 no<n> ha<n> sabor de fazer fijos. ca no<n> se les
 mueue la natura p<ar>a ello. ot<r><<o>>si las bestias
 com<m>o no<n> ha<n> otra cobertura si no<n> su cauello
-ha<n> muy gra<n>d frio e co<n>[+]giela<n>? se les la vmj-
+ha<n> muy gra<n>d frio e co<n>[+]giela<n> se les la vmj-
 dad<e>s e enc'ierra se les la cale<n>tura natural
 cont<r><<a>> dent<r><<o>>. e por end<e> ha<n> de andar e aes-
 tar encogidas e no<n> toma<n> sabor ensi. por
@@ -9241,8 +9241,8 @@ de}
 veer en derecho asi com<m>o el sano yerra
 muchas vezes en aq<ue>llo q<ue> vee % la segu<n>da
 manera es al q<ue> se tuerc'e la negujlla d<e>l
-ojo cont<r><<a>>( )rriba o cont<r><<a>> yuso. e atal vizco?
-com<m>o este paresc'e le de vna cosa dos o por?
+ojo cont<r><<a>>( )rriba o cont<r><<a>> yuso. e atal vizco
+com<m>o este paresc'e le de vna cosa dos o por
 dos rrazon<e>s % la p<r><<i>>mera por q<ue> el nerujo q<ue>
 trae el viso del ojo se tuerc'e en<e>l. lo q<ue> no<n>
 se tuerc'e en<e>l ot<r><<o>> bizco e torc'ie<n>do se en<e>l
@@ -9351,7 +9351,7 @@ cosas e de g<u><<a>>rdar las e [^<<de>>] rretener las p<ar>a
 g<u><<a>>rdar se e ayudar se de cada vna en
 su logar e ensu t<ien>po. e por esto pued<e>s tu
 veer q<u><<a>>n gra<n>d rrazo<n> es de me<n>guar la v<er>tud
-dela vista delos ojos. q<u><<a>>ndo el c'elebro me<n>gua. ?
+dela vista delos ojos. q<u><<a>>ndo el c'elebro me<n>gua. ca
 (^vista) alli es q<u><<a>>nto bie<n> el ha
 {RUB. % cap<itul><<o>> .xciiij<<o>>. por q<ue> rrazo<n> el setie<n>bre es
 mas calient<e> q<ue> el marc'o. pues q<ue> amos
@@ -9405,7 +9405,7 @@ frio el setie<n>bre com<m>o el marc'o
 {RUB. % cap<itul><<o>> .xcv. por q<ue> rrazo<n> trae el c'ieruo la
 boca abierta. q<u><<a>>ndo no<n> es cansado e
 q<u><<a>>ndo es cansado trae la c'errada}
-{IN2.}El dec'iplo p<r><<e>>gu<n>to al maestro. por q<ue> rra[^zo<n> el c'ieruo?]
+{IN2.}El dec'iplo p<r><<e>>gu<n>to al maestro. por q<ue> rra[^zo<n>] {AD. el c'ierbo}
 q<u><<a>>ndo no<n> es cansado trae la boca abier-
 ta e la luenga sacada e q<u><<a>>ndo es
 cansado trae la boca c'errada e sale le la es-
@@ -9541,16 +9541,16 @@ uas mete<n> dent<r><<o>> los huron<e>s e pone<n> las
 rredes enlos forados. e faze<n> los por fuer-
 c'a saljr fuera e cae<n> enlas rredes. e asi
 com<n>o las toma<n> enlas rredes e leua<n>ta las
-?delos cobiles e corre<n> los co<n> los galgos e
+delos cobiles e corre<n> los co<n> los galgos e
 mata<n> los co<n> falcon<e>s e co<n> rred<e>s. los sapos
-no<n>? osan andar de dia. por q<ue> so<n> bestiglos
+no<n> osan andar de dia. por q<ue> so<n> bestiglos
 muy pesados e no<n> ha<n> co<n> q<ue> se defienda<n> e por {AD. por natura ha el om<n>e gra<n>d enojo d<e>llos E por}
-esto? el sapo ha gra<n>d mjedo. q<ue> si ome le
+esto el sapo ha gra<n>d mjedo. q<ue> si ome le
 falla q<ue> le matara. e por esta rrazo<n> todo
-el? dia esta esco<n>dido e anda de noche e
-la? (^v)[^b]oz q<ue> da q<u><<a>>ndo anda de noche buscando
-q<ue>? coma. sale<n> los om<ne>s en aq<ue>l logar e
-va<n>? le buscar por aq<ue>l sonjdo d<e>la (^v)[^b]oz}
+el dia esta esco<n>dido e anda de noche e
+la (^v)[^b]oz q<ue> da q<u><<a>>ndo anda de noche buscando
+q<ue> coma. sale<n> los om<ne>s en aq<ue>l logar e
+va<n> le buscar por aq<ue>l sonjdo d<e>la (^v)[^b]oz}
 [fol. 202v]
 {CB1.
 fasta q<ue> lo falla<n> e mata<n> le. e q<u><<a>>ndo el sa-
@@ -9575,8 +9575,8 @@ el dello. o por gra<n>d fanbre q<ue> aya. anda
 a buscar q<ue> coma enla noche de ant<e>s. este rra-
 poso es mucho medrosa anjmalia delos
 om<ne>s e delos can<e>s. por end<e> anda mas de
-noche q<ue> no<n> de dia e todo su esfuerc'o es?
-en foyr acogie<n>do se asus cueuas en en-?
+noche q<ue> no<n> de dia e todo su esfuerc'o es
+en foyr acogie<n>do se asus cueuas en en-
 gan<n>ar los canes q<ue> va<n> en pos el. Ca mu-
 chas}
 [fol. 203r]
@@ -9637,9 +9637,9 @@ do buela. buela poco e por eso los rrederos}
 {CB1.
 q<ue> anda<n> a tomar agujlas e falcon<e>s e ac'or<e>s
 e gaujlan<e>s. el q<ue> dellos puede auer vn buho
-bjuo? q<ue> ama<n>se p<ar>a fazer con<e>l c'ynbel entre las
+bjuo q<ue> ama<n>se p<ar>a fazer con<e>l c'ynbel entre las
 rred<e>s p<ar>a tomar las ot<r><<a>>s aues. e mas tomara<n>
-dellas? el rredero q<ue> la trae q<ue> el otro. e q<u><<a>>ndo las
+dellas el rredero q<ue> la trae q<ue> el otro. e q<u><<a>>ndo las
 aues buela<n> e le vee<n>. dond<e> le pone el rrede-
 ro por c'inbel. abre<n> las (^alas) alas e abrac'a<n>
 se e dexa<n> se venjr a ferir lo e caen en
@@ -9659,7 +9659,7 @@ q<ue> ellos faze<n> es de noche e no<n> de dia. por
 q<ue> el murc'iego es desta man<er>a. por eso veras
 q<ue> enla casa do ellos mora<n> es la mas te-
 nebregosa q<ue> ellos puede<n> fallar e alli
-cria<n>? e faze<n> sus fijos e el cuero destos
+cria<n> e faze<n> sus fijos e el cuero destos
 murc'iegos es co<n> cauellos asi com<m>o de rrato<n>}
 [fol. 204v]
 {CB1.
@@ -9703,7 +9703,7 @@ no<n> vna tripa sola e muy delgada q<ue> va
 por medio del cuerpo q<ue> tan estrecha es. q<ue> no<n>
 podria en<e>lla bie<n> caber vna sardjna peq<ue>n<n>a e
 bie<n> asi ha estrecho el garguero q<ue> come lo q<ue>
-pasa.? e segu<n>d q<ue> yo oy dez(^i)[^j]r alos ma-
+pasa. e segu<n>d q<ue> yo oy dez(^i)[^j]r alos ma-
 ryneros delos puertos dela mar toda su
 vida de q<ue> la vallena se ma<n>tiene es. dela
 espuma dela mar. pues q<ue> esto asi es. ola pa-
@@ -9713,10 +9713,10 @@ com<m>o paresc'e. Ca com<m>o podria pasar vn om<n>e.
 q<ue> no<n> podria pasar vna sardjna o vn pescado
 % rrespo<n>dio el maestro enla palabra q<ue> dios
 dixo. tu deues saber q<ue> com<m>o dios es v<er>dat.
-todas? las sus palabras so<n> verdaderas e no<n>
+todas las sus palabras so<n> verdaderas e no<n>
 mj<n>trosas nj<n> caen en vano. ant<e> so<n> p<r><<o>>uecho-
 sas e c'iertas e estables q<ue> nu<n>ca se pierde<n>.
-tu? deues saber q<ue> com<m>o q<u><<i>>er q<ue> todas estas}
+tu deues saber q<ue> com<m>o q<u><<i>>er q<ue> todas estas}
 [fol. 205v]
 {CB1.
 cosas e anjmalias grand<e>s d<e>la mar aya<n> no<n>bre
@@ -9759,20 +9759,20 @@ te dire % la p<r><<i>>mera las ondas dela mar
 ha<n> por natura por el gra<n>d moujmje<n>to del vie<n>-
 to q<ue> trae<n> co<n>sigo de echar la espuma e todas
 las cosas lixosas q<ue> ha enla mar contra las
-orillas? de fuera e aq<ue>llas vallenas come<n> aq<ue>-
+orillas de fuera e aq<ue>llas vallenas come<n> aq<ue>-
 llo e va<n> en pos ello fasta q<ue> se descubre<n> enlos
 puertos e sienpre anda<n> sen<n>eras. saluo
 la q<ue> ha fijo vallenato e trae le co<n>sigo e
-mete? le so el ala e por la gra<n>d rrauja d<e>la
-gra<n>d? cuyta q<ue> ha del fijo. la mayor cuyta q<ue>
-ella? [^<<ha>>] es por no<n> desanparar el fijo. e por q<ue> los
+mete le so el ala e por la gra<n>d rrauja d<e>la
+gra<n>d cuyta q<ue> ha del fijo. la mayor cuyta q<ue>
+ella [^<<ha>>] es por no<n> desanparar el fijo. e por q<ue> los
 marineros sabe<n> aq<ue>lla man<er>a pun<n>an de ferir
 p<r><<i>>mero co<n> el harpo<n> al vallenato q<ue> no<n> ala va-
 llena e por la sangre q<ue> sale dela ferida
-q<ue>? le da<n> desmaya la vallena e mata<n>la anda<n>-
-do? en derredor desu fijo. en<e>sta gujsa muere
-el? fijo e la madre. Ca no<n> los podria<n> matar
-de? otra gujsa ta<n> ayna. e estas vallenas [^q<ue>]}
+q<ue> le da<n> desmaya la vallena e mata<n>la anda<n>-
+do en derredor desu fijo. en<e>sta gujsa muere
+el fijo e la madre. Ca no<n> los podria<n> matar
+de otra gujsa ta<n> ayna. e estas vallenas [^q<ue>]}
 [fol. 206v]
 {CB1.
 q<ue> te digo. ha<n> por natura q<ue> se les faze de
@@ -9797,7 +9797,7 @@ ha<n> su derecho sen<n>alado por aba<n>taja (^de)
 (^los) delos ot<r><<o>>s e desta gujsa q<ue> te he dicho
 muere<n> las vallenas. e asi son dep<ar>tidas
 las vnas delas ot<r><<a>>s E enesta man<er>a fue v<er>da-
-dera la palabra q<ue> dixo ih<es>u xp<ist>o enlo q<ue> dixo?
+dera la palabra q<ue> dixo ih<es>u xp<ist>o enlo q<ue> dixo
 q<ue> co<n>tesc'io ajonas
 {RUB. % cap<itul><<o>> .xcviij<<o>>. por q<ue> rrazo<n> son las aues dep<ar>tidas en
 color<e>s vnas de ot<r><<a>>s}}
@@ -9837,7 +9837,7 @@ colora q<ue> ha<n>. e las ot<r><<a>>s q<ue> so<n> todas bla<n>cas son
 frias mucho de natura e aq<ue>lla natura e
 freura q<ue> ha<n>. si del humor dela flema son
 bla<n>cas e las faze<n> seer bla<n>cas. e si ay
-otra color buelta {AD. co<n> blanco es por rrazon de la ot<r><<a>> vmor?} q<ue> anda co<n>la flema. e
+otra color buelta {AD. co<n> blanco es por rrazon de la ot<r><<a>> vmor} q<ue> anda co<n>la flema. e
 segu<n>d q<ue> es aq<ue>lla q<u><<a>>ntia de aq<ue>lla humor
 tuelle dela bla<n>cura e de pen<n>olas de su na-
 tura % otras aues ay q<ue> so<n> negras. esto
@@ -9956,7 +9956,7 @@ mesmo co<n>tesc'e delos rraposos q<ue> guaresc'e<n> en
 las cueuas. Ca en aq<ue>lla t<ie>rra no<n> ay rraposos.
 mas ay anjmalias q<ue> semejan aellos. e
 delos louos q<ue> llama<n> adjuas estos anda<n> en
-pos los leon<e>s q<ue> no<n> q<u><<i>>ere<n> comer e de aq<ue>llo {AD. & el ? ujer? es se? car? dexa<n> ? leon<e>s ?}
+pos los leon<e>s q<ue> no<n> q<u><<i>>ere<n> comer e de aq<ue>llo {AD. & el su goujerno es de la carne q<ue> dexa<n> los leon<e>s}
 se ma<n>tiene<n>. Ca el leo<n> ha por natura de
 no<n> g<u><<a>>rdar carne q<ue> coma de vn dia a otro.
 ca entie<n>de q<ue> no<n> le ha de me<n>guar p<ar>a otro
