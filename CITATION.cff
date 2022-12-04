@@ -1,8 +1,9 @@
 cff-version: 1.1.0
+message: "Si usa estas transcripciones, por favor, cítelas de la siguiente manera."
 authors:
   - family-names: Mario
     given-names: Cossío Olavide
     orcid: https://orcid.org/0000-0002-1447-3891
-title: mario-cossio/Lucidarios: Lucidarios v. 0.1
+title: «Lucidario [letra correspondiente], transcripción semipaleográfica», Lucidarios v. 0.1
 version: 0.1
 date-released: 2022-12-01
