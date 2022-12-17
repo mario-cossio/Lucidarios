@@ -1,6 +1,6 @@
 {RMK: Sancho IV el Bravo, rey de Castilla y León.}
 {RMK: [CLU] Lucidario.}
-{RMK: Madrid | Real Biblioteca| II/793.}
+{RMK: Madrid | Real Biblioteca | II/793.}
 {RMK: Mario Antonio Cossío Olavide.}
 [fol. 1r]
 {CB1.
@@ -286,7 +286,7 @@ aguas e el esp<rit>u de dios q<ue> andaua sobr<e> ellas}
 [fol. 6r]
 {CB1.
 E de aq<u><<i>> se toma vn rramo de vna pregu<n>ta q<ue> fa-
-zja<n> los om<ne>s de q<ue> nasc'io gra<n> eregia e {AD. [^2#me]} dema<n>daua<n>
+zja<n> los om<ne>s de q<ue> nasc'io gra<n>d eregia e {AD. [^2#me]} dema<n>daua<n>
 q<ue> pu<e>s el c'ielo e la t<ie>rra no<n> era<n> fechos q<ue> estonc'e lo
 criaua dios q<ue> ant<e> q<ue> lo oujese fecho q<ue> do estaua.
 otrosy ay otra dema<n>da de q<u><<a>>l vos agora diremos q<ue>
@@ -1054,7 +1054,7 @@ luna oujese poc'on<n>amjento alguno q<ue> le no<n>}
 {CB1.
 podria enpec'er. e desto te dare semeja<n>c'a
 delas c'e<n>tellas del fuego q<ue> sale<n> del q<ue> tan
-gra<n> fortaleza el fuego. ha ensi. enpuxa
+gra<n>d fortaleza el fuego. ha ensi. enpuxa
 las de si por el ayre. bie<n> asi acaesc'e al
 sol si entra el falla carrera abierta por do<n>-
 de los sus rrayos pueda enbiar sienp<r><<e>> a-
@@ -6199,7 +6199,7 @@ p<ar>te gostaua<n> los muchos mjraglos q<ue> el
 fazja e tomaua<n> sabor en<e>llos. com<m>o q<u><<i>>er}
 [fol. 137v]
 {CB1.
-q<ue> los no<n> creyese<n>. desi blasesmaua<n> le co<n> sus
+q<ue> los no<n> creyese<n>. desi blas[f]e(s)maua<n> le co<n> sus
 le<n>guas q<ue> es mje<n>bro sen<n>alado del gostar e
 tanja<n> lo co<n> las manos apalpa<n>do le. e no<n> le
 conosc'ia<n> nj<n> sabia<n> q<u><<i>>en era. e ala c'ima
@@ -6867,7 +6867,7 @@ corteza esta la encarnadura d<e>la c'idra e
 esta encarnadura es dulc'e {AD. [^2#&]} vmjda e muy
 fuert<e> ensi. mas q<ue> encarnadura de otra
 fruta q<ue> de arbol sea. destos q<ue> los om<ne>s
-come<n> e esta encarnaduria q<ue> yaze en}
+come<n> e esta encarnadur(i)a q<ue> yaze en}
 [fol. 151v]
 {CB1.
 medio g<u><<a>>rda aq<ue>llo alo amargo de dentro
@@ -6934,7 +6934,7 @@ so<n> fuert<e>s de cuerpo e muy grand<e>s e
 muy pesadas. por rrazo<n> mas pies deuja<n>
 auer p<ar>a sofrir aq<ue>lla carga. q<ue> no<n> la for-
 mjga e la pulga q<ue> so<n> anjmalias mez-
-q<u><<i>>nas e peq<ue>nas e ljujanas. por end<e> te
+q<u><<i>>nas e peq<ue>n<n>as e ljujanas. por end<e> te
 rruego q<ue> me digas por q<ue> es. rrespo<n>dio el
 maestro. com<m>o q<u><<i>>er q<ue> tu pie<n>sas q<ue>la dema<n>-
 da es muy ljujana de asoluer e de ju-
@@ -8775,7 +8775,7 @@ q<ue> nasc'e a[ ]ocho}
 bjue la criatura q<ue> nasc'e anueue me-
 ses e la q<ue> nasc'e a[ ]siete meses. e
 por q<ue> no<n> bjue la q<ue> nasc'e a[ ]ocho. ca pa-
-reste vna cosa muy estran<n>a en beujr}
+resc'e vna cosa muy estran<n>a en beujr}
 [fol. 189r]
 {CB1.
 la delos nueue e d<e>los siet<e> e no<n> beujr la
@@ -10313,7 +10313,7 @@ estos dos ensie<n>plos q<ue> te he dicho podras
 ligera ment<e> ente<n>der por ti mesmo la
 rrazo<n> por la gra<n>d cale<n>tura del sol en
 la t<ie>rra de los negros de[+]negresc'en sus car-
-nes q<ue> so<n> humjdas e enblaq<ue>sc'e<n> sus
+nes q<ue> so<n> humjdas e enbla[n]q<ue>sc'e<n> sus
 huesos e so<n> mas bla<n>cos q<ue> de ot<r><<o>>s om<ne>s.
 e otrosi por la gra<n>d seq<ue>dat dela humjdat
 q<ue> es co<n>sumjda han las piernas mas se-
@@ -10367,7 +10367,7 @@ yerua es muy frio e la humjdat e la fre-
 ura so<n> dos cosas cont<r><<a>>rias p<ar>a los dient<e>s
 q<ue> les faze mucho mal e los d(^a)[^e]rriba. esto
 pued<e>s veer por los podencos q<ue> busca<n> las
-p<er>dizes e las q<u><<a>>dornjzes por la gra<n>d ma-
+p<er>dizes e las q<uo>dornjzes por la gra<n>d ma-
 n<n>ana. q<u><<a>>ndo las yeruas esta<n> rruc'iadas q<ue> an-
 da<n>do busca<n>do trae<n> los rrostros por t<ie>rra E cae
 de aq<ue>l rruc'io enlos dient<e>s e faze les p<er>der
