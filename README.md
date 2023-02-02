@@ -5,6 +5,8 @@ En este repositorio encontrarán los testimonios de los siete manuscritos del <e
 
 Por el momento están disponibles los siguientes testimonios:
 
+A (Biblioteca Nacional de España, ms. 3369) --> En proceso de transcripción. Incompleto y con errores.
+
 C (Real Biblioteca, ms. II/793)
 
 D (Real Academia Española, ms. 15, códice de Puñonrostro)
@@ -15,7 +17,7 @@ G (Real Academia de la Historia, ms. 101)
 
 H (Bibliothèque patrimonial Villon, ms. A283)
 
-Actualmente estoy realizando la transcripción de A (Biblioteca Nacional de España, ms. 3369), entre enero y marzo de 2023, y B (Biblioteca Histórica de la Universidad de Salamanca, ms. 1958), entre marzo y mayo del mismo año. La transcripción de F (Biblioteca Histórica de la Universidad de Salamanca, ms. 2401), la traducción latina, está en evaluación.
+Actualmente estoy realizando la transcripción de A (Biblioteca Nacional de España, ms. 3369), entre enero y marzo de 2023, y B (Biblioteca Histórica de la Universidad de Salamanca, ms. 1958), entre marzo y mayo del mismo año. La transcripción de F (Biblioteca Histórica de la Universidad de Salamanca, ms. 2401), la traducción latina, corre paralela pero muy lentamente.
 
 Además encontrarán la transcripción semipaleográfica de la única traducción castellana del <em>Elucidarium</em> de Honorio de Autun, el <em>Lucidario romanceado</em>, conservado en la Biblioteca Histórica Marqués de Valdecilla de la Universidad Complutense de Madrid, ms. 148, cuya edición crítica puede consultarse en el número 41 de la revista [<em>Incipit</em>](http://www.iibicrit-conicet.gov.ar/ojs/index.php/incipit/article/view/541).
 
