@@ -1,10 +1,12 @@
+{RMK: HSMS-0450.}
 {RMK: Sancho IV el Bravo, rey de Castilla y León.}
 {RMK: [CLU] Lucidario.}
+{RMK:.}
 {RMK: Madrid | Real Biblioteca | II/793.}
 {RMK: Mario Antonio Cossío Olavide.}
 [fol. 1r]
 {CB1.
-libro q<ue> ordeno el rrey don sancho de esclaresc'ida memo-
+{RMK: HSMS-0450-0001: Lucidario.} libro q<ue> ordeno el rrey don sancho de esclaresc'ida memo-
 ria. fijo del muy noble {AD. [^2#rrey]} don alfon<so>. & dela noble
 rreyna don<n>a violant<e> su muger. el q<u><<a>>l fue el se-
 teno rrey d<e>los rreyes q<ue> fuero<n> en castilla q<ue> ouje-
@@ -485,7 +487,7 @@ a su serujc'io. e por eso pedjmos merc'ed ael e
 ala virgen bie<n> aue<n>turada santa m<ari>a su madr<e>
 en gujsa q<ue> ellos nos ayude<n> q<ue> le podamos acabar
 por q<ue> sea a su serujc'io. por q<ue> este ljbro es todo
-de rrazo<n> de p<r><<e>>gu<n>tas {AD. [^2#& de rrespuestas q<ue> vienen sobre aq<ue>llas p<r><<e>>gu<n>tas]}. semeja. nos d<e>le ordenar
+de rrazo<n> de p<r><<e>>gu<n>tas {AD. [^2#& de rrespuestas q<ue> vienen sobre aq<ue>llas p<r><<e>>gu<n>tas.]} semeja. nos d<e>le ordenar
 en man<er>a de vn dec'iplo q<ue> estoujese ant<e>. su ma-
 estro e sobre cada cosa q<ue> le pregu<n>tase el ma-
 estro q<ue> le rrespondiese. aello e comje<n>c'a asy.
@@ -3151,7 +3153,7 @@ ala le<n>gua q<ue> las diga e q<ue>las muestre por
 el. esto faze ella co<n> la v<er>tud dela oyda
 q<ue> le da el meollo por q<ue> lo faga % la otra
 cosa aq<ue>llo q<ue> ella gosta el meollo lo jud-
-ga en pagarse. oen despagar se d<e>llo.
+ga en pagarse. o en despagar se d<e>llo.
 pues q<u><<i>>ero te agora co<n>tar lo q<ue> viene d<e>l
 corac'o<n>. e el corac'o<n> le da moujmje<n>to p<ar>a
 mouer se a fablar. e da le es[+]fuerc'o co<n>
@@ -3389,7 +3391,7 @@ vn mo<n>te muy alto e olera vn dia de an-
 dadura. o[ ]dos o[ ]tres bestias muertas e
 om<ne>s muertos q<ue> este<n> en algu<n><<a>> t<ie>rra q<ue> veas
 q<ue> se acaesc'e muchas vezes q<ue> se pierde<n>
-en batallas oen lides muchas bestias e
+en batallas o en lides muchas bestias e
 muchos om<ne>s. e ala ora q<ue> les viene el
 oler luego se va<n> p<ar>a alla derecha ment<e> a
 comer de aq<ue>lla carne de q<ue> ellos se gouj-
@@ -4380,7 +4382,7 @@ angel<e>s delas q<u><<a>>tro orden<e>s. esta<n> sienpre ant<e>}
 {CB1.
 la magestad de n<uest>ro sen<n>or de noche e de dia q<ue>
 nu<n>ca c'esan nj<n> toma<n> ende abo<n>damje<n>to. estos
-sienpre esta<n> {AD. [^2#que]}dos % enla p<r><<i>>mera destas q<u><<a>>tro
+sienpre esta<n> [^2#que]dos % enla p<r><<i>>mera destas q<u><<a>>tro
 orden<e>s. esta<n> los serafin<e>s. este no<n>bre ta<n>to q<u><<i>>e-
 re dezjr com<m>o cosa si<n> fin. Ca en<e>llos se
 acaban las nueue orden<e>s delos angel<e>s e
@@ -4678,7 +4680,7 @@ sillas q<ue> so<n> llenas tanta q<u><<a>>ntidad de anj-
 mas com<m>o era<n> los angel<e>s q<ue> dende caye-
 ro<n> las ot<r><<a>>s q<ue> so<n> mas de aq<ue>llas. q<ue>rria sa-
 ber en q<ue> logar las pone dios. si las po-
-ne en mas alto logar de aq<ue>l oen mas
+ne en mas alto logar de aq<ue>l o en mas
 baxo. rrespo<n>dio el maestro. sepas q<ue> en}
 [fol. 102r]
 {CB1.
@@ -5151,7 +5153,7 @@ noe. ouo mjll an<n>os. e desde noe fasta}
 {CB1.
 abraham ouo ot<r><<o>>s mjll an<n>os. q<ue> se cue<n>ta<n>
 por dos hedad<e>s. e deste abraha<m> fasta el
-rrey daujd ouo {AD. [^2#o]}tr(^e)[^o]s mjll an<n>os. q<ue> fue la
+rrey daujd ouo [^2#o]tr(^e)[^o]s mjll an<n>os. q<ue> fue la
 terc'era hedat. e desde daujd fasta la
 nasc'e<n>c'ia de ih<es>u xp<ist>o. fue la q<u><<a>>rta hedat.
 agora desde ih<es>u xp<ist>o aca. es pasada la
@@ -5162,7 +5164,7 @@ gu<n>d q<ue> los om<ne>s dize<n> e cuyda<n> ha de seer
 la fin del mu<n>do enla setena hedat. mas
 no<n> puede om<n>e saber enq<ue> t<ien>po sera en
 la setena hedat. si sera en<e>l comje<n>-
-c'o oen la fin % Por end<e> vos rruego mae-
+c'o o en la fin % Por end<e> vos rruego mae-
 stro q<ue> me asoluad<e>s estas dos dema<n>das.
 % la p<r><<i>>mera por q<ue> rrazo<n> sera la fin mas
 enla setena hedat q<ue> en nj<n>guna delas
@@ -5368,7 +5370,7 @@ auja a seer. saluo end<e> q<ue> sabemos
 q<ue> ha de seer enla setena hedat. mas
 com<m>o te dixe de p<r><<i>>mero. no<n> puede om<n>e
 saber. si ha de seer en comje<n>c'o o
-en medio oen cabo. e la rrazo<n> por
+en medio o en cabo. e la rrazo<n> por
 q<ue> dios esto fizo. te q<u><<i>>ero dezjr. q<u><<i>>so q<ue>
 los om<ne>s fuese<n> ap<er>c'ebidos q<ue> auja de
 seer la fin. por q<ue> se g<u><<a>>rdase<n> de
@@ -5930,7 +5932,7 @@ sera<n> estremados delos angel<e>s. Ca los
 angel<e>s no<n> auera<n> cuerpos. ca nu<n>ca los
 oujero<n>. los angeles conosc'e<n> se vnos a
 ot<r><<o>>s por q<ue> no<n> ay nj<n>guno d<e>llos q<ue> aya
-enbargo nj<n> premja sobre[ ]si. asi com<m>o
+enbargo nj<n> premja sobre[ ]si. asi com<m>o
 lo ha<n> las anjmas. nj<n> ha<n> de fazer en<e>-
 ste mu<n>do otra cosa. si no<n> veer la glo-
 ria de dios e co<n>pljr su ma<n>damje<n>to.
@@ -6406,7 +6408,7 @@ blancas. e en sus cabec'as coronas de}
 de oro. e deste t<ien>po no salia gra<n>d claridat
 de fuego e (^v)[^b]ozes grandes {BLNK.}
 e estaua<n> siete lanparas ar-
-dient<e>s ant<e> este (^torno) {AD. [^2#trono]}. las q<u><<a>>les siete la<n>-
+dient<e>s ant<e> este (^torno) {AD. [^2#trono.]} las q<u><<a>>les siete la<n>-
 paras. so<n> los siete don<e>s de gr<ac'i>a de sp<rit>u
 santo de dios. E ant<e> esta silla esta-
 ua asi com<m>o mar de vidrio asemeja<n>c'a de
@@ -6729,7 +6731,7 @@ oras e q<u><<a>>ndo me<n>gua la noche. cresc'e en<e>l}
 {CB1.
 dia e q<u><<a>>ndo me<n>gua en<e>l dia cresc'e enla
 noche
-{RUB. % cap<itul><<o>> .lxvj. q<u><<a>>ndo la luna {AD. [^2#<<es llena>>]}. por q<ue> paresc'e alos
+{RUB. % cap<itul><<o>> .lxvj. q<u><<a>>ndo la luna {AD. [^2#<<es llena>>.]} por q<ue> paresc'e alos
 om<ne>s el lunar mayor e mas claro q<u><<a>>ndo
 esta anublado. q<ue> q<u><<a>>ndo esta claro}
 {IN2.} Dixo el dec'iplo al maestro. q<u><<a>>ndo la luna
@@ -7582,7 +7584,7 @@ sangre q<ue> es com<m>o en man<er>a de c'umo e
 vmjdat d<e>llas ay q<ue> la han de color bla<n>-
 ca e ot<r><<a>>s ay q<ue> la ha<n> amarilla. e cada
 vna destas maneras ta<n> p<r><<o>>uechosa es p<ar>a
-aq<ue>l bestiglo q<ue> la {AD. [^2#ha]}. com<m>o es esta otra san-
+aq<ue>l bestiglo q<ue> la {AD. [^2#ha.]} com<m>o es esta otra san-
 gre bermeja de nos p<ar>a nos. pues ha
 vida por ella}
 [fol. 166r]
