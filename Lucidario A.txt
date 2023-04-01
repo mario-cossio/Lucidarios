@@ -1,10 +1,10 @@
 {RMK: Sancho IV el Bravo, rey de Castilla y León.}
 {RMK: [LUA] Lucidario.}
-{RMK:.}
-{RMK: Madrid | Biblioteca Nacional de España | 3369.}
-{RMK: Mario Antonio Cossío Olavide}
-{RMK: fols. 1ra-137va contain the Lucidario, fols. 137va-169va the Semejanza del mundo, fols. 169va-170rv, the Macer herbolario}
-{RMK: annotation in XVIII century hand in verso of parchment guard-leaf: Don Sancho el brauo libro de cosas uarias en todas materias}
+{RMK: .}
+{RMK: Madrid | Biblioteca Nacional de España | MSS/3369.}
+{RMK: Mario Antonio Cossío Olavide.}
+{RMK: fols. 1ra-137va contain the Lucidario, fols. 137va-169va the Semejanza del mundo, fols. 169va-170rv, the Macer herbolario.}
+{RMK: annotation in XVIII century hand in verso of parchment guard-leaf: Don Sancho el brauo libro de cosas uarias en todas materias.}
 [fol. 1r]
 {CB2.
 {IN3.} E en el nonbre de di-
@@ -101,7 +101,7 @@ enas rrazones que tomen}
 {CB2.
 & muy derechas para po-
 ner las por sy E dexar ell-
-as las malas ???s val-
+as las malas [??]s val-
 dias en q<ue> pueden abie<r>-
 ta mente proua<r> & amos-
 trar la ve<r>tud segu<n>d es &
@@ -4332,7 +4332,7 @@ Sacrefic'io q<u><<a>>ndo el cl<er>igo alc'a
 las manos con<e>l cue<r>po de
 dios enla mjsa alc'andol
 contra Suso %. {RUB. por q<ue> rranso<n>
-alc'a el clerigo el corpo xp<ist>i}
+alc'a el clerigo el corpo xp<ist>i}}
 {CB2.
 {IN3.} E pregunto el dic'ipulo &
 dixo maestro qujero sabe<r>
@@ -4750,7 +4750,7 @@ mediane<r>os por que se g<u><<i>>a-
 sen cada vno dellos & el p<r><<i>>m<er>o
 es el seso & el Segundo el en-
 tendimj<ent><<o>> & estos dos yguala-
-dores Son t<r><<a>uados que te yo
+dores Son t<r><<a>>uados que te yo
 agora dixe conlos c'inco se<n>-
 tidos por vna cadena que
 puso dios en<e>l alma del om<br>e
@@ -7653,7 +7653,7 @@ zaro o tu rrico mjenbrate de
 q<u><<a>>nto malo me fueste q<u><<a>>ndo
 fuy a pedjr ala pue<r>ta de tu
 casa de q<u><<a>>nto vien avies en-
-tonc'e njn me q<u><<<i>>>sieste da<r> njn vn
+tonc'e njn me q<u><<<i>>sieste da<r> njn vn
 vocado de pan q<ue> comjese e}
 [fol. 65v]
 {CB2.
@@ -8068,7 +8068,7 @@ yor pode<r> & la mayor ve<r>tud
 es la suya que touo el para
 Si que non qujso da<r> a njn-
 guno si non a si mjsmo como
-aq<ue>>l que por grand abonda-
+aq<ue>l que por grand abonda-
 mj<ent><<o>> de ve<r>tud que en si fue
 & es fazedor delas cosas
 & asi como el grand pode<r> tiene
@@ -9185,7 +9185,7 @@ que dios puede pone<r> sobre
 el pecador el dia del juyzio
 dos ay sen<n>alados que non
 ha om<br>e del mundo asma<r>
-njn p<r><<e>>c'ia<r> El p<r><<i>mero es en
+njn p<r><<e>>c'ia<r> El p<r><<i>>mero es en
 quere<r> dios see<r> om<br>e & torna<r>
 de tan alta cosa a tan vaxa
 E el Segundo moryr enla}
@@ -9214,7 +9214,7 @@ generac'ion<e>s que conbenje
 que se conpliesen todas la(s)
 (p[r]emjas) [primera] fue q<u><<a>>ndo fizo a a-
 dam Sin padre & sin madre
-la Segunda que {AD. <<de>>} adan saco
+la Segunda que {AD. [^de]} adan saco
 a eua & asi ouo padre & non
 madre E asi se conplieron}
 {CB2.
@@ -9234,7 +9234,7 @@ quere<r> descubrir la tan a-
 yna como las otras E
 veyendo dios en q<u><<a>>nd ayna
 fiziera la segunda genera-
-c'ion peca<r> {AD. <<a la>>} p<r><<i>>mera que uos
+c'ion peca<r> {AD. [^a la]} p<r><<i>>mera que uos
 deuedes Sabe<r> que adam
 que hera la primera gene-
 rac'ion non pecara sy eua
@@ -9272,7 +9272,7 @@ non pre(c')[t]eribid} que q<u><<i>>ere
 dezjr el mandamjento}
 {CB2.
 que puso non lo paso %.
-{Capi<tu>lo liii[i]j si prisiera dios mue<r>te
+{RUB. Capi<tu>lo liii[i]j si prisiera dios mue<r>te
 si adan non pecara}
 {IN3.} E pregunto el dic'ipulo
 & dixo maestro rruego
@@ -9565,7 +9565,7 @@ carrera e torna a buena &
 de tinjebra va a claridad
 por este alunbramjento %.
 {RUB. Capi<tu>lo lvij por q<ue> rrazon las aban-
-gelistas {AD. <<son>>} q<u><<a>>tro & non son mas
+gelistas {AD. [^son]} q<u><<a>>tro & non son mas
 njn menos}
 {IN3.} E pregunto el dic'ipulo
 al maest<r><<o>> & dixole
@@ -10462,7 +10462,7 @@ e vaxas c'erca la vmjdad
 dela tierra han el ama<r>go
 agro ca non las cueze el
 Sol tanto como alas ot<r><<a>>s %.
-{Cap<itu>lo lxii por q<ue> rrazon la pul-
+{RUB. Cap<itu>lo lxii por q<ue> rrazon la pul-
 ga & el pioJo an muchos pies el ca-
 ballo el orifant no<n> an mas de ca-
 da q<u>atro}}
@@ -10695,7 +10695,7 @@ lias de generac'iones de
 padre e de madre e de
 corronpjmjento vien asi se
 crian enla ma<r> a semejanc'a
-desto %. {RUB. Capi<tu>lo [lxiij]  por q<ue> non
+desto %. {RUB. Capi<tu>lo [lxiij] por q<ue> non
 semeja vn hom<br>e a otro}
 {IN3.} E pregunto el di-
 c'ipulo asu ma<e>st<r>o
@@ -15607,7 +15607,6 @@ faziones que a como ot<r><<o>>
 carnero %. {RUB. Capi<tu>lo xcvj
 por q<ue> rrazon se fazen las can<n>a-
 beras de cuernos de cabras}
-
 {IN3.} A maestro rruego te
 que me digas por
 q<ue> rrazon se fazen
@@ -15913,6 +15912,7 @@ la grand man<n>ana q<u><<a>>ndo las
 yeruas estan rruc'iadas q<ue> a<n>-
 dando busca<n>do trahen los}
 [fol. 137v]
+{CB2.}
 {CB2.
 rrostros por tierra E cae de
 aq<ue>l rruc'io en los dientes
@@ -15923,21 +15923,23 @@ veras los dientes perdi-
 dos como si fuesen viejos
 vien asi contesc'e delas
 liebres e delos conejos
-Segu<n>d q<ue> de suso oyste %.}
-{RMK: Follows the Semejanza del mundo from fol. 137va to fol. 169va the Semejanza del mundo, fols. 169va-170rv, the Macer herbolario}
+Segu<n>d q<ue> de suso oyste %.
+{RMK: Follows the Semejanza del mundo from fol. 137va to fol. 169va the Semejanza del mundo, fols. 169va-170rv, the Macer herbolario.}}
 [...]
 [fol. 170r]
-{RMK: two hands at the begining of the second column write the following:}
+{CB2.}
 {CB2.
-{AD. ^1#ay en todo este ljbro es<cri>ptos
-sese<n>ta & siete pliegos}
-{AD. ^2#acabose en<e>l mes
+{RMK: two hands at the begining of the second column write the following:.}
+{AD. [^2#ay en todo este ljbro es<cri>ptos
+sese<n>ta & siete pliegos]}
+{AD. [^3#acabose en<e>l mes
 de marc'o an<n>o d<e>l sen<n>o<r>
-de JUcccc<<o>> lv an<n>os}}
-[fol. 170r]
-{RMK: in the recto of the guard-leaf, numbered fol. 171, there is a note in a the same hand as the previous text}
+de JUcccc<<o>> lv an<n>os]}}
+[fol. 170v]
+[fol. 171r]
+{RMK: in the recto of the guard-leaf, numbered fol. 171, there is a note in a the same hand as the previous text.}
 {CB1.
-acavose en<e>l mes de marc'o an<n>o d<e>l sen<n>or
+{AD. [^3#acavose en<e>l mes de marc'o an<n>o d<e>l sen<n>or
 de mjll & quatro c'ientos & c'incuenta & c'inco an<n>os
 a dios sean dadas gr<ac'i>as/ a en este libro
 escritos sesenta & siete pliegos & doze en blanco
@@ -15950,4 +15952,4 @@ el qu<<a>>l libro fabla primera mente dela
 santa teologia & filosofia natural lo mas
 del qu<<a>>l dicho libro conpuso el bien abenturado
 dotor sant agostin & otros muchos santos &
-sabios om<br>es.}}
+sabios om<br>es.]}}
