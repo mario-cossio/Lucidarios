@@ -4,12 +4,6 @@
 {RMK:.}
 {RMK: Palma de Mallorca | Biblioteca de la Fundación Bartolomé March Servera | MA26-5-07.}
 {RMK: Mario Antonio Cossío Olavide}
-[fol. 1r]
-{CB1.
-}
-[fol. 1v]
-{CB1.
-}
 [fol. 2r]
 {HB. {LAT. ih<es>us xp<ist>us
 marie filius}}
