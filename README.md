@@ -19,7 +19,7 @@ G (Real Academia de la Historia, ms. 101)
 
 H (Bibliothèque patrimonial Villon, ms. A283)
 
-I (Biblioteca de la Fundación Bartolomé March Severa, ms. MA26-5-07)
+I (Biblioteca de la Fundación Bartolomé March Servera, ms. MA26-5-07)
 
 Actualmente estoy realizando la transcripción automatizada de B (Biblioteca Histórica de la Universidad de Salamanca, ms. 1958), entre abril y agosto y de I (Biblioteca de la Fundación Bartolomé March Severa, ms. MA26-5-07), entre junio y octubre. La transcripción de F (Biblioteca General Histórica de la Universidad de Salamanca, ms. 2401), la traducción latina, corre paralela pero muy lentamente.
 
@@ -45,6 +45,6 @@ Cossío Olavide, Mario (2022). «Lucidario, testimonio G (Real Academia de la Hi
 
 Cossío Olavide, Mario (2022). «Lucidario, testimonio H (Bibliothèque patrimonial Villon, ms. A283), transcripción semipaleográfica». <em>Lucidarios, v. 0.2</em>, https://doi.org/10.5281/zenodo.7548608, fecha de consulta.
 
-Cossío Olavide, Mario (2023). «Lucidario, testimonio I (Biblioteca de la Fundación Bartolomé March Severa, ms. MA26-5-07), transcripción semipaleográfica». <em>Lucidarios, v. 0.2</em>, https://doi.org/10.5281/zenodo.7548608, fecha de consulta.
+Cossío Olavide, Mario (2023). «Lucidario, testimonio I (Biblioteca de la Fundación Bartolomé March Servera, ms. MA26-5-07), transcripción semipaleográfica». <em>Lucidarios, v. 0.2</em>, https://doi.org/10.5281/zenodo.7548608, fecha de consulta.
 
 Cossío Olavide, Mario (2021). «Lucidario romanceado (Biblioteca Histórica Marqués de Valdecilla, Universidad Complutense de Madrid, ms. 148), transcripción semipaleográfica». <em>Lucidarios, v. 0.2</em>, https://doi.org/10.5281/zenodo.7548608, fecha de consulta.
