@@ -11,6 +11,7 @@ Por el momento están disponibles los siguientes testimonios:
 <li>C (Real Biblioteca, ms. II/793)</li>
 <li>D (Real Academia Española, ms. 15, códice de Puñonrostro)</li>
 <li>E (Biblioteca Nacional de España, ms. 6958)</li>
+<li>F (Biblioteca General Histórica de la Universidad de Salamanca, ms. 2401)</li>
 <li>G (Real Academia de la Historia, ms. 101)</li>
 <li>H (Bibliothèque patrimonial Villon, ms. A283)</li>
 <li>I (Biblioteca de la Fundación Bartolomé March Servera, ms. MA26-5-07)</li>
