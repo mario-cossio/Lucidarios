@@ -1297,7 +1297,7 @@ gua del a ninguna cosa que a todo da el rrecau-
 do.
 {RUB. Capitulo quinto que fabla que figu-
 ra a dios en si.}
-Dixo el dic'iplo ruego te maestro que me digas
+{IN1.}Dixo el dic'iplo ruego te maestro que me digas
 que figura a dios en sy % E esta demanda}
 [fol. 27r]
 {CB1.
@@ -1405,7 +1405,7 @@ su pecado.
 {RUB. Capitulo sesto que fabla por que rrazon
 es la trinidad de tres personas e non de
 mas cuenta nin de menos.}
-Dixo el dic'iplo al maestro rruegote q<ue> me digas
+{IN1.}Dixo el dic'iplo al maestro rruegote q<ue> me digas
 por que razon es la trinidad de tres personas e
 non de mas nin menos % respondio el maestro a
 la tu pregunta que me fazes quiero te rresponder
@@ -1457,7 +1457,7 @@ rra en vn dios la trinidad de la cuenta de tres
 personas.
 {RUB. Capitulo vij por que Razon nombro
 ante al sp<irit>u sancto que al fijo.}
-pregunto el deciplo rruegote que me digas vna
+{IN1.}Pregunto el deciplo rruegote que me digas vna
 cosa por que me contaste en la cuenta de tres
 ante el sp<irit>u santo que el fijo % ca bien sabes
 tu que segund rrazon derecha de que om<br>e vee ca-
@@ -1511,7 +1511,7 @@ bientre de santa maria e se bistio de la su car-
 ne della.
 {RUB. Capitulo viij<<o>>. que fabla en que logar del
 cuerpo esta el alma.}
-Dixo el diciplo maestro quiero te fazer vna de-
+{IN1.}Dixo el diciplo maestro quiero te fazer vna de-
 manda. E respondeme a ella % dime do esta el
 alma del om<br>e si esta en vn logar o si esta en todo
 el cuerpo % respondio el maestro yo te lo dire
@@ -1543,7 +1543,7 @@ e mui presso.
 {RUB. Capitulo jx. que habla si quando tajan
 al om<br>e el pie o la mano si tajan y la virtud
 del alma.}
-Pregunto el diciplo maestro pues la virtud
+{IN1.}Pregunto el diciplo maestro pues la virtud
 del alma se estiende por todo el cuerpo quan-
 do tajan al om<br>e el pie o la mano tajan y la vir-
 tud del alma % dixo el maestro a esto te rres-
@@ -1680,27 +1680,26 @@ en el comienc'o de las palabras do dize dios te
 salue maria llena heres de grac'ia el sen<n>or es contigo}
 [fol. 34v]
 {CB1.
-****
 % por esto te rruego maestro q<ue> me digas en qual
 logar destos fue % rrespondio el maestro sa-
 be que vondad de dios fue que acabase el
-angel toda su mensajeria E quiso el ver q<ue>
+angel toda su mensajeria e quiso el ver q<ue>
 rrespuesta le daria la vien auenturada virge<n>
 santa maria % ca si ante que la mandaderia
-fuese acabada conc'iviera non overia el an-
+fuese acabada conc'iviera non oviera el an-
 gel por que dezir mas palabras de allj ade-
 lante % mas el angel toda la mandaderia tra-
 xo ordenada de dios E toda se avia de aca-
 bar fasta enc'ima % E alli a do ella rrespon-
-dio E dixo ae la sierua de dios sea fecho en
+dio e dixo ae la sierua de dios sea fecho en
 mi segund la tu palabra % luego en aq<ue>lla
 ora que acabo de dezir {LAT. uerbu<m> tuu<m>} en aquel
-punto fue el n<uest>ro sen<n>o enc'errado En ella % ca
+punto fue el n<uest>ro sen<n>or enc'errado en ella % ca
 en esta rrespuesta q<ue> ella dio vio el n<uest>ro sen<n>or
 dios dos cosas que avia en santa maria %
 la primera gran bondad ca bien dio a entender
 q<ue> hera vmilldosa en quanto se llamo sierua
-E en la humildad ovo a entender en la men-
+e en la humildad ovo a entender en la men-
 sajeria que le dixo el angel. quando le dixo q<ue>
 fuese en ella fecho segund el avia dicho
 % E si me preguntas como n<uest>ro sen<n>or non sabia}
@@ -1732,14 +1731,14 @@ d<ic>ho % E deste consentimiento que ella consintio
 fue tomado despues en la n<uest>ra ley de los xp<ist>ianos}
 [fol. 35v]
 {CB1.
-por los santos padres que lo compusieron E
+por los santos padres que lo compusieron e
 tan bien es en la vieja ley que todo casamiento
 del varon e de la muger que si el vno dellos
 lo consiente e el otro non no<n> es valedero %
 E esto mesmo es si se faze por fuerc'a que en
 ninguna manera non deue ser si non a consen-
 timiento e voluntad de amos ados % E esta
-voluntad que se leuante de amos ados E de cora-
+voluntad que se leuante de amos ados e de cora-
 c'on % ca fallamos que dixo dios en vn euangelio
 a sus dic'iplos a do dos de vosotros fueredes a-
 yuntados en el mi nombre yo sere en medio de
@@ -1760,9 +1759,9 @@ que se enc'erro la vna. o las dos en su vientre}
 esto es vna rrazon % E si dizes que todas y
 fueron enc'erradas dame razon quien fincaua
 fuera en su lugar para mantener el c'ielo e la t<ie>rra
-& todas las otras criaturas q<ue> a en ella % rrespon-
+e todas las otras criaturas q<ue> a en ella % rrespon-
 dio el maestro yo te lo dire ya sabes como te dixe
-que son nueve los c'ielos E del vno al otro ay bie<n>
+que son nueve los c'ielos e del vno al otro ay bie<n>
 tanto como de la t<ie>rra a este primero que parec'e
 a nos % pues quando n<uest>ro sen<n>or es en el mas alto
 c'ielo que es en el noveno % para mientes si
@@ -1791,15 +1790,15 @@ aventuranc'a de todos los bien auenturados
 {LAT. quicu<m>q<ue> uult. qualis pater tales fili<us> talis
 sp<irit>us s<anc>tus} que quiere dezir qual es el padre
 tal es el fijo tal es el espiritu santo quanto a
-la esenc'ia que se non pueden departir % E
+la e(^n)senc'ia que se non pueden departir % E
 asi como la rrueda del sol e el su rrayo e el su
-calor E todo es vn sol. que no se puede partir
+calor e todo es vn sol. que no se puede partir
 lo vno de lo otro asi la santa trinidad es vn
 dios.
 {RUB. Capitulo xiij que habla como pudo santa
 maria fincar virgen despues que n<uest>ro sen<n>or
 ih<es>u xp<ist>o nac'io della.}
-pregunto el dic'iplo e dixo maestro poder
+{IN1.}Pregunto el dic'iplo e dixo maestro poder
 me ias dar rrazon como pudo santa maria
 fincar virgen despues que el n<uest>ro sen<n>or nac'io
 della % respondio el maestro e dixo a esto
