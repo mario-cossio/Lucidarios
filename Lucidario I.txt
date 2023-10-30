@@ -1,9 +1,9 @@
 {RMK: .}
-{RMK: Sancho IV el Bravo, rey de Castilla y LeÃ³n.}
+{RMK: Sancho IV el Bravo, rey de Castilla y Le—n.}
 {RMK: [LUI] Lucidario.}
 {RMK:.}
-{RMK: Palma de Mallorca | Biblioteca de la FundaciÃ³n BartolomÃ© March Servera | MA26-5-07.}
-{RMK: Mario Antonio CossÃ­o Olavide}
+{RMK: Palma de Mallorca | Biblioteca de la Fundaci—n BartolomŽ March Servera | MA26-5-07.}
+{RMK: Mario Antonio Coss’o Olavide}
 {RMK: guard-leaf (1r) note: olim 73_3}
 [fol. 2r]
 {HB. {LAT. ih<es>us xp<ist>us
@@ -5701,7 +5701,7 @@ del % por ende puedes tu ver q<ue> la calen-
 tura natural del cuerpo es fecha del alma}
 [fol. 117v]
 {CB1.
-e el su mantenimiento con q<ue> el alma obra en el
+E el su mantenimiento con q<ue> el alma obra en el
 cuerpo del om<br>e % por ende quando el al-
 ma viene a salir del cuerpo toda la vir-
 tud de la figura de la calentura natural
@@ -5718,17 +5718,17 @@ da(^d) fuera del cuerpo como dentro.}
 digas si el alma q<ue> dios crio del om<br>e e la faze
 si puede ser cumplida tan bien como seiendo
 despues q<ue> dios la a fecho e criado non
-seyendo en el cuerpo del om<br>e como seiend
+seyendo en el cuerpo del om<br>e como seiendo
 dentro metida. % respondio el maestro a
 esto te rrespondere en dos guisas % la prim<er><<a>>
 non puede ser % la segunda q<ue> quando al-
 guna cosa fuese por aventura de otra}
 [fol. 118r]
 {CB1.
-Razon en q<ue> guis seria ella segun lo que
+Razon en q<ue> guisa seria ella segun lo que
 fallamos de naturas % por ende te quiero
 rresponder luego de la primera destas dos
-maneras e despues rresponderte he a la o-
+maneras e despues rresponder te he a la o-
 tra % quiero q<ue> sepas q<ue> quando dios faze
 el alma e la cria de nada q<ue> nunca la faze
 si no quando el cuerpo tiene aparejado en
@@ -5738,9 +5738,9 @@ la pone % E des q<ue> el cuerpo es cumplida
 mente aparejado para rresc'ibirla % por e<n>de
 dize vna palabra de la scriptura la qual
 dize san agustin % {LAT. deus in creando infun-
-dit et in fundando creatur} % q<ue> quiere dezir
+dit et in[+]fund(a)[e]ndo creat(^ur)} % q<ue> quiere dezir
 q<ue> el alma faziendola dios la pone en el cuerpo
-E en poniendola la fizo % ca(^d) cada vna des-
+e en poniendo la la fizo % ca(^d) cada vna des-
 tas dos cosas non con espac'io de tiempo se-
 gun la natura lo demanda % ca primero se
 faze el cuerpo carnal de la criatura e des
@@ -5756,9 +5756,9 @@ esta rrazon puedes tu bien ver q<ue> quando
 dios la faze que non la faze en balde si no<n>
 para aquel logar a do es menester % E pu<e>s
 q<ue> te he ya d<ic>ho aquesta rrazon primera
-quiero te torna a la otra segunda q<ue> te dixe
+quiero te tornar a la otra segunda q<ue> te dixe
 primero pues q<ue> dios es poderoso de criar
-el alma E criar la de nada pues q<ue> el ha este
+el alma e criar la de nada pues q<ue> el ha este
 poder tan poderoso es de la fazer fuera del
 cuerpo como dentro en el cuerpo en q<ue> la cria
 % ca si dios obiese poder de la fazer en vn
@@ -5790,7 +5790,7 @@ rac'ion del alma como vn instrumento de
 cuerdas q<ue> quando esta bien templado e
 aya quien lo sepa bien tan<n>er puede meter
 en el qual quier son q<ue> quisiere % por ende
-los miembros q<ue> son en el cuerpo son cuerdas
+los mjembros q<ue> son en el cuerpo son cuerdas
 con q<ue> dize e faze el alma aq<ue>llo q<ue> entiende
 q<ue> le cumple % E el maestro q<ue> sabe tan<n>er
 el ynstrumento es el alma q<ue> por el saber
@@ -5802,19 +5802,19 @@ obrar estando en el cuerpo en q<ue> la dios crio
 e quando el cuerpo faze e dize todo es
 por ella e lo al no bale nada % E esto puedes
 bien ver quando el alma sale del cuerpo
-quan desamparada finca del bien que
+quan[^<<do>>] desamparada finca del bien que
 ante solia aver % e por esta obra q<ue> ella
 faze la conoc'emos como es dios e la cria e
 faze con todo su complimiento % E de otra
 guisa non ha entendimiento de om<br>e q<ue> lo pu-
 diese conoc'er % ca por la su obra q<ue> fizo en
-aq<u>el cuerpo onde esta la avemos a conosc'er
+[^a]q<u>el cuerpo onde esta la avemos a conosc'er
 como es criatura de dios.
 {RUB. Cap<itul><<o>> xljx. q<ue> fabla si sabe dios todas
 las cosas q<ue> cuidan los om<br>es seyendo
 como son tantos en el mundo.}
-E pregunto el dic'iplo a su maestro e dixo
-rruegote maestro q<ue> me digas vna cosa q<ue>
+{IN1.}E pregunto el dic'iplo a su maestro e dixo
+rruego te maestro q<ue> me digas vna cosa q<ue>
 suelen dezir los om<br>es q<ue> tan grande es el
 poder q<ue> dios ha en si q<ue> sabe todas las cosas
 q<ue> se cuidan e fazen e se dizen E q<ue> asi como
@@ -5840,12 +5840,13 @@ el corac'on encubierto en la voluntad del
 om<br>e e asi enc'errado en el cuerpo del hombre
 dentro % E si esto contec'iese a vn hom<br>e solo
 non lo ternia por gran maravilla mas lo que
-contec'e por tantos aqui no puede om<br>e dar
+contec'e por tantos a qui no puede om<br>e dar
 quenta esto es mucho de maravillar
 % por ende te rruego q<ue> me saques desta
 duda. si es asi o no % respondio el maestro}
 [fol. 120v]
 {CB1.
+****
 E dixo para mientes a la uger pren<n>ada e
 ver la as como trae la criatura en el bientre
 % E des q<ue> la criatura a pasado su tiempo
@@ -5977,7 +5978,7 @@ non lo fara si los om<br>es non toujeren tal inst(or)[ro]-
 mente q<ue> sea dan<n>ado e nunca en el buen so<n>
 podra tan<n>er fasta q<ue> adoue el est(or)[ro]mente %
 bien tal es el alma si aquel cuerpo en q<ue> la pone
-dios falla endÂ¿Â¿Â¿ ec'ido de los c'inco sentidos
+dios falla endÀÀÀ ec'ido de los c'inco sentidos
 q<ue> el om<br>e a de auer q<ue> non aya embargo en al-
 guno dellos % otro si q<ue> las tres de la cabec'a
 aya bien jamas sin ningun embargo de los qua-
@@ -6053,7 +6054,7 @@ via fazer % respondio el maestro tu me
 fazes vna demanda muy alta e muy sotil
 e por ende te digo asi como quier q<ue> el alma
 del om<br>e sea sp<irit>u q<ue> dios cria e faze de nada
-bien asi como fizo al angel sinÂ¿Â¿ ninguna otra
+bien asi como fizo al angel sinÀÀ ninguna otra
 natura % pero en tanto q<ue> el alma del om<br>e}
 [fol. 125r]
 {CB1.
@@ -6064,7 +6065,7 @@ la carne e los huesos de aquel cuerpo es fecho
 de quatro humores a semejanc'a de los qua-
 tro helementos de que el mundo es fecho
 % e por q<ue> el cuerpo no puede estar toda via
-en vn tenorÂ¿Â¿ q<ue> de dia e de noche ay rrazones sa-
+en vn tenorÀÀ q<ue> de dia e de noche ay rrazones sa-
 vidas q<ue> cada vno destos quatro humores se
 apodera mas del cuerpo q<ue> los otros % otro
 si por q<ue> el mucho comer e el mucho bever
@@ -6081,7 +6082,7 @@ c'ienc'ia % demuestralo des q<ue> el cuerpo yaze
 desapoderado de su suen<n>o el alma non q<ue>da}
 [fol. 125v]
 {CB1.
-de andar en sus biesosÂ¿Â¿ % E escodrin<n>an las
+de andar en sus biesosÀÀ % E escodrin<n>an las
 cosas q<ue> han de venir e avn q<ue> el cuerpo can-
 sa tan fuerte ella es en si q<ue> non cansa ca
 non es fecha de materia de ninguna cosa
@@ -6100,7 +6101,7 @@ de sus virtudes si no<n> con los instrumentos
 del cuerpo q<ue> son los c'inco sesos q<ue> desuso oiste
 pues el q<ue> esta en la torre por grande q<ue> sea
 aq<ue>llo q<ue> quiere ver q<ue> de fuera este no lo
-podra ver seno<n>Â¿Â¿ se guiaÂ¿Â¿ la grandez del
+podra ver seno<n>ÀÀ se guiaÀÀ la grandez del
 lugar por do vee por ende el alma del}
 [fol. 126r]
 {CB1.
@@ -6117,24 +6118,24 @@ q<ue> el querie bien asi contec'e del alma q<ue> como
 quier q<ue> quando bien ha en el cuerpo del
 om<br>e todo sea en ella e para ella por tan gra<n>de
 es la premia de la carna q<ue> tiene sobre si que
-por esta rrazon menos caba Â¿Â¿Â¿ mientra
-alli estaÂ¿Â¿ de la sotileza e de la ynocenc'ia q<ue>
+por esta rrazon menos caba ÀÀÀ mientra
+alli estaÀÀ de la sotileza e de la ynocenc'ia q<ue>
 a en sy % mas des q<ue> ella sale del cuerpo e fin-
 ca libre de las penas de la carne conoc'e los
 angeles q<ue> son sp<irit>uales asi como ella sin otro
-embargo eÂ¿Â¿Â¿ aver menester otra figura
+embargo eÀÀÀ aver menester otra figura
 % e tan bien conosc'e los sp<irit>us buenos como
 los (^a) malos conoc'en por pena e a los buenos
 por galardon de bien % E des q<ue> por la su bo<n>-dad}
 [fol. 126v]
 {CB1.
 q<ue> ella obrao en este mundo forc'ando
-la carne llego a aver s<an>tidadÂ¿Â¿ de buen andan-
+la carne llego a aver s<an>tidadÀÀ de buen andan-
 c'(i)a de gloria de paraiso de q<ue> fueron echados
 los sp<irit>us angelicos cuias sillas ellos per-
 dieron por su merec'imiento se cobran e se
 finchen de las bien auenturadas almas
-q<ue> reigna<n>Â¿Â¿ en paraiso % E des q<ue> allj son pu<e>s-
+q<ue> reigna<n>ÀÀ en paraiso % E des q<ue> allj son pu<e>s-
 tas conoc'en por hermandat e conoc'enc'ia
 de entendimiento cumplido sin fin % los
 angeles q<ue> son sp<irit>us cumplidos departidos
@@ -6204,7 +6205,7 @@ por eso lo tira de las penas del ynfierno e
 da con ella en purgatorio % E el perdon le
 faze por q<ue> se purgue en purgatorio e por
 q<ue> la pena del purgatorio non es perpetua
-para siempre % e muyÂ¿Â¿ gran esperanc'a
+para siempre % e muyÀÀ gran esperanc'a
 ha de las vnas a las otras % ca tal es la
 pena del purgatorio al alma del pecador
 como el pan<n>o del ljno quando esta ensuziado
@@ -6233,7 +6234,7 @@ galardon del q<ue> siempre obro bien como
 del otro q<ue> obro bien e mal % lo segundo
 perderian los om<br>es miedo para fazer
 bien % lo terc'ero los buenos non abrian
-por q<ue> perseuerar en lagrarÂ¿Â¿ en su bondad
+por q<ue> perseuerar en lagrarÀÀ en su bondad
 pues q<ue> los otros fuesen sus yguales lo
 quarto tan noble cosa e tan santa como el
 paraiso non deue entrar y ningun alma
@@ -6280,7 +6281,7 @@ q<ue> obiese fin % E a esta fin convenia que
 dios viniese a juzgar el mundo por que
 allj se acabase todo % por ende para apare-
 c'er el al juizio conviene q<ue> figura obrase
-para conoc'er lo los om<br>es % E esta figura Â¿Â¿
+para conoc'er lo los om<br>es % E esta figura ÀÀ
 de ser declarada humana asi como se fue
 ca por la divinidad non la podian conoc'er e el
 dia q<ue> dios crio el mundo puso este horde-
@@ -6300,7 +6301,7 @@ estas dos cosas % primero el su horde-
 namiento % lo segundo quiso q<ue> acorriese
 el su hordenamiento a la n<uest>ra mengua que
 en nos es % por eso consintio el que puediese
-pecar adam por que el su pecado se estensieseÂ¿Â¿
+pecar adam por que el su pecado se estensieseÀÀ
 sobre aq<ue>llos que del aviamos de venir
 % E por q<ue> por esta rrazon del hierro deste
 pecado que nos viniesemos a conoc'er e cono-
@@ -6654,7 +6655,7 @@ parte se el agua de aquel rrio en quatro p<ar>t<e>s
 fazen se quatro rrios los quales son llama-dos}
 [fol. 137r]
 {CB1.
-t(r)ig[r]es eufrates e fison e ximonÂ¿Â¿ % E d<e>s-
+t(r)ig[r]es eufrates e fison e ximonÀÀ % E d<e>s-
 tos quatro rrios desq<ue> salen del paraiso se
 rriegan todas las t<ie>rras e nac'en todas las
 aguas % E en tendimjento fue de algunos
@@ -7014,7 +7015,7 @@ fria % e tanta es la figura digo friura que
 a en si % e esto es por tres rrazones q<ue> te agora
 dire % la primera por que es fria % la se-
 gunda por la fuerc'a de la t<ie>rra % la terc'era
-por la humidad grande del agua con q<ue> lo Â¿Â¿Â¿-
+por la humidad grande del agua con q<ue> lo ÀÀÀ-
 gan % e todas estas tres fuerc'as ayun-
 tadas en vno fazen el meollo destos arbo-
 les tornar agro e asi va subiendo este meollo
@@ -7209,7 +7210,7 @@ los rrios todos son de dos naturas como quier
 q<ue> muchos departimientos han en si de colores
 e de fac'iones % ca los mas son de generac'ion<e>s
 de padres e de madres e los otros q<ue> se crian
-e faze en ella % ca como quier q<ue> ella se sea Â¿Â¿
+e faze en ella % ca como quier q<ue> ella se sea ÀÀ
 t<ie>rra e la mar e las aguas sean aguas asi como
 en la t<ie>rra se crian todas las animalias de ge-
 nerac'ion de padre e de madre e de otro co-
@@ -7339,7 +7340,7 @@ pueda aver gran pujamiento de sangre e la
 rrazon por q<ue> esto se faze de la sangre te dire
 yo agora quando la sangre es mucha en el
 cuerpo del om<br>e en guisa q<ue> sobeja aviendo
-ay mucha mas de quanta es menester a ties-taÂ¿Â¿}
+ay mucha mas de quanta es menester a ties-taÀÀ}
 [fol. 151r]
 {CB1.
 de guisa q<ue> non puede correr por las ve-
@@ -7360,7 +7361,7 @@ cos de natura e encanec'e mas ayna q<ue> otros
 om<br>es % E esto es por la flema q<ue> han en la ca-
 bec'a q<ue> lo faze q<ue> han enc'endimiento grueso
 e al su grado siempre querria comer e beuer
-e dormjr e yazer de en estaÂ¿ en tiempo caliente
+e dormjr e yazer de en estaÀ en tiempo caliente
 e componer se mejor con la calentura q<ue> otra
 gente % e si pusieres la lengua en el cuerpo
 del fallaras q<ue> ha el cuerpo mas folgado que}
@@ -7369,7 +7370,7 @@ del fallaras q<ue> ha el cuerpo mas folgado que}
 otro hom<br>e e asi como se para bien a sofrir
 la calentura en la tierra caliente asi se compo-
 ne peor con el frio en la t<ie>rra fria % e por gro-
-sura q<ue> aya en si non puede sufrir EÂ¿Â¿Â¿Â¿
+sura q<ue> aya en si non puede sufrir EÀÀÀÀ
 la carne mas muelle q<ue> los otros om<br>es e por e-
 so les defienden en fisica q<ue> no coman carne
 de puerco e mas la fresca que non la salada
@@ -7512,7 +7513,7 @@ por los sus buenos merec'imjentos con los}
 [fol. 154v]
 {CB1.
 buenos sp<irit>us los quales son los angeles co<n>
-los q<ue> ellos regnanÂ¿Â¿ en el paraiso para siempre
+los q<ue> ellos regnanÀÀ en el paraiso para siempre
 jamas E el arbol q<ue> yo de primero dixe que por
 la fortaleza de sus rraizes non lo puede de-
 rribar el biento es a semejanc'a del om<br>e justo
@@ -7670,7 +7671,7 @@ om<br>e muerto % ca non fabla njnguna rrazo<n>
 de natura % por ende conbiene q<ue> aya de
 tomar dende gran pauor e mjedo % E por esto
 a espanto de contec'er le esto mas q<ue> con el q<ue>
-conoc'ee q<ue> non con el q<ue> non conoc'e nj a muiÂ¿Â¿ granÂ¿Â¿
+conoc'ee q<ue> non con el q<ue> non conoc'e nj a muiÀÀ granÀÀ
 fazimjento de amor con los de paraiso pare-
 c'en a sus amigos no por mostrar q<ue> ayan me-nester}
 [fol. 158r]
@@ -7788,9 +7789,9 @@ a agudos e fendidos faze vnos foyos con e-
 llos % E con estas sen<n>ales q<ue> fallan los
 monteros conoc'en el rrastro % e los sabue-
 sos q<ue> los monteros traen como son ya be-
-c'ados en conoc'er rrastro vanse por el tira<n>doÂ¿Â¿
+c'ados en conoc'er rrastro vanse por el tira<n>doÀÀ
 de la trailla fasta q<ue> llegan a la cama do yaze
-% e leuantan lo muy amjdoÂ¿Â¿ e el jabali que
+% e leuantan lo muy amjdoÀÀ e el jabali que
 al su grado no lo dexan correnlo e matanlo}
 [fol. 160v]
 {CB1.
@@ -7798,7 +7799,7 @@ los conejos e las liebres de noche salen a
 pac'er e de dia yazen escondidos en sus fo-
 rados e en sus c'illas con lo q<ue> de noche han
 comjdo % ca ellos cuidan que por q<ue> yazen
-en sus logares escondidos q<ue> non Â¿Â¿bran
+en sus logares escondidos q<ue> non ÀÀbran
 dello parte e los cac'adores q<ue> saben las
 cuebas meten dentro los furones e ponen
 las rredes a las puertas de las madrigue-
@@ -7965,7 +7966,7 @@ gadas en puertos de mar do andauan las vallenas}
 {CB1.
 e vi las despedac'ar e non ay en ellas vientre
 si non es vna tripa muy delgada q<ue> le va por
-medio del cuerpo q<ue> atan estrecha es q<ue> amalaÂ¿Â¿
+medio del cuerpo q<ue> atan estrecha es q<ue> amalaÀÀ
 vez puede caber vna sardina por ella % E bie<n>
 asi estrecho el garguero por do pasa lo que
 come e segund q<ue> dizen estos marineros de
@@ -8006,7 +8007,7 @@ tas vallenas peq<ue>n<n>as q<ue> los om<br>es matan
 an la cobertura de suso de vna corteza negra
 e verdad es q<ue> tales son en el cuerpo como tu
 dizes mas como ella non come al si no el es-
-puma del agua de la mar e de la gorduraÂ¿Â¿ que}
+puma del agua de la mar e de la gorduraÀÀ que}
 [fol. 165r]
 {CB1.
 sale de los otros pescados q<ue> andan en el
@@ -8114,7 +8115,7 @@ go la picac'a q<ue> naturalmente es flematica
 e malenconja e por <<e>>so es blanca e negra
 % E otro si las grajas q<ue> han la boca ver-
 meja son malenconjcas e sangujnas % E
-otro si los alfan<n>equesÂ¿Â¿ han las pen<n>olas de las
+otro si los alfan<n>equesÀÀ han las pen<n>olas de las
 alas vermejas como dorales % E esto es por
 q<ue> son sanguinos e flematicos ca saluo
 aq<ue>llas pen<n>olas de las alas e las q<ue> han ver-
@@ -8221,7 +8222,7 @@ los conejos por eso no pueden y fazer cuebas en
 q<ue> se escondan ante el arena % E esto mesmo
 contec'e a las rraposas % mas ai otras anjma-
 lias q<ue> son semejanc'a de rraposas e de lobos
-a q<ue> llaman adiuesÂ¿Â¿ % E estos andan en pos de
+a q<ue> llaman adiuesÀÀ % E estos andan en pos de
 los leon<e>s e su gobierno es de la carne que de-
 xan los leones q<ue> no quieren comer % E de}
 [fol. 169v]
@@ -8293,7 +8294,7 @@ bolar por eso mas rrec'io q<ue> non cansa a su bolar
 atan ayna como las otras aues q<ue> han fiel
 en el figado ca natural cosa es estar apegado
 al figado la fiel e por ella se estrema la cole-
-ra de la sangre en aq<ue>lla q<ue> la asi hanÂ¿Â¿ % E
+ra de la sangre en aq<ue>lla q<ue> la asi hanÀÀ % E
 en la paloma non se estrema por q<ue> la non ha
 % ca toda anda de so vno E por ende la pa-
 loma buela e non cansa tan ayna % la se-
@@ -8365,7 +8366,7 @@ mas espesa tanto buela mejor quanto faze
 biento por do pasa e la empen<n>oladura q<ue> es
 espesa no puede entrar el biento en ella para
 le dar embargo al bolar e la quinta cosa es
-q<ue> te dixe de como toma el aue ligereza en elÂ¿Â¿
+q<ue> te dixe de como toma el aue ligereza en elÀÀ
 vso del bolar q<ue> faze cada dia % esto pued<e>s
 ver por las golondrinas e por los abiones
 e por los benc'ejos q<ue> tan grande es el vso q<ue>
@@ -8515,7 +8516,7 @@ mucho dexa estar e les dan mucho a comer
 q<ue> bienen a mudar otra vez % E tal muda
 como esta llaman rremuda % E este nombre
 es dicho q<ue> quiere tanto dezir como q<ue> biene
-anÂ¿Â¿ mudar otra vez E por la humjdad q<ue> ha
+anÀÀ mudar otra vez E por la humjdad q<ue> ha
 en si bienen le a nac'er otra vez can<n>ones e pluma
 E aq<ue>llos can<n>ones compujan las pen<n>olas viejas
 e fincan las nueuas en logar de las otras
@@ -8823,7 +8824,7 @@ de muy gran corac'on e muy ardit en si.}
 e por estas tres rrazones las otras aues q<ue>
 son menor<e>s e mas flacas e mas pesadas e
 de menores condic'iones e corac'ones han muy
-gran mjedo della E como non lo faraÂ¿Â¿ las
+gran mjedo della E como non lo faraÀÀ las
 otras aues % ca en las aujlas mesmas
 contec'e q<ue> quando vna anda muy alto bo-
 lando e la otra esta asentada en t<ie>rra tal
@@ -8930,11 +8931,11 @@ en el mes de diziembre q<ue> los non fazen por
 lo q<ue> te agora dire % esto es por que aquel mes
 es mas frio que todos los otros e por eso non
 han sabor de criar en el como en los otros por
-q<ue> estan los bafosÂ¿Â¿ vmentados en el gran frio con-
+q<ue> estan los bafosÀÀ vmentados en el gran frio con-
 gelados e mas frias e mas escondidas es-
 tan q<ue> no en los otros meses % ca en el nobiem-
 bre q<ue> es ante q<ue> el diziembre non se afincan
-aunÂ¿Â¿Â¿ tanto con el frio que se congelan las hu-
+aunÀÀÀ tanto con el frio que se congelan las hu-
 mjdades % E en el mes de henero q<ue> viene des-
 pues de diziembre base mas abaxando aq<ue>-
 lla fruira por el sol que se va comenc'ando
