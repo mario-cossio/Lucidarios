@@ -6996,10 +6996,10 @@ saber q<ue> cada vno destos arboles q<ue> agora de-
 xiste q<ue> asi en el tronco del arbol es caliente
 e seco en manera q<ue> tanta es la calentura e la
 seq<ue>dad q<ue> a en si q<ue> fallaras en ella gran amar-
-gura q<ue> en sy ha % e d[ ]iuso desta corteza yaze
+gura q<ue> en sy ha % e d[ ]ivso desta corteza yaze
 el madero del arbol e es todo cubierto en si mes-
 mo de vnas como correas q<ue> son humidad e la
-su humidad es como dixe e toda la corteza de
+su humjdad es como dixe e toda la corteza de
 enc'ima seria q<ue>mada con la gran calentura
 del sol q<ue> ha en el si non fuese por esta humj-
 dad de d[ ]iuso q<ue> lo mantiene % bien asi como}
@@ -7014,7 +7014,7 @@ fria % e tanta es la figura digo friura que
 a en si % e esto es por tres rrazones q<ue> te agora
 dire % la primera por que es fria % la se-
 gunda por la fuerc'a de la t<ie>rra % la terc'era
-por la humidad grande del agua con q<ue> lo ¿¿¿-
+por la humidad grande del agua con q<ue> lo rrje-
 gan % e todas estas tres fuerc'as ayun-
 tadas en vno fazen el meollo destos arbo-
 les tornar agro e asi va subiendo este meollo
@@ -7036,15 +7036,15 @@ si esto las pepitas non oviesen q<ue> son semejan-
 c'a de aquel fruto non se podria ende criar
 otro arbol q<ue> fuese de aquella natura <<tal>> como
 aquel % e la c'idra como es mayor fruta de
-suso esta la corteza e entre la corteza lo a-
+suso esta la corteza E entre la corteza lo a-
 margo q<ue> es muy agro de todas las mas de-
 llas saluo ende algunas q<ue> el amargura de
 en medio es dulc'e por la rrazon q<ue> adelante
 dire % entre lo amargo e la corteza es la
 encarnadura de la c'idra E esta encarnadura
-es dulc'e e humjda e muy fuerte en si as
-q<ue> otra encarnaura de qualquier arbol q<ue>
-sea fruta de q<ue> los hombres acostumbren
+es dulc'e e humjda e muy fuerte en si mas
+q<ue> otra encarnadura de qual quier arbol q<ue>
+sea frutal de q<ue> los hombres acostumbren
 comer su fruta % E esta encarnadura que
 yaze en medio guarda q<ue> de lo amargo de dentro
 q<ue> non venga dan<n>o a la corteza ni de la corteza
@@ -7060,18 +7060,18 @@ es la canela e el madero del arbol es el gen-
 gibre % e la flor q<ue> este arbol hecha quando
 este ha de leuar su fruto son los clauos de
 girofre % e la foja deste arbol a nombre
-felio % e la fruta deste arbol son las nuezes
+f(e)[o]lio % e la fruta deste arbol son las nuezes
 mostradas % e todas estas naturas q<ue> te he
 contado como qujer q<ue> en arbol sean cada vna
 dellas es espec'ia por si e departida la vna
 de la otra en sustanc'ia e en sabor e en propie-
 dad % bien asi acontec'e a los arboles q<ue> te
-ya desuso conte % E a n<uest>ro sen<n>or q<ue> fizo la na-
+ya de suso conte % E a n<uest>ro sen<n>or q<ue> fizo la na-
 tura q<ue> es padre e mantenedor de todas
 estas cosas da virtud tan bien a las vnas
-como alas otras por q<ue> la obra parec'e de cada
+como a las otras por q<ue> la obra parec'e de cada
 vna en su lugar % e la rrazon por q<ue> lo amargo
-del alguna de las c'idras es dulc'e te dire ago-
+de alguna de las c'idras es dulc'e te dire ago-
 ra % sepas q<ue> las c'idras q<ue> estan en el c'idral
 altas q<ue> todo lo mas del dia les da el sol e no
 les da el sombrio ni ac'erca de la t<ie>rra a la hu-manidad}
@@ -7091,7 +7091,7 @@ como a las otras.
 e la formiga han muchos pies e el ele-
 fante e el leon e el toro seyendo tan gran-
 des non han mas de quatro.}
-Dixo el dic'iplo maestro vna palabra falle
+{IN1.}Dixo el dic'iplo maestro vna palabra falle
 escripta e dize entre todos cuidados pon
 en medio algunas vezes algun plazer %
 por ende te rruego q<ue> me digas como se deue esto
@@ -7100,6 +7100,7 @@ pulga e la formiga an muchos pies e el ele-
 fante e el cauallo e el leon e el oso e el toro}
 [fol. 146r]
 {CB1.
+****
 non mas de quatro pies % E estos q<ue> son grand<e>s
 anjmales e han grandes cuerpos e muy pesa-
 dos a parec'er mas pies devian aver para
