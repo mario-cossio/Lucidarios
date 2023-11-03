@@ -8422,11 +8422,10 @@ gre en si e rruego te q<ue> me digas esto como
 es % rrespondio el maestro e dixo dos}
 [fol. 173v]
 {CB1.
-*****
 naturas son de sangre % la primera natura
 de sangre es la de q<ue> biuen los om<br>es e las bes-
 tias e las aues % E a esta llaman sangre
-rrubey q<ue> quiere tanto dezir como sangre
+{LAT.rrubey} q<ue> quiere tanto dezir como sangre
 vermeja E esta sangre non la puede aver
 criatura q<ue> biua sea si no aq<ue>llas q<ue> han figa-
 do ca el figado haze a ella ser vermeja
@@ -8444,7 +8443,7 @@ han vida.
 q<ue> cac'an quando les arrancan el cuello
 del ala por fuerc'a non le nac'e otro e a las
 otras si.}
-E pregunto el dic'iplo a su maestro e dixo
+{IN1.}E pregunto el dic'iplo a su maestro e dixo
 por que rrazon las aues q<ue> cac'an asi como los}
 [fol. 174r]
 {CB1.
@@ -8478,12 +8477,12 @@ es por q<ue> se no c'ierre el forado por do ha de
 nac'er la pen<n>ola % la segunda por q<ue> la humjdad
 del grano ayunta se de so vno e faze nac'er
 el can<n>on mucho mas ayna e mejor por ello
-% E de mas tomen la carne q<ue> le dan a comer
+% E demas tomen la carne q<ue> le dan a comer
 e mojenla en farina de trigo. E por eso nac'e
 mejor e mas aina la pen<n>ola q<ue> le a de nac'er % E
 estas maestrias todas no<n> las por q<ue> fazer al
 aue q<ue> come pan % ca toda via es la humjdad
-q<ue> ha desi en el grano del pan q<ue> come q<ue> quan-
+q<ue> ha de si en el grano del pan q<ue> come q<ue> quan-
 tas vegadas viene a perder las pen<n>olas tan
 bien las de las alas como las del cuerpo luego
 nac'en otras tantas en aquel logar en todo t<iem>po
@@ -8516,11 +8515,11 @@ mucho dexa estar e les dan mucho a comer
 q<ue> bienen a mudar otra vez % E tal muda
 como esta llaman rremuda % E este nombre
 es dicho q<ue> quiere tanto dezir como q<ue> biene
-an¿¿ mudar otra vez E por la humjdad q<ue> ha
+a mudar otra vez E por la humjdad q<ue> ha
 en si bienen le a nac'er otra vez can<n>ones e pluma
 E aq<ue>llos can<n>ones compujan las pen<n>olas viejas
 e fincan las nueuas en logar de las otras
-bien asi como conoc'e e los moc'os peq<ue>n<n>os quando}
+bien asi como conoc'e a los moc'os peq<ue>n<n>os quando}
 [fol. 175v]
 {CB1.
 mudan los dientes q<ue> le nac'en compujan
@@ -8539,11 +8538,11 @@ la muy bien asi como si la metiesen en muda.
 {RUB. Cap<itul><<o>> lxxj q<ue> fabla por q<ue> las animalias no an
 dientes de suso asi como las otras anjma-
 ljas sin cuernos.}
-Dixo el dic'iplo a su maestro q<ue>rria saber
+{IN1.}Dixo el dic'iplo a su maestro q<ue>rria saber
 de ti las animalias q<ue> han cuernos por que
 rrazon non han dientes de suso asi como las
 otras q<ue> non los han % E rrespondio el ma<e>stro
-e dixo yo te lo dire % sepas q<ue> la humidad
+e dixo yo te lo dire % sepas q<ue> la humjdad
 de la cabec'a dec'ende contra ayuso de q<ue> se}
 [fol. 176r]
 {CB1.
@@ -8561,12 +8560,12 @@ como cosa q<ue> se faze apretando los dientes
 los vnos con los otros % E este apretamj<ent><<o>>
 non se puede fazer quando non han dientes
 delante tan bien de la vna parte como de la
-otra de sus % E estas bestias q<ue> non an asi
+otra de suso % E estas bestias q<ue> non an asi
 dientes son aq<ue>llas q<ue> rrumjan % E el rrumjar
-por la boca traelo mal maxcado E des que
+por la boca trae lo mal maxcado E des que
 lo ha puesto en el estomago traelo otra
 vegada a la boca e trayendolo muchas ve-
-zes muelese lo q<ue> se puede moler % E esto
+zes muele se lo q<ue> se puede moler % E esto
 por mengua de dientes % e por ende veras
 tdas bestias q<ue> rrumjan q<ue> no comen carne
 como el leon e el oso e el louo e otras}
@@ -8576,7 +8575,7 @@ animalias q<ue> son de su semejanc'a por to-
 mar carne que todo su goujerno es comer
 carne E esto es por rrazon que no gelo pue-
 de sofrir la natura e los q<ue> han complimi<ent><<o>> de
-diente q<ue> lo (^q<ue>) mas que non es de su natura
+dientes q<ue> lo (^q<ue>) mas que non es de su natura
 si non de comer cosas q<ue> mas ligeramente pue-
 den moler los estomagos segund q<ue> es la
 complision % ca estas anjmalias q<ue> rrumjan
@@ -8600,14 +8599,14 @@ dos estomagos el vno pegado con el otro}
 te quiero agora dezir % dos estomagos
 han pegados e yaze y fasta tanto q<ue> el otro
 ha fecho su curso e muele lo e des q<ue> lo a molj-
-do bien envialo al otro % e muele se y otra
+do bien envia lo al otro % e muele se y otra
 vegada % E por ende para mientes e veras
 q<ue> aq<ue>llas anjmalias q<ue> rrumjan fazen seco
 el estiercol mas q<ue> las otras E esto es por
 rrazon q<ue> todo el c'umo de aq<ue>llo q<ue> comen les
 finca en los estomagos en moliendo se aq<ue>lla
 vianda % ca de aquel c'umo se faze la san-
-gre de q<ue> biue por q<ue> en dos estomados a dos bo-
+gre de q<ue> biue por q<ue> en dos estomagos a dos bo-
 cas % E quando viene a pasar q<ue> non ha en
 si c'umo ninguno % E quando ba mas yen-
 do por los estomagos tanto mas se va se-
@@ -8615,7 +8614,7 @@ cando
 {RUB. Cap<itul><<o>> Lxxij. q<ue> fabla por q<ue> la c'ierua ni la
 obeja non ha cuernos asi como la cabra e
 la baca.}
-E pregunto el dic'iplo a su maestro e dixo o-
+{IN1.}E pregunto el dic'iplo a su maestro e dixo o-
 tra demanda te quiero fazer por q<ue> rrazon
 la c'ierua e la obeja non han cuernos en la cabec'a
 asi como la baca e la cabra e pues non han
@@ -8629,7 +8628,7 @@ an dientes enc'ima rrespondio el maestro
 e dixo tu me feziste fermosas demandas
 e quiero te rresponder a ellas % lo primero q<ue>
 dizes q<ue> por q<ue> rrazon non an cuernos las vnas
-como las otras te quiero rresponder por q<ue>
+com(^a)[^o] las otras te quiero rresponder por q<ue>
 es % las bacas e las cabras fallamos q<ue>
 son mas secas de naturas q<ue> non son las c'ier-
 uas e las obejas ni aq<ue>llas otras anjmaljas
