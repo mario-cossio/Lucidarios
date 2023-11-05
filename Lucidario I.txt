@@ -1,12 +1,13 @@
-{RMK: .}
-{RMK: Sancho IV el Bravo, rey de Castilla y León.}
+{RMK: HSMS-0460.}
+{RMK: Sancho IV el Bravo, rey de Castilla y Le√≥n.}
 {RMK: [LUI] Lucidario.}
 {RMK:.}
-{RMK: Palma de Mallorca | Biblioteca de la Fundación Bartolomé March Servera | MA26-5-07.}
-{RMK: Mario Antonio Cossío Olavide}
-{RMK: guard-leaf (1r) note: olim 73_3}
+{RMK: Palma de Mallorca | Biblioteca de la Fundaci√≥n Bartolom√© March Servera | MA26-5-07.}
+{RMK: Mario Antonio Coss√≠o Olavide}
+[fol. 1r]
+[fol. 1v]
 [fol. 2r]
-{HB. {LAT. ih<es>us xp<ist>us
+{HD. {LAT. ih<es>us xp<ist>us
 marie filius}}
 {CB1.
 {RUB. % Cap<itu>lo primero que fabla qual es la primera cosa
@@ -227,7 +228,7 @@ la cabra e la vaca.}
 mal a todos los arboles del mundo tirar las
 cortezas e no <<al>> alcornoque.}
 {RUB. % capitulo setenta e quatro que habla por que se ha-
-zen los cuernos de las cabras can<n>as[+]veras qua<n>do +}}
+zen los cuernos de las cabras can<n>as veras qua<n>do +}}
 [fol. 6r]
 {CB1.
 {RUB. los ponen so la t<ie>rra.}
@@ -237,7 +238,7 @@ e las anjmalias al leon mas que a otra vestia}
 {RUB. % capitulo setenta y seis que habla por que el leon
 del medio del cuerpo arriba es velloso e lo al
 non.}
-{RUB. % capitulo setenta y siete que habla por que no {AD. a}
+{RUB. % capitulo setenta y siete que habla por que no {AD. [^2#a]}
 la leona crines como las a el macho}
 {RUB. % capitulo setenta e ocho que habla por que las pa-
 lomas duendas crian cada mes si no el de diz<iembr><<e>>.}
@@ -485,7 +486,7 @@ que hablan de n<uest>ro sen<n>or ih<es>u xp<ist>o sean depar-
 tidas e declaradas por que ninguno no<n> pue-
 dan trauar en ellas % e por traer a concordia
 e a servic'io de dios e a ensalc'amiento de la
-n<uest>ra fee catholica % por ende nos don sancho {GL. Don san-
+n<uest>ra fee catholica % por ende nos don sancho {GL. [^2#Don san-
 cho el
 4 Rei de
 castilla
@@ -494,7 +495,7 @@ no hubo mas
 sanchos Re-
 yes, que qua-
 tro: este se-
-ra el 4<<o>>}
+ra el 4<<o>>]}
 por la grac'ia de dios Rey de castilla de leon de
 toledo de gallizia de sevilla de cordoua de
 murc'ia de Jahen del algarue e sen<n>or de molina
@@ -577,7 +578,7 @@ sobre aquellas razones semejanos de lo
 ordenar como en manera que vn dic'(u)[i]pulo
 estoviese ante su maestro que le respondie-
 se a ello E comienc'a asi.
-{IN1.}E maestro yo si diciplo e tu me as ensen<n>ado
+{IN1.} E maestro yo si diciplo e tu me as ensen<n>ado
 mucho bien % en tiempo el saber que me tu
 mostraste es todo theologia % E en esta
 villa en que nos moramos ay muchas escue-
@@ -608,7 +609,7 @@ e entendedes e la primera pregunta que
 vos yo fago es esta.
 {RUB. Capitulo primero que fabla qual es
 la primera cosa q<ue> ha en el c'ielo.}
-{IN1.}Vos me digades. la primera cosa que a en el
+{IN1.} Vos me digades. la primera cosa que a en el
 c'ielo e en la tierra % respondio el maestro
 tu deues sauer que la primera cosa es dios %
 E esto quiero yo prouar por theologia que}
@@ -667,7 +668,7 @@ esta.
 dios el sol e la luna.}}
 [fol. 14r]
 {CB1.
-{IN1.}Qual es la lumbre por que se alumbra todo el
+{IN1.} Qual es la lumbre por que se alumbra todo el
 mundo es dios E esto te quiero prouar por theo-
 logia e por natura asi como te proue lo al
 [estre]llas que en el c'ielo son ante el. E natura d<er>echa es
@@ -1246,7 +1247,7 @@ mandan guardar los maestros aquellos
 dias que de suso dixe.
 {RUB. Capitulo terc'ero q<ue> fabla do estaua
 dios ante q<ue> criase el c'ielo.}
-{IN1.}Pregunto el dic'iplo a su maestro e dixo
+{IN1.} Pregunto el dic'iplo a su maestro e dixo
 quando dios vino a fazer el c'ielo e la t<ie>rra
 a do estaua el ante que lo fiziese % ca pues
 el c'ielo e la t<ie>rra non hera fecho yo no se donde
@@ -1271,7 +1272,7 @@ chil} que quiere dezir todas las cosas son
 fechas por el e sin el non puede ser fecho nada
 {RUB. Capitulo quarto que fabla en qual de
 los c'ielos nueue esta dios.}
-{IN1.}Pregunto el diciplo a su maestro rruego te que
+{IN1.} Pregunto el diciplo a su maestro rruego te que
 me digas de nueue c'ielos que son en qual dellos
 esta dios % rrespondio el maestro esto te
 dire yo de buenamente % sepas que dios esta}
@@ -1297,7 +1298,7 @@ gua del a ninguna cosa que a todo da el rrecau-
 do.
 {RUB. Capitulo quinto que fabla que figu-
 ra a dios en si.}
-{IN1.}Dixo el dic'iplo ruego te maestro que me digas
+{IN1.} Dixo el dic'iplo ruego te maestro que me digas
 que figura a dios en sy % E esta demanda}
 [fol. 27r]
 {CB1.
@@ -1405,7 +1406,7 @@ su pecado.
 {RUB. Capitulo sesto que fabla por que rrazon
 es la trinidad de tres personas e non de
 mas cuenta nin de menos.}
-{IN1.}Dixo el dic'iplo al maestro rruegote q<ue> me digas
+{IN1.} Dixo el dic'iplo al maestro rruegote q<ue> me digas
 por que razon es la trinidad de tres personas e
 non de mas nin menos % respondio el maestro a
 la tu pregunta que me fazes quiero te rresponder
@@ -1457,7 +1458,7 @@ rra en vn dios la trinidad de la cuenta de tres
 personas.
 {RUB. Capitulo vij por que Razon nombro
 ante al sp<irit>u sancto que al fijo.}
-{IN1.}Pregunto el deciplo rruegote que me digas vna
+{IN1.} Pregunto el deciplo rruegote que me digas vna
 cosa por que me contaste en la cuenta de tres
 ante el sp<irit>u santo que el fijo % ca bien sabes
 tu que segund rrazon derecha de que om<br>e vee ca-
@@ -1511,7 +1512,7 @@ bientre de santa maria e se bistio de la su car-
 ne della.
 {RUB. Capitulo viij<<o>>. que fabla en que logar del
 cuerpo esta el alma.}
-{IN1.}Dixo el diciplo maestro quiero te fazer vna de-
+{IN1.} Dixo el diciplo maestro quiero te fazer vna de-
 manda. E respondeme a ella % dime do esta el
 alma del om<br>e si esta en vn logar o si esta en todo
 el cuerpo % respondio el maestro yo te lo dire
@@ -1543,7 +1544,7 @@ e mui presso.
 {RUB. Capitulo jx. que habla si quando tajan
 al om<br>e el pie o la mano si tajan y la virtud
 del alma.}
-{IN1.}Pregunto el diciplo maestro pues la virtud
+{IN1.} Pregunto el diciplo maestro pues la virtud
 del alma se estiende por todo el cuerpo quan-
 do tajan al om<br>e el pie o la mano tajan y la vir-
 tud del alma % dixo el maestro a esto te rres-
@@ -1576,7 +1577,7 @@ que no puede tajar se de la rrueda del sol on-
 de veno.
 {RUB. Capitulo x. que fabla por que quiso dios
 encarnar en santa maria.}
-{IN1.}Dixo el dic'iplo maestro quiero fazer vna
+{IN1.} Dixo el dic'iplo maestro quiero fazer vna
 pregunta por que quiso dios encarnar en la
 virgen maria ca yo tengo que muy bien pu-diera}
 [fol. 32v]
@@ -1664,7 +1665,7 @@ Jamas.
 {RUB. Capitulo onze que fabla en qual de las
 palabras que el angel dixo a santa maria en-
 carno en ella el fijo de dios.}
-{IN1.}Pregunto el dic'iplo e dixo maestro rruego
+{IN1.} Pregunto el dic'iplo e dixo maestro rruego
 que me digas de la saludac'ion que el angel tro-
 xo a santa maria en qual logar de las pala-
 bras encarno el fijo de dios por espiritu s<an><<to>>
@@ -1746,7 +1747,7 @@ vos.
 {RUB. Capitulo xij. como finco el c'ielo e la t<ie>rra
 mientra el n<uest>ro sen<n>or estouo enc'errado en el
 vientre de santa maria.}
-{IN1.}Pregunto el dic'iplo e dixo maestro rruego te
+{IN1.} Pregunto el dic'iplo e dixo maestro rruego te
 que me digas de aquel tiempo que n<uest>ro sen<n>or an-
 douo enc'errado en el vientre de santa maria
 su madre como finco el c'ielo e la t<ie>rra o quien finco
@@ -1798,7 +1799,7 @@ dios.
 {RUB. Capitulo xiij que habla como pudo santa
 maria fincar virgen despues que n<uest>ro sen<n>or
 ih<es>u xp<ist>o nac'io della.}
-{IN1.}Pregunto el dic'iplo e dixo maestro poder
+{IN1.} Pregunto el dic'iplo e dixo maestro poder
 me ias dar rrazon como pudo santa maria
 fincar virgen despues que el n<uest>ro sen<n>or nac'io
 della % respondio el maestro e dixo a esto
@@ -1836,7 +1837,7 @@ mesmo en la bien aventurada sen<n>ora santa <maria>
 {RUB. Capitulo xiiij<<o>> que fabla por que razon de-
 c'endio el n<uest>ro sen<n>or ih<es>u xp<ist>o a los infiernos
 despues que tomo muerte.}
-{IN1.}Dixo el dic'iplo maestro rruegote que me digas
+{IN1.} Dixo el dic'iplo maestro rruegote que me digas
 por que rrazon fue el n<uest>ro sen<n>or a los ynfiernos
 despues que tomo muerte en la cruz % res-
 pondio el maestro e dixo sepas que despues
@@ -1883,7 +1884,7 @@ tomo muerte en la cruz (^y) <<si>> fue la muerte en la
 diuinidad tan bien como en la humanidat}}
 [fol. 38v]
 {CB1.
-{IN1.}Dixo el diciplo maestro rruegote que me digas
+{IN1.} Dixo el diciplo maestro rruegote que me digas
 quando n<uest>ro sen<n>or ih<es>u xp<ist>o murio en la cruz es-
 tando si fue tan bien esta muerte en la divinj-
 dad como en la humanidad % respondio el
@@ -1897,7 +1898,7 @@ nunca murio ni puede morir % {RUB. capitulo
 xvj que fabla por que razon quiso dios ser
 de treinta y dos an<n>os y medio quando
 tomo muerte.}
-{IN1.}Pregunto el diciplo al maestro dime por que
+{IN1.} Pregunto el diciplo al maestro dime por que
 razon quiso el n<uest>ro sen<n>or ser de hedad de treinta
 y dos an<n>os quando priso muerte en la cruz e non
 de mas nin de menos % respondio el maestro
@@ -1926,7 +1927,7 @@ otra hedad de ser om<br>e acabado.
 {RUB. Cap<itul><<o>> .xvij que fabla por que rrazon qui-
 so el n<uest>ro sen<n>or ih<es>u xp<ist>o sobir a los c'ielos
 estando y santa maria e los doze apostoles}
-{IN1.}El dic'iplo pregunto e dixo maestro rrue-
+{IN1.} El dic'iplo pregunto e dixo maestro rrue-
 gote que me digas por que rrazon quiso el n<uest>ro
 sen<n>or sobir al c'ielo el dia que subio estando
 y santa maria y los dic'iplos e toda la otra
@@ -1960,14 +1961,14 @@ uar todos los del mundo % E este can<n>o fue}
 {CB1.
 acabado quando el fue rresuc'itado de muer-
 te a vida e en tal guisa fue acabado el can<n>o
-que pudo tornar (a^)[^e]l agua aquel altura donde
+que pudo tornar (^a)[^e]l agua aquel altura donde
 dec'endio asi como lo vieron quantos ay es-
 tauan subir al c'ielo a la diestra del su padre
 corporal mente en la carne que rresc'ibio de s<an><<ta>>
 maria su madre.
 {RUB. Cap<itul><<o>> .xviij<<o>>. que fabla por que Razon
 quiso el n<uest>ro sen<n>or sobir a los c'ielos.}
-{IN1.}Dixo el diciplo maestro en este lugar te quie-
+{IN1.} Dixo el diciplo maestro en este lugar te quie-
 ro demandar por que rrazon quiso el n<uest>ro sen<n>or
 sobir al c'ielo en el cuerpo carnal que en este mundo
 tomo % respondio el maestro dos razones
@@ -2100,7 +2101,7 @@ davan e andauan con el acompan<n>andolo
 {RUB. Cap<itul><<o>> xjx. que fabla por q<ue> rrazon
 quiso dios q<ue> nac'iese eva de la costilla de adam
 e non de la t<ie>rra}
-{IN1.}Pregunto el dic'iplo a su maestro e dixo ma-estro}
+{IN1.} Pregunto el dic'iplo a su maestro e dixo ma-estro}
 [fol. 43r]
 {CB1.
 rruego te que me digas por que rrazo<n>
@@ -2257,7 +2258,7 @@ manc'illa e querer morir por el n<uest>ro pecado
 {RUB. Cap<itul><<o>>. xx q<ue> fabla como entra el alma en el
 cuerpo de la criatura estando enc'errada
 en el bientre de su madre.}
-{IN1.}Dixo el diciplo maestro rruegote q<ue> me digas
+{IN1.} Dixo el diciplo maestro rruegote q<ue> me digas
 como puede entrar el alma en la criatura es-
 tando enc'errada en el bientre de su madre
 % ca semejame que dos cuerpos a de pasar ante
@@ -2417,7 +2418,7 @@ venir non las sabe si no dios e el diablo por su
 ???.}}
 [fol. 49v]
 {CB1.
-{IN1.}Dixo el dic'iplo maestro tu me dexiste que
+{IN1.} Dixo el dic'iplo maestro tu me dexiste que
 las cosas que son por venir q<ue> las non podia
 om<br>e saver si no dios % E segun an muchos
 es manifiesto acaesc'e q<ue> algunas vega-
@@ -2485,7 +2486,7 @@ quanto n<uest>ro sen<n>or plaze de le dar
 {RUB. Cap<itul><<o>> xxij. q<ue> fabla en q<ue> manera vino el sp<irit>u
 santo sobre los apostolos e sobre santa
 maria}
-{IN1.}Pregunto el (^maestro) dic'iplo al maestro e dixo
+{IN1.} Pregunto el (^maestro) dic'iplo al maestro e dixo
 rruegote q<ue> me digas quando el espiritu santo}
 [fol. 51r]
 {CB1.
@@ -2619,7 +2620,7 @@ es
 {RUB. Cap<itul><<o>> xxiij q<ue> fabla por q<ue> quiso n<uest>ro
 sen<n>or dios fazer el mundo pues qui-
 so q<ue> oviese fin.}
-{IN1.}Pregunto el dec'iplo a su maestro e dixo rrue-
+{IN1.} Pregunto el dec'iplo a su maestro e dixo rrue-
 gote q<ue> me digas por q<ue> quiso dios fazer el
 mundo pues quiso q<ue> oviese fin % respon-
 dio el maestro e dixo sepas q<ue> todas las co-
@@ -2744,7 +2745,7 @@ diente a el quanto mas seria si no oviese el
 ordenamiento que dios le dio
 {RUB. Capitulo xxiiij<<o>> q<ue> fabla si puede dios
 tomar plazer o pesar en si mesmo.}
-{IN1.}Agora te pregunto dixo el dic'iplo q<ue> me digas
+{IN1.} Agora te pregunto dixo el dic'iplo q<ue> me digas
 sen<n>or maestro si dios puede en si mesmo
 tomar plazer o pesar % respondio el maestro
 sepas q<ue> fallamos nos q<ue> dios non a plazer ni pe-
@@ -2828,7 +2829,7 @@ om<br>e fallar cabo.
 {RUB. Cap<itul><<o>> q<ue> fabla por q<ue> rrazon quiso ih<es>u xp<ist>o
 tomar figura de pan ante q<ue> de otra
 cosa}
-{IN1.}Pregunto el dic'iplo e dixo rruego te maestro
+{IN1.} Pregunto el dic'iplo e dixo rruego te maestro
 q<ue> me digas por q<ue> rrazon quiso n<uest>ro sen<n>or tomar
 figura de pan para si ante q<ue> de otra cosa. % ca
 tengo yo q<ue> tan bien la pudiera tomar de carne
@@ -3019,7 +3020,7 @@ siempre ganar la su santa gloria
 de dios en tres partes.}}
 [fol. 61v]
 {CB1.
-{IN1.}Pregunto el dic'iplo e dixo maestro rruegote
+{IN1.} Pregunto el dic'iplo e dixo maestro rruegote
 q<ue> me digas por q<ue> rrazon parte el cuerpo de
 dios en tres partes e de aq<ue>llas tres partes
 hecha la vna en el caliz e las dos fincan fue-
@@ -3210,7 +3211,7 @@ subio e de como a de venir
 mara dios a juizio a los q<ue> estan en para-
 yso e en el infierno seyendo ya juzga-
 dos}
-{IN1.}Dixo el diciplo maestro rruego te q<ue> me digas
+{IN1.} Dixo el diciplo maestro rruego te q<ue> me digas
 por q<ue> rrazon llamara dios las almas de los q<ue>
 estan en paraiso e otro si a las que estan en el
 infierno pues q<ue> cada vna destas estan juzga-
@@ -3457,7 +3458,7 @@ mal en las almas e en los cuerpos
 {RUB. Cap<itul><<o>> xxviij<<o>>. si a alguna aliman<n>a q<ue> aya
 c'inco sentidos tan cumplidos como el om<br>e
 o mas}
-{IN1.}Dixo el dic'iplo maestro rruegote q<ue> me digas
+{IN1.} Dixo el dic'iplo maestro rruegote q<ue> me digas
 destos c'inco sentidos q<ue> me tu fablaste que
 son en el cuerpo del om<br>e si ai alguna ani-
 malia q<ue> sea biua sobre la t<ie>rra q<ue> los aya
@@ -3677,7 +3678,7 @@ la segund natura.
 {RUB. Cap<itul><<o>> .xxjx. q<ue> fabla despues q<ue> el n<uest>ro s<enn><<or>>
 oviese acabado el mundo en q<ue> estado
 fincara.}
-{IN1.}Pregunto el dic'iplo maestro rruegote q<ue> me di-
+{IN1.} Pregunto el dic'iplo maestro rruegote q<ue> me di-
 gas despues q<ue> el n<uest>ro sen<n>or oviera el dia del
 juizio acabado en q<ue> estado fincara el mundo
 si abra despues om<br>es como los de agora e las
@@ -3844,7 +3845,7 @@ rificados % E esto durara para siempre jamas
 q<ue> nunca abra fin
 {RUB. Cap<itul><<o>> xxx. q<ue> fabla quales planetas del c'ielo
 no se moueran despues del juizio}
-{IN1.}Pregunto el diciplo e dixo maestro rruego te
+{IN1.} Pregunto el diciplo e dixo maestro rruego te
 q<ue> me digas de aq<ue>lla rrazon q<ue> as d<ic>ho q<ue> caera<n>
 las estrellas del c'ielo aquel dia de la fin % E
 rruegote q<ue> me digas si a de ser asi es profetizado
@@ -3892,7 +3893,7 @@ para siempre jamas.
 mueren e los comen las aves e las
 otras animalias como se juntaran el dia
 del juizio}
-{IN1.}Dixo el dic'iplo maestro rruego te q<ue> me di-
+{IN1.} Dixo el dic'iplo maestro rruego te q<ue> me di-
 gas de los om<br>es q<ue> mueren en este mundo acaec'e
 q<ue> los comen aves o bestias o pec'es en la mar
 e acaec'e q<ue> otras bestias e aves e pec'es
@@ -3945,7 +3946,7 @@ si non esta q<ue> es bien sufic'iente
 {RUB. Cap<itul><<o>> .xxxij. q<ue> fabla qual cosa es mas
 maravillosa nasc'er el om<br>e o ser
 rresuc'itado}
-{IN1.}El dic'iplo pregunto al maestro e dixo
+{IN1.} El dic'iplo pregunto al maestro e dixo
 rruego te maestro q<ue> me digas qual destas}
 [fol. 80v]
 {CB1.
@@ -4054,7 +4055,7 @@ tas rrazones q<ue> son d<ic>has de suso
 {RUB. Cap<itul><<o>> xxxiij q<ue> fabla si las almas q<ue> esta<n>
 en paraiso si han mengua o cobdic'ia
 de alguna cosa.}
-{IN1.}Pregunto el dic'iplo e dixo maestro rruego
+{IN1.} Pregunto el dic'iplo e dixo maestro rruego
 te q<ue> me digas si las almas q<ue> estan en para-
 iso q<ue> non an mengua ninguna ni les toma
 cobdic'ia de alguna cosa si esto es verdad
@@ -4128,7 +4129,7 @@ de otra cosa alguna.
 {RUB. Cap<itul><<o>> xxxiiij<<o>>. q<ue> declara si fizo dios todas
 las cosas biuas q<ue> son sobre la t<ie>rra asi ma-
 las como buenas.}
-{IN1.}El dic'iplo pregunto al maestro e dixo rrue-
+{IN1.} El dic'iplo pregunto al maestro e dixo rrue-
 gote q<ue> me digas si todas las cosas biuas q<ue> son
 sobre la t<ie>rra si las fizo dios todas o como fue-
 ron fechas % E esto tan bien lo digo por las
@@ -4200,7 +4201,7 @@ se segund el bien q<ue> en ella fuese.
 {RUB. Cap<itul><<o>> xxxv. que fabla de qual de los
 costados de adam saco n<uest>ro sen<n>or la
 costilla de q<ue> hizo a eua n<uest>ra madre.}
-{IN1.}Pregunto el dic'iplo a su maestro e dixo
+{IN1.} Pregunto el dic'iplo a su maestro e dixo
 maestro rruegote que me digas de qual de
 los costados de adam saco el n<uest>ro sen<n>or la cos-
 tilla de q<ue> fizo a eua si fue del costado derecho
@@ -4269,7 +4270,7 @@ dic'ion e honrra de su casamiento
 {RUB. Cap<itul><<o>> xxxvj q<ue> declara si el angel q<ue> (^el)
 guarda al hom<br>e es de los q<ue> crio dios
 en el comienc'o o si es criado de nuevo}
-{IN1.}E pregunto el dic'iplo e dixo maestro rrue-
+{IN1.} E pregunto el dic'iplo e dixo maestro rrue-
 gote q<ue> me digas si el angel q<ue> guarda al
 hom<br>e e a la su mano diestra anda q<ue> si es de
 aq<ue>llos angeles q<ue> el n<uest>ro sen<n>or puso en el c'ielo
@@ -4440,7 +4441,7 @@ q<ue> te yo do de la demanda q<ue> me tu feziste
 alma seyendo sp<irit>u se q<ue>ma en purgato-
 rjo e el angel non seyendo sp<irit>u eso mes-
 mo.}
-{IN1.}Pregunto el dic'iplo a su maestro e dixo rruegote
+{IN1.} Pregunto el dic'iplo a su maestro e dixo rruegote
 que me digas de aq<ue>lla razon q<ue> dexjste q<ue>}
 [fol. 91r]
 {CB1.
@@ -4605,7 +4606,7 @@ rrezio segun q<ue> dize sant agostin q<ue> non arde
 este otro fuego en el madero seco q<ue> le pone<n>
 en q<ue> arda % por ende te quiero yo absolver
 la demanda del angel de purgatorio donde
-estan las almas % E deues saber q<ue> non {AD. y}
+estan las almas % E deues saber q<ue> non {AD. [^2#y]}
 a otro fuego en q<ue> arder saluo aquel q<ue> cada
 vna en si tiene % E por ende arde cada vna}
 [fol. 94v]
@@ -4645,7 +4646,7 @@ manda q<ue> me feziste.
 {RUB. Cap<itul><<o>> xxxviij<<o>>. q<ue> fabla del angel q<ue> guar-
 da el alma del om<br>e de qual de las nue-
 ve hordenes es.}
-{IN1.}El dic'iplo dixo a su maestro rruego te que
+{IN1.} El dic'iplo dixo a su maestro rruego te que
 me digas deste angel q<ue> as d<ic>ho q<ue> guarda el
 alma del om<br>e q<ue> es de las nueue hordenes de
 los angeles % si es de la primera o de la
@@ -4736,7 +4737,7 @@ las sus obras q<ue> fazen del bien o del mal.
 {RUB. Cap<itul><<o>> xxxjx q<ue> declara si el angel que
 al om<br>e guarda si lo guarda andando
 con el o si lo guarda estando en el c'ielo}
-{IN1.}Pregunto el dic'iplo a su maestro e dixo rrue-
+{IN1.} Pregunto el dic'iplo a su maestro e dixo rrue-
 gote q<ue> me digas este angel q<ue> guarda al
 hom<br>e en q<ue> manera lo guarda. si lo guarda
 andando con el toda via a la su diestra o
@@ -4815,7 +4816,7 @@ de q<ue> lo fizo guardador.
 {RUB. Cap<itul><<o>> xl. q<ue> fabla si el angel q<ue> guarda
 vn alma despues q<ue> fina aquel om<br>e si
 guarda otra alma despues}
-{IN1.}E pregunto el dic'iplo a su maestro e dixole
+{IN1.} E pregunto el dic'iplo a su maestro e dixole
 el angel q<ue> guarda esta alma q<ue> tu dizes
 despues q<ue> aquel alma es en la gloria de
 paraiso q<ue>rria saber de ti este angel guarda
@@ -4860,7 +4861,7 @@ ma con q<ue> andubo para el dia del juizio
 llamado fijo de dios de perdic'ion si
 abra el angel bueno q<ue> lo guarde como
 a otro om<br>e}
-{IN1.}E dixo el dic'iplo maestro rresponde me
+{IN1.} E dixo el dic'iplo maestro rresponde me
 a otra demanda q<ue> te quiero fazer en q<ue> dizes
 q<ue> de todos los om<br>es del mundo q<ue> nac'en que
 a cada vno dellos da dios vn angel q<ue> lo guar-
@@ -4949,7 +4950,7 @@ no lo guardando.
 yso si va a aq<ue>lla horden donde es el
 angel q<ue> la guarda o si esta mas alta
 o no.}
-{IN1.}Pregunto el dic'iplo al maestro e dixo rrue-
+{IN1.} Pregunto el dic'iplo al maestro e dixo rrue-
 gote q<ue> me digas el alma quando va a para-
 yso si va aq<ue>lla orden de aquel angel que
 la guarda o si sube a mas alto logar o mas
@@ -5002,7 +5003,7 @@ llenas las sillas de tantas almas como
 angeles cayeron dellas las otras q<ue>
 sobraren donde las porna dios si mas al-
 tas o mas baxas.}
-{IN1.}E dixo el dic'iplo rruego te maestro q<ue> me rres-
+{IN1.} E dixo el dic'iplo rruego te maestro q<ue> me rres-
 pondas a esta demanda q<ue> te quiero fazer tu
 dexiste q<ue> las almas q<ue> van a paraiso q<ue> las ponia
 dios en aq<ue>llas sillas do cayeron los angeles
@@ -5074,7 +5075,7 @@ q<ue> se perdieron
 {RUB. Cap<itul><<o>> xliiij<<o>>. q<ue> fabla si las almas q<ue> agora
 son en el c'ielo si estaran despues del
 juizio en sus mesmas sillas.}
-{IN1.}E pregunto el dic'iplo a su maestro e dixo (^te)
+{IN1.} E pregunto el dic'iplo a su maestro e dixo (^te)
 rruego te q<ue> me digas en esta otra quistion q<ue>
 me absolviste q<ue> al dia del juizio avian de
 tornar las almas en aq<ue>llos cuerpos en q<ue> vibie-
@@ -5285,7 +5286,7 @@ los cuerpos el cuerpo de ih<es>u xp<ist>o
 en paraiso veen a las del infierno e las
 del ynfierno a las de parayso e las de
 purgatorio a las del ynfierno e del paraiso}
-{IN1.}Pregunto el dic'iplo a su maestro si las almas q<ue>
+{IN1.} Pregunto el dic'iplo a su maestro si las almas q<ue>
 estan en paraiso si (^est) veen a las q<ue> estan (^en para)[^en]
 (^yso)[^el infierno] e a las otras q<ue> estan en purgatorio E
 si las almas q<ue> yazen en el ynfierno si veen
@@ -5637,7 +5638,7 @@ guar la vida de cada dia por gran cuidado
 q<ue> obiesen.
 {RUB. Cap<itul><<o>> xlvij q<ue> fabla en q<ue> biue el alma
 del om<br>e quando esta en el cuerpo.}
-{IN1.}E pregunto el dic'iplo a su maestro e dixo
+{IN1.} E pregunto el dic'iplo a su maestro e dixo
 rruegote q<ue> me digas el alma del om<br>e en q<ue> biue
 e se mantiene mientra esta en el cuerpo del
 om<br>e % E si esta virtud de su mantenimj<ent><<o>>
@@ -5714,7 +5715,7 @@ no nada.
 {RUB. Cap<itul><<o>> xlviij<<o>> q<ue> fabla del alma que dios
 crio de nada si puede ser tan cumpli-
 da(^d) fuera del cuerpo como dentro.}
-{IN1.}E dixo el diciplo maestro rruegote q<ue> me
+{IN1.} E dixo el diciplo maestro rruegote q<ue> me
 digas si el alma q<ue> dios crio del om<br>e e la faze
 si puede ser cumplida tan bien como seiendo
 despues q<ue> dios la a fecho e criado non
@@ -5813,7 +5814,7 @@ como es criatura de dios.
 {RUB. Cap<itul><<o>> xljx. q<ue> fabla si sabe dios todas
 las cosas q<ue> cuidan los om<br>es seyendo
 como son tantos en el mundo.}
-{IN1.}E pregunto el dic'iplo a su maestro e dixo
+{IN1.} E pregunto el dic'iplo a su maestro e dixo
 rruego te maestro q<ue> me digas vna cosa q<ue>
 suelen dezir los om<br>es q<ue> tan grande es el
 poder q<ue> dios ha en si q<ue> sabe todas las cosas
@@ -5936,7 +5937,7 @@ q<ue> gran diferenc'ia a del q<ue> es criatura a aq<ue>l
 q<ue> es criador del e de todas las otras cosas
 {RUB. Cap<itul><<o>> .L. q<ue> fabla si ai alguna alma q<ue> aia
 en si mayor virtud q<ue> otra}
-{IN1.}E maestro pues me rrespondiste tan bien e
+{IN1.} E maestro pues me rrespondiste tan bien e
 tan cumplidamente ruegote q<ue> me rrespondas
 a esta demanda pues tu dizes q<ue> dios crio las}
 [fol. 122v]
@@ -6031,7 +6032,7 @@ miento q<ue> puso en las sus almas % E esta grac'ia
 mostro dios en el alma seyendo el om<br>e gra<n>de
 o peq<ue>n<n>o de poca hedad % o seyendo en el bientre
 de su madre % asi como acaesc'io a santa <maria>
-madre de ih<es>u xp<ist>o n<uest>ra sen<n>ora e abogada e}AX
+madre de ih<es>u xp<ist>o n<uest>ra sen<n>ora e abogada e}
 [fol. 124v]
 {CB1.
 como contec'io a san Juan bautista e de
@@ -6041,7 +6042,7 @@ natura.
 {RUB. Cap<itul><<o>> Lj q<ue> fabla del alma pues q<ue> ha
 naturaleza de angel e a comienc'o e non
 fin por q<ue> no la conocen.}
-{IN1.}E pregunto el dic'iplo al maestro e dixo
+{IN1.} E pregunto el dic'iplo al maestro e dixo
 rruegote q<ue> me digas q<ue> pues el alma semeja al
 angel por q<ue> rrazon el alma seyendo enc'errada
 en el cuerpo del om<br>e non conoc'e al angel pues
@@ -6166,7 +6167,7 @@ q<ue> es en los c'ielos.
 cador es perdonado de sus pecados por
 penitenc'ia q<ue> faze (^e) por q<ue> le da dios otra
 pena en purgatorio.}
-{IN1.}E pregunto el dic'iplo a su maestro e dixo
+{IN1.} E pregunto el dic'iplo a su maestro e dixo
 rruegote q<ue> me digas agora vna demanda
 q<ue> te quiero fazer yo te oi dezir q<ue> por
 pecador q<ue> sea el om<br>e si se conoc'e e se arre-
@@ -6243,7 +6244,7 @@ primero de sus pecados.
 {RUB. Cap<itul><<o>> .Liij. que fabla si adan non pe-
 cara e eua si tomara ih<es>u xp<ist>o carne
 en santa maria}
-{IN1.}E pregunto el dic'iplo a su maestro e dixo
+{IN1.} E pregunto el dic'iplo a su maestro e dixo
 rruegote q<ue> me rrespondas a vna (de)}
 [fol. 129r]
 {CB1.
@@ -6375,7 +6376,7 @@ zir el mandamjento que puso non lo paso}
 {CB1.
 {RUB. Cap<itul><<o>> .Liiij<<o>> q<ue> fabla si tomara ih<es>u xp<ist>o
 muerte en la cruz si adam no<n> pecara}
-{IN1.}E pregunto el dic'iplo a su maestro e dixo
+{IN1.} E pregunto el dic'iplo a su maestro e dixo
 euas q<ue> ih<es>u xp<ist>o nac'io de santa maria como
 tu as d<ic>ho % dios si prisiera muerte en
 la tierra si adam non pecara % rrespon-
@@ -6430,7 +6431,7 @@ piritu santo
 {RUB. Cap<itul><<o>> Lv. q<ue> fabla por q<ue> rrazon dio
 dios a moisen en las tablas escriptos
 los mandamientos.}
-{IN1.}E pregunto el dec'iplo al maestro e dixo
+{IN1.} E pregunto el dec'iplo al maestro e dixo
 maestro rruego te q<ue> me digas por q<ue> rrazon
 dio el n<uest>ro sen<n>or a moisen escripto en las
 tablas de la ley los diez mandamjentos
@@ -6557,7 +6558,7 @@ mala carrera e torna a buena e de tinjebra
 a claridad por este alumbramjento
 {RUB. Cap<itul><<o>> Lvj que fabla por q<ue> rrazo<n> son los eua<n>-
 gelistas quatro e non mas ni menos.}
-{IN1.}E pregunto el dic'iplo a su maestro e dixo
+{IN1.} E pregunto el dic'iplo a su maestro e dixo
 rruego te q<ue> me digas por q<ue> rrazon los euan-
 gelistas son quatro e non tres o dos o c'inco
 o seis o de aqui adelante % rrespondio el
@@ -6698,7 +6699,7 @@ piesen derechamente la divinidad e la hu-
 manidad
 {RUB. Cap<itul><<o>> Lvij que fabla por q<ue> rrazon son los euan-
 gelistas quatro e non mas nin menos}
-{IN1.}E dixo el diciplo a su maestro pues por q<ue> rrazo<n>
+{IN1.} E dixo el diciplo a su maestro pues por q<ue> rrazo<n>
 los euangelistas son quatro segun q<ue> as d<ic>ho
 % e por ende te rruego q<ue> me digas por q<ue> diero<n>
 a san Juan la figura del aguila % E a san mateo
@@ -6852,7 +6853,7 @@ tas estas figuras.
 {RUB. Cap<itul><<o>> Lviij<<o>>. q<ue> fabla por q<ue> por todo el mundo
 non son las noches e los dias tan grandes
 en vna t<ie>rra como en otra}
-{IN1.}E maestro rruegote q<ue> me digas por q<ue> las noches
+{IN1.} E maestro rruegote q<ue> me digas por q<ue> las noches
 e los dias en todas las t<ie>rras non son tan grandes
 en las vnas t<ie>rras como en las otras % ca ma-
 ravillome como pueden ser menores o mayo-
@@ -6919,7 +6920,7 @@ crec'e en el dia
 {RUB. Cap<itul><<o>> Ljx q<ue> fabla por q<ue> la luna qua<n>-
 do esta llena alumbra menos q<ue> quando
 faze nublado}
-{IN1.}E pregunto el dic'iplo a su maestro e dixo por q<ue>
+{IN1.} E pregunto el dic'iplo a su maestro e dixo por q<ue>
 rrazon des q<ue> la luna parec'e a nos toda llena e
 faze el lunar de noche q<ue> faze nublado mas
 claro q<ue> quando el c'ielo esta claro e estrellado
@@ -6980,7 +6981,7 @@ t<ie>rra caliente e d[ ]ivso de la corteza faze<n>
 fruto ag<r><<o>> e frio}}
 [fol. 143v]
 {CB1.
-{IN1.}Dixo el dic'iplo a su maestro ruego te q<ue> me di-
+{IN1.} Dixo el dic'iplo a su maestro ruego te q<ue> me di-
 gas el arbol de los limones q<ue> llaman limo-
 nar % E otro si el q<ue> lleua las c'idras q<ue> es lla-
 mado c'idral e el naranjo son llamados ar-
@@ -7091,7 +7092,7 @@ como a las otras.
 e la formiga han muchos pies e el ele-
 fante e el leon e el toro seyendo tan gran-
 des non han mas de quatro.}
-{IN1.}Dixo el dic'iplo maestro vna palabra falle
+{IN1.} Dixo el dic'iplo maestro vna palabra falle
 escripta e dize entre todos cuidados pon
 en medio algunas vezes algun plazer %
 por ende te rruego q<ue> me digas como se deue esto
@@ -7217,7 +7218,7 @@ rrompimiento bien asi se crian en la mar a se-
 mejanc'a desto
 {RUB. Cap<itul><<o>> Lxij. q<ue> fabla por q<ue> no semeja vn om<br>e
 a otro como otras anjmaljas.}
-{IN1.}E pregunto el dic'iplo a su maestro e dixo
+{IN1.} E pregunto el dic'iplo a su maestro e dixo
 rruego te q<ue> me digas por q<ue> rrazon no semeja vn}
 [fol. 148v]
 {CB1.
@@ -7439,7 +7440,7 @@ meja vn om<br>e a otro
 el diablo por engan<n>ar al om<br>e q<ue> otra criat<ur><<a>>}}
 [fol. 153r]
 {CB1.
-{IN1.}E pregunto el dic'iplo a su maestro e dixo
+{IN1.} E pregunto el dic'iplo a su maestro e dixo
 dime por q<ue> rrazon anda mas el diablo por
 engan<n>ar al om<br>e e non lo faze asi a las otras
 criaturas % ca mas aina devia benc'er e apo-
@@ -7530,7 +7531,7 @@ caec'e le mal % por ende
 {RUB. Cap<itul><<o>> Lxiiij<<o>> q<ue> fabla por q<ue> ha om<br>e ma-
 yor espanto del om<br>e muerto q<ue> conoc'e
 q<ue> no del que no conoc'e.}
-{IN1.}E pregunto el dic'iplo a su maestro e dixo
+{IN1.} E pregunto el dic'iplo a su maestro e dixo
 maestro por q<ue> rrazon el om<br>e toma mayor
 espanto del om<br>e muerto q<ue> conoc'e q<ue> del que}
 [fol. 155r]
@@ -7707,7 +7708,7 @@ uechara q<ue> no al muerto.
 {RUB. Cap<itul><<o>> lxv. q<ue> fabla por q<ue> ha el om<br>e mayor
 miedo de andar de noche q<ue> las otras
 animaljas.}
-{IN1.}E pregunto el dic'iplo a su maestro e dixo
+{IN1.} E pregunto el dic'iplo a su maestro e dixo
 por q<ue> rrazon a el om<br>e mayor miedo de andar
 de noche a tiniebla en su cabo mas q<ue> otras
 anjmaljas q<ue> andan de noche mas q<ue> de
@@ -7954,7 +7955,7 @@ non.
 {RUB. Capitulo lxvj q<ue> fabla como e por q<ue> es-
 touo Joanas profeta tres dias e tres noches
 en el bientre de la vallena.}
-{IN1.}E pregunto el dic'iplo a su maestro e dixo rrue-
+{IN1.} E pregunto el dic'iplo a su maestro e dixo rrue-
 go te q<ue> me digas el n<uest>ro sen<n>or ih<es>u xp<ist>o dize
 en el euangelio q<ue> Joanas el profeta estando
 tres dias e tres noches en el bientre de la
@@ -8070,7 +8071,7 @@ contec'io a Jonas.
 {RUB. Cap<itul><<o>> Lxvij. q<ue> habla por q<ue> son las aues
 departidas en colores las vnas de las
 otras}
-{IN1.}Dixo el dic'iplo a su maestro rruego te que me
+{IN1.} Dixo el dic'iplo a su maestro rruego te que me
 digas por q<ue> rrazon son las aues departidas
 en color las vnas de las otras % ca ninguna
 generac'ion de naturas no fallo en q<ue> tanto
@@ -8252,7 +8253,7 @@ mas ljbianas en el bolar las vnas q<ue> non las
 otras.}}
 [fol. 170r]
 {CB1.
-{IN1.}Pregunto el dic'iplo a su maestro e dixo por
+{IN1.} Pregunto el dic'iplo a su maestro e dixo por
 q<ue> las aues son mas libianas las vnas q<ue> las otras
 % ca veo vnas aues q<ue> son muy grandes de cuer-
 po E por rrazon deuen ser pesadas e veo las
@@ -8407,7 +8408,7 @@ pesadas en su bolar.
 {RUB. Cap<itul><<o>> lxjx. (^por) q<ue> fabla por q<ue> ninguna cria-
 tura puede biujr sin sangre y los pes-
 cados de la mar y formigas biuen sin ella}
-{IN1.}E pregunto el dic'iplo a su maestro e dixo natu-
+{IN1.} E pregunto el dic'iplo a su maestro e dixo natu-
 ral cosa es segund rrazon q<ue> ninguna criatura
 non puede ser biua sin sangre % pues
 maravillome como an vida estas anjmalias q<ue>
@@ -8425,7 +8426,7 @@ es % rrespondio el maestro e dixo dos}
 naturas son de sangre % la primera natura
 de sangre es la de q<ue> biuen los om<br>es e las bes-
 tias e las aues % E a esta llaman sangre
-{LAT.rrubey} q<ue> quiere tanto dezir como sangre
+{LAT. rrubey} q<ue> quiere tanto dezir como sangre
 vermeja E esta sangre non la puede aver
 criatura q<ue> biua sea si no aq<ue>llas q<ue> han figa-
 do ca el figado haze a ella ser vermeja
@@ -8443,7 +8444,7 @@ han vida.
 q<ue> cac'an quando les arrancan el cuello
 del ala por fuerc'a non le nac'e otro e a las
 otras si.}
-{IN1.}E pregunto el dic'iplo a su maestro e dixo
+{IN1.} E pregunto el dic'iplo a su maestro e dixo
 por que rrazon las aues q<ue> cac'an asi como los}
 [fol. 174r]
 {CB1.
@@ -8538,7 +8539,7 @@ la muy bien asi como si la metiesen en muda.
 {RUB. Cap<itul><<o>> lxxj q<ue> fabla por q<ue> las animalias no an
 dientes de suso asi como las otras anjma-
 ljas sin cuernos.}
-{IN1.}Dixo el dic'iplo a su maestro q<ue>rria saber
+{IN1.} Dixo el dic'iplo a su maestro q<ue>rria saber
 de ti las animalias q<ue> han cuernos por que
 rrazon non han dientes de suso asi como las
 otras q<ue> non los han % E rrespondio el ma<e>stro
@@ -8614,7 +8615,7 @@ cando
 {RUB. Cap<itul><<o>> Lxxij. q<ue> fabla por q<ue> la c'ierua ni la
 obeja non ha cuernos asi como la cabra e
 la baca.}
-{IN1.}E pregunto el dic'iplo a su maestro e dixo o-
+{IN1.} E pregunto el dic'iplo a su maestro e dixo o-
 tra demanda te quiero fazer por q<ue> rrazon
 la c'ierua e la obeja non han cuernos en la cabec'a
 asi como la baca e la cabra e pues non han
@@ -8700,7 +8701,7 @@ manda.
 {RUB. Cap<itul><<o>> lxxiij q<ue> fabla por q<ue> faze mal a todos los
 arboles del mundo tirar las cortezas e no<n>
 al alcornoque.}
-{IN1.}Dixo el dic'iplo a su maestro rruego te q<ue> me di-
+{IN1.} Dixo el dic'iplo a su maestro rruego te q<ue> me di-
 gas por q<ue> rrazon faze mal a todos los arboles
 del mundo tirar le la corteza e non al alcor-
 noq<ue> % ca semeja me q<ue> es mas estran<n>a cosa en
@@ -8756,7 +8757,7 @@ del fumo
 {RUB. Cap<itul><<o>> lxxiiij<<o>> q<ue> fabla por que se fazen los cuer-
 nos de las cabras can<n>as veras quando los
 pone so la t<ie>rra.}
-{IN1.}Maestro rruegote q<ue> me digas por que rrazon
+{IN1.} Maestro rruegote q<ue> me digas por que rrazon
 se fazen los cuernos de las cabras quando
 los meten so la t<ie>rra can<n>as veras % ca por
 rrazon no devia ser q<ue> segun natura non deue
@@ -8795,7 +8796,7 @@ al a(l)gujla mas q<ue> otras aues e las anj-
 maljas al leon mas q<ue> otra bestia}}
 [fol. 181r]
 {CB1.
-{IN1.}E pregunto el dic'iplo a su maestro por
+{IN1.} E pregunto el dic'iplo a su maestro por
 q<ue> rrazon temen las aues al aguila mas q<ue> a otra
 aue e las anjmalias al leon mas q<ue> a otra bes-
 tia % ca gran cosa es en dar le tan gran conoc'i-
@@ -8872,7 +8873,7 @@ todas las otras anjmalias
 c(l)[r]ines como las a el macho}}
 [fol. 182v]
 {CB1.
-{IN1.}Dixo el diciplo al maestro pues me as d<ic>ho
+{IN1.} Dixo el diciplo al maestro pues me as d<ic>ho
 esta rrazon del leon rruego te que me digas
 por q<ue> rrazon la leona no a crines como el leon
 q<ue> tan fuerte animalia la veo como el leo<n>
@@ -8889,7 +8890,7 @@ leon ni es tan caliente de complision
 {RUB. Cap<itul><<o>> lxxviij<<o>>. q<ue> fabla por q<ue> las palomas
 duendas crian cada mes si non el de di-
 c'iembre}
-{IN1.}E pregunto el dic'iplo al maestro e dixo
+{IN1.} E pregunto el dic'iplo al maestro e dixo
 por q<ue> rrazon estas palomas duendas de casa
 crian cada mes del an<n>o si no<n> en el mes de di-
 ziembre e q<ue>rria saber por q<ue> rrazon estre-
@@ -8995,7 +8996,7 @@ muy frios por el aire q<ue> es frio.
 {RUB. Cap<itul><<o>> lxxjx. por q<ue> se enpren<n>an las
 liebres tan bien los machos como las fem-
 bras.}
-{IN1.}Pregunto el dic'iplo al maestro e dixo
+{IN1.} Pregunto el dic'iplo al maestro e dixo
 rruego te q<ue> me digas por q<ue> rrazon las liebres
 tan bien se enpren<n>an los machos como las
 fembras % ca no veo otras anjmalias en
@@ -9049,7 +9050,7 @@ mas de vna bez o dos al an<n>o e vn fijo
 o dos e la loba pare quatro o c'inco vezes
 e pare cada vez siete fijos e ay mas obe-
 jas.}
-{IN1.}Pregunto el dic'iplo al maestro e dixo por
+{IN1.} Pregunto el dic'iplo al maestro e dixo por
 q<ue> no pare la <<o>>beja mas de vna vez al an<n>o o
 dos a lo mas e non faze mas de vn fijo
 e la loba pare tres vezes o quatro al an<n>o e pare
@@ -9093,7 +9094,7 @@ te e d<ic>has son mas las ouejas e los carneros q<ue>
 los lobos.
 {RUB. Cap<itul><<o>> lxxx<<o>>j q<ue> fabla por q<ue> no faze fijos el mulo
 e la mula como las otras animalias}
-{IN1.}Pregunto el dec'iplo a su maestro e dixo rruego
+{IN1.} Pregunto el dec'iplo a su maestro e dixo rruego
 te q<ue> me digas por q<ue> rrazon non fazen fijos el
 mulo e la mula como las otras anjmalias fa-
 zen ca veo q<ue> son bestias grandes e rec'ias
@@ -9223,7 +9224,7 @@ nor.
 {RUB. Cap<itul><<o>> lxxx<<o>>iiij<<o>>. q<ue> fabla por q<ue> los conexos
 e las ljebres no han vn<n>a fendida como las
 otras bestias q<ue> rrumjan.}
-{IN1.}Dixo el dic'iplo al maestro rruego te que
+{IN1.} Dixo el dic'iplo al maestro rruego te que
 me digas por q<ue> rrazon las liebres e los cone-
 jos no han la vn<n>a fendida como las otras bes-
 rias q<ue> rrumjan. ca veo q<ue> las liebres e los cone-
@@ -9269,7 +9270,7 @@ si fuesen biejos e bien asi contec'e de las lje-
 bres e de los conejos segund q<ue> de suso oyste
 {RUB. Cap<itul><<o>> lxxxv. que fabla por que rrazon
 duermen las liebres los ojos abiertos}
-{IN1.}Pregunto el dic'iplo al maestro e dixo por
+{IN1.} Pregunto el dic'iplo al maestro e dixo por
 que rrazon duermen las liebres los ojos abier-
 tos. ca non veo otra anjmalia que lo faga asi
 si non ellas % rrespondio el maestro tu de-
