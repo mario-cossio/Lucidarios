@@ -1,0 +1,295 @@
+Normalization Criteria for Collating Spanish Medieval Texts
+
+These are suggested criteria for normalization (not modernization!) of Spanish medieval texts to facilitate their collation.
+
+These suggestions are not complete and they are taken from the vocabulary of Sancho IV's Lucidario, transcribed using the Hispanic
+Seminary of Medieval Studies' transcription guidelines, as proposed in David Mackenzie 'A Manual of Manuscript Transcription for
+the Dictionary of Old Spanish Language' (1997, 5th revised edition).
+
+The processes described in this document include the regularization of vowels and consonants according to their phonetic value 
+(v~u, i~j~y, and geminate consonants at the beginning of words), separating words written in a single stroke but formed by two 
+independent syntactic units (article + verb, pronoun + article, or in more complex cases: proclitic pronouns + verbs, 
+verbs + enclitic pronouns, and the clitics and auxiliaries of analytic futures and conditionals), using majuscules to 
+differentiate proper nouns, or joining words written in two strokes but forming a single unit. These minor alterations are meant
+to facilitate the process of comparing and contrasting the readings of the different witnesses of a work using an automated
+collation software.
+
+[Last Updated: November 14, 2023]
+
+Basic Graphic Normalization
+
+Delete all <, >, {RUB.}, {LAT.}, {HD.}, {AD.}, [+], (^), [^], (), [], or any other encoding mark and replace for appropriate
+convention (use colors, make deletions, etc.)
+/ > .
+, > .
+: > .
+; > .
+aa > a a
+ally > alli
+aua > ava
+aue > ave
+auo > avo
+avn > aun
+aur > avr
+ayr > air
+bj > bi
+commo > como
+cuy > cui
+çe, çi > ce, ci (keep ça, ço and çu)
+çj > ci
+dj > di
+eua > eva
+euan > evan
+eue > eve
+euo > evo
+ey > ei
+eyn > ein
+eys > eis
+fj > fi
+fuy > fui
+gelj > geli
+gj > gi
+guj > gui
+Initial ff  > f
+Initial rr > r
+Initial ss  > s
+iua > iva
+iue > ive
+iuo > ivo
+jn > in
+juy > jui
+lj > li
+lua > lva
+luo > lvo
+ly > li
+mj > mi
+nj > ni
+njn > nin
+nn > ñ
+nrr > nr
+ñj > ñi
+oua > ova
+oue > ove
+ouo > ovo
+oy > oi
+pj > pi
+ray > rai
+rj > ri
+rua > rva
+ruo > rvo
+ry > ri
+ryr > rir
+srr > sr
+suar > svar
+sy > si
+ty > ti
+ueni > veni
+uj > vi
+uua > uva
+uue > uve
+uuo > uvo
+veya > veia
+vj > vi
+vm > um
+vn > un
+vs > us
+xj > xi
+xris > cris
+yd > id
+yg > ig
+ym > im
+yn > in
+yp > ip
+yr > ir
+ys > is
+yt > it
+yua > iva
+yv > iv
+yz > iz
+zj > zi
+
+Uppercase Letters in Proper Nouns:
+
+Abraam / Abraan
+Adam / Adan
+Agostin / Agustin / Augustin
+Alfonso
+Castilla
+David / Davit
+Dionis
+Eva
+Ezechiel
+Gabriel / Grabiel
+Galizia
+ihesu xpisto > Jesucristo
+Israel
+Jaen / Jahen
+Job
+Jonas / Joanas
+Juan / Joan
+Leon
+Lucas
+Marcos
+Maria
+Mateo / Matheo
+Miguel
+Moisen
+Murcia
+Noe / Nohe
+Rafael / Raphael
+Salamon / Salomon
+Sancho
+Tobias
+Toledo
+Tomas
+Violante
+
+Deletion of Spaces
+
+^p+space > space
+- + space > nothing
+caña vera > cañavera
+des que > desque
+en antes > enantes
+en pero > enpero
+em pos > empos
+en pos > enpos
+nos otros > nosotros
+si se > sise (meaning 'in himself', 'in herself')
+so uno > souno (meaning 'together')
+sobre verna > sobreverna
+Any adverb + space + mente > adverb+mente without space 
+
+Separation to Differentiate Apocopated Compounds or Words Written in a Single Graphic Unity
+
+acabo > a cabo
+acad... > a cad...
+acuy... > a cuy...
+adesora > a desora
+ael > a el
+aes... > a es...
+agran > a gran
+ala/s/o/s > a la/s/o/s (except 'ala', when meaning 'wing')
+ami/s > a mi/s
+anos > a nos
+antel > ant el
+anuest... > a nuest...
+aotr... > a otr...
+aque > a que (except 'aquella/o')
+aquien > a quien
+asaber > a saber
+ase > a se
+asu > a su
+asuso > a suso
+atal > a tal (except 'atal' when equivalent to 'tal')
+atan > a tan (same as above)
+ati > a ti
+atod... > a tod...
+atu > a tu
+auna > a una
+avos > a vos
+ayuso > a yuso
+cael > ca el
+cala > ca la
+canon > ca non 
+casi > ca si (except when meaning 'almost')
+conel > con el
+cones > con es
+conla/conlo > con la/con lo
+conotr > con otr
+conqu... > con qu...
+consu > con su
+contrael... > contra el...
+contral... > contra l...
+dale/s > da le/s
+dase > da se
+dela/s/o/s > de la/s/o/s
+dele/s > de le/s
+della/s/o/s > d ella/s/o/s
+deotra/s/o/s > de otra/s/o/s
+deque > de que
+desa/s/o/s > d esa/s/o/s
+desdel > desd el
+desi/dessi > de si (except when equivalent to 'after')
+deso/desso > de so
+desta/s/o/s > d esta/s/o/s
+desu > de su
+desuso > de suso
+deyuso > de yuso
+deti > de ti
+devegada > de vegada
+enel > en el
+enell... > en ell...
+enes > en es
+enguisa > en guisa
+enla/s/o/s > en la/s/o/s
+enllo > en lo
+enque > en que
+ensi > en si
+ensu > en su
+enta... > en ta...
+enti > en ti
+ento... > en to...
+entram... > entr am...
+entrel > entr el
+entres... > entr es...
+lasu > la su
+loque > lo que
+mel... > me l...
+onon > o non
+ose > o se
+ote > o te
+otrosi > otro si
+otrossi > otro ssi
+nol... > no l...
+nonl... > non l...
+nons... > non s...
+porel > por el
+porque > por que
+pors... > por s...
+port... > por t...
+quandol... > quando l...
+quandos... > quando s...
+queel... > que el...
+queen > que en
+quees > que es
+quel... > que l... (or qu el...)
+quemas > que mas (except when 3rd person present tense reflexive of 'quemar' with clitic, in that case, quema s)
+queme > que me
+ques... > qu es or que s...
+quest... > qu est...
+quete > que te
+quetu > que tu
+queyo > que yo
+sela > se la
+sele > se le
+selos > se los
+senos > se nos
+siel > si el
+sila > si las 
+sino > si no
+sinon > si non
+sobrel > sobre el
+sobres > sobr es
+sola > so la (equivalent to 'under the')
+tel... > te l... (except 'tela', meaning 'fabric')
+
+Clitic Separation
+
+...ala/s/o/s > a la/s/o/s
+...ele/s > e le/s
+...ola/s/e/s/o/s > o la/s/e/s/o/s
+...onos > o nos
+...nla/s/e/s/o/s > n la/s/e/s/o/s
+...dola/s/e/s/o/s > do la/s/e/s/o/s
+...rse > r se
+...rla/s/e/s/o/s > r la/s/e/s/o/s
+...rme > r me
+...ixol > ixo l
+...nese > ne se
+...nse > n se
+...luen > lve/n
+...ase > ase (restricted, not to be applied to 2nd person conjugations)
+...erla/s/e/s/o/s > er la/s/e/s/o/s
+...irla/s/e/s/o/s > ir la/s/e/s/o/s
+...orla/s/e/s/o/s > or la/s/e/s/o/s

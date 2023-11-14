@@ -1,0 +1,4 @@
+Useful Mac OS terminal commands
+
+textutil -convert txt #use to batch convert Word documents (doc or docx) to txt. Drag and drop the files after the command or indicate the path (i.e., ~/Desktop/Folder/*.docx) and hit enter.
+
