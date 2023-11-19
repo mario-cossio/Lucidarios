@@ -2,9 +2,9 @@ Normalization Criteria for Collating Spanish Medieval Texts
 
 These are suggested criteria for normalization (not modernization!) of Spanish medieval texts to facilitate their collation.
 
-These suggestions are not complete and they are taken from the vocabulary of Sancho IV's Lucidario, transcribed using the Hispanic
-Seminary of Medieval Studies' transcription guidelines, as proposed in David Mackenzie 'A Manual of Manuscript Transcription for
-the Dictionary of Old Spanish Language' (1997, 5th revised edition).
+They are by no means complete -they are constantly revised– and they use examples taken from the vocabulary of Sancho IV's Lucidario,
+transcribed using the Hispanic Seminary of Medieval Studies' transcription guidelines, as proposed in David Mackenzie 'A Manual of Manuscript
+Transcription for the Dictionary of Old Spanish Language' (1997, 5th revised edition).
 
 The processes described in this document include the regularization of vowels and consonants according to their phonetic value 
 (v~u, i~j~y, and geminate consonants at the beginning of words), separating words written in a single stroke but formed by two 
@@ -12,14 +12,18 @@ independent syntactic units (article + verb, pronoun + article, or in more compl
 verbs + enclitic pronouns, and the clitics and auxiliaries of analytic futures and conditionals), using majuscules to 
 differentiate proper nouns, or joining words written in two strokes but forming a single unit. These minor alterations are meant
 to facilitate the process of comparing and contrasting the readings of the different witnesses of a work using an automated
-collation software.
+collation software (in this case, ChrysoCollate)
 
-[Last Updated: November 14, 2023]
+Based on several scripts developed by José Manuel Fradejas Rueda for normalizing the transcriptions of the Siete Partidas corpus (here: 
+https://github.com/7PartidasDigital/XML-TEI/tree/master/scripts)
+
+[Last Updated: November 19, 2023]
 
 Basic Graphic Normalization
 
-Delete all <, >, {RUB.}, {LAT.}, {HD.}, {AD.}, [+], (^), [^], (), [], or any other encoding mark and replace for appropriate
-convention (use colors, make deletions, etc.)
+# original value > # replaced value
+Delete all <, >, {RUB.}, {LAT.}, {HD.}, {AD.}, {CW.}, {GL.}, {CB1.}, {CB2.}, {IN.} [+], (^), [^], (), [], or any other encoding mark and replace for 
+appropriate convention (use colors, make deletions, etc.)
 / > .
 , > .
 : > .
