@@ -1,7 +1,7 @@
 # Lucidarios
 **Repository of the witnesses of the <em>Lucidario</em>**
 
-This is a repository for the nine testimonies of Sancho IV's <em>Lucidario</em>. The transcriptions are encoded using the [semi-paleographic system](http://www.hispanicseminary.org/manual-en.htm) of the Hispanic Seminary of Medieval Studies, as explained [here](https://lucidarios.hypotheses.org/transcripciones/normas-de-transcripcion):
+This is a repository for the nine witnesses of Sancho IV's <em>Lucidario</em>. The transcriptions are encoded using the [semi-paleographic system](http://www.hispanicseminary.org/manual-en.htm) of the Hispanic Seminary of Medieval Studies, as explained [here](https://lucidarios.hypotheses.org/transcripciones/normas-de-transcripcion):
 
 <ol>
 <li>A (Biblioteca Nacional de España, ms. 3369)</li>
@@ -35,7 +35,7 @@ How to quote:
 
 **<em>Collatio</em>**
 
-This subfolder contains the materials for the <em>collatio</em> of the <em>Lucidario</em>, a work in progress for a critical edition in preparation. The Word files are distributed in folders with correlative numbers for each chapter. Each of these contains a 'Marcados' subfolder (documents for each testimony containing the normalized text WITH punctuation and page foliation, without any mark except a color code), and a 'Limpios' subfolder (documents without punctuation but with the aforementioned color code: red for identifiable mistakes, orange for Latin and <em>lacunae</em> and blue for emmendations of a hand different to the main scribe or scribes). The rubrics have been extracted and placed in a separated Ms. Word document ('Rubrica' + Chapter number). They also contain a plain text file, containing the [ChryscoCollate](https://cental.uclouvain.be/chrysocollate/) collation.
+This subfolder contains the materials for the <em>collatio</em> of the <em>Lucidario</em>, a work in progress for a critical edition in preparation. The Word files are distributed in folders with correlative numbers for each chapter. Each of these contains a 'Marcados' subfolder (documents for each witness containing the normalized text WITH punctuation and page foliation, without any mark except a color code), and a 'Limpios' subfolder (documents without punctuation but with the aforementioned color code: red for identifiable mistakes, orange for Latin and <em>lacunae</em> and blue for emmendations of a hand different to the main scribe or scribes). The rubrics have been extracted and placed in a separated document in the main chapter folder, titled 'Rubrica + Chapter number'). Also in the main folder you will find a plain text file called 'Chapter Number+_separado', which is the first collation file for [ChryscoCollate](https://cental.uclouvain.be/chrysocollate/). Note that this file is only complete for some chapters and without all the witnesses. They will be added regularly as the collation progresses.
 
 **<em>Stylo</em>**
 
