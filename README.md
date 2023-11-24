@@ -1,15 +1,15 @@
 # Lucidarios
 **Repository of the witnesses of the <em>Lucidario</em>**
 
-This is a repository of the nine testimonies of Sancho IV's <em>Lucidario</em>. The transcriptions are encoded using the [semipaleographic system](http://www.hispanicseminary.org/manual-en.htm) of the Hispanic Seminary of Medieval Studies, as explained [here](https://lucidarios.hypotheses.org/transcripciones/normas-de-transcripcion):
+This is a repository for the nine testimonies of Sancho IV's <em>Lucidario</em>. The transcriptions are encoded using the [semipaleographic system](http://www.hispanicseminary.org/manual-en.htm) of the Hispanic Seminary of Medieval Studies, as explained [here](https://lucidarios.hypotheses.org/transcripciones/normas-de-transcripcion):
 
 <ol>
 <li>A (Biblioteca Nacional de España, ms. 3369)</li>
-<li>B (Biblioteca Histórica de la Universidad de Salamanca, ms. 1958). EN TRANSCRIPCIÓN</li>
+<li>B (Biblioteca General Histórica, Universidad de Salamanca, ms. 1958). Being transcribed</li>
 <li>C (Real Biblioteca, ms. II/793)</li>
 <li>D (Real Academia Española, ms. 15, códice de Puñonrostro)</li>
 <li>E (Biblioteca Nacional de España, ms. 6958)</li>
-<li>F (Biblioteca General Histórica de la Universidad de Salamanca, ms. 2401). EN TRANSCRIPCIÓN.</li>
+<li>F (Biblioteca General Histórica, Universidad de Salamanca, ms. 2401). Being transcribed.</li>
 <li>G (Real Academia de la Historia, ms. 101)</li>
 <li>H (Bibliothèque patrimonial Villon, ms. A283)</li>
 <li>I (Biblioteca de la Fundación Bartolomé March Servera, ms. MA26-5-07)</li> 
