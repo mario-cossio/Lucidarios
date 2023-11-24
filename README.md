@@ -37,7 +37,7 @@ How to quote:
 
 This subfolder contains the materials for the <em>collatio</em> of the <em>Lucidario</em>, a work in progress for a critical edition in preparation. The Word files are distributed in folders with correlative numbers for each chapter. Each of these contains a 'Marcados' subfolder (documents for each witness containing the normalized text WITH punctuation and page foliation, without any mark except a color code), and a 'Limpios' subfolder (documents without punctuation but with the aforementioned color code: red for identifiable mistakes, orange for Latin and <em>lacunae</em> and blue for emmendations of a hand different to the main scribe or scribes). The rubrics have been extracted and placed in a separated document in the main chapter folder, titled 'Rubrica + Chapter number'). Also in the main folder you will find a plain text file called 'Chapter Number+_separado', which is the first collation file for [ChryscoCollate](https://cental.uclouvain.be/chrysocollate/). 
 
-Note that this file is only complete for some chapters and without all the witnesses. They will be added regularly as the collation progresses.
+Note that these collation files are incomplete (i.e., not all witnesses have been added yet), and not all chapters have a collation file. They will be added regularly as the collation progresses.
 
 **<em>Stylo</em>**
 
