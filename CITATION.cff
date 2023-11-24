@@ -1,9 +1,9 @@
 cff-version: 1.1.0
-message: "Si usa estas transcripciones, por favor, cítelas de la siguiente manera."
+message: "If you use these transcriptions, please quote them like this:"
 authors:
   - family-names: Mario
     given-names: Cossío Olavide
     orcid: https://orcid.org/0000-0002-1447-3891
-title: «Lucidario [letra correspondiente], transcripción semipaleográfica», Lucidarios v. 0.2
+title: «Lucidario [corresponding letter], semi-paleographic transcription», <em>Lucidarios</em> v. 0.2
 version: 0.2
 date-released: 2023-07-19
