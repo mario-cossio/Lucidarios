@@ -35,7 +35,7 @@ How to quote:
 
 **<em>Collatio</em>**
 
-This subfolder contains the materials for the <em>collatio</em> of the <em>Lucidario</em>. The Ms. Word files are distributed in folders with correlative numbers for each chapter, and in subfolders with marked documents ('Marcados': normalized texts with punctuation and indication of page numbers), and clean documents ('Limpios', plain and clean text). The rubrics have been extracted and placed in a separated Ms. Word document ('Rubricas'). They also contain a plain text file, containing the ChryscoCollate collation.
+This subfolder contains the materials for the <em>collatio</em> of the <em>Lucidario</em>. The Ms. Word files are distributed in folders with correlative numbers for each chapter, and in subfolders with marked documents ('Marcados': normalized texts with punctuation and indication of page numbers), and clean documents ('Limpios', plain and clean text). The rubrics have been extracted and placed in a separated Ms. Word document ('Rubrica' + Chapter number). They also contain a plain text file, containing the ChryscoCollate collation.
 
 **<em>Stylo</em>**
 
