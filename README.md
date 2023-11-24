@@ -34,3 +34,5 @@ Citar como:
 <li>Cossío Olavide, Mario (2023). «<em>Lucidario</em>, testimonio I (Biblioteca de la Fundación Bartolomé March Servera, ms. MA26-5-07), transcripción semipaleográfica». <em>Lucidarios, v. 0.2</em>, https://doi.org/10.5281/zenodo.7548608, fecha de consulta.</li>
 <li>Cossío Olavide, Mario (2021). «<em>Lucidario romanceado</em> (Biblioteca Histórica Marqués de Valdecilla, Universidad Complutense de Madrid, ms. 148), transcripción semipaleográfica». <em>Lucidarios, v. 0.2</em>, https://doi.org/10.5281/zenodo.7548608, fecha de consulta.</li>
 </ol>
+
+# Collatio
