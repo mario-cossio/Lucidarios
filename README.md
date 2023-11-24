@@ -17,7 +17,7 @@ This is a repository for the nine testimonies of Sancho IV's <em>Lucidario</em>.
 
 Currently I'm transcribing B (Biblioteca Histórica, Universidad de Salamanca, ms. 1958), which should take place between December, 2023 and March, 2024. The transcription of F (Biblioteca General Histórica, Universidad de Salamanca, ms. 2401), a Latin translation by Juan Eusebio Nieremberg, runs parallel, however at a much slower pace, and should be done by July, 2024.
 
-Here you will also find the transcription of the only medieval Spanish translation of Honorius Augustodunensis' <em>Elucidarium</em>, the <em>Lucidario romanceado</em>, preserved in the Biblioteca Histórica Marqués de Valdecilla of the Universidad Complutense de Madrid, ms. 148, which I have edited in the issue 41 of [<em>Incipit</em>](http://www.iibicrit-conicet.gov.ar/ojs/index.php/incipit/article/view/541).
+Here you will also find the transcription of the only medieval Spanish translation of Honorius Augustodunensis' <em>Elucidarium</em>, the <em>Lucidario romanceado</em>, preserved in the Biblioteca Histórica Marqués de Valdecilla of the Universidad Complutense de Madrid, ms. 148, which I have edited in <em>Incipit</em>'s [issue 41](http://www.iibicrit-conicet.gov.ar/ojs/index.php/incipit/article/view/541).
 
 How to quote:
 
