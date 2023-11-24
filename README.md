@@ -35,7 +35,7 @@ How to quote:
 
 **<em>Collatio</em>**
 
-This subfolder contains the materials for the <em>collatio</em> of the <em>Lucidario</em>, a work in progress for a critical edition in preparation. The Ms. Word files are distributed in folders with correlative numbers for each chapter, and in subfolders with marked documents ('Marcados': normalized texts with punctuation and indication of page numbers), and clean documents ('Limpios', plain and clean text). The rubrics have been extracted and placed in a separated Ms. Word document ('Rubrica' + Chapter number). They also contain a plain text file, containing the [ChryscoCollate](https://cental.uclouvain.be/chrysocollate/) collation.
+This subfolder contains the materials for the <em>collatio</em> of the <em>Lucidario</em>, a work in progress for a critical edition in preparation. The Word files are distributed in folders with correlative numbers for each chapter. Each of these contains a 'Marcados' subfolder (documents for each testimony containing the normalized text WITH punctuation and page foliation, without any mark except a color code), and a 'Limpios' subfolder (documents without punctuation but with the aforementioned color code: red for identifiable mistakes, orange for Latin and <em>lacunae</em> and blue for emmendations of a hand different to the main scribe or scribes). The rubrics have been extracted and placed in a separated Ms. Word document ('Rubrica' + Chapter number). They also contain a plain text file, containing the [ChryscoCollate](https://cental.uclouvain.be/chrysocollate/) collation.
 
 **<em>Stylo</em>**
 
