@@ -1,5 +1,5 @@
 # Lucidarios
-**Repositorio de los testimonios del <em>Lucidario</em>**
+**Repository of the witnesses of the <em>Lucidario</em>**
 
 This is a repository of the nine testimonies of Sancho IV's <em>Lucidario</em>. The transcriptions are encoded using the [semipaleographic system](http://www.hispanicseminary.org/manual-en.htm) of the Hispanic Seminary of Medieval Studies, as explained [here](https://lucidarios.hypotheses.org/transcripciones/normas-de-transcripcion):
 
