@@ -1,7 +1,7 @@
 # Lucidarios
 **Repositorio de los testimonios del <em>Lucidario</em>**
 
-En este repositorio encontrarán los testimonios de los nueve manuscritos del <em>Lucidario</em> auspiciado Sancho IV, en transcripción semipaleográfica empleando el [sistema de transcripción](http://www.hispanicseminary.org/manual-en.htm) del Hispanic Seminary of Medieval Studies, como explico [aquí](https://lucidarios.hypotheses.org/transcripciones/normas-de-transcripcion):
+This is a repository of the nine testimonies of Sancho IV's <em>Lucidario</em>. The transcriptions are encoded using the [semipaleographic system](http://www.hispanicseminary.org/manual-en.htm) of the Hispanic Seminary of Medieval Studies, as explained [here](https://lucidarios.hypotheses.org/transcripciones/normas-de-transcripcion):
 
 <ol>
 <li>A (Biblioteca Nacional de España, ms. 3369)</li>
@@ -15,13 +15,13 @@ En este repositorio encontrarán los testimonios de los nueve manuscritos del <e
 <li>I (Biblioteca de la Fundación Bartolomé March Servera, ms. MA26-5-07)</li> 
 </ol>
 
-Actualmente estoy realizando la transcripción automatizada de B (Biblioteca Histórica de la Universidad de Salamanca, ms. 1958), entre noviembre de 2023 y marzo de 2024. La transcripción de F (Biblioteca General Histórica de la Universidad de Salamanca, ms. 2401), la traducción latina, corre paralela pero muy lentamente y espero terminarla en mayo de 2024.
+Currently I'm transcribing B (Biblioteca Histórica de la Universidad de Salamanca, ms. 1958), which should take place between December, 2023 and March, 2024. The transcription of F (Biblioteca General Histórica, Universidad de Salamanca, ms. 2401), a Latin translation by Juan Eusebio Nieremberg, runs parallel, however slowly and should be done by July, 2024.
 
-Además encontrarán la transcripción semipaleográfica de la única traducción castellana del <em>Elucidarium</em> de Honorio de Autun, el <em>Lucidario romanceado</em>, conservado en la Biblioteca Histórica Marqués de Valdecilla de la Universidad Complutense de Madrid, ms. 148, cuya edición crítica puede consultarse en el número 41 de la revista [<em>Incipit</em>](http://www.iibicrit-conicet.gov.ar/ojs/index.php/incipit/article/view/541).
+Here you will also find the transcription of the only medieval Spanish translation of Honorius Augustodunensis' <em>Elucidarium</em>, the <em>Lucidario romanceado</em>, preserved in the Biblioteca Histórica Marqués de Valdecilla of the Universidad Complutense de Madrid, ms. 148, which I have edited in the issue 41 of [<em>Incipit</em>](http://www.iibicrit-conicet.gov.ar/ojs/index.php/incipit/article/view/541).
 
 <p align="right">MCO</p>
 
-Citar como:
+How to quote:
 
 <ol>
 <li>Cossío Olavide, Mario (2023). «<em>Lucidario</em>, testimonio A (Biblioteca Nacional de España, ms. 3369), transcripción semipaleográfica». <em>Lucidarios, v. 0.2</em>, https://doi.org/10.5281/zenodo.7548608, fecha de consulta.</li>
@@ -35,4 +35,9 @@ Citar como:
 <li>Cossío Olavide, Mario (2021). «<em>Lucidario romanceado</em> (Biblioteca Histórica Marqués de Valdecilla, Universidad Complutense de Madrid, ms. 148), transcripción semipaleográfica». <em>Lucidarios, v. 0.2</em>, https://doi.org/10.5281/zenodo.7548608, fecha de consulta.</li>
 </ol>
 
-# Collatio
+**Collatio</em>**
+
+Aquí se encuentran los 
+**Repositorio de los testimonios del <em>Lucidario</em>**
+
+
