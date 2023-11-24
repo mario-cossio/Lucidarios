@@ -37,12 +37,12 @@ How to quote:
 
 This subfolder contains the materials for the <em>collatio</em> of the <em>Lucidario</em>. The Ms. Word files are distributed in folders with correlative numbers for each chapter, and in subfolders with marked documents ('Marcados': normalized texts with punctuation and indication of page numbers), and clean documents ('Limpios', plain and clean text). The rubrics have been extracted and placed in a separated Ms. Word document ('Rubricas'). They also contain a plain text file, containing the ChryscoCollate collation.
 
-**<em>Scripts</em>**
-
-Some useful scripts for BBEdit, Mac Terminal and the normalization criteria for <em>collatio</em> the semipaleographic transcriptions.
-
 **<em>Stylo</em>**
 
 Plain text files separated by witness for stylometric analysis. 'Enteros' contains the same files as 'Limpios' in the <em>Collatio</em> folder, whereas 'Limpios' here contains those files without Latin, duplicated readings, to minimize errors in stylistic analysis. Each witness folder contains also a full transcription of each witness minus mistakes, Latin, page numbers or rubrics.
+
+**<em>Scripts</em>**
+
+Some useful scripts for BBEdit, Mac Terminal and the normalization criteria for <em>collatio</em> the semipaleographic transcriptions.
 
 <p align="right">MCO</p>
