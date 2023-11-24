@@ -43,6 +43,6 @@ Plain text files separated by witness for stylometric analysis. 'Enteros' contai
 
 **<em>Scripts</em>**
 
-Some useful scripts for BBEdit, Mac Terminal and the normalization criteria for <em>collatio</em> the semipaleographic transcriptions.
+Some useful scripts for BBEdit and Mac Terminal, and the Normalization Criteria for the <em>collatio</em> of semipaleographic transcriptions of Spanish texts.
 
 <p align="right">MCO</p>
