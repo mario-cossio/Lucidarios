@@ -41,7 +41,7 @@ Note that these collation files are incomplete (i.e., not all witnesses have bee
 
 **<em>Stylo</em>**
 
-Plain text files separated by witness for stylometric analysis. 'Enteros' contains the same files as 'Limpios' in the <em>Collatio</em> folder but in .txt format, whereas 'Limpios' here contains those files without Latin, duplicated readings, to minimize errors in stylistic analysis. Each witness folder contains also a full transcription of each witness minus mistakes, Latin, page numbers or rubrics.
+Plain text files separated by witness for stylometric analysis. 'Enteros' contains the same files as 'Limpios' in the <em>Collatio</em> folder but in .txt format, whereas 'Limpios' here contains those files without Latin and duplicated readings, in order to minimize errors in stylistic analysis. Each witness folder contains also a full transcription of each witness minus mistakes, Latin, page numbers or rubrics.
 
 **<em>Scripts</em>**
 
