@@ -19,8 +19,6 @@ Currently I'm transcribing B (Biblioteca Histórica, Universidad de Salamanca, m
 
 Here you will also find the transcription of the only medieval Spanish translation of Honorius Augustodunensis' <em>Elucidarium</em>, the <em>Lucidario romanceado</em>, preserved in the Biblioteca Histórica Marqués de Valdecilla of the Universidad Complutense de Madrid, ms. 148, which I have edited in the issue 41 of [<em>Incipit</em>](http://www.iibicrit-conicet.gov.ar/ojs/index.php/incipit/article/view/541).
 
-<p align="right">MCO</p>
-
 How to quote:
 
 <ol>
@@ -35,9 +33,15 @@ How to quote:
 <li>Cossío Olavide, Mario (2021). «<em>Lucidario romanceado</em> (Biblioteca Histórica Marqués de Valdecilla, Universidad Complutense de Madrid, ms. 148), transcripción semipaleográfica». <em>Lucidarios, v. 0.2</em>, https://doi.org/10.5281/zenodo.7548608, fecha de consulta.</li>
 </ol>
 
-**Collatio</em>**
+**<em>Collatio</em>**
 
-Aquí se encuentran los 
-**Repositorio de los testimonios del <em>Lucidario</em>**
+This subfolder contains the materials for the <em>collatio</em> of the <em>Lucidario</em>. The Ms. Word files are distributed in folders with correlative numbers for each chapter, and in subfolders with marked documents ('Marcados': normalized texts with punctuation and indication of page numbers), and clean documents ('Limpios', plain and clean text). The rubrics have been extracted and placed in a separated Ms. Word document ('Rubricas'). They also contain a plain text file, containing the ChryscoCollate collation.
 
+**<em>Scripts</em>**
+Some useful scripts for BBEdit, Mac Terminal and the normalization criteria for <em>collatio</em> the semipaleographic transcriptions.
 
+**<em>Stylo</em>**
+
+Plain text files separated by witness for stylometric analysis. 'Enteros' contains the same files as 'Limpios' in the <em>Collatio</em> folder, whereas 'Limpios' here contains those files without Latin, duplicated readings, to minimize errors in stylistic analysis. Each witness folder contains also a full transcription of each witness minus mistakes, Latin, page numbers or rubrics.
+
+<p align="right">MCO</p>
