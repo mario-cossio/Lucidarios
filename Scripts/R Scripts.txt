@@ -1,0 +1,21 @@
+Scripts for R
+
+# Fuse two jpegs (recto-folio) in a single image
+# When using, star with a 0000v.jpg to make the folios align (0-1r, 1v-2r, etc.)
+# Files must have a *r.jpg and *v.jpg structure
+
+
+install.packages('magick')
+# installs the package used for the operation
+
+recto <- list.files(pattern = '*r.jpg')
+verso <- list.files(pattern = '*v.jpg')
+for(i in 1:length(recto)){
+  left <- image_read(verso[i])
+  right <- image_read(recto[i])
+  final <- image_append(c(left,right))
+  image_write(final, path = paste("Title", recto[i], sep = ""), format = "jpg")
+}
+# Replace 'Title' in line 17 for the desired end title.
+
+
