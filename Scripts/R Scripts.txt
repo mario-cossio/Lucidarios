@@ -3,6 +3,7 @@ Scripts for R
 # Fuse two jpegs (recto-folio) in a single image
 # When using, star with a 0000v.jpg to make the folios align (0-1r, 1v-2r, etc.)
 # Files must have a *r.jpg and *v.jpg structure
+# Adapted from https://github.com/7PartidasDigital/XML-TEI/blob/master/scripts/unir_imagenes.R
 
 
 install.packages('magick')
