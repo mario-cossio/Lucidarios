@@ -729,7 +729,7 @@ meses anda el sol en deslayo
 del mu<n>do & los rrayos otrosy anda<n>
 en deslayo dela t<ie>rra % E por esta
 rrazo<n> no<n> da gra<n> calentura elos
-seys meses q<ue>l sol se ¶alayda/alza¶
+seys meses q<ue>l sol se al(a)sa
 en su altura bjene<n> los rrayos
 derechos cont<r><<a>> yuso % ala t<ie>rra
 & por esta rrazo<n> es caljent<e> el sol
@@ -1392,7 +1392,7 @@ na<n>te era & fjnca ljnpia & sana
 de aq<ue>l mal q<ue> rrec'ebjo % E por
 esta rrazon ma<n>da(^l)[^n] los maestros
 g<u><<a>>rdar aq<ue>llos dias q<ue> de suso dixe
-{RMK: 12 blank lines}
+{BLNK: 12 lines}
 {RUB. T<itol><<o>> t<er>c'ero do estaua dios q<u><<a>>ndo fizo
 el c'ielo & la t<ie>rra}
 {IN3.} Pr<e>gunto el dec'ipulo maestro
@@ -2338,346 +2338,25 @@ buena dema<n>da fezjeste & muy gra<n>de}
 }
 [fol. 104r]
 {CB2.
-}
-{CB2.
-}
-[fol. 104v]
-{CB2.
-}
-{CB2.
-}
-[fol. 105r]
-{CB2.
-}
-{CB2.
-}
-[fol. 105v]
-{CB2.
-}
-{CB2.
-}
-[fol. 106r]
-{CB2.
-}
-{CB2.
-}
-[fol. 106v]
-{CB2.
-}
-{CB2.
-}
-[fol. 107r]
-{CB2.
-}
-{CB2.
-}
-[fol. 107v]
-{CB2.
-}
-{CB2.
-}
-[fol. 108r]
-{CB2.
-}
-{CB2.
-}
-[fol. 108v]
-{CB2.
-}
-{CB2.
-}
-[fol. 109r]
-{CB2.
-}
-{CB2.
-}
-[fol. 109v]
-{CB2.
-}
-{CB2.
-}
-[fol. 110r]
-{CB2.
-}
-{CB2.
-}
-[fol. 110v]
-{CB2.
-}
-{CB2.
-}
-[fol. 111r]
-{CB2.
-}
-{CB2.
-}
-[fol. 111v]
-{CB2.
-}
-{CB2.
-}
-[fol. 112r]
-{CB2.
-}
-{CB2.
-}
-[fol. 112v]
-{CB2.
-}
-{CB2.
-}
-[fol. 113r]
-{CB2.
-}
-{CB2.
-}
-[fol. 113v]
-{CB2.
-}
-{CB2.
-}
-[fol. 114r]
-{CB2.
-}
-{CB2.
-}
-[fol. 114v]
-{CB2.
-}
-{CB2.
-}
-[fol. 115r]
-{CB2.
-}
-{CB2.
-}
-[fol. 115v]
-{CB2.
-}
-{CB2.
-}
-[fol. 116r]
-{CB2.
-}
-{CB2.
-}
-[fol. 116v]
-{CB2.
-}
-{CB2.
-}
-[fol. 117r]
-{CB2.
-}
-{CB2.
-}
-[fol. 117v]
-{CB2.
-}
-{CB2.
-}
-[fol. 118r]
-{CB2.
-}
-{CB2.
-}
-[fol. 118v]
-{CB2.
-}
-{CB2.
-}
-[fol. 119r]
-{CB2.
-}
-{CB2.
-}
-[fol. 119v]
-{CB2.
-}
-{CB2.
-}
-[fol. 120r]
-{CB2.
-}
-{CB2.
-}
-[fol. 120v]
-{CB2.
-}
-{CB2.
-}
-[fol. 121r]
-{CB2.
-}
-{CB2.
-}
-[fol. 121v]
-{CB2.
-}
-{CB2.
-}
-[fol. 122r]
-{CB2.
-}
-{CB2.
-}
-[fol. 122v]
-{CB2.
-}
-{CB2.
-}
-[fol. 123r]
-{CB2.
-}
-{CB2.
-}
-[fol. 123v]
-{CB2.
-}
-{CB2.
-}
-[fol. 124r]
-{CB2.
-}
-{CB2.
-}
-[fol. 124v]
-{CB2.
-}
-{CB2.
-}
-[fol. 125r]
-{CB2.
-}
-{CB2.
-}
-[fol. 125v]
-{CB2.
-}
-{CB2.
-}
-[fol. 126r]
-{CB2.
-}
-{CB2.
-}
-[fol. 126v]
-{CB2.
-}
-{CB2.
-}
-[fol. 127r]
-{CB2.
-}
-{CB2.
-}
-[fol. 127v]
-{CB2.
-}
-{CB2.
-}
-[fol. 128r]
-{CB2.
-}
-{CB2.
-}
-[fol. 128v]
-{CB2.
-}
-{CB2.
-}
-[fol. 129r]
-{CB2.
-}
-{CB2.
-}
-[fol. 129v]
-{CB2.
-}
-{CB2.
-}
-[fol. 130r]
-{CB2.
-}
-{CB2.
-}
-[fol. 130v]
-{CB2.
-}
-{CB2.
-}
-[fol. 131r]
-{CB2.
-}
-{CB2.
-}
-[fol. 131v]
-{CB2.
-}
-{CB2.
-}
-[fol. 132r]
-{CB2.
-}
-{CB2.
-}
-[fol. 132v]
-{CB2.
-}
-{CB2.
-}
-[fol. 133r]
-{CB2.
-}
-{CB2.
-}
-[fol. 133v]
-{CB2.
-}
-{CB2.
-}
-[fol. 134r]
-{CB2.
-}
-{CB2.
-}
-[fol. 134v]
-{CB2.
-}
-{CB2.
-}
-[fol. 135r]
-{CB2.
-}
-{CB2.
-}
-[fol. 135v]
-{CB2.
-}
-{CB2.
-}
-[fol. 136r]
-{CB2.
-}
-{CB2.
-}
-[fol. 136v]
-{CB2.
-}
-{CB2.
-}
-[fol. 137r]
-{CB2.
-}
-{CB2.
-}
-[fol. 137v]
-{CB2.
-}
-{CB2.
-}
-[fol. 138r]
-{CB2.
-}
-{CB2.
-}
+{GL.conp<r><<e>> este ljbro por c'iento e
+c'inq<ue>nta m<a>r<auedi>s p<ague> luego a J<ua>n los
+c'ient m<a>r<auedi>s deuole c'inq<ue>nta esta<n>
+las fojas en pre<n>das. {SIG. di<eg><<o>> g<onc'ale>s}
+pague a J<ua>n ot<r><<o>>s c'inq<ue>nta m<a>r<auedi>s no<n>
+le deuo nada deste ljbro q<ua>ndo vjno
+de salama<n>ca jueu<e>s xxvj de julljo} {GL. cl}
+{SIG. didacus
+g<u>n<disal><<uj>>}}
+{CB2.
+{GL. p<r><<e>>ste a J<ua>n m<artine>s ?????? fizo ot<r><<o>> ????
+e la nuera de t?? f<e>rr<ande>s otro medio}
+{GL. deue di<eg><<o>> may??? sob??? ??? truxillo de su mug<er>
+dozjentos & ocho m<a>r<auedi>s fecha ??? ?????}
+q<ue>le p<r><<e>>ste e ??? q<ue>le vendj los codigos/ la mjtad}
+{SIG. diego
+g<onc'ale>s}
+{SIG. {LAT. Johanes g<u>n<disal><<uj>>
+locu<m> tenent<em>
+arcip<re>sbit<er>}}
+{GL. cjx fojas}}
+{RMK: fols. 105r to 110v contain the Vida de san Amaro}
