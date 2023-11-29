@@ -6,7 +6,7 @@
 {RMK: All the modern glosses in ink are by a librarian of the Palacio Real, comissioned by Pascual de Gayangos to copy the manuscript}
 [fol. 0]
 {CB1.
-N 77
+{AD. [^4#N 77
 De la Bibliotheca del Col<egi><<o>> M<ay><<or>> de Cuenca
 Este libro es llamado Luc'idario e fic'ole
 conponer a muchos sauios el no-
@@ -19,7 +19,7 @@ na Violante e fic'olo ordenar pa-
 ra los entendimientos de los hon-
 bres simples e mandolo ordenar
 en manera de question que fac'ia
-vn Dic'ipulo con su Maestro}
+vn Dic'ipulo con su Maestro]}}
 [fol. 1r]
 {AD. [^2#Este libro es llamado luc'idario & fizo le co<n>poner a muchos sabios El noble &
 catholico rrey do<n> sancho el seteno rrey de los q<ue> fuero<n> en castilla & en leon fijo del
@@ -31,11 +31,6 @@ maestro]}
 {CB2.
 {RUB. {IN3.}Titolo p<rimer><<o>> q<u><<a>>l es la p<rimera> cosa
 q<ue> es en<e>l c'ielo & e<n>la t<ie>rra.} {AD. [^2#avj.]}
-{GL. Numero de los
-capitulos
-lxxxij partes del
-codice de
-Madrid}
 {RUB. T<itol><<o>> ij<<o>> de q<ue> fizo dios el sol
 & la luna.} {AD. [^2#aviij<<o>>.]}
 {RUB. T<itol><<o>> iij<<o>> do estaua dios ant<e> q<ue> fizje-
@@ -96,30 +91,18 @@ de dios en tres p<ar>tes.} {AD. [^2#a xxviij<<o>>.]}}
 {AD. [^3#Rogamos vos vmildisimos nos q<ue> ¶¶¶ la
 ¶¶¶]}
 [fol. 1v]
-{GL. al capitulo L le falta por completo en este codice}
 {CB2.
 {AD. [^2#a xxx.]}{RUB. T<itol><<o>> xxvij<<o>> en com<m>o el dec'iplo rrogo al
 ma<estr><<o>> q<ue> no<n> tomase enojo por las p<re>guntas}
 {RUB. T<itol><<o>> xxviij<<o>> por q<ue> rrazo<n> llamara
 dios a juyzio alas de almas del p<ar>ayso
 & del jnfierno.} {AD. [^2#a xxx.]}
-{AD. busquese el fin de
-este titulo al principio
-del folio que esta entre
-los xix y xx}
 {RUB. T<itol><<o>> xxxjx<<o>> sy algu<na> a<n>imalia q<ue> aya
 los c'inco sentidos ta<n> conplida me<n>te
 com<m>o el om<br>e.} {AD. [^2#a xxij.]}
-{GL. busquese este Titulo
-entre los folios xix y xx
-de este codice}
 {RUB. T<itol><<o>> xxx en q<ue> estado fincara el mu<n>do
 depues q<ue> n<uest>ro sen<n>or ouje<re> acabado
 el dia del juyzio.} {AD. [^2#a xxxiiij<<o>>.]}
-{GL. de este titulo no
-hay en el otro codice
-mas que el final aña-
-dido al capitulo 36}
 {RUB. T<itol><<o>> xxxj<<o>> sy caera<n> las estrellas del
 c'ielo el dia del juyzio.} {AD. [^2#a xxxvj.]}
 {AD. [^2#a xxxvj.]} {RUB. T<itol><<o>> xxxij<<o>> de com<m>o ayu<n>tara<n> enlos
@@ -431,8 +414,6 @@ las estrellas q<ue> son llamadas Siete
 planetas % E delas otras estrellas
 q<ue> llama<n> fixas % E este saber delas
 naturas es mas comunal a todas}
-{GL. falta un f<oli><<o>> que puede suplir con
-el del otro codice}
 [...]
 [fol. 4r]
 {CB2.
@@ -661,9 +642,7 @@ parec'era la candela ant<e> la figura
 s estrellas co<n> el sol % por eso a
 no<n>bre sol por q<ue> es el solo cue<r>po
 q<ue> rrec'ibe la claridat de dios & los
-otros cue<r>pos % {GL. desde aqui comenza
-el capitulo iii<<o>> del
-otro codice en folio} dema<n>dol el dec'ipu-
+otros cue<r>pos % dema<n>dol el dec'ipu-
 lo maestro pues por q<ue> rrazon lu<n>bra
 la luna & las estrellas de noche & no<n>
 alu<n>bra<n> de dia % rrespondio el ma-
@@ -712,9 +691,7 @@ c'ebjr dela su clarida poca o mucha
 q<u><<a>>nta le el q<u><<i>>ere dar % E ta<n> pura
 clara es la claridat del sol q<ue> todas
 las otras encubre q<ue> no<n> puede<n> pa-
-rec'er ant<e> el % {GL. aqui comien-
-za el Capitulo iiij<<o>>
-del otro codice} Diexo el dec'ipu-
+rec'er ant<e> el % Diexo el dec'ipu-
 lo maestr<r><<o>> pues q<ue> tu dizes q<ue>l
 sol ha la claridat de dios parec'e
 a nos muchas vegadas la metad del
@@ -816,9 +793,7 @@ sino<n> de d<er>echo en derecho de c'jma
 cont<r><<a>> yuso & de yuso cont<r><<a>> c'jma
 % E a esta cuenta q<ue> nos auemos
 cuntado se cu<n>plen los doze me-
-ses del an<n>o {GL. aqui comienza el
-capitulo v<<o>> del otro codi-
-ce a cuarto} % rrespondio el de-
+ses del an<n>o % rrespondio el de-
 cipulo q<ue> me dizes dela luna sy
 es fria o seca <<e>> (^o homjdat) o sy es
 omjdat o caljent<e> o q<ue> natura ha en
@@ -850,11 +825,7 @@ spesa & lobrega & ella no<n> ha claridat
 en sy saluo la q<ue> le da el sol & por eso
 contec'e segu<n>d el andar del sol q<ue> to-
 da vja alu<n>bra della la metad q<ue> es
-contra el sol % E por ende {GL. falta la
-palabra q<u><<a>>ndo que
-esta en este
-lugar en el
-codice en cuarto} la luna
+contra el sol % E por ende la luna
 esta derecha ment<r><<e>> ent<r><<e>> nos & el sol
 la p<ar>te della q<ue> esta cont<r><<a>> el sol es
 clara & la q<ue> esta contra nos es escura
@@ -893,25 +864,9 @@ te agora dire % Ca ella es fria & rre-
 c'ibe la calentura en sy dela claridat
 del sol % E por q<ue> aq<u><<i>> es curso delas
 aguas en nac'er & en correr & en ser
-tenp<r><<a>>das en correr {GL. crescer} & me<n>guar o de {GL. onde} es
+tenp<r><<a>>das en correr & me<n>guar o[n]de es
 omjdat tenp<r><<a>> se otrosy della co<n>la ca-
-lentura dela claridat {GL. desde aqui 
-varia el otro
-codice haciendo-
-se confuso y sin sen-
-tido hasta el
-fin del capitulo
-que ahi es el 
-6
-consiste en
-que falta el
-final de
-este capitulo 1
-desde del sol
-y el capitulo 2
-hasta la sen<n>al {SYM.} que
-se ve en el
-folio v<<to>>} del sol % E
+lentura dela claridat del sol % E
 por esto todos los meollos delos c'ele-
 bros de las cabec'as & delos huesos
 son omjdos % mas los delas cabe-
@@ -1012,20 +967,7 @@ del costado del om<br>e % E q<u><<a>>ndo saco a-
 q<ue>lla costiella de t<ie>rra & fizo aq<ue>lla t<ie>rra
 q<ue> fuese carne % E medio en<e>lla al-
 ma en com<m>o fuese mug<er> vjua & co<n>-
-pljda de {GL. {SYM.} desde
-este lugar
-hasta el
-primer pero es
-capitulo 6 es el
-pedazo omiti-
-do no haya
-mas sentido
-al fin del
-capitulo 5 del
-codice en
-4: todo
-lo anterior
-falta alli} todos sus mjenbros % ya
+pljda de todos sus mjenbros % ya
 ves estas dos c<r><<i>>aturas com<m>o las
 dios fizo % mas el sol & la luna
 & las estrellas & los angel<e>s q<ue> deuje-
@@ -1113,13 +1055,7 @@ er ta<n>to q<u><<a>>nto mj saber me durare
 % Por ende te q<u><<i>>ero agora tornar
 ala dema<n>da q<ue>me fezjeste en rra-
 zon dela luna % Sepas q<ue> q<u><<a>>n-
-tas {GL. desde aqui
-el capitulo 6 del
-otro codice
-en 4 menos
-lo que esta
-entre estas
-señales} planetas dios fizo q<ue> son
+tas planetas dios fizo q<ue> son
 vij por no<n>brar aq<ue>llas q<ue> ha<n> no<n>bre
 planetas & son estas q<ue> te agora
 dire % la p<r><<i>>m<er>a es saturno % la
@@ -3008,25 +2944,25 @@ humanjdat.}}
 }
 [fol. 104r]
 {CB2.
-{GL.conp<r><<e>> este ljbro por c'iento e
+{AD.[^5#conp<r><<e>> este ljbro por c'iento e
 c'inq<ue>nta m<a>r<auedi>s p<ague> luego a J<ua>n los
 c'ient m<a>r<auedi>s deuole c'inq<ue>nta esta<n>
 las fojas en pre<n>das. {SIG. di<eg><<o>> g<onc'ale>s}
 pague a J<ua>n ot<r><<o>>s c'inq<ue>nta m<a>r<auedi>s no<n>
 le deuo nada deste ljbro q<ua>ndo vjno
-de salama<n>ca jueu<e>s xxvj de julljo} {GL. cl}
+de salama<n>ca jueu<e>s xxvj de julljo
 {SIG. didacus
-g<u>n<disal><<uj>>}}
+g<u>n<disal><<uj>>}]}
 {CB2.
-{GL. p<r><<e>>ste a J<ua>n m<artine>s ?????? fizo ot<r><<o>> ????
-e la nuera de t?? f<e>rr<ande>s otro medio}
-{GL. deue di<eg><<o>> may??? sob??? ??? truxillo de su mug<er>
-dozjentos & ocho m<a>r<auedi>s fecha ??? ?????}
-q<ue>le p<r><<e>>ste e ??? q<ue>le vendj los codigos/ la mjtad}
+{AD. [^5#p<r><<e>>ste a J<ua>n m<artine>s ?????? fizo ot<r><<o>> ????
+e la nuera de t?? f<e>rr<ande>s otro medio
+deue di<eg><<o>> may??? sob??? ??? truxillo de su mug<er>
+dozjentos & ocho m<a>r<auedi>s fecha ??? ?????
+q<ue>le p<r><<e>>ste e ??? q<ue>le vendj los codigos/ la mjtad
 {SIG. diego
-g<onc'ale>s}
-{SIG. {LAT. Johanes g<u>n<disal><<uj>>
+g<onc'ale>s}]}
+{AD. [^6#{SIG. {LAT. Johanes g<u>n<disal><<uj>>
 locu<m> tenent<em>
-arcip<re>sbit<er>}}
-{GL. cjx fojas}}
+arcip<re>sbit<er>}}]}}
+{CW. cjx fojas}
 {RMK: fols. 105r to 110v contain the Vida de san Amaro}
