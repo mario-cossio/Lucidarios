@@ -7,7 +7,10 @@ Scripts for R
 
 
 install.packages('magick')
-# installs the necessary package
+# Installs the necessary package
+
+library(magick)
+# Calls the library
 
 recto <- list.files(pattern = '*r.jpg')
 verso <- list.files(pattern = '*v.jpg')
@@ -17,6 +20,4 @@ for(i in 1:length(recto)){
   final <- image_append(c(left,right))
   image_write(final, path = paste("Title", recto[i], sep = ""), format = "jpg")
 }
-# Replace 'Title' in line 17 for the desired end title.
-
-
+# Replace 'Title' in line 21 for the desired end title.
