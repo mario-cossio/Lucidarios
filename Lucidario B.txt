@@ -3,7 +3,6 @@
 {RMK:.}
 {RMK: Salamanca | Biblioteca General Histórica, Universidad de Salamanca | 1958.}
 {RMK: Mario Antonio Cossío Olavide}
-{RMK: All the modern glosses in ink are by a librarian of the Palacio Real, comissioned by Pascual de Gayangos to copy the manuscript}
 [fol. 0]
 {CB1.
 {AD. [^4#N 77
@@ -473,7 +472,7 @@ muestra<n> ta<n> bje<n> a sus dec'ipu-
 los com<m>o tu me muestras a
 mj/ E acaesc'iome q<ue> oue
 de entrar en vna destas}
-{CW. v}
+{SG. v}
 [fol. 4v]
 {CB2.
 escuelas en q<ue> lee<n> la arte q<ue> llama<n>
@@ -622,7 +621,7 @@ q<ue> en<e>l c'ielo sea<n> ant<e> el % E na-
 tura derecha es q<ue> la mayor ca<n>-
 tida tuelga la fue<r>c'a a la me-
 nor demas q<ue> en<e>l sol es rraygado}
-{CW. vj}
+{SG. vj}
 [fol. 5v]
 {CB2.
 la claridat q<ue> dios puso en<e>l dela su cla-
@@ -1624,7 +1623,7 @@ se enc'ierra<n> en vn dios la t<r><<i>>njdat
 dela cuenta de tres p<er>sonas.
 {RUB. T<itol><<o>> vij<<o>> por q<ue> rrazon no<n>bro
 ant<e> el espi<ri>to q<ue>l fiio.}}
-{SG. xiij<<o>>}
+{SG. xiij<<e>>}
 [fol. 12v]
 {CB2.
 {IN3.} Pr<e>guento el dec'ipulo ma<estr><<o>>
@@ -1769,6 +1768,7 @@ ria fin com<m>o otra c<r><<i>>atura & toma-
 ria me<n>gua en sy asy com<m>o la
 tomaua el cue<r>po del mjenbro q<ue>
 p<er>dio % E esto mesmo veras}
+{SG. xiiij<<o>>}
 [fol. 13v]
 {CB2.
 en<e>l rrayo del sol q<ue> no<n> se puede tajar
@@ -1915,7 +1915,8 @@ angel toda la me<n>sageria t<r><<o>>xo o-
 rdenada de dios & toda se auja
 (^& toda se auja) acabar fasta en
 c'ima % E allj do ella rrespo<n>dio}
-{SG. Juan f<ernande>s}
+{AD. [^7#Juan f<ernande>s]}
+{SG. xv}
 [fol. 14v]
 {CB2.
 {AD. [^3#he
@@ -2056,17 +2057,20 @@ bje<n> aue<n>turada <santa> <maria> su madre. {RUB. T<itol><<o>>
 xiiij<<o>> q<u><<a>>ndo n<uest>ro sen<n>or morio e<n>la cruz sy
 fue esta mue<r>te enla deujnjdat com<m>o e<n>la
 humanjdat.}}
-{CW. xvj}
+{SG. xvj}
 [fol. 15v]
 {CB2.
 }
 {CB2.
 }
+[...]
+{RKM: 1 folio missing}
 [fol. 16r]
 {CB2.
 }
 {CB2.
 }
+{SG. xviij<<o>>}
 [fol. 16v]
 {CB2.
 }
@@ -2077,26 +2081,35 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xjx.}
 [fol. 17v]
 {CB2.
 }
 {CB2.
 }
+
+
+debe estar mas adelante
 [fol. 18r]
 {CB2.
 }
 {CB2.
 }
+{SG. .xxxij.}
 [fol. 18v]
 {CB2.
 }
 {CB2.
 }
+
+
+resume la numeración
 [fol. 19r]
 {CB2.
 }
 {CB2.
 }
+{SG. .xx.}
 [fol. 19v]
 {CB2.
 }
@@ -2117,6 +2130,7 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xxij.}
 [fol. 21v]
 {CB2.
 }
@@ -2127,6 +2141,7 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xxiij.}
 [fol. 22v]
 {CB2.
 }
@@ -2137,6 +2152,7 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xxiiij<<o>>.}
 [fol. 23v]
 {CB2.
 }
@@ -2147,6 +2163,7 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xxv.}
 [fol. 24v]
 {CB2.
 }
@@ -2157,6 +2174,7 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xxvj.}
 [fol. 25v]
 {CB2.
 }
@@ -2167,6 +2185,7 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xxvij.}
 [fol. 26v]
 {CB2.
 }
@@ -2177,6 +2196,7 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xxiij.}
 [fol. 27v]
 {CB2.
 }
@@ -2187,6 +2207,7 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xxjx.}
 [fol. 28v]
 {CB2.
 }
@@ -2197,6 +2218,7 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xxx.}
 [fol. 29v]
 {CB2.
 }
@@ -2207,16 +2229,21 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xxxj.}
 [fol. 30v]
 {CB2.
 }
 {CB2.
 }
+
+aqui entraría la que se movió
+
 [fol. 31r]
 {CB2.
 }
 {CB2.
 }
+{SG. .xxxiij.}
 [fol. 31v]
 {CB2.
 }
@@ -2227,6 +2254,7 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xxxiiij<<o>>.}
 [fol. 32v]
 {CB2.
 }
@@ -2237,6 +2265,7 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xxxv.}
 [fol. 33v]
 {CB2.
 }
@@ -2247,6 +2276,7 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xxxvj.}
 [fol. 34v]
 {CB2.
 }
@@ -2257,6 +2287,7 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xxxvij.}
 [fol. 35v]
 {CB2.
 }
@@ -2267,6 +2298,7 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xxxviij<<o>>.}
 [fol. 36v]
 {CB2.
 }
@@ -2277,6 +2309,7 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xxxjx.}
 [fol. 37v]
 {CB2.
 }
@@ -2287,6 +2320,7 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xl.}
 [fol. 38v]
 {CB2.
 }
@@ -2297,6 +2331,7 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xlj.}
 [fol. 39v]
 {CB2.
 }
@@ -2307,6 +2342,7 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xlij.}
 [fol. 40v]
 {CB2.
 }
@@ -2317,6 +2353,7 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xliij.}
 [fol. 41v]
 {CB2.
 }
@@ -2327,6 +2364,7 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xliiij<<o>>.}
 [fol. 42v]
 {CB2.
 }
@@ -2337,6 +2375,7 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xlv.}
 [fol. 43v]
 {CB2.
 }
@@ -2347,6 +2386,7 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xlvj.}
 [fol. 44v]
 {CB2.
 }
@@ -2357,16 +2397,20 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xlvij.}
 [fol. 45v]
 {CB2.
 }
 {CB2.
 }
+{CW. glorificadas}
 [fol. 46r]
 {CB2.
+{RUB. glorificadas}
 }
 {CB2.
 }
+{SG. .xlviij<<o>>.}
 [fol. 46v]
 {CB2.
 }
@@ -2377,6 +2421,7 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .xljx.}
 [fol. 47v]
 {CB2.
 }
@@ -2387,6 +2432,7 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .l.}
 [fol. 48v]
 {CB2.
 }
@@ -2397,16 +2443,13 @@ humanjdat.}}
 }
 {CB2.
 }
+{SG. .lj.}
 [fol. 49v]
-{CB2.
-}
-{CB2.
-}
+{BLNK: blank page}
+{RMK: the text from fol. 49r continues in fol. 50v, there is no interruption or missing text}
 [fol. 50r]
-{CB2.
-}
-{CB2.
-}
+{BLNK: blank page}
+{SG. .lij.}
 [fol. 50v]
 {CB2.
 }
@@ -2964,5 +3007,5 @@ g<onc'ale>s}]}
 {AD. [^6#{SIG. {LAT. Johanes g<u>n<disal><<uj>>
 locu<m> tenent<em>
 arcip<re>sbit<er>}}]}}
-{CW. cjx fojas}
+{SG. cjx fojas}
 {RMK: fols. 105r to 110v contain the Vida de san Amaro}
