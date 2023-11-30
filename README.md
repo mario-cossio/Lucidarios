@@ -47,6 +47,6 @@ A Separate text file has been created for the rubrics of each witness.
 
 **<em>Scripts</em>**
 
-This subfolder contains some useful scripts for BBEdit and Mac Terminal, and the Normalization Criteria developed for the <em>collatio</em> of semipaleographic transcriptions of medieval Spanish texts.
+This subfolder contains some useful scripts for BBEdit, Mac Terminal and R, as well as a set of normalization criteria developed for the <em>collatio</em> of semipaleographic transcriptions of medieval Spanish texts.
 
 <p align="right">MCO</p>
