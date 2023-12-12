@@ -2403,8 +2403,8 @@ esta djzen q<u><<i>>en p<r><<e>>gu<n>ta no<n> yerra
 dat q<ue> auja en<e>sta mug<er> q<u><<i>>so la fa-
 z<er> su madre & nac'io el d<e>lla & esta
 fue la q<u><<a>>rta generac'io<n> q<ue> fue}
-¶debe estar mas adelante
 [fol. 18r]
+{RMK: binding error, folios 18r-18v should be between folios 30v-31r in the original sequence}
 {CB2.
 cue<r>po & en alma a p<ar>ayso & los otros al enfje<r>
 no % mas no<n> cuyde[s] tu q<ue> va<n> a p<ar>ayso to-
@@ -2534,9 +2534,6 @@ mas % E com<m>o q<u><<i>>er q<ue> todo cue<r>po a e-
 ste sentido del oyr mas q<ue> otra a<n>i-
 malja alg<un><<a>> sen<n>alada me<n>te lo ha mas
 el jaualj q<ue> otro nj<n>gu<n>d pue<r>co q<ue> es}
-
-
-¶resume la numeración
 [fol. 19r]
 {CB2.
 departida delas ot<r><<a>>s tres q<ue> te ya dixe de
