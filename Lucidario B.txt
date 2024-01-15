@@ -28,7 +28,7 @@ fazia vn
 disc'ip<u>lo asu
 maestro]}
 {CB2.
-{RUB. {IN3.}§ Titolo p<rimer><<o>> q<u><<a>>l es la p<rimer><<a>> cosa
+{RUB. {IN3.} Titolo p<rimer><<o>> q<u><<a>>l es la p<rimer><<a>> cosa
 q<ue> es en<e>l c'ielo & e<n>la t<ie>rra.} {AD. [^2#avj.]}
 {RUB. T<itol><<o>> ij<<o>> de q<ue> fizo dios el sol
 & la luna.} {AD. [^2#aviij<<o>>.]}
@@ -275,7 +275,7 @@ la espuma por las naric'es.}
 de com<m>o fue muy <santo> ???}a cx]}}
 [fol. 3r]
 {CB2.
-{IN5.} §EN el no<n>bre de dios ame<n>
+{IN5.} EN el no<n>bre de dios ame<n>
 por q<ue>los ente<n>djmje<n>tos
 delos om<bre>s sse q<u><<i>>eren
 estender a ssaber & a de-
@@ -456,7 +456,7 @@ pulo q<ue> estoujese ant<e> su maestro}
 maestro q<ue> le rrespo<n>djese aello
 E comjenc'a asy %
 {BLNK: 16 lines}
-{IN3.} §Maestro yo soy tu de-
+{IN3.} Maestro yo soy tu de-
 c'ipulo & tu me as
 ensen<n>ado mucho bje<n>
 p<er>o el saber q<ue>me tu mostraste
@@ -888,7 +888,7 @@ su estado & semeja a nos q<ue>
 cresc'e {RUB. T<itol><<o>> segu<n>do de q<ue> fizo
 dios el sol & la luna.}
 {BLNK. 4 lines}
-{IN3.} §Dema<n>do el dic'ipulo
+{IN3.} Dema<n>do el dic'ipulo
 maest<r><<o>> pues q<ue>me
 as dicho las p<ro>pie-
 dades q<ue> a en<e>l sol & enla luna
@@ -1356,7 +1356,6 @@ pues desta maldat q<ue> della
 rrec'ibe tenia ende su p<ar>te
 la luna % E q<u><<a>>ndo se}
 [fol. 10v]
-§Aquí (uso § para marcar errores a corregir en transkribus)
 {CB2.
 della q<u><<i>>ta finca la luna bje<n> asy
 com<m>o vn om<br>e q<u><<a>>ndo finca fraco
@@ -1374,7 +1373,7 @@ g<u><<a>>rdar aq<ue>llos dias q<ue> de suso dixe
 {BLNK: 12 lines}
 {RUB. T<itol><<o>> t<er>c'ero do estaua dios q<u><<a>>ndo fizo
 el c'ielo & la t<ie>rra}
-{IN3.} Pr<e>gu<n>to§ el dec'ipulo maestro
+{IN3.} Pr<e>gu<n>to el dec'ipulo maestro
 rruegote q<ue>me digas q<u><<a>>ndo
 dios vjeno a faz<er> el cielo &
 la t<ie>rra en ant<e> q<ue>lo fezjese a do esta-
@@ -1383,14 +1382,14 @@ no<n> era<n> fechos no<n> se en q<u><<a>>l lugar podj-
 ese estar [%] rrespondio el maestro
 buena dema<n>da fezjeste & muy gra<n>de}
 {CB2.
-& muy alta & q<u><<i>>ero (te)§ te§ rresponder a ella
+& muy alta & q<u><<i>>ero (te) te rresponder a ella
 u<er>dat es q<ue> dios lo fizo & el no<n> estaua
 en nada mas todo estaua en<e>l & por
 esta rrazo<n> es dios % ca sy dios no<n>se
 toujese sino<n> en<e>l lugar q<ue> podiese estar
 firm<e> luego seria el dios me<n>guado
 % ca bje<n> asy com<m>o ot<r><<o>> om<br>e terrenal
-no<n> aueria§ el mayor poder q<ue> ot<r><<o>> om<br>e
+no<n> aueria el mayor poder q<ue> ot<r><<o>> om<br>e
 mas el estaua en todo & la su obra
 q<ue> el fizo en<e>l % com<m>o q<u><<i>>en sabja
 aq<ue>llo q<ue> auja de faz<er> % E por eso
@@ -1424,7 +1423,7 @@ en otro en aq<ue>l a do el estodiese se-
 ria abondado & el ot<r><<o>> seria me<n>gua-
 do % mas por q<ue> el es en todo lugar
 por eso ha todo lugar ma<n>tene<n>c'ia
-& abonadamje<n>to§ % mas bje<n>§ es u<er>dat
+& abonadamje<n>to % mas bje<n> es u<er>dat
 q<ue>los <santos> llama<n> la siella de dios
 en<e>l jx<<o>> c'ielo por q<ue> allj ve<n> los b-
 ie<n> aue<n>turados la su gloria q<ue> esta<n>
@@ -1462,7 +1461,7 @@ uja q<ue> dios dixo q<u><<a>>ndo formo a ada<n> %
 fagamos om<br>e ala n<uest>ra semejanc'a & ala
 n<uest>ra ymage<n> % q<ue> se da a entender q<ue>
 pues adan auja esta figura q<ue> tal la
-auja dios % ssepas q<ue>no<n>§ es este el en-
+auja dios % ssepas q<ue>no<n> es este el en-
 tendimje<n>to desta rrazo<n> mas e<<s>> el q<ue> te
 yo dire % ant<e> q<ue> dios formase a ada<n>
 ant<e> sabja el muy bje<n> lo q<ue> ada<n>
@@ -2865,7 +2864,7 @@ rramos entro en cada vno destos}
 {SG. .xxij.}
 [fol. 21v]
 {CB2.
-aspotoles q<ue> allj era<n> por q<ue> todos oujero<n>
+apotolos q<ue> allj era<n> por q<ue> todos oujero<n>
 alu<n>bramje<n>to ta<n> bje<n> el vno com<m>o el ot<r><<o>>
 & de aq<ue>lla ora adelant<e> sopiero<n> fabrar
 todos los lenguajes del mu<n>do & ente<n>de-
