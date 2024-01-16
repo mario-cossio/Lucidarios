@@ -1,9 +1,9 @@
 {RMK: Sancho IV el Bravo, rey de Castilla y León.}
 {RMK: [LUB] Lucidario.}
-{RMK:.}
+{RMK: .}
 {RMK: Salamanca | Biblioteca General Histórica, Universidad de Salamanca | 1958.}
 {RMK: Mario Antonio Cossío Olavide}
-[fol. 0]
+[fol. 0r]
 {CB1.
 {AD. [^4#N 77
 De la Bibliotheca del Col<egi><<o>> M<ay><<or>> de Cuenca
@@ -20,13 +20,14 @@ bres simples e mandolo ordenar
 en manera de question que fac'ia
 vn Dic'ipulo con su Maestro]}}
 [fol. 1r]
+{CB1.
 {AD. [^2#Este libro es llamado luc'idario & fizo le co<n>poner a muchos sabios El noble &
 catholico rrey do<n> sancho el seteno rrey de los q<ue> fuero<n> en castilla & en leon fijo del
 muy noble rrey do<n> alfon<so> & de la muy noble rreyna violante & fizo lo ordenar
 p<ar>a los ente<n>dimje<n>tos d<e>los onbres sinples & mandolo ordenar en manera de q<u><<i>>stio<n>es q<ue>
 fazia vn
 disc'ip<u>lo asu
-maestro]}
+maestro]}}
 {CB2.
 {RUB. {IN3.} Titolo p<rimer><<o>> q<u><<a>>l es la p<rimer><<a>> cosa
 q<ue> es en<e>l c'ielo & e<n>la t<ie>rra.} {AD. [^2#avj.]}
@@ -91,7 +92,7 @@ de dios en tres p<ar>tes.} {AD. [^2#a xxviij<<o>>.]}}
 ¶]}
 [fol. 1v]
 {CB2.
-{AD. [^2#a xxx.]}{RUB. T<itol><<o>> xxvij<<o>> en com<m>o el dec'iplo rrogo al
+{AD. [^2#a xxx.]} {RUB. T<itol><<o>> xxvij<<o>> en com<m>o el dec'iplo rrogo al
 ma<estr><<o>> q<ue>no<n> tomase enojo por las p<r><<e>>guntas}
 {RUB. T<itol><<o>> xxviij<<o>> por q<ue> rrazo<n> llamara
 dios a juyzio alas (^de) almas del p<ar>ayso
@@ -133,7 +134,7 @@ alma sy guarda depues ot<r><<a>>.} {AD. [^2#a xliij.]}
 bono q<ue>lo guarde.} {AD. [^2#a xliiij<<o>>.]}
 {RUB. T<itol><<o>> xl<<a>> ij<<o>> dela alma q<ue> va ap<ar>ayso sy va
 aq<ue>lla orde<n> del angel q<ue>la guarda sy sube
-mas alto o baxo.} {AD. [^2#a xliij]}.
+mas alto o baxo.} {AD. [^2#a xliij.]}
 {RUB. T<itol><<o>> xl<<a>> iij<<o>> sylas almas delos om<br>es q<ue> va<n>
 a p<ar>ayso & las po<n> dios enla<s> siellas onde
 cayero<n> los angeles malos sy son llenas.}
@@ -272,7 +273,7 @@ viscos de vna cosa dos.} {AD. [^2#a cviij]}
 cansado trae la boca c'errada & echa
 la espuma por las naric'es.}
 {AD. [^2#{RUB. T<itol><<o>> de la estoria de sant amador
-de com<m>o fue muy <santo> ???}a cx]}}
+de com<m>o fue muy <santo> ???} a cx]}}
 [fol. 3r]
 {CB2.
 {IN5.} EN el no<n>bre de dios ame<n>
@@ -2133,7 +2134,7 @@ era a(^l) el & a todos los ot<r><<o>>s e-
 nla nac'enc'ia & enla pasio<n> de
 jh<es>u xp<ist>o.}
 [...]
-{RKM: 1 folio missing}
+{RMK: 1 folio missing}
 [fol. 16r]
 {CB2.
 nos mas de q<u><<a>>nto es q<ue> tal fue
@@ -2170,7 +2171,7 @@ vsada de cada dia % por eso
 fallamos vna palabra q<ue>
 dize enla esc<r><<i>>ptura q<ue> fue}
 {CB2.
-dicha por boca del rrey salamo<n>: {LAT. O[m](n)-
+dicha por boca del rrey salamo<n>: {LAT. O(n)[m]-
 (mo)[e] (e)rrar(o)[u]<n> p<r><<e>>c'iosu<m>} % q<ue> q<u><<i>>er dezjr
 q<ue> toda cosa q<ue> se faz no<n> a menudo de
 cada dia es p<r><<e>>c'iada % pues por esta
@@ -2563,7 +2564,7 @@ cordia q<ue> taman<n>a era % & esto poje-
 des dez<ir> q<ue> fue gra<n> mjsericordia
 com<m>o aq<ue>l enq<ue> nu<n>ca ouo ma<n>zjella
 nj<n> a de au<er> q<ue>rer morir por los n<uest>ros
-pecados. {T<itol><<o>> xx<<o>> com<m>o puede ent<r><<a>>r
+pecados. {RUB. T<itol><<o>> xx<<o>> com<m>o puede ent<r><<a>>r
 la alma e<n>la c<r><<i>>anc'a enc'errada en<e>l
 vjentre de su madre.}}
 {CB2.
@@ -3042,7 +3043,7 @@ ellos atreuje<n>do se enla muche[+]dun-
 bre¶ delos an<n>os q<ue> veuja<n> % E por esta
 desconoc'enc'ia echo dios sobre ellos
 la su yra del dilubjo en q<ue> pere-
-ci'oro<n> % saluo noe & sus co<n>pan<n>eros
+c'ioro<n> % saluo noe & sus co<n>pan<n>eros
 q<ue>se metiero<n> e<n>la arca onde los
 dios ma<n>do meter & allj escaparo<n> %
 E desde aq<ue>l t<ien>po adelant<e> fuero<n>
@@ -3957,7 +3958,7 @@ aqui entraría la que se movió
 }
 [fol. 104r]
 {CB2.
-{AD.[^5#conp<r><<e>> este ljbro por c'iento e
+{AD. [^5#conp<r><<e>> este ljbro por c'iento e
 c'inq<ue>nta m<a>r<auedi>s p<ague> luego a J<ua>n los
 c'ient m<a>r<auedi>s deuole c'inq<ue>nta esta<n>
 las fojas en pre<n>das. {SIG. di<eg><<o>> g<onc'ale>s}
@@ -3967,10 +3968,10 @@ de salama<n>ca jueu<e>s xxvj de julljo
 {SIG. didacus
 g<u>n<disal><<uj>>}]}
 {CB2.
-{AD. [^5#p<r><<e>>ste a J<ua>n m<artine>s ?????? fizo ot<r><<o>> ????
+{AD. [^5#p<r><<e>>ste a J<ua>n m<artine>s ??? fizo ot<r><<o>> ???
 e la nuera de t?? f<e>rr<ande>s otro medio
-deue di<eg><<o>> may??? sob??? ??? truxillo de su mug<er>
-dozjentos & ocho m<a>r<auedi>s fecha ??? ?????
+deue di<eg><<o>> may?? sob?? ??? truxillo de su mug<er>
+dozjentos & ocho m<a>r<auedi>s fecha ???
 q<ue>le p<r><<e>>ste e ??? q<ue>le vendj los codigos/ la mjtad
 {SIG. diego
 g<onc'ale>s}]}
