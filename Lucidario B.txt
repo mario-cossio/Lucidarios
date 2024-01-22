@@ -3,6 +3,7 @@
 {RMK: .}
 {RMK: Salamanca | Biblioteca General Histórica, Universidad de Salamanca | 1958.}
 {RMK: Mario Antonio Cossío Olavide}
+{RMK: fol. 1r-104r contain the Lucidario, fols. 105r-110v the Vida de san Amaro}
 [fol. 0r]
 {CB1.
 {AD. [^4#N 77
@@ -3105,7 +3106,7 @@ ndo en<e>ste sabor esta<n> los dos
 dragon<e>s el (^o)vno es branco &
 el otro negro en semejanc'a
 delos dias & delas noches}
-¶24 Transk¶
+¶24 Transk
 [fol. 23v]
 {CB2.
 en q<ue> se pasa la vjda deste mu<n>do % E
@@ -4030,8 +4031,35 @@ com<m>o es om<br>e tenp<r><<a>>do en su comer
 }
 [fol. 103v]
 {CB2.
-}
+gujsa es la t<ie>rra escalentada & de[+]secada & co-
+m<m>oq<u><<i>>er q<ue>se abaxe el sol & llegue ala y-
+gualdat q<ue> es en<e>l marc'o q<ue> co<n>ujene a es-
+friar se el t<ien>po no<n> puede asy p<ar>ac'er la fri-
+ura com<m>o en<e>l mes de marc'o [%] ca mas
+rrefoz cosa es de arder la caljent<e> & seca
+q<ue>no<n> la fria humjda & mas cosa es de
+secar la cosa seca q<ue> hume<n>tar la seca
+E por esta rrazo<n> no<n> es ta<n> frio el sete<n>-
+b<r>o com<m>o el marc'o & en<e>sta gujsa rrespon-
+do aesta dema<n>da {RUB. T<itol><<o>> xcjx por q<ue>
+rrazo<n> el c'ie<r>uo q<u><<a>>ndo es cansado
+tiene la boca c'errada & echa la espu-
+ma por las narizes & avn por la
+agua no<n> la beue.}
+{IN3.} Pr<e>gu<n>to el dj<c'ipul><<o>> al m<aestr><<o>> rruegote
+q<ue>me digas por q<ue> rrazo<n> el c'ie<r>-
+uo q<u><<a>>ndo no<n> es cansado trae
+la boca abje<r>ta & la lengua sacada & q<u><<a>>n-
+do es ca<n>sado trae la boca c'errada & sale
+le la espuma por las narizes ca no<n>
+veo q<ue> ot<r><<a>>s a<n>i<m>aljas y a q<ue>lo faga<n> sjno<n>
+el c'ie<r>uo & las q<ue> son de su nat<ur>a asy
+com<m>o gamos & corc'os otrosy veo del c'ie<r>-
+uo q<ue> q<u><<a>>ndo es ca<n>sado & pasa muy corri-
+endo por aguas a muy gra<n> sabor dese}
 {CB2.
+mojar & de se meter dent<r><<o>> en<e>llas [%]
+¶
 }
 [fol. 104r]
 {CB2.
@@ -4073,4 +4101,3 @@ g<onc'ale>s}]}
 locu<m> tenent<em>
 arcip<re>sbit<er>}}]}}
 {SG. cjx fojas}
-{RMK: fols. 105r to 110v contain the Vida de san Amaro}
