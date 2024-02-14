@@ -6,8 +6,7 @@
 {RMK: fol. 1r-104r contain the Lucidario, fols. 105r-110v the Vida de san Amaro}
 [fol. 0r]
 {CB1.
-{AD. [^4#N 77
-De la Bibliotheca del Col<egi><<o>> M<ay><<or>> de Cuenca
+{GL. [^5#De la Bibliotheca del Col<egi><<o>> M<ay><<or>> de Cuenca
 Este libro es llamado Luc'idario e fic'ole
 conponer a muchos sauios el no-
 ble e catholico Rey Don
@@ -22,7 +21,7 @@ en manera de question que fac'ia
 vn Dic'ipulo con su Maestro]}}
 [fol. 1r]
 {CB1.
-{AD. [^2#Este libro es llamado luc'idario & fizo le co<n>poner a muchos sabios El noble &
+{AD. [^1#Este libro es llamado luc'idario & fizo le co<n>poner a muchos sabios El noble &
 catholico rrey do<n> sancho el seteno rrey de los q<ue> fuero<n> en castilla & en leon fijo del
 muy noble rrey do<n> alfon<so> & de la muy noble rreyna violante & fizo lo ordenar
 p<ar>a los ente<n>dimje<n>tos d<e>los onbres sinples & mandolo ordenar en manera de q<u><<i>>stio<n>es q<ue>
@@ -31,95 +30,95 @@ disc'ip<u>lo asu
 maestro]}}
 {CB2.
 {RUB. {IN3.} Titolo p<rimer><<o>> q<u><<a>>l es la p<rimer><<a>> cosa
-q<ue> es en<e>l c'ielo & e<n>la t<ie>rra.} {AD. [^2#a vj.]}
+q<ue> es en<e>l c'ielo & e<n>la t<ie>rra.} {AD. [^1#a vj.]}
 {RUB. T<itol><<o>> ij<<o>> de q<ue> fizo dios el sol
-& la luna.} {AD. [^2#a viij<<o>>.]}
+& la luna.} {AD. [^1#a viij<<o>>.]}
 {RUB. T<itol><<o>> iij<<o>> do estaua dios ant<e> q<ue> fezje-
-se el c'ielo & la t<ie>rra.} {AD. [^2#a jx.]}
+se el c'ielo & la t<ie>rra.} {AD. [^1#a jx.]}
 {RUB. T<itol><<o>> iiij<<o>> en q<u><<a>>l logar delos jx c'ielos
-esta dios.} {AD. [^2#a xij.]}
-{RUB. T<itol><<o>> v<<o>> q<ue> figu<r><<a>> ha dios en sy.} {AD. [^2#a xij.]}
+esta dios.} {AD. [^1#a xij.]}
+{RUB. T<itol><<o>> v<<o>> q<ue> figu<r><<a>> ha dios en sy.} {AD. [^1#a xij.]}
 {RUB. T<itol><<o>> vj<<o>> por q<ue> rrazo<n> la trinjdat es de
-tres p<er><son><<a>>s & no<n> demas nj<n> de menos.} {AD. [^2#a xiij<<o>>]}
+tres p<er><son><<a>>s & no<n> demas nj<n> de menos.} {AD. [^1#a xiij<<o>>]}
 {RUB. T<itol><<o>> vij<<o>> por q<ue> rrazon ne<n>bro Ant<e> el
-esp<iri>tu q<ue>l fiio.} {AD. [^2#a xiij<<o>>.]}
+esp<iri>tu q<ue>l fiio.} {AD. [^1#a xiij<<o>>.]}
 {RUB. T<itol><<o>> viij<<o>> si esta la alma del om<br>e en
-todo el cue<r>po o[ ]do esta.} {AD. [^2#a xiij<<o>>.]}
+todo el cue<r>po o[ ]do esta.} {AD. [^1#a xiij<<o>>.]}
 {RUB. T<itol><<o>> jx q<u><<a>>ndo taja<n> al om<br>e el pie ola
-mano sy taja<n> y la u<er>tud dela alma.} {AD. [^2#a xiiij<<o>>.]}
+mano sy taja<n> y la u<er>tud dela alma.} {AD. [^1#a xiiij<<o>>.]}
 {RUB. T<itol><<o>> x<<o>> por q<ue> rrazo<n> q<u><<i>>so dios encarnar
-en <santa> <maria>.} {AD. [^2#a xiiij<<o>>.]}
+en <santa> <maria>.} {AD. [^1#a xiiij<<o>>.]}
 {RUB. T<itol><<o>> xj dela salutac'ion q<ue>l angel trojo
 a <santa> <maria> en q<u><<a>>l delas palabras encarno el
-esp<iri>tu <santo> en<e>lla.} {AD. [^2#a xv.]}
+esp<iri>tu <santo> en<e>lla.} {AD. [^1#a xv.]}
 {RUB. T<itol><<o>> xij<<o>> com<m>o finco el c'ielo & la t<ie>rra
 mjentra n<uest>ro sen<n>or jogo enc'errado en<e>l vj-
-entre de <santa> <maria>.} {AD. [^2#a xv.]}
+entre de <santa> <maria>.} {AD. [^1#a xv.]}
 {RUB. T<itol><<o>> xiij<<o>> com<m>o pudo <santa> <maria> fincar u<<i>><r>ge<n>
-depues q<ue> jh<es>u x<pist><<o>> nac'io d<e>lla.} {AD. [^2#a xvj.]}
+depues q<ue> jh<es>u x<pist><<o>> nac'io d<e>lla.} {AD. [^1#a xvj.]}
 {RUB. T<itol><<o>> xiiij<<o>> q<u><<a>>ndo n<uest>ro sen<n>or morio enla cruz +}}
 {CB2.
 {RUB. sy fue esta mue<r>te enla deujnjdat com<m>o e<n>la
-h<uma>njdat.} {AD. [^2#a xvj fojas.]}
+h<uma>njdat.} {AD. [^1#a xvj fojas.]}
 {RUB. T<itol><<o>> xv por q<ue> rrazo<n> q<u><<i>>so n<uest>ro sen<n>or yr
-alos jnfie<r>nos depues q<ue> p<r><<i>>so mue<r>te e<n>la <cruz>} {AD. [^2#a xvij.]}
+alos jnfie<r>nos depues q<ue> p<r><<i>>so mue<r>te e<n>la <cruz>} {AD. [^1#a xvij.]}
 {RUB. T<itol><<o>> xvj<<o>> por q<ue> rrazo<n> q<u><<i>>so n<uest>ro sen<n>or
-q<u><<a>>ndo morio ser de hedat de xxxiij An<n>os.} {AD. [^2#a xvij.]}
+q<u><<a>>ndo morio ser de hedat de xxxiij An<n>os.} {AD. [^1#a xvij.]}
 {RUB. T<itol><<o>> xvij<<o>> por q<ue> rrazo<n> q<u><<i>>so n<uest>ro sen<n>or
 sobjr al c'ielo el dia q<ue> sobjo estando
-y <santa> <maria> & los apostolos.} {AD. [^2#a xvij.]}
+y <santa> <maria> & los apostolos.} {AD. [^1#a xvij.]}
 {RUB. T<itol><<o>> xviij<<o>> por q<ue> rrazo<n> q<u><<i>>so n<uest>ro sen<n>or
 sobir al c'ielo en cue<r>po carnal q<ue> to-
-mo en<e>ste mu<n>do.} {AD. [^2#a xvij.]}
+mo en<e>ste mu<n>do.} {AD. [^1#a xvij.]}
 {RUB. T<itol><<o>> xjx por q<ue> rrazo<n> q<u><<i>>so dios q<ue> nac'iese
 eua dela costiella de ada<n> & no<n> la fizo
-nac'e<r> de t<ie>rra.} {AD. [^2#a xviij<<o>>.]}
+nac'e<r> de t<ie>rra.} {AD. [^1#a xviij<<o>>.]}
 {RUB. T<itol><<o>> xx com<m>o puede ent<r><<a>>r(rar) la alma e<n>la
-c<r><<i>>atu<r><<a>> enc'errada e<ne>l vjentre de su madre.} {AD. [^2#a xx.]}
+c<r><<i>>atu<r><<a>> enc'errada e<ne>l vjentre de su madre.} {AD. [^1#a xx.]}
 {RUB. T<itol><<o>> xxj donde ha el diabro el saber de
-las cosas q<ue> ha<n> de venjr.} {AD. [^2#a xxij.]}
+las cosas q<ue> ha<n> de venjr.} {AD. [^1#a xxij.]}
 {RUB. T<itol><<o>> xxij<<o>> q<u><<a>>ndo n<uest>ro sen<n>or enbjo el esp<iri>tu
 <santo> sobre <santa> <maria> su madre & sobre los
-apostolos en q<ue> man<er>a fue enbjado.} {AD. [^2#a xxij.]}
+apostolos en q<ue> man<er>a fue enbjado.} {AD. [^1#a xxij.]}
 {RUB. T<itol><<o>> xxiij<<o>> por q<ue> rrazo<n> fizo dios el mu<n>do
-pues q<ue> q<u><<i>>so q<ue> oujese fin.} {AD. [^2#a xxiiij<<o>>.]}
+pues q<ue> q<u><<i>>so q<ue> oujese fin.} {AD. [^1#a xxiiij<<o>>.]}
 {RUB. T<itol><<o>> xxiiij<<o>> sy puede dios tomar p<r><<a>>zer o pe-
-sar en sy.} {AD. [^2#a xxv.]}
+sar en sy.} {AD. [^1#a xxv.]}
 {RUB. T<itol><<o>> xxv<<o>> por q<ue> rrazo<n> q<u><<i>>so dios tomar
-figu<r><<a>> p<ar>a sy ant<e> de pa<n> q<ue> de otra cosa} {AD. [^2#a xxvj.]}
+figu<r><<a>> p<ar>a sy ant<e> de pa<n> q<ue> de otra cosa} {AD. [^1#a xxvj.]}
 {RUB. T<itol><<o>> xxvj<<o>> por q<ue> rrazo<n> p<ar>te<n> el cue<r>po
-de dios en tres p<ar>tes.} {AD. [^2#a xxviij<<o>>.]}}
-{AD. [^3#Rogamos vos vmildisimos nos q<ue> ¶ la]}
+de dios en tres p<ar>tes.} {AD. [^1#a xxviij<<o>>.]}}
+{AD. [^2#Rogamos vos vmildisimos nos q<ue> ¶ la]}
 [fol. 1v]
 {CB2.
-{AD. [^2#a xxx.]} {RUB. T<itol><<o>> xxvij<<o>> en com<m>o el dec'iplo rrogo al
+{AD. [^1#a xxx.]} {RUB. T<itol><<o>> xxvij<<o>> en com<m>o el dec'iplo rrogo al
 ma<estr><<o>> q<ue>no<n> tomase enojo por las p<r><<e>>guntas}
 {RUB. T<itol><<o>> xxviij<<o>> por q<ue> rrazo<n> llamara
 dios a juyzio alas (^de) almas del p<ar>ayso
-& del jnfierno.} {AD. [^2#a xxx.]}
+& del jnfierno.} {AD. [^1#a xxx.]}
 {RUB. T<itol><<o>> xxxjx<<o>> sy alg<un><<a>> a<n>imalia q<ue> aya
 los c'inco sentidos ta<n> conplida me<n>te
-com<m>o el om<br>e.} {AD. [^2#a xxij.]}
+com<m>o el om<br>e.} {AD. [^1#a xxij.]}
 {RUB. T<itol><<o>> xxx en q<ue> estado fincara el mu<n>do
 depues q<ue> n<uest>ro sen<n>or ouj<er>e acabado
-el dia del juyzio.} {AD. [^2#a xxxiiij<<o>>.]}
+el dia del juyzio.} {AD. [^1#a xxxiiij<<o>>.]}
 {RUB. T<itol><<o>> xxxj sy caera<n> las estrellas del
-c'ielo el dia del juyzio.} {AD. [^2#a xxxvj.]}
-{AD. [^2#a xxxvj.]} {RUB. T<itol><<o>> xxxij<<o>> de com<m>o ayu<n>tara<n> enlos
+c'ielo el dia del juyzio.} {AD. [^1#a xxxvj.]}
+{AD. [^1#a xxxvj.]} {RUB. T<itol><<o>> xxxij<<o>> de com<m>o ayu<n>tara<n> enlos
 om<br>es q<ue> muere<n> la carne el dia del juyzio}
 {RUB. T<itol><<o>> xxxiij<<o>> q<u><<a>>l es mayor maraujlla
 engendrar se el om<br>e del vjent<r><<e>> de
 su madre o de rresuc'itar de mue<r>te
-a vida.} {AD. [^2#a xxxvij.]}
-{AD. [^2#a xxxviij]} {RUB. T<itol><<o>> xxxiiij<<o>> sy las almas q<ue> esta<n> en
+a vida.} {AD. [^1#a xxxvij.]}
+{AD. [^1#a xxxviij]} {RUB. T<itol><<o>> xxxiiij<<o>> sy las almas q<ue> esta<n> en
 p<ar>ayso ha<n> codic'ia de alg<un><<a>> cosa}
 {RUB. T<itol><<o>> xxxv delas cosas vjuas de so-
 bre t<ie>rra sy las fizo dios o com<m>o
-fuero<n> fechas} {AD. [^2#a xxxjx.]}
+fuero<n> fechas} {AD. [^1#a xxxjx.]}
 {RUB. T<itol><<o>> xxxvj<<o>> de q<u><<a>>l delas costados de
 ada<n> saco dios la costiella de q<ue> fizo
-eua.} {AD. [^2#a xxxjx.]}
-{AD. [^2#a xl.]} {RUB. T<itol><<o>> xxxvij<<o>> sy el angel q<ue> g<u><<a>>rda al om<br>e
+eua.} {AD. [^1#a xxxjx.]}
+{AD. [^1#a xl.]} {RUB. T<itol><<o>> xxxvij<<o>> sy el angel q<ue> g<u><<a>>rda al om<br>e
 & anda ala ma<no> derecha sy es delos q<ue>
 puso dios en<e>l c'ielo o fecho de Nueuo.}
 {RUB. T<itol><<o>> xxxviij<<o>> sy la alma q<ue> esta en +}}
@@ -127,56 +126,56 @@ puso dios en<e>l c'ielo o fecho de Nueuo.}
 {RUB. purgatorio & vje<n> el angel a co<n>fortalla sy se
 puede el q<ue>mar asy com<m>o ella o no<n>.}
 {RUB. T<itol><<o>> xxxjx<<o>> del angel q<ue> guarda la alma
-de q<u><<a>>l delas ordenes es.} {AD. [^2#a xlij.]}
+de q<u><<a>>l delas ordenes es.} {AD. [^1#a xlij.]}
 {RUB. T<itol><<o>> xl<<a>> sy el angel q<ue> gu<<a>>rda vna ves la
-alma sy guarda depues ot<r><<a>>.} {AD. [^2#a xliij.]}
+alma sy guarda depues ot<r><<a>>.} {AD. [^1#a xliij.]}
 {RUB. T<itol><<o>> xl<<a>>j sy el ant<e> x<pist><<o>> a de au<er> angel
-bono q<ue>lo guarde.} {AD. [^2#a xliiij<<o>>.]}
+bono q<ue>lo guarde.} {AD. [^1#a xliiij<<o>>.]}
 {RUB. T<itol><<o>> xl<<a>>ij<<o>> dela alma q<ue> va ap<ar>ayso sy va
 aq<ue>lla orde<n> del angel q<ue>la guarda sy sube
-mas alto o baxo.} {AD. [^2#a xliij.]}
+mas alto o baxo.} {AD. [^1#a xliij.]}
 {RUB. T<itol><<o>> xl<<a>>iij<<o>> sylas almas delos om<br>es q<ue> va<n>
 a p<ar>ayso & las po<n> dios enla<s> siellas onde
 cayero<n> los angeles malos sy son llenas.}
 {RUB. T<itol><<o>> xl<<a>>iiij<<o>> sy las almas q<ue> esta<n> agora
 enlas siellas del c'ielo sy estara<n> y depue-
-s en cue<r>pos & en almas.} {AD. [^2#a xlvij]}
+s en cue<r>pos & en almas.} {AD. [^1#a xlvij]}
 {RUB. T<itol><<o>> xl<<a>>v<<o>> sy las almas del p<ar>ayso ve<n> las
 del jnfie<r>no alas de purgatorio asy las del
-jnfierno ve<n> alas de purgatorio.} {AD. [^2#a xljx]}
+jnfierno ve<n> alas de purgatorio.} {AD. [^1#a xljx]}
 {RUB. T<itol><<o>> xl<<a>>vj<<o>> por q<ue> rrazo<n> puso dios p<r><<a>>zo
 ala fjn del mu<n>do q<ue> ha q<u><<a>>ntia sabida
 de an<n>os.}
 {RUB. T<itol><<o>> xl<<a>>vij<<o>> la alma del om<br>e en q<ue> bjue
 & se ma<n>tjene mje<n>tra esta metida en<e>l cue<r>po
-del om<br>e} {AD. [^2#a liiij<<o>>.]}
+del om<br>e} {AD. [^1#a liiij<<o>>.]}
 {RUB. T<itol><<o>> xl<<a>>viij<<o>> sy la alma del om<br>e puede
 ser ta<n> co<n>plida depues q<ue> dios la ha fecha
 no<n> seyendo en<e>l cue<r>po del om<br>e com<m>o sy esto-
-diese dent<r><<o>> metida.} {AD. [^2#a lv.]}
+diese dent<r><<o>> metida.} {AD. [^1#a lv.]}
 {RUB. T<itol><<o>> xl<<a>>jx com<m>o puede dios saber todo lo q<ue>
-om<br>e cuyda & faze.} {AD. [^2#a lvj.]}}
+om<br>e cuyda & faze.} {AD. [^1#a lvj.]}}
 [fol. 2r]
 {CB2.
 {RUB. T<itol><<o>> L<<a>> pues dios c<r><<i>>a las almas sy alg<un><<a>>
 q<ue> sea c<r><<i>>ada de mayor u<er>tud o de mayor
-seso q<ue>la ot<r><<a>>.} {AD. [^2#a lvij.]}
+seso q<ue>la ot<r><<a>>.} {AD. [^1#a lvij.]}
 {RUB. T<itol><<o>> L<<a>>j por q<ue> rrazo<n> la alma q<ue> esta enc'e-
 rrada en<e>l cue<r>po del om<br>e no<n> conosc'e el
-angel q<ue> es de su natu<r><<a>>.} {AD. [^2#a lviij<<o>>.]}
+angel q<ue> es de su natu<r><<a>>.} {AD. [^1#a lviij<<o>>.]}
 {RUB. T<itol><<o>> L<<a>>ij<<o>> sy por pecador q<ue>l om<br>e sea arrepe<n>-
 tjendose de sus pecados si lo p<er>dona dios}
 {RUB. T<itol><<o>> L<<a>>iij<<o>> sy tomara dios carne en <santa> <maria>
-sy ada<n> & eua no<n> pecara.} {AD. [^2#a ljx]}
+sy ada<n> & eua no<n> pecara.} {AD. [^1#a ljx]}
 {RUB. T<itol><<o>> L<<a>>iiij<<o>> sy p<r><<e>>siera dios mue<r>te e<n>la
 crus sy ada<n> & eua no<n> pecara}
 {RUB. T<itol><<o>> L<<a>>iiiij<<o>> por q<ue> rrazo<n> dio dios a moy-
 sen los x ma<n>damje<n>tos esc<r><<i>>p<t>os e<n>las ta-
-bras dela ley.} {AD. [^2#a lxiij]}
+bras dela ley.} {AD. [^1#a lxiij]}
 {RUB. T<itol><<o>> L<<a>>vj<<o>> por q<ue> q<ue>[ ]so[n] q<u><<a>>t<r><<o>> eua<n>geljstas
-& no<n> mas nj<n> menos.} {AD. [^2#a lxiiij]}
+& no<n> mas nj<n> menos.} {AD. [^1#a lxiiij]}
 {RUB. T<itol><<o>> L<<a>>vij<<o>> por q<ue> rrazo<n> dioro<n> alas eua<n>-
-gelistas aq<ue>llas figu<r><<a>>s} {AD. [^2#a lxjx]}
+gelistas aq<ue>llas figu<r><<a>>s} {AD. [^1#a lxjx]}
 {RUB. T<itol><<o>> L<<a>>viij<<o>> por q<ue> rrazo<n> no<n> son en vna t<ie>rra
 ta<n> gra<n>de el dia & la noche com<m>o en otra.}
 {RUB. T<itol><<o>> L<<a>>jx q<u><<a>>ndo la luna es toda llena
@@ -184,18 +183,18 @@ q<ue> parec'e alos om<bre>s el lunar mayor &
 mas claro la noche q<ue> faze nubrado q<ue>
 q<u><<a>>ndo esta estrellado & claro el c'ielo.}
 {RUB. T<itol><<o>> L<<a>>x por q<ue> se faze el fruto del
-ljmo<n> frio.} {AD. [^2#a lxx.]}
+ljmo<n> frio.} {AD. [^1#a lxx.]}
 {RUB. T<itol><<o>> L<<a>>xj por q<ue> rrazo<n> la formjga mu-
 chos pies & el cauallo no<n> mas de q<u><<a>>t<r><<o>>.}
 {RUB. T<itol><<o>> L<<a>>xij<<o>> por q<ue> rrazo<n> no<n> semeja vn
-om<br>e a otro.} {AD. [^2#a lxxiij.]}
+om<br>e a otro.} {AD. [^1#a lxxiij.]}
 {RUB. T<itol><<o>> L<<a>>xiij<<o>> por q<ue> rrazo<n> el diabro anda
 mas por engan<n>ar al om<br>e q<ue> a ot<r><<a>>s c<r><<i>>atu<r><<a>>s.}}
 {CB2.
 {RUB. T<itol><<o>> L<<a>>xiiij<<o>> por q<ue> rrazo<n> toma el om<br>e mayor
 mjedo del o<mbr>e mue<r>to q<ue> conosc'e q<ue> del q<ue> no<n> conosc'e}
 {RUB. T<itol><<o>> L<<a>>xv<<o>> por q<ue> rrazo<n> ha el om<br>e mayor
-mjedo de andar de noche q<ue> de dia.} {AD. [^2#a lxxjx]}
+mjedo de andar de noche q<ue> de dia.} {AD. [^1#a lxxjx]}
 {RUB. T<itol><<o>> L<<a>>xvj com<m>o pudo tragar la ballena
 a jonas el p<ro>feta.}
 {RUB. T<itol><<o>> L<<a>>xvij<<o>> por rrazo<n> son las aues
@@ -211,17 +210,17 @@ ha<n> cue<r>nos no<n> ha<n> dient<e>s de suso.}
 {RUB. T<itol><<o>> L<<a>>xxij<<o>> por q<ue> rrazo<n> la c'ie<r>ua & la
 oueja no<n> ha cue<r>nos e<n>la cabec'a}
 {RUB. T<itol><<o>> L<<a>>xxiij<<o>> del capo<n> q<ue> no<n> ha cresta
-com<m>o el gallo.} {AD. [^2#a lxxxviiij<<o>>]}
+com<m>o el gallo.} {AD. [^1#a lxxxviiij<<o>>]}
 {RUB. T<itol><<o>> L<<a>>xxiiij<<o>> com<m>o el di<c'ipul><<o>> rrogo al ma<estr><<o>>
-q<ue>l p<er>donase por lo q<ue>l p<r><<e>>gu<n>tase.} {AD. [^2#a xc]}
+q<ue>l p<er>donase por lo q<ue>l p<r><<e>>gu<n>tase.} {AD. [^1#a xc]}
 {RUB. T<itol><<o>> L<<a>>xxv<<o>> por q<ue> se faze<n> los cue<r>nos
-delas cabras can<n>aueras.} {AD. [^2#a xcij]}
+delas cabras can<n>aueras.} {AD. [^1#a xcij]}
 {RUB. T<itol><<o>> L<<a>>xxvj<<o>> por q<ue> rrazo<n> teme<n> todas las
 aues ala agujla & las a<n>i<m>aljas al leo<n>.}
 {RUB. T<itol><<o>> L<<a>> xxvij<<o>> por q<ue> rrazo<n> es el leo<n> ve-
-lloso el medio cue<r>po.} {AD. [^2#a xcij]}
+lloso el medio cue<r>po.} {AD. [^1#a xcij]}
 {RUB. T<itol><<o>> L<<a>>xxviij<<o>> com<m>o no<n> ha la leona
-crines.} {AD. [^2#a xciij]}
+crines.} {AD. [^1#a xciij]}
 {RUB. T<itol><<o>> L<<a>>xxviiij<<o>> por q<ue> rrazo<n> cria<n> ??? +}}
 [fol. 2v]
 {CB2.
@@ -232,47 +231,47 @@ pare<n> ta<n> bje<n> machos com<m>o fenbras}
 {RUB. T<itol><<o>> L<<a>>xxxj la oueja q<ue> no<n> pare mas
 de vna vez en<e>l an<n>o o dos por q<ue>[ ]so[n]
 mas la loba muchas & mas fiios por
-q<ue> son mas ouejas q<ue> lobos.} {AD. [^2#a xciiij<<o>>]}
+q<ue> son mas ouejas q<ue> lobos.} {AD. [^1#a xciiij<<o>>]}
 {RUB. T<itol><<o>> L<<a>>xxxij<<o>> por q<ue>no<n> faze<n> fiios
-el mulo & la mula.} {AD. [^2#a xcv]}
+el mulo & la mula.} {AD. [^1#a xcv]}
 {RUB. T<itol><<o>> L<<a>>xxxiij<<o>> por rrie el om<br>e.}
 {RUB. T<itol><<o>> L<<a>>xxxiiij<<o>> por rrazo<n> los om<bre>s neg<r><<o>>s
-a<n> los dientes bra<n>cos.} {AD. [^2#a xcvj]}
+a<n> los dientes bra<n>cos.} {AD. [^1#a xcvj]}
 {RUB. T<itol><<o>> L<<a>>xxxv<<o>> por q<ue> rrazo<n> las lieb<r><<e>>s
 & los conejos no<n> ha<n> vn<n>a fendida.}
 {RUB. T<itol><<o>> L<<a>>xxxvj por q<ue>las li<e>bres due<r>-
-me<n> co<n>los ojos abie<r>tos.} {AD. [^2#a xcvij]}
-{RUB. T<itol><<o>> L<<a>>xxxvij delos suen<n>os.} {AD. [^2#a xcviij]}
+me<n> co<n>los ojos abie<r>tos.} {AD. [^1#a xcvij]}
+{RUB. T<itol><<o>> L<<a>>xxxvij delos suen<n>os.} {AD. [^1#a xcviij]}
 {RUB. T<itol><<o>> L<<a>>xxxviij<<o>> por q<ue> fizo dios las
-piedras prec'iosas de muchas color<e>s} {AD. [^2#a xcviij<<o>>]}
+piedras prec'iosas de muchas color<e>s} {AD. [^1#a xcviij<<o>>]}
 {RUB. T<itol><<o>> L<<a>>xxxviiij<<o>> por q<ue> rrazo<n> anda
 el om<br>e enfiesto & las ot<r><<a>>s anjmalias
-baxas.} {AD. [^2#a xcjx]}
+baxas.} {AD. [^1#a xcjx]}
 {RUB. T<itol><<o>> xc por q<ue>no<n> es el om<br>e cobje<r>to
 de cabellos en<e>l cue<r>po com<m>o las ot<r><<a>>s
-a<n>i<m>aljas.} {AD. [^2#a c]}
+a<n>i<m>aljas.} {AD. [^1#a c]}
 {RUB. T<itol><<o>> xcj por q<ue> rrazo<n> no<n> creze<n> al
-om<br>e e<n>los cabellos delas c'eberc'ejas} {AD. [^2#a cj.]}}
+om<br>e e<n>los cabellos delas c'eberc'ejas} {AD. [^1#a cj.]}}
 {CB2.
 {RUB. T<itol><<o>> xcij<<o>> por rrazo<n> no<n> nac'e<n> los dientes
 al om<br>e q<u><<a>>ndo nac'e.}
 {RUB. T<itol><<o>> xciij<<o>> por q<ue> rrazo<n> vjue la criatura
 q<u><<a>>ndo nac'e a ix meses.}
 {RUB. T<itol><<o>> xciijj<<o>> por q<ue> faze om<br>e fiios en
-todo t<ien>po.} {AD. [^2#a ciiij]}
+todo t<ien>po.} {AD. [^1#a ciiij]}
 {RUB. T<itol><<o>> xciiijj<<o>> por q<ue> las a<n>i<m>aljas menor<e>s
-faze<n> mas fiios q<ue>las mayor<e>s.} {AD. [^2#a cv]}
+faze<n> mas fiios q<ue>las mayor<e>s.} {AD. [^1#a cv]}
 {RUB. T<itol><<o>> xcvj por q<ue> el om<br>e q<ue> husa co<n>las
 mug<e>r<e>s mucho enfraq<ue>c'e mas en<e>l c'elebro
-q<ue> e<n>los ot<r><<o>>s mje<n>bros.} {AD. [^2#a cvj]}
+q<ue> e<n>los ot<r><<o>>s mje<n>bros.} {AD. [^1#a cvj]}
 {RUB. T<itol><<o>> xcvij<<o>> por q<ue> rrazo<n> el sete<n>brie es
-mas caljente q<ue>l marc'io.} {AD. [^2#a cvij]}
+mas caljente q<ue>l marc'io.} {AD. [^1#a cvij]}
 {RUB. T<itol><<o>> xcviij<<o>> por q<ue> parec'e alos om<br>es
-viscos de vna cosa dos.} {AD. [^2#a cviij]}
+viscos de vna cosa dos.} {AD. [^1#a cviij]}
 {RUB. T<itol><<o>> xcjx por q<ue> el c'ie<r>uo q<u><<a>>ndo es
 cansado trae la boca c'errada & echa
 la espuma por las naric'es.}
-{AD. [^2#{RUB. T<itol><<o>> de la estoria de sant amador
+{AD. [^1#{RUB. T<itol><<o>> de la estoria de sant amador
 de com<m>o fue muy <santo> ???} a cx]}}
 [fol. 3r]
 {CB2.
@@ -862,7 +861,7 @@ te agora dire % Ca ella es fria & rre-
 c'ibe calentura en sy dela claridat
 del sol % E por q<ue> aq<u><<i>> es curso delas
 aguas en nac'er & en correr & en ser
-tenp<r><<a>>das en correr & me<n>guar o[^2#n]de es
+tenp<r><<a>>das en correr & me<n>guar o<<n>>de es
 omjdat tenp<r><<a>> se otrosy della co<n>la ca-
 lentura dela claridat del sol % E
 por esto todos los meollos delos c'ele-
@@ -886,7 +885,7 @@ ntura estjendese & torna a
 su estado & semeja a nos q<ue>
 cresc'e {RUB. T<itol><<o>> segu<n>do de q<ue> fizo
 dios el sol & la luna.}
-{BLNK. 4 lines}
+{BLNK: 4 lines}
 {IN3.} Dema<n>do el dic'ipulo
 maest<r><<o>> pues q<ue>me
 as dicho las p<ro>pie-
@@ -1899,7 +1898,7 @@ stos fue % rrespondio el ma<estr><<o>> %
 sabe q<ue> voluntad de dios fue q<ue>
 acabase el ang<e>le toda su me<n>sag<er>ia
 % E depues q<ue>la me<n>sageria fue a-
-cabada q<u><<i>>so el ver q<ue> rrespuesta da-
+cabada q<u><<i>>so el ver q<ue> rrepuesta da-
 ria la bje<n> aue<n>turada <santa> maria
 % q<ue> sy ant<e> q<ue>la me<n>sageria fue-
 se acabada ella oujese conc'ebido
@@ -1909,11 +1908,11 @@ angel toda la me<n>sageria t<r><<o>>xo o-
 rdenada de dios & toda se auja
 (^& toda se auja) acabar fasta en
 c'jma % E allj do ella rrespo<n>dio}
-{AD. [^7#Juan f<ernande>s]}
+{AD. [^2#Juan f<ernande>s]}
 [fol. 14v]
 {CB2.
-{AD. [^3#ae
-la]} sjerua de dios sea fecho
+[^1#ae
+la] sjerua de dios sea fecho
 en mj segu<n>d la tu palabra %
 luego en aq<ue>lla ora fue n<uest>ro se-
 n<n>or enc'errado en<e>lla % ca en esta
@@ -2026,7 +2025,7 @@ corronpida asy ouo poder de nasc'er della
 sin corru<n>pjmje<n>to nj<n>g<un><<o>> q<ue> ella oujese ensi
 % E desto te dare semejante nat<ura>l p<ar>a
 mjent<e>s ala vjdriera q<ue> es fecha de vj-
-drio & veras el vjdrio nat<ur>al mjente
+drio & veras el vjdrio natu<r><<a>>l mjente
 q<ue> es grueso & espeso & por esta rrazo<n>
 a poder de sofrir agua & vjno q<ue> en<e>lla
 echan & tj<en>elo en sy q<ue> se no<n> pueda
@@ -3172,7 +3171,7 @@ mjsmo saluo por dos cosas % la
 p<r><<i>>m<er>a es q<ue>le pesa mucho de todo}
 [fol. 24r]
 {CB2.
-om<br>e q<ue> es su c<r><<i>>at<ur>a por q<ue> se da amalas
+om<br>e q<ue> es su c<r><<i>>atu<r><<a>> por q<ue> se da amalas
 obras por encjmar mal su t<ien>po & sus dias
 q<ue> allj tje<n> q<ue>lo a p<er>dido del todo % por
 q<ue> co<n> derech<o> & u<er>dadera mjent<e> a de dar
@@ -3190,7 +3189,7 @@ c'ie<n> justos % q<u><<i>>erote dez<ir> la rrazo<n>
 por q<ue> es esto % el justo tie<n>lo
 el n<uest>ro sen<n>or por suyo q<u><<a>>nto mas
 el pecador tie<n>lo por cosa p<er>dida
-% E most<r><<a>>r telo q<u><<i>>ero por nat<ur>al
+% E most<r><<a>>r telo q<u><<i>>ero por natu<r><<a>>l
 cosa % rrazo<n> es & derecho q<ue> q<u><<a>>-
 ndo cobra el om<br>e lo q<ue> p<er>dio q<ue>
 toma mayor p<r><<a>>zer q<ue> delo al
@@ -4132,7 +4131,7 @@ el vjento & la olor q<ue>le ende ve-
 nj<er>e ente<n>dera<n> sy es c'<er>ca o lexos
 % esto faze el por lo q<ue> te agora
 yo djxe sy entjende q<ue> es c'<er>ca de
-aq<ue>lla alt<ur><<a>> onde el anda ende-
+aq<ue>lla altu<r><<a>> onde el anda ende-
 rec'a luego p<ar>a ella % otrosy sj en-
 tje<n>de q<ue> es mas lexos puja en so-
 bjr mas & en tomar mayor altura
@@ -4366,7 +4365,7 @@ fermosas p<ro>ua<n>do aq<ue>llo q<ue> q<u><<i>>er dez<ir>
 & no<n> es asy mas (p<ro>chjco) [filosofo] aristotil<e>s
 p<ro>uaualo asy en aq<ue>l su ljbro por rrazo-
 n<e>s de p<r>oeuas por q<ue> vos & entjen-
-das q<ue> diz p<ro>ua<n>dolo por nat<ur>as se-
+das q<ue> diz p<ro>ua<n>dolo por natu<r><<a>>s se-
 gu<n>d q<ue> es % E dixo aristo(^ls)tel<e>s
 en<e>l libro otauo deste q<ue> a no<n>bre
 fisicos q<ue> en<e>l mu<n>do segu<n>d natu<r><<a>>
@@ -4675,7 +4674,7 @@ m<br>e q<ue> tan graue cosa es de se}
 p<ar>tir della q<ue> en todo el mu<n>do no<n> ha cosa
 q<ue>l podjese dar por q<ue> q<u><<i>>sjese tornar aq<ue>l
 cue<r>po onde saljo por au<er> s saljr otra ve-
-gada onde saljo [^2#asy lo dize
+gada onde saljo {GL. [^1#asy lo dize
 n<uest>ro sen<n>or en
 vn eua<n>g<e>lio
 {LAT. sp<irit>us vadens
@@ -4688,7 +4687,7 @@ mas al cue<r>po
 fasta la gen<er>al
 rresurrec'ion de
 todos los
-muertos] % E q<u><<i>>erote dez<ir> por q<ue>
+muertos]} % E q<u><<i>>erote dez<ir> por q<ue>
 rrazon allj dote fabra en ant<e>s de a-
 q<ue>lla mat<er>ia en<e>l logar dote djxe en com<m>o la
 alma esta arraygada en<e>l cue<r>po del
@@ -4872,7 +4871,7 @@ mal faga<n> en alg<un><<a>>s cosas p<ar>a otras}
 {CB2.
 son buenos & vjene ende p<r>o a aq<ue>llos q<ue>
 se sjente<n> a ap<ro>uechar dellas en aq<ue>llo
-q<ue> es mester % E ot<r><<a>>s c<r><<i>>at<ur>as y a q<ue> se
+q<ue> es mester % E ot<r><<a>>s c<r><<i>>atu<r><<a>>s y a q<ue> se
 tornara<n> de buenas malas & esto es por
 sufrimje<n>to de dios % E este sofrimje<n>to
 vjeno por la desconoc'enc'ia & por la su
@@ -4913,7 +4912,7 @@ q<u><<a>>l<e>s delos costados de adan saco
 n<uest>ro sen<n>or la costiella de q<ue> fizo aeua sy
 fue del costado derecho o del esq<u><<i>>erdo % rrespo<n>-
 dio el ma<estr><<o>> sepas q<ue> esta dema<n>da q<ue>no<n>
-es de nat<ur>as mas es de teologia & segu<n>d
+es de natu<r><<a>>s mas es de teologia & segu<n>d
 teologia te q<u><<i>>ero rresponder aella % esta
 costjella q<ue> dizes q<ue> te de yo rrecabdo de
 q<u><<a>>l costado fue % ssepas por c'ie<r>to q<ue> fue
@@ -6279,7 +6278,7 @@ fue figu<r><<a>> de .a.b.c. E por ella vj-
 eno el co<n>pljmje<n>to dela gr<ac'i>a de dios q<u><<a>>-
 ndo por sy mesmo vjeno a saluarnos &
 darnos galardon conplido e<n>la su gl<or>ia p<er>-
-durabre la q<u><<a>>l c<r><<i>>at<ur>a nj<n>g<un><<o>> no<n> podria faz<er>
+durabre la q<u><<a>>l c<r><<i>>atu<r><<a>> nj<n>g<un><<o>> no<n> podria faz<er>
 % E asy la nueua ley fizo el por su
 obra el dia q<ue> q<u><<i>>so nac'er & tomar carne
 dela u<<i>><r>ge<n> <santa> <maria> % E depues q<u><<a>>ndo}
@@ -6515,7 +6514,7 @@ los humor<e>s q<ue> sse por ella ma<n>tiene<n>}
 [fol. 52v]
 {CB2.
 % E pues por ella fallac'e vje<n> el cue<r>po
-a podrjmje<n>to ca esta calentura nat<ur>a[l] q<ue>te
+a podrjmje<n>to ca esta calentura natu<r><<a>> q<ue>te
 digo va en pos la alma p<ar>a rrec'eue<r>
 la consigo mjentra ella esta en<e>l cue<r>po %
 & a su grado no<n> se pa<r>teria della se po-
@@ -7994,7 +7993,7 @@ no<n> ha<n> claridat nj<n>g<un><<a>> de suyo sj
 no<n> la rrec'iben del sol mas la
 luna enla claridat q<ue> da de
 sy q<u><<a>>ndo faz el lunar esta
-claridat no<n> ha ella mas a sen[^2#<n>a]-
+claridat no<n> ha ella mas a se[^1#n<n>a]
 llada q<ue>las ot<r><<a>>s est<r><<e>>llas % ca}
 {CB2.
 ella & las ot<r><<a>>s del sol la rrec'jben
@@ -8071,7 +8070,7 @@ Tu deues saber q<ue> cada vno}
 [fol. 67r]
 {CB2.
 destos arbol<e>s q<ue>te agora djxe a<n> en
-sy en<e>l tronco del arbol tres nat<ur>as
+sy en<e>l tronco del arbol tres natu<r><<a>>s
 las q<u><<a>>l<e>s te yo agora dire % la co-
 rteza del (^al) arbol es caljent<e>
 & seca en man<er>a q<ue> tanta es la ca-
@@ -11591,349 +11590,348 @@ las vn<n>as son fechas a man<er>a de t<er>njella
 delos dedos por fjrmeza dellos asy com<m>o}
 [fol. 98v]
 {CB2.
-¶
-es al c'ie<n>to en<e>l cabo dela lange sun><<o>>
+es el cue<n>to en<e>l cabo dela lanc'a [%] las
 aues & las las bestias q<ue> ha<n> dedos
-co<n> vnas an los co<n> sus armas p<ar>a
-ferir & p<ar>a defender co<n> ellas
-{RUB. T<itol><<o>> xxiij<<o>> por q<ue> rrazo<n> vjue la o-
-natu<r><<a>> q<ue> nac'e as meses & el q<ue> na-
-de a vj meses ca parec'e cosa es
-rraca}
-{IN3.} Pr<e>gu<n>to el depulo mas agora
+co<n> vn<n>as an los co<n> sus armas p<ar>a
+ferir & p<ar>a defender co<n> ellas.
+{RUB. T<itol><<o>> xciij<<o>> por q<ue> rrazo<n> vjue la
+natu<r><<a>> q<ue> nac'e a jx meses & el q<ue> na-
+c'e a vij meses ca parec'e cosa es-
+tranja.}
+{IN3.} Pr<e>gu<n>to el dec'jpulo ma<estr><<o>> agora
 te rruego q<ue>me digas por
-q<ue> rrazo<n> vjue la c<r><<i>>atu<r><<a>> q<ue> na
-sc'e asy meses otrosy el q<ue> nac'e a vj<<o>>
+q<ue> rrazo<n> vjue la c<r><<i>>atu<r><<a>> q<ue> na-
+sc'e a jx meses [%] otrosy el q<ue> nac'e a vij<<o>>
 meses & por q<ue>no<n> vjue ta<n> bje<n> el q<ue>
 nac'e a ocho meses ca parec'e vna
-cosa muy estrauja venjr el delos vj<<o>>
+cosa muy estranja veujr el delos vij<<o>>
 & el delos jx & no<n> veujr el delos ocho
 q<ue> es en medio por q<ue>te rruego q<ue>me
-digas por q<ue> es rrespondio el ma<estr><<o>>
-yo telo dire pues q<ue> te q<u><<i>>eres p<r><<e>>-
+digas por q<ue> es [%] rrespondio el ma<estr><<o>>
+yo telo dire pues q<ue> tu q<u><<i>>eres ap<r><<e>>n-
 der la absuluc'io<n> desta dema<n>da te
-faro en tres man<er>as la p<r><<i>>m<er>a por
-estologia la ij<<a>> por teologia
-la t<er>c'era por natios por q<ue>te digo
-asy q<ue>llas p<r><<a>>netas del c'ielo son siete
-& no<n> mas q<ue> ya oyeste en ot<r><<a>>s de
-ma<n>das E a estas p<r><<a>>netas q<ue> son
+fare en tres man<er>as [%] la p<r><<i>>m<er>a por
+estrologia [%] la ij<<a>> por teologia [%]
+la t<er>c'era por natu<r><<a>>s [%] por q<ue>te digo
+asy q<ue>las p<r><<a>>netas del c'ielo son siete
+& no<n> mas q<ue> ya oyeste en ot<r><<a>>s de-
+ma<n>das [%] E a estas p<r><<a>>netas q<ue> son
 cue<r>pos de suso dio dios u<<i>><r>tud so-
 bre los cue<r>pos de yuso terrenal<e>s}
 {CB2.
-por ente cordas a<n> co<n> a
-vjentre de su madre cada vna
-destas siete p<r><<a>>netas la ma<n>tiene
-cada mjs cada vna el suyo el
-p<rimer><<o>> mes comje<n>c'a cobrar e<n> ella
-ella p<rimer><<a>> p<r><<a>>neta q<ue> es saturno asy
+[%] por ende anda<n>do la c<r><<i>>atu<r><<a>> en<e>l
+vjentre de su madre [%] cada vna
+destas siete p<r><<a>>netas la ma<n>tjene
+cada m<e>s cada vna el suyo [%] el
+p<rimer><<o>> mes comje<n>c'a a obrar e<n> ella [%]
+ela p<rimer><<a>> p<r><<a>>neta q<ue> es saturno asy
 com<m>o ella es fria & seca va
 q<ue>xando aq<ue>lla semje<n>te de q<ue> se
-faze la c<r><<i>>atu<r><<a>> E vij<<o>> mes es
-de jujt<er> q<ue> es caljent<e> & humjdo
-& por eso la faze> crezer & esten
-derse en<e>l vjentre dela madre
-el p<rimer><<o>> es mar<e>s & gouje<r>na la
-nat<ur><<a>> q<ue> es calent<e> & seco do por
-eso lo faz come<n>c'ar amoue<r> p<ar>a
-q<ue>rer au<er> alma de vjda el q<u><<a>>rto
-mes del sol q<ue> es caljent<e> & se co-
-E por eso la faz come<n>c'ar
-amoue<r> tenp<r><<a>>da mjent<e> % E en<e>ste
+faze la c<r><<i>>atu<r><<a>> [%] El ij<<o>> mes es
+de jupit<er> q<ue> es caljent<e> & humjdo
+& por eso la faz crezer & esten-
+derse en<e>l vjentre dela madre [%]
+el iij<<o>> es mar<e>s & gouje<r>na la
+natu<r><<a>> q<ue> es caljent<e> & seco [%] E por
+eso le faz come<n>c'ar a moue<r> p<ar>a
+q<ue>rer au<er> alma de vjda [%] el q<u><<a>>rto
+mes del sol q<ue> es caljent<e> & seco
+[%] E por eso la faz come<n>c'ar
+a moue<r> tenp<r><<a>>da mjent<e> [%] E en<e>ste
 mes del sol se demuestra en<e>lla
-co<n>pida me<n>te las obras dela alma
-de vida q<ue> dios c<r><<i>>a en<e>lla E
-esto ta<n> bje<n> contec'e en<e>l malo
+co<n>p<r>ida me<n>te las obras dela alma
+de vida q<ue> dios c<r><<i>>a en<e>lla [%] E
+esto ta<n> bje<n> contec'e en<e>l macho
 com<m>o enla fenbra en<e>ste q<u><<a>>rto mes
-del sol El q<u><<i>>nto mes es de ve-
-mus q<ue> es fria & humjda & en<e>ste
-mes se estjende los me<n>bros mas}
+del sol [%] El q<u><<i>>nto mes es de ve-
+nus q<ue> es fria & humjda & en<e>ste
+mes se estjende<n> los me<n>bros mas}
 [fol. 99r]
 {CB2.
-& se apuesta<n> mas sus fezjonos E
-el sesto mes es de merturio q<ue> es
-de consin com<m>o tenp<r><<a>>da tira a se-
+& se apuesta<n> mas sus fezjones [%] E
+el sesto mes es de mercurio q<ue> es
+de conp<r><<i>>sion com<m>o tenp<r><<a>>da & tira a se-
 q<ue>dat & en<e>ste mes se va<n> mas seca<n>do
-las acaduras de sus mje<n>bros & se va<n>-
-aujua<n>do & apareja<n>do sel & esforta<n>do se
-p<ar>a nac'er al seteno mes El seteno
-mes es dela luna q<ue> es fria ton-
-ada mjent<e> & humjda & es gra<n>-
+las ataduras de sus mje<n>bros & se va<n>
+aujua<n>do & apareja<n>do se & esforc'a<n>do se
+p<ar>a nac'er al seteno mes [%] El seteno
+mes es dela luna q<ue> es fria ten-
+plada mjent<e> & humjda & es gra<n>
 moujmjento & la mas c'<er>cana p<r><<a>>neta
-de aca cont<r><<a>> nos & esto le faze
-rec'er & moue<r> p<ar>a saljr E falla-
-cata<n> fuere esforcada & arrec'iada
-p<ar>a saljr salese & abjuase & co<n>se bje<n>
-ca la luna es natura p<r><<a>>neta q<ue> ha
+de aca cont<r><<a>> nos [%] & esto le faze
+crec'er & moue<r> p<ar>a saljr [%] E syla
+c<r><<i>>atu<r><<a>> fuere esforcada & arrec'iada
+p<ar>a saljr salese & abjuase & c<r><<i>>ase bje<n>
+ca la luna es (^natu<r><<a>>) p<r><<a>>neta q<ue> ha
 de obrar en bje<n> & a de c<r><<i>>ar & de goue<r>-
-nar las cosas humjdas de sy
-por aue<n>ta la c<r><<i>>atu<r><<a>> en<e>ste sente no-
-mes no<n> es esc<r><<i>>rada p<ar>a nasc'er
-nj<n> pue<n>de saljr fuera en<e>l vjentre
-de su madre al ochano mesa tornar
-saturno agoue<r>narla & por la friura
-& por la se<n>do q<ue> es en<e>l & por q<ue> ha
+nar las cosas humjdas [%] E sy
+por aue<n>tu<r><<a>> la c<r><<i>>atu<r><<a>> en<e>ste senteno
+mes no<n> es esforc'ada p<ar>a nasc'er
+nj<n> puede saljr fuera en<e>l vjentre
+de su madre al ochauo mes & tornar
+saturno a goue<r>narla & por la friura
+& por la seq<ue>dat q<ue> es en<e>l & por q<ue> ha
 natura de obrar mal & de destruyr
-mas q<ue> goue<r>nar sy nac'e<n> en<e>ste
-mes ochano afogalo & no<n> lo dexa
-venjr nj<n> criar & se finca en<e>l vje<n>tre
-fasta los jx mes torna nat<ur><<a>>}
+mas q<ue> goue<r>nar sy nac'e en<e>ste
+mes ochauo afogalo & no<n> lo dexa
+veujr nj<n> criar & se finca en<e>l vje<n>tre
+fasta los jx mes torna jupit<er>}
 {CB2.
-godenarla com<m>o de cabo & por la su cale<n>
-ta<n> tenp<r><<a>>da & humjda q<ue> ha en sy & por q<ue>
-ha natu<r><<a>> de obrar ma<n>tienella & faze la
+& goue<r>narla com<m>o de cabo & por la su cale<n>.
+tu<r><<a>> tenp<r><<a>>da & humjda q<ue> ha en sy & por q<ue>
+ha natu<r><<a>> de obrar ma<n>tienela & fazela
 nac'er & ljuarar & c<r><<i>>ar lo q<ue> dixe de teo-
-logia te djre yo agora tu deues a sa-
-ver q<ue> todas las cosas q<ue> dios ordeno &
+logia te djre yo agora [%] tu deues asa-
+ber q<ue> todas las cosas q<ue> dios ordeno &
 fizo desde la mayor fasta enla menor
-ta<n> vje<n> c'iella com<m>o enla t<ie>rra todas q<ue>po
+ta<n> bje<n> c'ielo com<m>o e<n>la t<ie>rra todas q<u><<i>>so
 q<ue> fuesen par<e>s & no<n> par<e>s & por esto la
-c<r><<i>>atu<r><<a>> q<ue> nac'e en<e>l vj<<o>> mes q<ue>no<n> son
-par<e>s E por eso vjue ca segu<n> el ordena
-mjento de dios es E esto mesmo es
-delos jx meses q<ue> son no<n> par<e>s E los
-q<ue> nac'e en<e>l otauo mes q<ue> son par<e>s ca
-dagore & no<n> vje<n> ca es ca el arentil
-n<n>o de dios E en<e>sto podemos entoder
-q<ue> ta<n> u<er>dadera es la palabra q<ue> dixo el &
-rrey daura lo q<u><<a>>l dixo asy fic'ertu po-
-sy q<ue> no<n> p<r><<e>>c'ebjd q<ue> q<u><<i>>er dezjr
-ma<n>damje<n>to eso q<ue>no<n> pasta esto dize
-el enpesona de dios padre q<ue> fue c<r><<i>>adar
-fazedor & ma<n>dema<n>dor de todos las cosas
+c<r><<i>>atu<r><<a>> q<ue> nac'e en<e>l vij<<o>> mes q<ue>no<n> son
+par<e>s [%] E por eso vjue ca segu<n> el ordena-
+mjento de dios es [%] E esto mesmo es
+delos jx meses q<ue> son no<n> par<e>s [%] E los
+q<ue> nac'e<n> en<e>l otauo mes q<ue> son par<e>s a-
+foga<n>se & no<n> vjue<n> (ca es) ca el ordenamj-
+ento de dios [%] E en<e>sto podemos ente<n>der
+q<ue> ta<n> u<er>dadera es la palabra q<ue> dixo el
+rrey daujt lo q<u><<a>>l dixo asy {LAT. p<r><<e>>ceptu<m> po-
+suyt (q<uam>) [et] no<n> p<r><<e>>tebj<ri>d} [%] q<ue> q<u><<i>>er dezjr
+ma<n>damje<n>to puso q<ue>no<n> pasara esto dize
+el en p<er>sona de dios padre q<ue> fue c<r><<i>>ador
+& fazedor & ma<n>tenedor de todas las cosas
 asy com<m>o el de p<rimer><<o>> lo puso & ordeno no<n>
-paso ca ello la aq<ue>llo se faze & la
-n<a>> rrespuesta q<ue> dixo de natu<r><<a>>s te dire
-yo agora tu deues al saber q<ue>l dia
-dela semjente de q<ue>se faze la cata<n> es
-puesta en<e>l vjent<e> dela madre de aq<ue>l}
+paso ca ello [%] & aq<ue>llo se faze [%] la
+iiij<<a>> rrepuesta q<ue> dixo de natu<r><<a>>s te dire
+yo agora [%] tu deues al saber q<ue>l dia
+dela semjent<e> de q<ue>se faze la c<r><<i>>atu<r><<a>> es
+puesta en<e>l vjent<re> dela madre de aq<ue>l}
 [fol. 99v]
 {CB2.
-dia a es dias es formada & com<m>o q<u><<i>>e-
-s muy peq<ue>n<n>a sea toda aq<ue>lla forma
-q<ue> ha de venjr acoyda me<n>te & alos
-ve<n> dias caballes dobro desto t<ien>po ha-
-alma de vjda & acabo delos dodje<n>tos
-dias q<ue> es el trascobro desto se mue-
-ue p<ar>a nuer cuenta<n> son a todos
-los siete meses asy com<m>o la c<r><<i>>a<n>-
-fasta los do dias ha su forma a-
-sy desq<ue> nac'o fasta los xxjo antos
-crec'e toda vja de lue<n>go & de acho &
-te espeso E com<m>o es ya co<n>plido de
-alma & de todo lo q<ue>l co<n>p<r><<o>> fasta los
-v<<i>><r> dias bje<n> asy la vjda nat<ur><<a>>l
-del om<br>e conp<r>da es fasta los lu<n> an<n>os
-& por esto pudos entender q<ue>l co-
-so dela su vida es puesto por an<n>os
-a semeja<n>c'a delos dias q<ue> pasa en<e>l bje<n>
-ti><<o>> de su madre E com<m>o q<u><<i>>er q<ue> alg<un><<o>>s
+dia a xxxv<<o>> dias es formada & com<m>o q<u><<i>>er
+q<ue> muy peq<ue>n<n>a sea toda aq<ue>lla forma
+q<ue> ha de veujr a co<n>p<r>ida me<n>te & alos
+L<<a>>xx dias cabales dobro deste t<ien>po ha
+alma de vjda & a cabo delos dozje<n>tos
+dias q<ue> es el trasdobro desto se mue-
+ue p<ar>a nac'er cuenta son ya co<n>pljdos
+los siete meses [%] & asy com<m>o la c<r><<i>>atu<r><<a>>
+fasta los xxxv dias ha su forma a-
+sy desq<ue> nac'e fasta los xxxv an<n>os
+crec'e toda vja de lue<n>go & de ancho &
+de espeso [%] E com<m>o es ya co<n>pljdo de
+alma & de todo lo q<ue>l cu<n>p<r><<e>> fasta los
+L<<a>>xx dias [%] bje<n> asy la vjda natu<r><<a>>l
+del om<br>e co<n>p<r>ida es fasta los L<<a>>xx an<n>os
+[%] & por esto puedes entender q<ue>l ca-
+so dela su vjda es puesto por an<n>os
+a semeja<n>c'a delos dias q<ue> pasa en<e>l vje<n>-
+t<r><<e>> de su madre [%] E com<m>o q<u><<i>>er q<ue> alg<un><<o>>s
 sabjos dexjero<n> q<ue>la forma dela natu<r><<a>>
 se acabaua los dias sen<n>alada me<n>te
-el mucho q<ue> se forma mas ayua<n> ot<r><<o>>s
-ha<n> el ot<r><<o>> E sen<n>alada me<n>te la
-fenbra por q<ue> ha natu<r><<a>> de su formama<n>
-ta<n>te lo mas c'ie<r>to es esto q<ue> auemos
-dicho E alos vij<<o>> meses q<ue>re sen<n> la
-t<er>na aparejada & rrezia p<ar>a nosc'er & sy}
+el macho q<ue>se forma mas ayna ot<r><<o>>s
+ha<n> xL o L<<a>> [%] E sen<n>alada me<n>te la
+fenbra por q<ue> ha natu<r><<a>> de su forma ma<<s>>
+ta<r>de [%] lo mas c'ie<r>to es esto q<ue> auemos
+dicho [%] E alos vij<<o>> meses q<ue>se sjent<e> la
+c<r><<i>>atu<r><<a>> aparejada & rrezia p<ar>a nasc'er & sy}
 {CB2.
 esta ta<n> rrezia q<ue>lo puede co<n>pljr
-faz<er> nac'er & venjr & case E la
+& faz<er> nac'er & veujr & c<r><<i>>arse [%] E la
 q<ue> esta fraca q<ue>lo no<n> puede faz<er>
-en<e>ste mes p<ro>euallo de faz<er> & sjno<n>
-puede guardar la natu<r><<a>> p<ar>a el e-
-mes dando lo t<ien>po en q<ue> se esfuerc'e
-esto es asemeja<n>c'a del om<br>e fraco
-q<ue> pena de fazes algu<n> cosa sol
+en<e>ste mes p<ro>eualo de faz<er> & sjno<n>
+puede guardar la natu<r><<a>> p<ar>a el jx
+mes dandole t<ien>po en q<ue>se esfuerc'e
+esto es a semeja<n>c'a del om<br>e fraco
+q<ue> p<ro>eua de faz<er> algu<n><<a>> cosa & sj la
 no<n> puede conpljr guardase p<ar>a faz<er>
-lo en ot<r><<o>> t<ien>po q<ue> sea mas rrezjo &
-gume<n> asy es dela la q<u><<a>>ndo tr
-fraq<ue>dat sjno<n> pues natu<r><<a>> en<e>l vj<<o>>
-mes finca doljent<e> & fraco & alo
-tauo mes & guardase p<ar>a el je-
-& nac'e allj & vjue c<r><<i>>ase E la
-c<r><<i>>atura q<ue>se q<u><<i>>er arredec'iar a naco
-en<e>l otauo mes q<ue> esta fraco no<n>pue-
-de venjr a fogase E agora te
-he rrespondido co<n>plida me<n>te alo
-q<ue>me dema<n>daste. {RUB. T<itol><<o>> xj-
-e por q<ue> rrazo<n> faze om<br>e fiios e-
-todo t<ien>po & no<n> ha t<ien>po sabjdo &
-sy corru<n> q<ue>do secado}}
+lo en ot<r><<o>> t<ien>po q<ue> sea mas rrezjo [%]
+E bje<n> asy es dela la c<r><<i>>atu<r><<a>> q<u><<a>>ndo por
+fraq<ue>dat sjno<n> puede nac'e<r> en<e>l vij<<o>>
+mes finca doljent<e> & fraco & al o-
+tauo mes & guardase p<ar>a el jx
+& nac'e allj & vjue & c<r><<i>>ase [%] E la
+c<r><<i>>atura q<ue>se q<u><<i>>er arrebatar a nac'er
+en<e>l otauo mes q<ue> esta fraco no<n> pue-
+de veujr afogase [%] E agora te
+he rrespondido co<n>pljda me<n>te alo
+q<ue>me dema<n>daste. {RUB. T<itol><<o>> xciiij<<o>>
+por q<ue> rrazo<n> faze om<br>e fiios en
+todo t<ien>po & no<n> ha t<ien>po sabjdo a-
+sy com<m>o las ot<r><<a>>s a<n>jmaljas.}}
 [fol. 100r]
 {CB2.
-{IN3.} Pr<e>gu<n>to do a rruegotero<n>
-l me digas por q<ue> rrazon los
-omes fazen sus fiios en
-bodo t<ien>po ta<n> bje<n> en enbje<r>no com<m>o en
-verano & no<n> ha p<ar>a ello t<ien>po sabjdo
+{IN3.} Pr<e>gu<n>to el d<ec'>j<pul><<o>> m<aestr><<o>> rruegote q<ue>
+me digas por q<u><<a>>l rrazon los
+om<br>es fazen sus fiios en
+todo t<ien>po ta<n> bje<n> en envje<r>no com<m>o en
+verano & no<n> ha<n> p<ar>a ello t<ien>po sabjdo
 mas vno q<ue> otro asy com<m>o lo ha<n> las
-aues & las bestios ca ve q<ue> todas esp<i>>-
-c<r><<i>>atu<r><<a>>s faze<n> sus fiio en<e>s sabjdos
+aues & las bestias [%] ca ve q<ue> todas esta<<s>>
+c<r><<i>>atu<r><<a>>s faze<n> sus fiios a t<ien>pos sabjdos
 & del om<br>e no<n> acaesc'e asy por q<ue>te rrue-
-go q<ue>me digas por q<ue> es rrespondio el
-n<er><<o>> a esta dema<n>da te rrespondere lj-
-gera ma<n>to ca no<n> es muy graue po
+go q<ue>me digas por q<ue> es [%] rrespondio el
+m<aestr><<o>> a esta dema<n>da te rrespondere lj-
+gera me<n>te ca no<n> es muy graue p<ar>a
 rresponder a ella por ende q<u><<i>>ero q<ue> se-
-pas q<ue>llas aues no<n> faze<n> en pue<r>-
-no<n> sus fiios por rrazo<n> del fuerte
-t<ien>po q<ue> faze por el gra<n> t<ien>po frio
-E por eso veras de alg<un><<a>> aues q<ue>
-en<e>l enbje<r>no esta<n> ascondidadas so-
-tie>rra ot<r><<a>>s q<ue> se asponde enlas matas
-estes & enlos atal<e>s & todas las
-c<r><<i>>o deua q<ue>se vn<n> goarec'er las
-t<ie>rras aljent<e>s E esto faze<n> ellos
-co<n> el gra<n> mjedo q<ue> gra<n> de frio q<ue>la
+pas q<ue>las aues no<n> faze<n> en inuje<r>-
+no sus fiios por rrazo<n> del fuerte
+t<ien>po q<ue> faze por el gra<n> t<ien>po frio [%]
+E por eso veras de alg<un><<a>>s aues q<ue>
+en<e>l envje<r>no esta<n> ascondi(da)das so
+t<ie>rra & ot<r><<a>>s q<ue> se asconde<n> enlas matas
+espesas & enlos arbol<e>s & todas las
+ot<r><<a>>s demas q<ue>se va<n> guarec'er alas
+t<ie>rras caljent<e>s [%] E esto faze<n> ellas
+co<n> el gra<n> mjedo q<ue> ha<n> del frio q<ue>la
 apie<r>ta q<ue>no<n> puede bolar a su gujsa
-q<ue> fallar aq<ue>llo q<ue> la mester p<ar>a po
-mer & com<m>o dello gra<n> a encaremje<n>
+nj<n> fallar aq<ue>llo q<ue> ha mester p<ar>a co-
+mer & toma<n> dello gra<n> encogemje<n>-
 to en sy & por eso no<n> ha<n> sabor
-es q<ue>no<n> co<n>se nueue las q<ue>}
+de ffaz<er> fiios ca no<n> sele mueue la natu<r><<a>>}
 {CB2.
-p<ar>a ello otrosy los bestas com<m>o no<n> ha<n>
+p<ar>a ello [%] otrosy las bestias com<m>o no<n> ha<n>
 otra cobje<r>ta sjno<n> su cabello ha<n> muy
-gra<n> frio & co<n>guelase las humjdades
-& en c'ierraseles la calentu<r><<a>> natu<r><<a>>l contra
-dentro & por ende no<n> fin andar esta<n> en
+gra<n> frio & co<n>gielanse las humjdades
+& enc'ierraseles la calentu<r><<a>> natu<r><<a>>l contra
+dentro & por ende no<n> osan andar & esta<n> en-
 cogidas & no<n> toma<n> sabor de sy & por el
 t<ien>po muy fuerte q<ue>les faze no<n> falla<n> ta<n>
-bje<n> de com<m> com<m>o en vauo de las
-aguas q<ue> beue<n> fallan las muy frias
-E por eso no<n> pode sabor de pon<er> dela
-agua ca fallee<n>les dos frios com<m>o la
+bje<n> de come<r> com<m>o en verano [%] E las
+aguas q<ue> boue<n> fallan las muy frias [%]
+E por eso an poco sabor de boue<r> dela
+agua ca fallec'e<n>les dos frutos com<m>o la
 vna del t<ien>po dela otra dela agua q<ue> es
-fria com<m>o q<ue>>er delas aues mucho sjente<n>
-la friura del t<ien>po del puede muy mese
-lo sufren & se para<n> aello q<ue>llas bestas
-desto es por dos cosas p<rimer><<o>> por q<ue> ha
-la q<ue> sisen p<ar>a parase mejor a ella
-la ij<<a>> por q<ue> son cobras de pen<n>olas
+fria com<m>o q<u><<i>>er q<ue>las aues mucho sjente<n>
+la friura del t<ien>po del jnuje<r>no muy mejor
+lo sufren & se para<n> aello q<ue>las bestjas
+[%] Esto es por dos cosas [%] lo p<rimer><<o>> por q<ue> ha<n>
+la <con>p<r>ision p<ar>a pararse mejor a ello [%]
+lo ij<<o>> por q<ue> son cobje<r>tas de pen<n>olas
 & an mucho froxel & es muy caljente
-cosa E por ende q<u><<a>>ndo vjene el t<ien>po del
-marc'o & del abril q<ue>se alc'a el sol & se esta-
-ljenta el ayre & se va<n> toq<u><<a>>ndo mas las
-aguas & nac'e<n> las yeruas & las foles &
-las fjas delos arboles & las ot<r><<a>>s se-
-mjent<e>s q<ue> come<n> & de co<n> vjue<n> las dos
-% E las bestias co<n>la calentu<r><<a>> & co<n> este bo<n>-
-t<ien>po q<ue>les vjene estjendese & escaljentase
-& ve<n>tase los dios cue<r>po & del de el}
+cosa [%] E por ende q<u><<a>>ndo vjene el t<ien>po del
+marc'o & del abril q<ue>se alc'a el sol & se esca-
+ljenta el ayre & se va<n> tenp<r><<a>>ndo mas las
+aguas & nac'e<n> las yeruas & las froles &
+las fojas delos arboles & las ot<r><<a>>s se-
+mjent<e>s q<ue> come<n> & de q<ue> vjue<n> las aues
+[%] E las bestias co<n>la calentu<r><<a>> & co<n> este bo<n>
+t<ien>po q<ue>les vjene estjende<n>se & escaljenta<n>se
+& hume<n>tanse los sus cue<r>pos [%] E la cale<n>tu<r><<a>>}
 [fol. 100v]
 {CB2.
-q<ue> ant<e> tenje<n> enc'errada contra dentro va-
+q<ue> ant<e> tenja<n> enc'errada contra dentro va-
 se estendiendo co<n>t<r><<a>> fuera & toma sabor
-desy E pagase el mucho dela fenj-
-& codic'iase el vno al ot<r><<o>> por tal de co<n>plj-
+desy [%] E pagase el macho dela fenb<r><<a>>
+& codic'iase el vno al ot<r><<o>> por tal de co<n>pljr
 su sabor q<ue>la natu<r><<a>> les da q<ue>lo faga<n> asy
-por tal q<ue> a naca y su gene<r>nac'io<n> E
-desq<ue> an ando su ayu<n>tamje<n>to de so-
-no tanto q<u><<a>>nto entjende<n> q<ue>les co<n>plen
-faze<n> sus ujdos desy la fenbra pone
-y sus menos E aq<ue>llos menos sa-
-ca los fiios de sy c<r><<i>> los fasta q<ue>
-son gra<n>des & rrezjs p<ar>a luer por
-sy E por q<ue>llas aues de q<ue>te he decho
-come<n>ta a faz<er> sus fiios en<e>l comje<n>go
-del verano finca les el t<ie><<o>> t<ien>po del
-verno en q<ue> fizo<n> sus mas mje<n>te
-la p<rimer><<a>> es p<r><<e>>nada & pone sus hue nos
-& los engendra & depues en q<ue>los saca-
-& los c<r><<i>>a en man<er>a q<ue> q<u><<a>>ndo el ot<r><<o>> mje<r>-
-uo vje<n> los fiios son grandes com<m>o
+por tal q<ue> nazca y su gene<r>ac'io<n> [%] E
+desq<ue> an aujdo su ayu<n>tamje<n>to de so v-
+no tanto q<u><<a>>nto entjende<n> q<ue>les cu<n>plen
+faze<n> sus njdos desy la fenbra pone
+y sus ueuos [%] E aq<ue>llos ueuos sa-
+ca los fiios de sy & c<r><<i>>a los fasta q<ue>
+son gra<n>des & rrezjos p<ar>a veujr por
+sy [%] E por q<ue>las aues de q<ue>te he dicho
+comje<n>c'a<n> a faz<er> sus fiios en<e>l comje<n>c'o
+del verano finca les el ot<r><<o>> t<ien>po del
+verano en q<ue> faze<n> sus njdos mje<n>tre
+la p<rimer><<a>> es p<r><<e>>n<n>ada & pone sus hueuos
+& los engendra & depues en q<ue>los saca
+& los c<r><<i>>a en man<er>a q<ue> q<u><<a>>ndo el ot<r><<o>> jnuje<r>-
+no vje<n> los fiios son grandes com<m>o
 los padres & las madres p<ar>a sofrir su
-fue<r>te t<ien>po del frio q<ue> ha de venjso
-brellas otrosy las bestias a este p<en>po q<ue>
-te he dich<o>> entra<n> en c'elo todas las de-
-mas & faze<n> sus fiios mas bje<n> es u<er>-
-dat q<ue> alg<un><<o>>s traera<n> los fiios en<e>l vjentre
-Nueue meses & otros y ha q<ue> onde}
+fue<r>te t<ien>po del frio q<ue> ha de venjr so-
+brellas [%] otrosy las bestias a este t<ien>po q<ue>
+te he dich<o> entra<n> en c'elo todas las de
+mas & faze<n> sus fiios [%] mas bje<n> es u<er>-
+dat q<ue> alg<un><<a>>s traera<n> los fiios en<e>l vjentre
+Nueue meses & otros y ha q<ue> onze}
 {CB2.
-meses & ot<r><<a>>s q<ue> ha siete meses ot<r><<a>>s
-q<ue> ac'jnco meses & ot<r><<o>>s q<ue> hatres
-meses E ot<r><<a>>s ha bestias q<ue> han-
-man<er>a destos meses q<ue>te bre dicho los
-traen aselmanos com<m>o q<u><<i>>er q<ue> todo
-este t<ien>po ponga<n> entraer los fiios q<ue>l
+meses & ot<r><<a>>s q<ue> ha siete meses & ot<r><<a>>s
+q<ue> a c'jnco meses & ot<r><<a>>s q<ue> ha tres
+meses [%] E ot<r><<a>>s ha bestias q<ue> han
+man<er>a destos meses q<ue>te he dicho los
+traen a selmanas com<m>o q<u><<i>>er q<ue> todo
+este t<ien>po ponga<n> en traer los fijos e<ne>l
 vjentre a todos los mas dellos na-
 c'e<n> los fiios al verano por q<ue> es me-
-jr t<ien>po p<ar>a u<er>o los mas lo del om<br>e
-es de ot<r><<a>> q<u><<i>>sa o el om<br>e en to-
+jor t<ien>po p<ar>a c<r><<i>>ar los mas lo del om<br>e
+es de ot<r><<a>> g<u><<i>>sa [%] ca el om<br>e en to-
 do t<ien>po q<ue>se ayu<n>te co<n>la mug<er> puede
-faz<er> fiio sjno<n> lo destorna<n> las
-cosas q<ue>te yo agora dire la pa<n>-
-gra<n> me<n>gua de comer & de beue & de
-vestir q<ue> aya<n> por la q<ue>l me<n>gua no<n>
-puede tomar p<r><<a>>zer nj<n> sabor en sy
+faz<er> fiio sjno<n> lo destorua<n> las
+cosas q<ue>te yo agora dire [%] la p<rimer><<a>>
+gra<n> me<n>gua de comer & de beuer & de
+vestir q<ue> aya por la q<u><<a>>l me<n>gua no<n>
+puede tomar p<r><<a>>zer nj<n> sabor en sy [%]
 la segu<n>da por gra<n> cuydado q<ue> aya
-la t<er>c'era por gra<n> trastec'a de co-
-rac'o<n> la q<u><<a>>rta co<n> gra<n> mjedo q<ue> aya<n>-
-co<n> q<ue> no<n> puede a sesegar en nj<n>gu<n>-
-logar la g<u><<a>>rra q<u><<i>>nta por gra<n>-
+[%] la t<er>c'era por gra<n> tristec'a de co-
+rac'o<n> [%] la q<u><<a>>rta co<n> gra<n> mjedo q<ue> aya
+co<n> q<ue> no<n> puede asesegar en nj<n>gu<n>
+logar [%] la (^q<u><<a>>rta) q<u><<i>>nta por gra<n>
 dolenc'ia mas q<ue> tuelle al om<br>e
-mas estas cosas q<ue>le estorua<n> & le-
-da<n> abondamje<n>to delo q<ue> ha mest<e>
-con q<ue> tome sabor & p<r><<e>>c'e de sy
-tal com<m>o este aujendo co<n>pan<n>sa
+mas estas cosas q<ue>le estorua<n> & le
+da<n> abondamje<n>to delo q<ue> ha mest<er>
+con q<ue> tome sabor & p<r><<a>>c'e[r] de sy
+tal com<m>o este aujendo co<n>pan<n>era
 mug<er> fermosa de q<ue>se pague}
 [fol. 101r]
 {CB2.
-ayu<n>tados co<n> ala ta<n> a<n> faze so
-s<er>o en Juje<r>no com<m>o en verano
-da tres cosas son q<ue> faze<n> al om<br>e
-faz<er> generac'io<n> la p<rimer><<a>> ver por los o-
-jos aq<ue>llo de q<ue>se paga<n> & yagonar
-lo en su alma & en su volu<n>tad
-lo ij<<o>> codic'iar los la t<er>c'o desq<ue>lo
-visto & jnagonado & codic'iado nueue
-s la calentu<r><<a>> nat<ur><<a>> del vno al
-otro & ayuntas & faze<n> su generac'o<n>
-E en<e>l ayuntamje<n>to del om<br>e ella
+ayu<n>ta<n>dose co<n> ella ta<n> bje<n> faze<n> sus
+fiios en Jnuje<r>no com<m>o en verano
+ca tres cosas son q<ue> faze<n> al om<br>e
+faz<er> gonerac'io<n> [%] la p<rimer><<a>> ver por los o-
+jos aq<ue>llo de q<ue>se paga & ymagjnar
+lo en su alma & en su volu<n>tad [%]
+lo ij<<o>> codic'iar lo [%] lo t<er>c'ero desq<ue> lo a
+vjsto & jmagjnado & codic'iado mueue
+se la calentu<r><<a>> natu<r><<a>>l del vno al
+otro & ayu<n>ta se & faze<n> su generac'io<n>
+[%] E en<e>l ayuntamje<n>to del om<br>e o dela
 mug<er> a tres calenturas las q<u><<a>>l<e>s son e-
-stas la p<r><<i>>m<er>a la del om<br>e ap<r><<e>>
-della mug<er> la p<r><<i>>era de la rra-
-q<ue> trae<n> vestida dela q<ue> fa cobje<n>
-de noche q<u><<a>>ndo yaze<n> anbos de su-
+stas [%] la p<r><<i>>m<er>a la del om<br>e [%] la ij<<a>>
+dela mug<er> [%] la t<er>c'era de la rropa
+q<ue> trae<n> vestida dela q<ue> cubre<n>
+de noche q<u><<a>>ndo yaze<n> anbos de so
 vno & delas bestias no<n> es asy q<ue>
 no<n> ha otra calentu<r><<a>> sjno<n> del
-mal & dela fenbro % demos
-fabro los om<bre>s a<n> muy bonado
-casas en q<ue> se me<n>te por el mal
-nto en q<ue> come<n> & beue<n> bje<n> de
-muellos muel<e>s caljent<e>s & muy
-vje<n> agujsadas q<ue> aya<n>ta<n> mucho
-a esto a faz<er> los fiios E demas
-lada enlas cosas mucha pala-
-faze<n> y muchos fuegos & teme-}
+macho & dela fenbra [%] demas
+desto los om<bre>s a<n> muy bonas
+casas en q<ue> se mete<n> por el mal
+t<ien>po en q<ue> come<n> & beue<n> bje<n> de
+muchos ma<n>jar<e>s caljent<e>s & muy
+vje<n> agujsadas q<ue> ayuda<n> mucho
+a esto a faz<er> los fiios [%] E demas
+echan enlas casas mucha paja
+& faze<n> y muchos fuegos & tjene<n>}
 {CB2.
-& los fechos en cha rresta E por toda-
-estas rrazon<e>s q<ue>te he co<n>tado otrosy
-por q<ue>la co<n>p<r><<i>>sion del om<br>e es mas te dj-
-& mejor q<ue> delas ot<r><<a>> c<r><<i>>atu>s por eso ser
-mejo a todo t<ien>po a faz<er> mas comanal mje-
-n<uest>ro sus obras lo q<ue>no<n> puede<n> faz<er> las
-ot<r><<a>> c<r><<i>>at<ur>os E por eso faze el om<br>e ac'i-
-co<n> sus das las ot<r><<a>>s d<er>o faze<n> los
-adas ayudos segu<n>t son los t<ien>pos & la-
-mouja<n>tos & las c<r>pljmos % E el
-por lo por q<ue> rrazo<n> las a<n> caljas aue-
-nor<e>s faze<n> mas fizo q<ue> las ot<r><<a>>s ma-
-y alas mayos n<n>o fin ma
-s vn fiio & las ment<e>s das otresy
-amas}
-{IN3.} Pr<e>gu<n>to el dec'ipulo asu maes-
-& dixo rruegote q<ue>me digu-
-por q<ue> rrazo<n> faze<n> las a-
-nabjos menor<e>s anos q<ue>los fallas otras
-may<e>s no<n> fizo<n> mas de vn fiio & las
-ment<e>s das otras obra por ende me na-
-rru<n> por q<ue> es asemejaue com<m>o o-
-sa esc<r><<a>>na ca q<u><<a>>ndo la bestia es ma-
-por tan<n> auera mayor adelanco en<e>l
-vjentre en q<ue> troxjese sus fiios ca la ma-
-nor en q<u><<a>>nto ha mjenor lugar p<ar>a tra-
-er los ta<n>do auja au<er> menos por
-de rruego q<ue>me digas por q<ue> es}
+y los fechos co<n> mucha rropa [%] E por todas
+estas rrazon<e>s q<ue>te he co<n>tado [%] otrosy
+por q<ue>la co<n>p<r><<i>>sion del om<br>e es mas te<n>p<r><<a>>da
+& mejor q<ue> delas ot<r><<a>>s c<r><<i>>atu<r><<a>>s por eso se p<ar>a
+mejo[r] a todo t<ien>po a faz<er> mas comunal mje-
+nt<e> sus obras lo q<ue>no<n> puede<n> faz<er> las
+ot<r><<a>>s c<r><<i>>atu<r><<a>>s [%] E por eso faze el om<br>e a todo
+t<ien>po sus fiios & las ot<r><<a>>s c<r><<i>>atu<r><<a>>s faze<n> los
+a t<ien>pos sabjdos segu<n>t son los t<ien>pos & los
+moujmje<n>tos & las co<n>p<r>isiones. {RUB. T<itol><<o>>
+xcv por q<ue> rrazo<n> las a<n>i<m>aljas me-
+nor<e>s faze<n> mas fiios q<ue>las ot<r><<a>>s ma-
+yor<e>s ca las mayor<e>s no<n> faze<n> ma<<s>>
+de vn fiio & las menor<e>s dos o tres
+o mas.}
+{IN3.} Pr<e>gu<n>to el dec'jpulo asu maest<r><<o>>
+& dixo rruegote q<ue>me digas
+por q<ue> rrazo<n> faze<n> las anj-
+maljas menor<e>s mas fiios q<ue>las otras
+mayor<e>s no<n> faze<n> mas de vn fiio & las
+menor<e>s dos otres o q<u><<a>>t<r><<o>> por ende me ma-
+rraujllo por q<ue> es [%] ca semejame com<m>o co-
+sa est<r><<a>>nja [%] ca q<u><<a>>ndo la bestia es ma-
+yor tanto auera mayor anchura en<e>l
+vjentre en q<ue> troxjese sus fiios ca la me-
+nor en q<u><<a>>nto ha menor lugar p<ar>a tra-
+er los ta<n>to auja au<er> menos [%] por q<ue>
+te rruego q<ue>me digas por q<ue> es [%]}
 [fol. 101v]
 {CB2.
 [%] rrespondio el ma<estr><<o>> a esta dema<n>da te rrespon-
@@ -12123,7 +12121,7 @@ todos son viscos aq<ue>llas no<n> deue
 co<n>tesc'er esto mas a vnos q<ue> ha
 ot<r><<o>>s [%] E por ende te rruego q<ue>me
 digas por q<ue> es [%] rrespondio el ma<estr><<o>>
-q<u><<i>>ero te dar rrespuesta desto pues me
+q<u><<i>>ero te dar rrepuesta desto pues me
 lo dema<n>das [%] por ende tu deues
 saber q<ue> todos los om<bre>s q<ue> son
 viscos lo son en dos man<er>as [%] la
@@ -12232,26 +12230,26 @@ q<ue>no<n> destorue al su correr.
 ter x<pist><<o>> Ame<n> Johanes
 sc<r><<i>>psit hu<n>c libru<m> lau-
 detur x<pist><<o>> Amen}
-{AD. [^5#conp<r><<e>> este ljbro por c'iento e
-c'inq<ue>nta m<a>r<auedi>s p<ague> luego a J<u><<a>>n los
+{AD. [^3#conp<r><<e>> este ljbro por c'iento e
+c'inq<ue>nta m<a>r<auedi>s p<agu><<e>> luego a J<u><<a>>n los
 c'ient m<a>r<auedi>s deuole c'inq<ue>nta esta<n>
-las fojas en pre<n>das. {SIG. di<eg><<o>> g<onc'ale>s}
+las fojas en pre<n>das. di<eg><<o>> g<onc'ale>s
 pague a J<u><<a>>n ot<r><<o>>s c'inq<ue>nta m<a>r<auedi>s no<n>
 le deuo nada deste ljbro q<u><<a>>ndo vjno
-de salama<n>ca jueu<e>s xxvj de julljo
-{SIG. didacus
-g<u>n<disal><<uj>>}]}
+de salama<n>ca jueu<e>s xxvj de julljo.
+didacus
+g<u>n<disal><<uj>>]}
 {CB2.
-{AD. [^5#p<r><<e>>ste a J<u><<a>>n m<artine>s m<edi><<o>> Real e a mjg<ue>ll ff<errande>s ot<r><<o>> m<edi><<o>>
-e la nuera de t??<<o>> f<e>rr<ande>s otro medio
+{AD. [^3#p<r><<e>>ste a J<u><<a>>n m<artine>s m<edi><<o>> Real e a mjg<ue>ll ff<errande>s ot<r><<o>> m<edi><<o>>
+e la nuera de t??<<o>> f<e>rr<ande>s ot<r><<o>> medio xxxxv.
 men-
 c'ia
-deue di<eg><<o>> may?? so?? ??? texillo desu mug<er>
-dozjentos & ocho m<a>r<auedi>s fecha cue<n>ta e<n> rreal<e>s a viij<<o>>
+deue di<eg><<o>> may?? so?? ??l texillo desu mug<er>
+dozjentos & ocho m<a>r<auedi>s fecha cue<n>ta e<n> rreal<e>s. a viij<<o>>.
 q<ue>le p<r><<e>>ste e iiij<<o>> ??gos q<ue>le vendj los codigos/ la mjtad
-{SIG. diego
-g<onc'ale>s}]}
-{AD. [^6#{SIG. {LAT. Johanes g<u>n<disal><<uj>>
+diego
+g<onc'ale>s]}
+{AD. [^4#{LAT. Johanes g<u>n<disal><<uj>>
 locu<m> tenent<em>
-arcip<r><<e>>sbit<er>}}]}}
+archip<r><<e>>sbit<er>}]}}
 {SG. cjx fojas}
