@@ -2,8 +2,8 @@
 {RMK: [LUB] Lucidario.}
 {RMK: .}
 {RMK: Salamanca | Biblioteca General Histórica, Universidad de Salamanca | 1958.}
-{RMK: Mario Antonio Cossío Olavide}
-{RMK: fol. 1r-104r contain the Lucidario, fols. 105r-110v the Vida de san Amaro}
+{RMK: Mario Antonio Cossío Olavide.}
+{RMK: fol. 1r-104r contain the Lucidario, fols. 105r-110v the Vida de san Amaro.}
 [fol. 0r]
 {CB1.
 {GL. [^5#De la Bibliotheca del Col<egi><<o>> M<ay><<or>> de Cuenca
@@ -73,7 +73,7 @@ mo en<e>ste mu<n>do.} {AD. [^1#a xvij.]}
 {RUB. T<itol><<o>> xjx por q<ue> rrazo<n> q<u><<i>>so dios q<ue> nac'iese
 eua dela costiella de ada<n> & no<n> la fizo
 nac'e<r> de t<ie>rra.} {AD. [^1#a xviij<<o>>.]}
-{RUB. T<itol><<o>> xx com<m>o puede ent<r><<a>>r(rar) la alma e<n>la
+{RUB. T<itol><<o>> xx com<m>o puede entr(r)ar la alma e<n>la
 c<r><<i>>atu<r><<a>> enc'errada e<ne>l vjentre de su madre.} {AD. [^1#a xx.]}
 {RUB. T<itol><<o>> xxj donde ha el diabro el saber de
 las cosas q<ue> ha<n> de venjr.} {AD. [^1#a xxij.]}
@@ -414,7 +414,7 @@ planetas % E delas otras estrellas
 q<ue> llama<n> fixas % E este saber delas
 naturas es mas comunal a todas}
 [...]
-{RMK: 1 folio missing}
+{RMK: 1 folio missing.}
 [fol. 4r]
 {CB2.
 obra sea bje<n> conplida com<m>o de tal sen<n>or
@@ -456,7 +456,7 @@ pulo q<ue> estoujese ant<e> su maestro}
 & q<ue>l p<r><<e>>gu<n>tase sobre cada cosa & el
 maestro q<ue> le rrespo<n>djese aello
 E comjenc'a asy %
-{BLNK: 16 lines}
+{BLNK: 16 lines.}
 {IN3.} Maestro yo soy tu de-
 c'ipulo & tu me as
 ensen<n>ado mucho bje<n>
@@ -1263,7 +1263,7 @@ ha de suyo fazenos la parec'er
 com<m>o negra % E esta asy fa-
 sta q<ue> ella va sobiendo de aq<ue>l
 desendjmje<n>to q<ue> fizo enla so-
-(lo)nbra dela t<ie>rra % asy com<m>o sube
+lonbra dela t<ie>rra % asy com<m>o sube
 asy se va torna<n>do en su claridat
 % E esto es por rrazon dela
 sonbra q<ue> va dexa<n>dose fasta q<ue>
@@ -1341,7 +1341,7 @@ mosidades & los vapor<e>s q<ue> sa-
 len della q<ue> sea<n> enpoc'onj-
 ados % pues q<u><<a>>ndo la sonbra
 dela t<ie>rra se para ant<e> la lu-
-na % aq<ue>lla so(lo)nbra es en-
+na % aq<ue>lla solonbra es en-
 poc'onjada & co<n>uje<n> q<ue>lo sea por
 dos cosas [%] la p<r><<i>>m<er>a por q<ue> sa-
 le dela t<ie>rra % la segu<n>da por
@@ -1365,7 +1365,7 @@ na<n>te era & fjnca ljnpia & sana
 de aq<ue>l mal q<ue> rrec'ebjo % E por
 esta rrazon ma<n>da(^l)[^n] los maestros
 g<u><<a>>rdar aq<ue>llos dias q<ue> de suso dixe
-{BLNK: 12 lines}
+{BLNK: 12 lines.}
 {RUB. T<itol><<o>> t<er>c'ero do estaua dios q<u><<a>>ndo fizo
 el c'ielo & la t<ie>rra}
 {IN3.} Pr<e>gu<n>to el dec'ipulo maestro
@@ -2122,7 +2122,7 @@ era a(^l) el & a todos los ot<r><<o>>s e-
 nla nac'enc'ia & enla pasio<n> de
 jh<es>u xp<ist>o.}
 [...]
-{RMK: 1 folio missing}
+{RMK: 1 folio missing.}
 [fol. 16r]
 {CB2.
 nos mas de q<u><<a>>nto es q<ue> tal fue
@@ -2391,7 +2391,7 @@ dat q<ue> auja en<e>sta mug<er> q<u><<i>>so la fa-
 z<er> su madre & nac'io el d<e>lla & esta
 fue la q<u><<a>>rta generac'io<n> q<ue> fue}
 [fol. 18r]
-{RMK: binding error, folios 18r-18v should be between folios 30v-31r in the original sequence}
+{RMK: binding error, folios 18r-18v should be between folios 30v-31r in the original sequence.}
 {CB2.
 cue<r>po & en alma a p<ar>ayso & los otros al enfje<r>-
 no % mas no<n> cuyde[s] tu q<ue> va<n> a p<ar>ayso to-
@@ -2410,7 +2410,7 @@ pues por rrazo<n> delas almas q<ue> agora y (e)
 esta<n> com<m>o q<u><<i>>er q<ue> toda aya<n> conpljmje<n>to de
 bje<n> & de gloria por eso an agora vna me<n>g<u><<a>>
 en sy % E esta es por q<ue> codic'ia<n> ser torna-
-dos alos cue<r>pos donde sali(o)[e]ro<n> p<r><<i>>m<er>o % E esta
+dos alos cue<r>pos donde salioro<n> p<r><<i>>m<er>o % E esta
 codic'ia no<n> la an ellos por q<ue> q<u><<i>>siesen la
 vjda deste mu<n>do mas q<ue>la gl<or>ia del p<ar>ayso %
 mas an lo por q<ue> q<ue>rria<n> q<ue>los cue<r>pos q<ue>les
@@ -2693,7 +2693,7 @@ dar dios galardo<n> de su mal q<ue> ella merec'e
 en<e>l ot<r><<o>> mu<n>do & la fuese dios meter en
 vn cue<r>po de vn <santo> om<br>e % E sy esto a-
 sy fuese luego la justic'ia seria me<n>gua-
-da & la es(c)p<er>a(r)[n]c'a delos bjen<e>s seria vana
+da & la esp<er>a(r)[n]c'a delos bjen<e>s seria vana
 & no<n> valdria nada & la maldat delos ma-
 los pujaria sobre la bondat % & no<n> aueria
 la maldat freno en sy & no<n> aueria y
@@ -4075,7 +4075,7 @@ ma bje<n> asy com<m>o q<u><<a>>ndo pecaro<n> & en a-
 q<ue>lla carne mjsma en q<ue> cada vno
 vjujo en<e>ste mu<n>do & los vnos yra<n> en}
 [...]
-{RMK: 1 folio missing}
+{RMK: 1 folio missing.}
 [fol. 31r]
 {CB2.
 c<r><<i>>ado de casa la rrazon por q<ue> te lo yo dire
@@ -6283,10 +6283,10 @@ durabre la q<u><<a>>l c<r><<i>>atu<r><<a>> nj<n>g<un><<o>> no<n> podria faz<er>
 obra el dia q<ue> q<u><<i>>so nac'er & tomar carne
 dela u<<i>><r>ge<n> <santa> <maria> % E depues q<u><<a>>ndo}
 [fol. 49v]
-{BLNK: blank page}
-{RMK: the text from fol. 49r continues in fol. 50v, there is no interruption or missing text}
+{BLNK: blank page.}
+{RMK: the text from fol. 49r continues in fol. 50v, there is no interruption or missing text.}
 [fol. 50r]
-{BLNK: blank page}
+{BLNK: blank page.}
 [fol. 50v]
 {CB2.
 tomo mue<r>te & pasion e<n>la cruz por q<ue>
@@ -6661,7 +6661,7 @@ los om<br>es q<ue> ta<n> gra<n>de es el poder
 de dios q<ue>l en sy a & asj sabe toda-
 s las cosas q<ue> se cuydan & se fazen & se
 dizen % q<ue> asy com<m>o om<br>e cuyda la co-
-sa en<e>l su corac'o<n> por encobri(r )[+]damje<n>te
+sa en<e>l su corac'o<n> por encobri(r)damje<n>te
 q<ue> se pueda cuydar el luego lo sa-
 be % por ende tengo por maraujlla
 esta<n>do dios ta<n> alto com<m>o esta en<e>l
@@ -7406,7 +7406,7 @@ vjnagre allj pecaro<n> enla p<er>sona del
 esp<iri>tu <santo> & en<e>sta gujsa q<ue> te yo de
 suso djxe pecaro<n> co<n>los c'i<n>co sentidos e<n>la-
 s tres p<er>sonas q<ue> son padre & fiio esp<iri>tu
-<santo>>. {RUB. T<itol><<o>> L<<a>>v<<o>> por q<ue> rrazo<n> dio dios
+<santo>. {RUB. T<itol><<o>> L<<a>>v<<o>> por q<ue> rrazo<n> dio dios
 a moysen e<n> esc<r>ito enlas tabras dela
 ley los diez ma<n>damje<n>tos}
 {IN3.} Pr<e>gu<n>to el dec'jpulo al ma<estr><<o>> & dj-
@@ -7561,7 +7561,7 @@ Alma del om<br>e & se tuelle dela}
 {CB2.
 mala carr<er>a % E se torna abuena
 & de tenjebra va a claridat por este a-
-lu<n>bramje<n>to {RUB. T<itol><o>> L<<a>> vj<<o>> por q<ue> rrazo<n>
+lu<n>bramje<n>to {RUB. T<itol><o> L<<a>>vj<<o>> por q<ue> rrazo<n>
 sson eua<n>geljstas q<u><<a>>t<r><<o>> & no<n> mas
 nj<n> menos.}
 {IN3.} Pr<e>gu<n>to el dec'jpulo asu ma<estr><<o>> &
@@ -7661,7 +7661,7 @@ dia nj<n> de noche de dez<ir> <santos>
 <santos> <santos> dios Sen<n>or q<ue> eras
 poderoso & q<ue> seras por sjenp<r><<e>> jamas}
 [...]
-{RMK: 1 folio missing}
+{RMK: 1 folio missing.}
 [fol. 63r]
 {CB2.
 [res]ponderte he lo mejor q<ue> yo sopier &
@@ -8041,7 +8041,7 @@ c'io<n> q<ue>te yo fago ala dema<n>da q<ue>me
 tu fezjeste. {RUB. T<itol><<o>> L<<a>>x por q<ue> se faze
 el fruto del arbol del ljmo<n> q<ue> esta
 de yuso dela corteza agro & frio
-no<n> dulc'e nj<n> caljent<e> segu<n>t su natu<r><<a>>}
+no<n> dulc'e nj<n> caljent<e> segu<n>t su natu<r><<a>>}}
 {CB2.
 {IN3.} Dixo el dec'ipulo a su
 ma<estr><<o>> rruegote q<ue>me
@@ -9123,7 +9123,7 @@ q<ue> yazen & corre<n>las co<n> galgos
 por q<ue> son bestigolos muy pesa-
 dos & no<n> ha<n> co<n> q<ue> se defienda<n>}
 [...]
-{RMK: 1 folio missing}
+{RMK: 1 folio missing.}
 [fol. 77r]
 {CB2.
 a en aq<ue>lla comarca todas vjene<n>
@@ -9570,7 +9570,7 @@ dalq<u><<i>>uj[r] aca contra castiella & co<n>-tra}
 {CB2.
 t<ie>rra de leo<n> son los gamos & las
 c'ie<r>uas & las cornejas % E a seme-
-janc'a desto q<ue>te ya he dich<o>> son p<ar>tj-
+janc'a desto q<ue>te ya he dich<o> son p<ar>tj-
 das las ot<r><<a>>s t<ie>rras en aues & en be-
 stias & en pec'es. {RUB. T<itol><<o>> L<<a>>xviij<<o>>
 por q<ue> rrazo<n> son las aues mas
@@ -9979,7 +9979,7 @@ stomagos te q<u><<i>>ero yo agora dez<ir>
 % dos estomagos a<n> apegados el vno
 co<n> el ot<r><<o>> & aq<ue>llo q<ue> come<n> va p<rimer><<o>> al vno
 & yaze y ta<n>to fasta q<ue>l ot<r><<o>> ha fe-
-cho su sotollo en moler lo % E des
+cho su (sotollo) [curso] en moler lo % E des
 q<ue>lo ha bje<n> moljdo enbjalo al ot<r><<o>> & mue-
 le se y otra vegada % E por ende
 p<ar>a mje<n>t<e>s & veras q<ue> aq<ue>llas anjmaljas
@@ -10931,7 +10931,7 @@ as q<ue>la c<r><<i>>atu<r><<a>> della desq<ue> nac'e q<ue> du-
 erme co<n>los ojos abje<r>tos. {RUB. T<itol><<o>>
 L<<a>>xxxvij<<o>> delos suen<n>os q<ue> sue-
 n<n>a<n> los om<br>es.}
-{IN3.}Pregu<n>to el dec'ipulo rru-
+{IN3.} Pregu<n>to el dec'ipulo rru-
 egote maest<r><<o>> q<ue> me dj-
 gas los suen<n>os q<ue> sue-
 n<n>a<n> los om<bre>s sj son u<er>dad<er>os o
@@ -11076,8 +11076,7 @@ el ssuen<n>o q<ue> om<br>e suen<n>a p<ar>a ser ver-
 dad<er>o ha meste<r> q<ue> par<e>s mjent<e>s q<u><<a>>ntas
 cosas te yo agora djre % la p<r><<i>>m<er>a
 q<u><<i>>en es aq<ue>l q<ue>lo suen<n>a % la ij<<a>>}
-{CW. com<m>o es om<br>e
-tenp<r><<a>>do}
+{CW. com<m>o es om<br>e tenp<r><<a>>do}
 [fol. 94r]
 {CB2.
 com<m>o es om<br>e tenp<r><<a>>do en su comer
