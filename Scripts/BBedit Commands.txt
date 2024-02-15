@@ -3,3 +3,4 @@ Useful BBEdit commands
 \A # find the beginning of a string or document
 \Z # same, but ending
 \n # line jump
+@\w+>.*?@ # finds words without opening <. Replace @ for a space (with Grep)
