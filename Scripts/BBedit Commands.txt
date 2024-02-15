@@ -4,4 +4,4 @@ Useful BBEdit commands
 \Z # same, but ending
 \n # line jump
 @\w+>.*?@ # finds words without opening '<'. Replace @ with a space (with Grep)
-@\w+<\w+[^>][a-zA-Z`] # finds words without closing '>'. Replace @ with a space (with Grep)
+@\w+<\w-[^>][a-zA-Z`] # finds words without closing '>'. Replace @ with a space (with Grep)
