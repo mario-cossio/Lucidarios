@@ -885,7 +885,7 @@ ntura estjendese & torna a
 su estado & semeja a nos q<ue>
 cresc'e {RUB. T<itol><<o>> segu<n>do de q<ue> fizo
 dios el sol & la luna.}
-{BLNK: 4 lines}
+{BLNK: 4 lines.}
 {IN3.} Dema<n>do el dic'ipulo
 maest<r><<o>> pues q<ue>me
 as dicho las p<ro>pie-
