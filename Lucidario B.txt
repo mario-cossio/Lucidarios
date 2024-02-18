@@ -88,7 +88,6 @@ sar en sy.} {AD. [^1#a xxv.]}
 figu<r><<a>> p<ar>a sy ant<e> de pa<n> q<ue> de otra cosa} {AD. [^1#a xxvj.]}
 {RUB. T<itol><<o>> xxvj<<o>> por q<ue> rrazo<n> p<ar>te<n> el cue<r>po
 de dios en tres p<ar>tes.} {AD. [^1#a xxviij<<o>>.]}}
-{AD. [^2#Rogamos vos vmildisimos nos q<ue> ¶ la]}
 [fol. 1v]
 {CB2.
 {AD. [^1#a xxx.]} {RUB. T<itol><<o>> xxvij<<o>> en com<m>o el dec'iplo rrogo al
@@ -272,7 +271,8 @@ viscos de vna cosa dos.} {AD. [^1#a cviij]}
 cansado trae la boca c'errada & echa
 la espuma por las naric'es.}
 {AD. [^1#{RUB. T<itol><<o>> de la estoria de sant amador
-de com<m>o fue muy <santo> ???} a cx]}}
+de com<m>o fue muy <santo> varo<n>}
+a cxi]}}
 [fol. 3r]
 {CB2.
 {IN5.} EN el no<n>bre de dios ame<n>
@@ -697,6 +697,7 @@ o el t<er>c'io neg<r><<o>> & lo al claro %
 rrespondio el maest<r><<o>> yo te lo dire
 aq<ue>lla mengua q<ue> vje<n> en<e>l sol}
 [fol. 6r]
+{HD. \ vij}
 {CB2.
 no<n> es me<n>gua q<ue> venga dela claridat de dios
 mas es dela luna q<ue> se para ant<e> nos &
@@ -842,6 +843,7 @@ maest<r><<o>> pues q<ue> tu dic'es aq<u><<i>> q<ue> la lu-
 na no<n> crec'e q<u><<a>>nto en sy es mas lu<n>-
 bre q<ue> ella a del sol es lo q<ue> crec'e}
 [fol. 7r]
+{HD. \ viij<<o>>}
 {CB2.
 & lo q<ue> mengua pues sy ella no<n> crec'e nj<n>
 me<n>gua en sy % por q<ue> me<n>gua & crec'e<n>
@@ -984,6 +986,7 @@ vj<er>emos estas maraujllosas cosas
 noche q<ue> vengamos a conosc'er lo por
 aq<ue>llas sus obras % E por q<ue> conosc'emos}
 [fol. 8r]
+{HD. \ jx}
 {CB2.
 q<ue> asy com<m>o fue fazedor q<ue> asy a poder delo
 desfazer al t<ien>po & sazon q<ue>l toujere por
@@ -1412,6 +1415,7 @@ grandez & el su poder q<ue> a todo
 da rrecabdo & abondamjento % ca
 bje<n> vez tu q<ue> sy el estodiese}
 [fol. 11r]
+{HD. \ xij}
 {CB2.
 com<m>o om<br>e terrenal en vn logar & no<n>
 en otro en aq<ue>l a do el estodiese se-
@@ -1551,6 +1555,7 @@ zon la t<r><<i>>njdat es de tres
 p<er>sonas no<n> demas nj<n> de me-
 nos.}}
 [fol. 12r]
+{HD. \ xiij<<e>>}
 {CB2.
 {IN3.} Dixo el dic'ipulo maest<r><<o>> rrue-
 gote q<ue>me digas por q<ue>
@@ -1836,6 +1841,7 @@ ue<r>gue<n>c'a delo q<ue> traya cada vno
 dellos consigo % & depues q<ue> fueron
 fuera del parayso se ayu<n>to el}
 [fol. 14r]
+{HD. \ xv}
 {CB2.
 vno al otro por faz<er> engendramje<n>to
 & de allj adelant<e> oujero<n> sus fiios %
@@ -1984,6 +1990,7 @@ q<ue> com<m>o q<u><<i>>er q<ue> parec'ia q<ue> allj esta-
 ua el enc'errado en todo estaua
 el bje<n> com<m>o ant<e> % q<ue> por aq<ue>llo no<n>}
 [fol. 15r]
+{HD. \ xvj}
 {CB2.
 se me<n>guaua el su poder nj<n> la su g<r><<a>>ndez
 % E alo al q<ue>me dema<n>daste delas tres
@@ -2124,6 +2131,7 @@ jh<es>u xp<ist>o.}
 [...]
 {RMK: 1 folio missing.}
 [fol. 16r]
+{HD. \ xviij<<o>>}
 {CB2.
 nos mas de q<u><<a>>nto es q<ue> tal fue
 la su m<er>c'ed del q<ue>nos q<u><<i>>so dexar
@@ -2256,6 +2264,7 @@ nj<n>guna cosa mas q<u><<i>>ero q<ue> sepas
 aq<u><<i>> en este lugar vna cosa %
 E todas las cosas q<ue> dios fizo}
 [fol. 17r]
+{HD. \ xjx}
 {CB2.
 en todas conto el dos t<ien>pos el (^t<ien>po)
 t<ien>po p<r><<e>>sente q<ue> q<u><<i>>er dez<ir> de lue-
@@ -2391,6 +2400,7 @@ dat q<ue> auja en<e>sta mug<er> q<u><<i>>so la fa-
 z<er> su madre & nac'io el d<e>lla & esta
 fue la q<u><<a>>rta generac'io<n> q<ue> fue}
 [fol. 18r]
+{HD. \ xxxij}
 {RMK: binding error, folios 18r-18v should be between folios 30v-31r in the original sequence.}
 {CB2.
 cue<r>po & en alma a p<ar>ayso & los otros al enfje<r>-
@@ -2521,6 +2531,7 @@ ste sentido del oyr mas q<ue> otra a<n>i-
 malja alg<un><<a>> sen<n>alada me<n>te lo ha mas
 el jaualj q<ue> otro nj<n>gu<n>d pue<r>co q<ue> es}
 [fol. 19r]
+{HD. \ xx}
 {CB2.
 departida de las ot<r><<a>>s tres q<ue> te ya dixe de
 ada<n> q<ue> fue la p<r><<i>>m<er>a & de eua q<ue> fue la
@@ -2784,6 +2795,7 @@ mal % E esto se entjende por
 galardon q<ue> da dios al om<br>e segu<n>t
 la obra q<ue>l faze por los sus}
 [fol. 21r]
+{HD. \ xxij}
 {CB2.
 ang<e>l<e>s bonos & por los malos % E se-
 gu<n>d las obras q<ue> cada vno destos
@@ -2913,6 +2925,7 @@ smo es gustar q<ue> es suyo p<ro>pio
 dela lengua q<ue> asy com<m>o lo ella
 gosta faze faze<r> el co<n>tenje<n>te}
 [fol. 22r]
+{HD. \ xxiij}
 {CB2.
 al om<br>e sy es dulc'e o amargo & demas
 dizelo ella mjsma % Otrosy acae-
@@ -3044,6 +3057,7 @@ tos & ochoc'ientos & Nueuec'ie<n>tos
 mjll an<n>os & dende ayuso com<m>o
 les dios ordenaua a cada vno}
 [fol. 23r]
+{HD. \ xxiiij}
 {CB2.
 com<m>o fuese su vida % pues p<ar>a mje<n>t<e>s
 q<ue> taman<n>a es la mala ventura del
@@ -3170,6 +3184,7 @@ dios no<n> ha p<r><<a>>zer nj<n> pesar en sy
 mjsmo saluo por dos cosas % la
 p<r><<i>>m<er>a es q<ue>le pesa mucho de todo}
 [fol. 24r]
+{HD. \ xxv}
 {CB2.
 om<br>e q<ue> es su c<r><<i>>atu<r><<a>> por q<ue> se da amalas
 obras por encjmar mal su t<ien>po & sus dias
@@ -3298,6 +3313,7 @@ pa<n> fallamos nos q<ue> ha naturas
 om<br>e a ot<r><<a>> cosa nj<n>g<un><<a>> q<ue> sobre
 t<ie>rra sea & q<u><<i>>ero te dez<ir> q<u><<a>>l es}
 [fol. 25r]
+{HD. \ xxvj}
 {CB2.
 la p<r><<i>>m<er>a fallamos q<ue> de todas aq<ue>llas co-
 sas q<ue>se guarda<n> p<ar>a senbrar q<ue> sy pasa
@@ -3428,6 +3444,7 @@ es q<ue> toda carne q<ue> a de nac'er es
 mue<r>ta fasta q<ue> ent<r><<a>> la alma
 en<e>lla & le da vjda % la segu<n>da}
 [fol. 26r]
+{HD. \ xxvij}
 {CB2.
 vega<<da>> fue q<u><<a>>ndo yazia mue<r>to &
 soterrado en<e>l sepulcro q<ue> era
@@ -3558,6 +3575,7 @@ la mjsa por u<<i>><r>tud de aq<ue>llas
 palabras <santas> fazese por tres
 cosas % la p<r><<i>>m<er>a por dar gr<ac'i>as}
 [fol. 27r]
+{HD. \ xxviij<<o>>}
 {CB2.
 a dios conplidas por las almas de los <santos> q<ue>
 son en p<ar>ayso % la segu<n>da por los
@@ -3692,6 +3710,7 @@ el pa<n> co<n>la vna mano & bendjxo
 lo & dio gr<ac'i>as al su padre % djxo
 este es el mj cue<r>po q<ue> yo do}
 [fol. 28r]
+{HD. \ xxix}
 {CB2.
 por vos en rremjsio<n> de v<uest>ros pecados % asy
 p<ar>tio g<e>lo & dio g<e>lo a comer por q<ue> fuese<n>
@@ -3820,6 +3839,7 @@ q<ue> rrazo<n> llamara dios al juyzio
 alas almas q<ue> esta<n> en p<ar>ayso &
 alas del jnfierno.}}
 [fol. 29r]
+{HD. \ xxx}
 {CB2.
 {IN3.} Pr<e>gu<n>to el dec'ipulo ma<estr><<o>> rruegote q<ue>me
 digas por q<ue> rrazon llamara dios
@@ -3945,6 +3965,7 @@ c'o<n> % E q<u><<i>>erote dez<ir> las u<<i>><r>tudes
 q<ue> ha delo vno & la u<<i>><r>tudes q<ue>
 ha delo al % la lengua a en sy}
 [fol. 30r]
+{HD. \ xxxj}
 {CB2.
 q<u><<a>>tro cuerdas q<ue> son fechas com<m>o rrayzes
 & son de nerujos mas no<n> de nerujos de na-
@@ -4077,6 +4098,7 @@ vjujo en<e>ste mu<n>do & los vnos yra<n> en}
 [...]
 {RMK: 1 folio missing.}
 [fol. 31r]
+{HD. \ xxxiij}
 {CB2.
 c<r><<i>>ado de casa la rrazon por q<ue> te lo yo dire
 agora es esta % el pue<r>co de casa q<ue> es y
@@ -4203,6 +4225,7 @@ del mu<n>do q<ue> a de faz<er> q<ue> todas las faze
 tan<n>je<n>do muy sotil mjent<e> e<n>la pella en
 q<ue> ella vjene ella la vrde & la faze}
 [fol. 32r]
+{HD. \ xxxiiij<<o>>}
 {CB2.
 tan<n>je<n>do co<n>las c'ancas q<ue> tje<n> en logar
 de manos % rrespondio el dec'ipulo ma<estr><<o>>
@@ -4449,6 +4472,7 @@ contra lo q<ue>l fizo no<n> ha natura sin
 ot<r><<a>> cosa nj<n>g<un><<a>> q<ue> y pueda pone<r> rrazo<n>
 ca el es sobre la natu<r><<a>> % E por esta}
 [fol. 34r]
+{HD. \ xxxvj}
 {CB2.
 rrazon fincara de aq<ue>l dia en delant<e> la t<ie>rra
 sin generac'io<n> delas c<r><<i>>aturas q<ue> agora a en
@@ -5078,6 +5102,7 @@ el n<uest>ro sen<n>or por tres cosas q<u><<a>>l<e>s te yo a-
 gora djre % la p<r><<i>>m<er>a p<ar>a mostrar el su poder
 % la segu<n>da por q<ue> vjesemos el su poder}
 [fol. 39r]
+{HD. \ xlj}
 {CB2.
 % la t<er>c'era por au<er> dep<ar>tjmje<n>to en com<m>o
 c<r><<i>>a & faz las almas de no<n> nada
@@ -5548,6 +5573,7 @@ las ot<r><<a>>s almas % ca p<ar>a mjent<e>s e<n>la
 de judas escariote q<ue> fue dec'jpulo
 de n<uest>ro sen<n>or q<u><<a>>ndo dios fizo la}
 [fol. 43r]
+{HD. \ xlv}
 {CB2.
 su alma ta<n> bje<n> aq<ue>l sen<n>or q<ue> fue c<r><<i>>ador della
 el mal & trayc'io<n> q<ue> auja de faz<er> co<n>tra
@@ -5664,6 +5690,7 @@ su soberuja & por desconoc'enc'ia
 de dios [%] E por ende q<u><<a>>ntas an
 aujdo desde q<ue> el mu<n>do come<n>c'o}
 [fol. 44r]
+{HD. \ xlvj}
 {CB2.
 aca agora digamos q<ue> son aq<ue>ll-
 as siellas ya llenas de tanta
@@ -5892,6 +5919,7 @@ tres p<er>sonas & vn dios % ca pu-
 es todos los cue<r>pos ffueron}
 {CW. glorificadas}
 [fol. 46r]
+{HD. \ xlviij<<o>>}
 {CB2.
 glorifjcadas por ta<n> abondado se
 terna de aq<ue>l bje<n> de p<ar>ayso el vno
@@ -6006,6 +6034,7 @@ asy los a<n>g<e>l<e>s q<ue> son esp<iri>tus aue-
 ra<n> gloria co<n>plida q<u><<a>>l co<n>uje<n> ala
 man<er>a delos esp<iri>tus angeljcos. %}
 [fol. 47r]
+{HD. \ xljx}
 {CB2.
 {RUB. T<itol><<o>> XL<<a>>v<<o>> si las almas del p<ar>ayso
 ve<n> las del jnfierno & alas q<ue> jazen
@@ -6121,6 +6150,7 @@ c'en mas el vje<n> q<ue> ellas a<n> a dios
 en q<ue> son tal<e>s q<ue> merec'ioro<n> a-
 u<er> aq<ue>l vje<n> % E tiene<n> por mal}
 [fol. 48r]
+{HD. \ l}
 {CB2.
 aue<n>turadas alas otras del jnfie<r>no &
 por q<ue>no<n> oujoro<n> aq<ue>lla carr<er>a q<ue> oujese
@@ -6229,6 +6259,7 @@ seso nj<n> por letura q<ue> aya en
 sy a de ser la fjn en ant<e>s
 q<ue>la hedat sea conplida o de-pues}
 [fol. 49r]
+{HD. \ lj}
 {CB2.
 q<ue> fuese conp<r><<i>>da o en<e>l comjenc'o
 della o auje<n>do a come<n>c'ar otra hedat
@@ -6286,6 +6317,7 @@ dela u<<i>><r>ge<n> <santa> <maria> % E depues q<u><<a>>ndo}
 {BLNK: blank page.}
 {RMK: the text from fol. 49r continues in fol. 50v, there is no interruption or missing text.}
 [fol. 50r]
+{HD. \ lij}
 {BLNK: blank page.}
 [fol. 50v]
 {CB2.
@@ -6341,6 +6373,7 @@ aujamos a uenjr en pos ellos
 % E esto fue en<e>l dia de
 c'jncuesma q<ue> cae sjenp<r><<e>> en}
 [fol. 51r]
+{HD. \ liij}
 {CB2.
 diomjngo % E com<m>o q<u><<i>>er q<ue> fizo q<ue>
 enlas p<r><<a>>netas aya<n> en cada vna de-
@@ -6567,6 +6600,7 @@ nu<n>ca la faze sjno<n> q<u><<a>>ndo tje<n> el
 cuerpo aparejado en q<ue>la pone %
 ca nu<n>ca (^dios) dios c<r><<i>>a la alma en}
 [fol. 53r]
+{HD. \ lv}
 {CB2.
 (en) balde ca p<ar>a aq<ue>l cue<r>po q<ue>la c<r><<i>>a a so
 ora ley pone % desq<ue> el cue<r>po co<n>plj-
@@ -6797,6 +6831,7 @@ enta<n> las vjdas delos padres <santos>
 dellos assy com<m>o djze la pala-
 bra dela esc<r><<i>>ptura [%] {LAT. ta<n>c<u>a<m> au(e)ru<m>}}
 [fol. 55r]
+{HD. \ lvij}
 {CB2.
 {LAT. (&) [in] fornac'e p<ro>baujt eletus do<mi>n<u>s} % q<ue>
 q<u><<i>>er dez<ir> asy com<m>o el oro se apura
@@ -6911,6 +6946,7 @@ sas q<u><<a>>ndo el q<u><<i>>er fazer obra de mj-
 rraglo q<ue> es sobre toda natu<r><<a>> acaes-
 c'io % muchas vegadas q<ue> por el}
 [fol. 56r]
+{HD. \ lviij<<o>>}
 {CB2.
 su mjrag<r><<o>> enbja gr<ac'i>a sen<n>alado sobre
 alma de algu<n>d om<br>e por la q<u><<a>>l gr<ac'i>a
@@ -7023,6 +7059,7 @@ jaze q<ue> por esta rrazon no<n> pue-
 de conoc'er angel nj<n> otra alma
 mague<r> q<ue> son de vna natura}
 [fol. 57r]
+{HD. \ ljx}
 {CB2.
 nol parec'e jn figura de cue<r>po asj
 com<m>o ella jaze en cue<r>po % E por
@@ -7133,6 +7170,7 @@ lo tuelle delas penas del jnfi-
 erno q<ue> son sin fjn de t<ien>po
 Segu<n>d q<ue> dize job {LAT. q<ui><<a>> i<n> i<n>firno}}
 [fol. 58r]
+{HD. \ lx}
 {CB2.
 {LAT. n<u>lla es rredenc'i(a)[o]} q<ue> q<u><<i>>er dez<ir> q<ue> en<e>l jn-
 fierno no<n> ha nj<n>gu<n>t rremedio %
@@ -7239,6 +7277,7 @@ ese fin & esta fin se co<n>ujene q<ue>
 venjese dios a julgar el mu<n>do
 por q<ue> allj se acabase todo %}
 [fol. 59r]
+{HD. \ lxj}
 {CB2.
 por ende p<ar>a parec'er el al juyzio co<n>-
 vje<n> q<ue> figura oujese p<ar>a conoc'er
@@ -7346,6 +7385,7 @@ pasara {RUB. T<itol><<o>> L<<a>>iiij<<o>> si p<r><<i>>siera
 dios mue<r>te e<n>la cruz sj ada<n>
 & eua no<n> pecara<n>.}}
 [fol. 60r]
+{HD. \ lxij}
 {CB2.
 {IN3.} Pr<e>gu<n>to el dec'jpulo a su ma<estr><<o>>
 & dixol ma<estr><<o>> rruegote q<ue>me
@@ -7452,6 +7492,7 @@ bondat q<ue> auja fecho en ellos
 rdasen & ma<n>damje<n>tos q<ue> toujesen %
 E por q<ue> estonc'e los fiios de ys-rrael}
 [fol. 61r]
+{HD. \ lxiij}
 {CB2.
 no<n> auja<n> ot<r><<o>> rrey nj<n> ot<r><<o>> sen<n>or
 ssjno<n> dios & dela su mano moysen
@@ -7558,6 +7599,7 @@ por los q<u><<a>>l<e>s dones se alu<n>bra la
 Alma del om<br>e & se tuelle dela}
 {CW. mala carr<er>a}
 [fol. 62r]
+{HD. \ lxiiij<<o>>}
 {CB2.
 mala carr<er>a % E se torna abuena
 & de tenjebra va a claridat por este a-
@@ -7663,6 +7705,7 @@ poderoso & q<ue> seras por sjenp<r><<e>> jamas}
 [...]
 {RMK: 1 folio missing.}
 [fol. 63r]
+{HD. \ lxvj}
 {CB2.
 [res]ponderte he lo mejor q<ue> yo sopier &
 fazer lo he por dos cosas % la p<rimer><<a>> por
@@ -7765,6 +7808,7 @@ de buetres & de pauon<e>s &
 de ansar<e>s & de ot<r><<a>>s aues
 q<u><<a>>l<e>s q<u><<i>>er q<ue> sea<n> % E por}
 [fol. 64r]
+{HD. \ lxvij}
 {CB2.
 vna pen<n>ola sen<n>era de agujla
 q<ue> echen entre ellas sera<n> comj-
@@ -7865,6 +7909,7 @@ en vna t<ie>rra com<m>o en otra
 % rrespondio el ma<estr><<o>> bona dema<n>-
 da me has fecha E muy}
 [fol. 65r]
+{HD. \ lxviij}
 {CB2.
 sotil % lo mejor q<ue> yo sopier yo te
 rrespondere a ella segu<n>d mj e<n>tendjmj-
@@ -7970,6 +8015,7 @@ q<ue>te rresponda amuchas dema<n>-
 das q<ue>me fazes alas q<u><<a>>l<e>s o-
 tro mejor maest<r><<o>> q<ue> yo auria}
 [fol. 66r]
+{HD. \ lxix}
 {CB2.
 asaz q<ue> rresponder & auria mucho
 q<ue> cuydar en<e>llo % mas pues
@@ -8068,6 +8114,7 @@ fermosa dema<n>da segu<n>t natu<r><<a>>
 der a ella natural me<n>te %
 Tu deues saber q<ue> cada vno}
 [fol. 67r]
+{HD. \ lx}
 {CB2.
 destos arbol<e>s q<ue>te agora djxe a<n> en
 sy en<e>l tronco del arbol tres natu<r><<a>>s
@@ -8174,6 +8221,7 @@ das estas cosas de u<<i>><r>tud por el
 poder de dios ta<n> bje<n> alas
 vnas com<m>o alas otras por q<ue>la}
 [fol. 68r]
+{HD. \ lxxj}
 {CB2.
 obra de cada vna paresca en su
 logar % E la rrazon por q<ue> es
@@ -8277,6 +8325,7 @@ los pies de delant<r><<e>> & depues los
 c'agueros en pos ellos bje<n> asy
 fazen las aues de p<rimer><<o>> mueue<n>}
 [fol. 69r]
+{HD. \ lxxij}
 {CB2.
 las alas & depues las pie<r>nas en
 pos ellas % Por esta rrazon cada
@@ -8592,6 +8641,7 @@ el frio enla t<ie>rra fria q<ue> por
 g<r><<o>>sedat q<ue> aya en sy no<n> se
 puede sofrir & a la carne mas}
 [fol. 72r]
+{HD. \ lxxv}
 {CB2.
 muelle q<ue> ot<r><<o>>s om<bre>s % por eso les es
 defendido q<ue>no<n> coma<n> carne de pu-
@@ -8697,6 +8747,7 @@ es sesudo & mas sabjdor
 saber q<ue> nj<n>g<un><<a>> cosa no<n> puede
 p<r><<e>>nder nj<n> puede nac'er en<e>l lo-gar}
 [fol. 73r]
+{HD. \ lxxvj}
 {CB2.
 q<ue> no<n> es p<ar>a ello % ca al a-
 rbor derribar lo ya el vjento
@@ -8907,6 +8958,7 @@ vja co<n> el co<n>sentjmje<n>to de
 dios % E este acordamjento
 se faze en<e>sta g<u><<i>>sa el vjuo}
 [fol. 75r]
+{HD. \ lxxviij<<o>>}
 {CB2.
 q<u><<i>>erelo & a ende saber & el mue<r>to a lo me-
 ster % ca en aq<ue>l aparejamje<n>to q<ue> pare-
@@ -9014,6 +9066,7 @@ delas ot<r><<a>>s c<r><<i>>aturas del mu<n>do no<n> a<n>
 conoc'enc'ia del conoc'er el ang<e>l
 bono q<ue> es esp<iri>tu & figu<r><<a>> de dios}
 [fol. 76r]
+{HD. \ lxxjx}
 {CB2.
 q<ue> conoc'er ot<r><<o>>sy el ang<e>l malo q<ue> es dj-
 abro enfernal sjno<n> la alma del om<br>e
@@ -9125,6 +9178,7 @@ dos & no<n> ha<n> co<n> q<ue> se defienda<n>}
 [...]
 {RMK: 1 folio missing.}
 [fol. 77r]
+{HD. \ lxxxj}
 {CB2.
 a en aq<ue>lla comarca todas vjene<n>
 a ferir la por rrazon delos ojos
@@ -9235,6 +9289,7 @@ sar vna sardjna o vn pescado
 peq<ue>n<n>o % por ende te rruego q<ue>}
 {CW. me tir<e>s esta}
 [fol. 78r]
+{HD. \ lxxxij}
 {CB2.
 (q<ue>) me tir<e>s esta dubda & me digas
 q<ue> es esto o por q<ue> es % rrespondio
@@ -9343,6 +9398,7 @@ alta com<m>o sj fuese nebrina % E
 (E) por eso conoc'e<n> las atalayas
 q<ue> son ballenas & fazen luego}
 [fol. 79r]
+{HD. \ lxxxiij}
 {CB2.
 sen<n>al a los marin<er>os q<ue> se rrecoja<n> alos
 batel<e>s p<ar>a y matar la % E el p<rimer><<o>> q<ue>la
@@ -9455,6 +9511,7 @@ aues c<r><<i>>an q<u><<i>>erote fabrar dela ij<<a>>
 cosa q<ue>te dixe del ayre segu<n>t
 q<ue> es e<n>la t<ie>rra do ellos mora<n>}
 [fol. 80r]
+{HD. \ lxxxiiij<<o>>}
 {CB2.
 El ayre dela t<ie>rra fallamos nos
 q<ue> es de todas estas natu<r><<a>>s q<ue>te yo
@@ -9567,6 +9624,7 @@ nu<n>ca fallaredes gamo nj<n> corneja
 mas ay c'ie<r>uos & corc'os % E de gua-
 dalq<u><<i>>uj[r] aca contra castiella & co<n>-tra}
 [fol. 81r]
+{HD. \ lxxxv}
 {CB2.
 t<ie>rra de leo<n> son los gamos & las
 c'ie<r>uas & las cornejas % E a seme-
@@ -9682,6 +9740,7 @@ aue ha los cochjellos muy lue<n>gos
 (^ca) ca los cochjellos lue<n>gos an se
 a dobrar por fuerc'a en<e>l bolar %}
 [fol. 82r]
+{HD. \ lxxxvj}
 {CB2.
 E por eso no<n> se puede ela aue a-
 fjrmar muy rrec'io sobre ellas q<ue> a
@@ -9796,6 +9855,7 @@ sa p<ar>a aq<ue>l bestigolo q<ue>la ha com<m>o
 es esta ot<r>a sang<r><<e>> p<ar>a nos u<er>meja
 pues a<n> vjda por ella.}
 [fol. 83r]
+{HD. \ lxxxvij}
 {CB2.
 {RUB. T<itol><<o>> L<<a>>xx las aues q<ue> cac'a<n> asi com<m>o
 ac'or<e>s & falcones & gaujlanes.}
@@ -10023,6 +10083,7 @@ secas de natu<r><<a>> q<ue> no<n> las c'ie<r>uas
 nj<n> las ouejas nj<n> aq<ue>llas ot<r><<a>>s anj-
 maljas q<ue> son de natu<r><<a>> de c'ie<r>uos}
 [fol. 85r]
+{HD. \ lxxxix}
 {CB2.
 las vacas & las cabras % lo p<rimer><<o>> por q<ue>la
 humjdat es espesa q<ue> an en<e>l meollo
@@ -10138,6 +10199,7 @@ semeja<n>c'a del om<br>e aq<ue> taja<n> el
 cue<r>po por do pie<r>de la sang<r><<e>> dela
 humjdat del cue<r>po % E esto}
 [fol. 86r]
+{HD. \ xc}
 {CB2.
 puedes tu ver por la figuera q<ue> al
 t<ien>po q<ue> ella comje<n>c'a a rreu<er>dec'er p<ar>a fa-
@@ -10251,6 +10313,7 @@ tadas an muy gra<n> mjedo della
 mjedo q<ue> ha el om<br>e q<ue> esta a pie
 de vna torre del q<ue> esta enc'ima}
 [fol. 87r]
+{HD. \ xcj}
 {CB2.
 q<ue>lo q<u><<i>>er ferir co<n> alg<un><<a>> cosa q<ue>le heche
 de suso % E no<n> co<n>tesc'e esto ta<n>
@@ -10362,6 +10425,7 @@ q<ue> ha el corac'o<n> (^muy) muy caljent<e>
 ademas % E por la muy (^cal) gra<n>
 calentu<r><<a>> sobeja q<ue> en<e>l su corac'on}
 [fol. 88r]
+{HD. \ xcij}
 {CB2.
 a el ardjmje<n>to & la fortaleza q<ue> es e<ne>l
 % E por q<ue>la calentu<r><<a>> del su corac'o<n> tj-
@@ -10471,6 +10535,7 @@ gra<n> calentura q<ue> an en sy de q<ue>se
 c<r><<i>>an aq<ue>llas palonbas & an aq<ue>l froxel
 % ca todas estas palonbas duendas}
 [fol. 89r]
+{HD. \ xciij}
 {CB2.
 son mas caljent<e>s q<ue>las ot<r><<a>>s por las rrazo-
 nes q<ue>te yo agora dire % lo p<rimer><<o>> q<ue> a<n> la
@@ -10593,6 +10658,7 @@ q<ue>las ljebres son p<r><<e>>n<n>adas % E q<u><<a>>ndo
 matar<e>s la lj[e]bre desfuellala & falla-
 ras en<e>lla q<ue> sera macho & terna fijos}
 [fol. 90r]
+{HD. \ xciiij<<o>>}
 {CB2.
 en<e>l vjent<r><<e>> % E por eso djxo aristotiles e<ne>l
 ljbro delas anjmaljas q<ue>las ljebres a<n> cada
@@ -10708,6 +10774,7 @@ ujese leonas & entre los caua-
 llos yeguas & entre los toros q<ue>
 oujese y vacas por q<ue> se c<r><<i>>a se}
 [fol. 91r]
+{HD. \ xcv}
 {CB2.
 de cada vna natu<r><<a>> su generac'io<n> % E por q<ue>
 los mulas & las mulas son de ot<r><<a>> natu<r><<a>>
@@ -10825,6 +10892,7 @@ mas q<ue> ot<r><<o>>s om<bre>s % esto puedes ver
 por las aues q<ue>no<n> dec'ende la su humj-
 dat delas rrodjellas ayuso % E}
 [fol. 92r]
+{HD. \ xcvj}
 {CB2.
 Por eso a<n> las pje<r>nas mas secas q<ue>
 ot<r><<a>>s anjmaljas % otro sy por eso vjue<n>
@@ -10943,6 +11011,7 @@ rria saber q<ue> es o por q<ue> es %
 rrespondio el m<aestr><<o>> tu me dema<n>da-
 ste f<er>mosa dema<n>da e muy sotil}
 [fol. 93r]
+{HD. \ xcvij}
 {CB2.
 E q<u><<i>>erote rrespo<n>der a ella % E por
 (^ende) eso q<u><<i>>ero q<ue> sepas q<ue> suen<n>o q<u><<i>>er
@@ -11078,6 +11147,7 @@ cosas te yo agora djre % la p<r><<i>>m<er>a
 q<u><<i>>en es aq<ue>l q<ue>lo suen<n>a % la ij<<a>>}
 {CW. com<m>o es om<br>e tenp<r><<a>>do}
 [fol. 94r]
+{HD. \ xcviij<<o>>}
 {CB2.
 com<m>o es om<br>e tenp<r><<a>>do en su comer
 & en su beuer [%] la t<er>c'era q<ue> son las
@@ -11189,6 +11259,7 @@ man<n>a [%] E esto es por q<ue> esta ma<<s>>
 lexos de nos ca esta mas alta [%] E
 estas syete p<r><<a>>netas de q<ue> te he fabra-do}
 [fol. 95r]
+{HD. \ xcjx}
 {CB2.
 esta<n> ordenadas e<n>los c'ielos a seme-
 janc'ia del rrey co<n> sus ofic'ial<e>s [%] ca
@@ -11306,6 +11377,7 @@ alma arriba al c'ielo & fjnca el
 cue<r>po tornado en su t<ie>rra segu<n>t
 las palabras q<ue> dize en<e>l ofizio}
 [fol. 96r]
+{HD. \ c}
 {CB2.
 de <santa> ygl<es>ia q<u><<a>>ndo pone<n> la c'enjc'a
 en<e>l p<rimer><<o>> dia de q<u><<a>>resma las q<u><<a>>l<e>s
@@ -11421,6 +11493,7 @@ nt<e> de su nac'e<n>c'ia q<ue> auera muchos
 cabellos e<n>los pechos [%] E alg<un><<o>>s om<bre>s
 y ha q<ue>los ha<n> e<n>los onbros & enlas}
 [fol. 97r]
+{HD. \ cj}
 {CB2.
 espaldas & todo esto co<n>tec'e por la gra<n>
 calentu<r><<a>> del corac'o<n> [%] E por la gra<n> hu-
@@ -11530,6 +11603,7 @@ asy com<m>o ternjellos segu<n> com<m>o lo
 son los ot<r><<o>>s huesos de su cue<r>po E por
 eso no<n> puede entonc'e c<r><<i>>ar en sy}
 [fol. 98r]
+{HD. \ cij}
 {CB2.
 otros huesos & depues q<ue>l moc'o va
 crec'jendo & se va<n> en<e>l enxugando
@@ -11646,6 +11720,7 @@ del sol [%] El q<u><<i>>nto mes es de ve-
 nus q<ue> es fria & humjda & en<e>ste
 mes se estjende<n> los me<n>bros mas}
 [fol. 99r]
+{HD. \ ciij}
 {CB2.
 & se apuesta<n> mas sus fezjones [%] E
 el sesto mes es de mercurio q<ue> es
@@ -11758,6 +11833,7 @@ por q<ue> rrazo<n> faze om<br>e fiios en
 todo t<ien>po & no<n> ha t<ien>po sabjdo a-
 sy com<m>o las ot<r><<a>>s a<n>jmaljas.}}
 [fol. 100r]
+{HD. \ ciiij<<o>>}
 {CB2.
 {IN3.} Pr<e>gu<n>to el d<ec'>j<pul><<o>> m<aestr><<o>> rruegote q<ue>
 me digas por q<u><<a>>l rrazon los
@@ -11874,6 +11950,7 @@ con q<ue> tome sabor & p<r><<a>>c'e[r] de sy
 tal com<m>o este aujendo co<n>pan<n>era
 mug<er> fermosa de q<ue>se pague}
 [fol. 101r]
+{HD. \ cv}
 {CB2.
 ayu<n>ta<n>dose co<n> ella ta<n> bje<n> faze<n> sus
 fiios en Jnuje<r>no com<m>o en verano
@@ -11989,7 +12066,10 @@ cabec'a es muy nobre mje<n>bro ca el
 corac'o<n> & el c'elebro son los dos mas
 nobres mje<n>bros q<ue> en<e>l om<br>e ha [%] E
 asy com<m>o el (^om<br>e) es mas nobre}
+[...]
+{RMK: 1 folio missing.}
 [fol. 102r]
+{HD. \ cvij}
 {CB2.
 el maest<r><<o>> a esto te q<u><<i>>ero rresponder pue-
 s ta<n> gra<n> sabor as delo ap<r><<e>>nder &
@@ -12101,6 +12181,7 @@ es c<r><<i>>ador & fazedor de todas las
 cosas el q<u><<a>>l crio & fizo la natura
 q<ue> segu<n>t aq<ue>llo q<ue>l criara & ordenara}
 [fol. 103r]
+{HD. \ cviij<<o>>}
 {CB2.
 ente<n>dio q<ue> do fallasen la asna q<ue>
 fallaria<n> el polljno co<n> ella [%] ca no<n>
@@ -12213,6 +12294,7 @@ eso le puso la fiel e<n>las ancas sobre
 la cosa ca allj do la ljeua q<u><<a>>ndo
 va corriendo & se escaljenta ella mjsma}
 [fol. 104r]
+{HD. \ cjx fojas}
 {CB2.
 le da su cola q<ue> tiene co<n>sigo aujuamje<n>-
 to p<ar>a enpujarse p<ar>a yr adelant<r><<e>> & dar
@@ -12251,4 +12333,3 @@ g<onc'ale>s]}
 {AD. [^4#{LAT. Johanes g<u>n<disal><<uj>>
 locu<m> tenent<em>
 archip<r><<e>>sbit<er>}]}}
-{SG. cjx fojas}
