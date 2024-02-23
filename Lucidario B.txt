@@ -3,10 +3,9 @@
 {RMK: .}
 {RMK: Salamanca | Biblioteca General Histórica, Universidad de Salamanca | 1958.}
 {RMK: Mario Antonio Cossío Olavide.}
-{RMK: fol. 1r-104r contain the Lucidario, fols. 105r-110v the Vida de san Amaro.}
 [fol. 0r]
 {CB1.
-{GL. [^5#De la Bibliotheca del Col<egi><<o>> M<ay><<or>> de Cuenca
+{GL. [^6#De la Bibliotheca del Col<egi><<o>> M<ay><<or>> de Cuenca
 Este libro es llamado Luc'idario e fic'ole
 conponer a muchos sauios el no-
 ble e catholico Rey Don
@@ -21,7 +20,7 @@ en manera de question que fac'ia
 vn Dic'ipulo con su Maestro]}}
 [fol. 1r]
 {CB1.
-{AD. [^1#Este libro es llamado luc'idario & fizo le co<n>poner a muchos sabios El noble &
+{AD. [^2#Este libro es llamado luc'idario & fizo le co<n>poner a muchos sabios El noble &
 catholico rrey do<n> sancho el seteno rrey de los q<ue> fuero<n> en castilla & en leon fijo del
 muy noble rrey do<n> alfon<so> & de la muy noble rreyna violante & fizo lo ordenar
 p<ar>a los ente<n>dimje<n>tos d<e>los onbres sinples & mandolo ordenar en manera de q<u><<i>>stio<n>es q<ue>
@@ -30,94 +29,94 @@ disc'ip<u>lo asu
 maestro]}}
 {CB2.
 {RUB. {IN3.} Titolo p<rimer><<o>> q<u><<a>>l es la p<rimer><<a>> cosa
-q<ue> es en<e>l c'ielo & e<n>la t<ie>rra.} {AD. [^1#a vj.]}
+q<ue> es en<e>l c'ielo & e<n>la t<ie>rra.} {AD. [^2#a vj.]}
 {RUB. T<itol><<o>> ij<<o>> de q<ue> fizo dios el sol
-& la luna.} {AD. [^1#a viij<<o>>.]}
+& la luna.} {AD. [^2#a viij<<o>>.]}
 {RUB. T<itol><<o>> iij<<o>> do estaua dios ant<e> q<ue> fezje-
-se el c'ielo & la t<ie>rra.} {AD. [^1#a jx.]}
+se el c'ielo & la t<ie>rra.} {AD. [^2#a jx.]}
 {RUB. T<itol><<o>> iiij<<o>> en q<u><<a>>l logar delos jx c'ielos
-esta dios.} {AD. [^1#a xij.]}
-{RUB. T<itol><<o>> v<<o>> q<ue> figu<r><<a>> ha dios en sy.} {AD. [^1#a xij.]}
+esta dios.} {AD. [^2#a xij.]}
+{RUB. T<itol><<o>> v<<o>> q<ue> figu<r><<a>> ha dios en sy.} {AD. [^2#a xij.]}
 {RUB. T<itol><<o>> vj<<o>> por q<ue> rrazo<n> la trinjdat es de
-tres p<er><son><<a>>s & no<n> demas nj<n> de menos.} {AD. [^1#a xiij<<o>>]}
+tres p<er><son><<a>>s & no<n> demas nj<n> de menos.} {AD. [^2#a xiij<<o>>]}
 {RUB. T<itol><<o>> vij<<o>> por q<ue> rrazon ne<n>bro Ant<e> el
-esp<iri>tu q<ue>l fiio.} {AD. [^1#a xiij<<o>>.]}
+esp<iri>tu q<ue>l fiio.} {AD. [^2#a xiij<<o>>.]}
 {RUB. T<itol><<o>> viij<<o>> si esta la alma del om<br>e en
-todo el cue<r>po o[ ]do esta.} {AD. [^1#a xiij<<o>>.]}
+todo el cue<r>po o[ ]do esta.} {AD. [^2#a xiij<<o>>.]}
 {RUB. T<itol><<o>> jx q<u><<a>>ndo taja<n> al om<br>e el pie ola
-mano sy taja<n> y la u<er>tud dela alma.} {AD. [^1#a xiiij<<o>>.]}
+mano sy taja<n> y la u<er>tud dela alma.} {AD. [^2#a xiiij<<o>>.]}
 {RUB. T<itol><<o>> x<<o>> por q<ue> rrazo<n> q<u><<i>>so dios encarnar
-en <santa> <maria>.} {AD. [^1#a xiiij<<o>>.]}
+en <santa> <maria>.} {AD. [^2#a xiiij<<o>>.]}
 {RUB. T<itol><<o>> xj dela salutac'ion q<ue>l angel trojo
 a <santa> <maria> en q<u><<a>>l delas palabras encarno el
-esp<iri>tu <santo> en<e>lla.} {AD. [^1#a xv.]}
+esp<iri>tu <santo> en<e>lla.} {AD. [^2#a xv.]}
 {RUB. T<itol><<o>> xij<<o>> com<m>o finco el c'ielo & la t<ie>rra
 mjentra n<uest>ro sen<n>or jogo enc'errado en<e>l vj-
-entre de <santa> <maria>.} {AD. [^1#a xv.]}
+entre de <santa> <maria>.} {AD. [^2#a xv.]}
 {RUB. T<itol><<o>> xiij<<o>> com<m>o pudo <santa> <maria> fincar u<<i>><r>ge<n>
-depues q<ue> jh<es>u x<pist><<o>> nac'io d<e>lla.} {AD. [^1#a xvj.]}
+depues q<ue> jh<es>u x<pist><<o>> nac'io d<e>lla.} {AD. [^2#a xvj.]}
 {RUB. T<itol><<o>> xiiij<<o>> q<u><<a>>ndo n<uest>ro sen<n>or morio enla cruz +}}
 {CB2.
 {RUB. sy fue esta mue<r>te enla deujnjdat com<m>o e<n>la
-h<uma>njdat.} {AD. [^1#a xvj fojas.]}
+h<uma>njdat.} {AD. [^2#a xvj fojas.]}
 {RUB. T<itol><<o>> xv por q<ue> rrazo<n> q<u><<i>>so n<uest>ro sen<n>or yr
-alos jnfie<r>nos depues q<ue> p<r><<i>>so mue<r>te e<n>la <cruz>} {AD. [^1#a xvij.]}
+alos jnfie<r>nos depues q<ue> p<r><<i>>so mue<r>te e<n>la <cruz>} {AD. [^2#a xvij.]}
 {RUB. T<itol><<o>> xvj<<o>> por q<ue> rrazo<n> q<u><<i>>so n<uest>ro sen<n>or
-q<u><<a>>ndo morio ser de hedat de xxxiij An<n>os.} {AD. [^1#a xvij.]}
+q<u><<a>>ndo morio ser de hedat de xxxiij An<n>os.} {AD. [^2#a xvij.]}
 {RUB. T<itol><<o>> xvij<<o>> por q<ue> rrazo<n> q<u><<i>>so n<uest>ro sen<n>or
 sobjr al c'ielo el dia q<ue> sobjo estando
-y <santa> <maria> & los apostolos.} {AD. [^1#a xvij.]}
+y <santa> <maria> & los apostolos.} {AD. [^2#a xvij.]}
 {RUB. T<itol><<o>> xviij<<o>> por q<ue> rrazo<n> q<u><<i>>so n<uest>ro sen<n>or
 sobir al c'ielo en cue<r>po carnal q<ue> to-
-mo en<e>ste mu<n>do.} {AD. [^1#a xvij.]}
+mo en<e>ste mu<n>do.} {AD. [^2#a xvij.]}
 {RUB. T<itol><<o>> xjx por q<ue> rrazo<n> q<u><<i>>so dios q<ue> nac'iese
 eua dela costiella de ada<n> & no<n> la fizo
-nac'e<r> de t<ie>rra.} {AD. [^1#a xviij<<o>>.]}
+nac'e<r> de t<ie>rra.} {AD. [^2#a xviij<<o>>.]}
 {RUB. T<itol><<o>> xx com<m>o puede entr(r)ar la alma e<n>la
-c<r><<i>>atu<r><<a>> enc'errada e<ne>l vjentre de su madre.} {AD. [^1#a xx.]}
+c<r><<i>>atu<r><<a>> enc'errada e<ne>l vjentre de su madre.} {AD. [^2#a xx.]}
 {RUB. T<itol><<o>> xxj donde ha el diabro el saber de
-las cosas q<ue> ha<n> de venjr.} {AD. [^1#a xxij.]}
+las cosas q<ue> ha<n> de venjr.} {AD. [^2#a xxij.]}
 {RUB. T<itol><<o>> xxij<<o>> q<u><<a>>ndo n<uest>ro sen<n>or enbjo el esp<iri>tu
 <santo> sobre <santa> <maria> su madre & sobre los
-apostolos en q<ue> man<er>a fue enbjado.} {AD. [^1#a xxij.]}
+apostolos en q<ue> man<er>a fue enbjado.} {AD. [^2#a xxij.]}
 {RUB. T<itol><<o>> xxiij<<o>> por q<ue> rrazo<n> fizo dios el mu<n>do
-pues q<ue> q<u><<i>>so q<ue> oujese fin.} {AD. [^1#a xxiiij<<o>>.]}
+pues q<ue> q<u><<i>>so q<ue> oujese fin.} {AD. [^2#a xxiiij<<o>>.]}
 {RUB. T<itol><<o>> xxiiij<<o>> sy puede dios tomar p<r><<a>>zer o pe-
-sar en sy.} {AD. [^1#a xxv.]}
+sar en sy.} {AD. [^2#a xxv.]}
 {RUB. T<itol><<o>> xxv<<o>> por q<ue> rrazo<n> q<u><<i>>so dios tomar
-figu<r><<a>> p<ar>a sy ant<e> de pa<n> q<ue> de otra cosa} {AD. [^1#a xxvj.]}
+figu<r><<a>> p<ar>a sy ant<e> de pa<n> q<ue> de otra cosa} {AD. [^2#a xxvj.]}
 {RUB. T<itol><<o>> xxvj<<o>> por q<ue> rrazo<n> p<ar>te<n> el cue<r>po
-de dios en tres p<ar>tes.} {AD. [^1#a xxviij<<o>>.]}}
+de dios en tres p<ar>tes.} {AD. [^2#a xxviij<<o>>.]}}
 [fol. 1v]
 {CB2.
-{AD. [^1#a xxx.]} {RUB. T<itol><<o>> xxvij<<o>> en com<m>o el dec'iplo rrogo al
+{AD. [^2#a xxx.]} {RUB. T<itol><<o>> xxvij<<o>> en com<m>o el dec'iplo rrogo al
 ma<estr><<o>> q<ue>no<n> tomase enojo por las p<r><<e>>guntas}
 {RUB. T<itol><<o>> xxviij<<o>> por q<ue> rrazo<n> llamara
 dios a juyzio alas (^de) almas del p<ar>ayso
-& del jnfierno.} {AD. [^1#a xxx.]}
+& del jnfierno.} {AD. [^2#a xxx.]}
 {RUB. T<itol><<o>> xxxjx<<o>> sy alg<un><<a>> a<n>imalia q<ue> aya
 los c'inco sentidos ta<n> conplida me<n>te
-com<m>o el om<br>e.} {AD. [^1#a xxij.]}
+com<m>o el om<br>e.} {AD. [^2#a xxij.]}
 {RUB. T<itol><<o>> xxx en q<ue> estado fincara el mu<n>do
 depues q<ue> n<uest>ro sen<n>or ouj<er>e acabado
-el dia del juyzio.} {AD. [^1#a xxxiiij<<o>>.]}
+el dia del juyzio.} {AD. [^2#a xxxiiij<<o>>.]}
 {RUB. T<itol><<o>> xxxj sy caera<n> las estrellas del
-c'ielo el dia del juyzio.} {AD. [^1#a xxxvj.]}
-{AD. [^1#a xxxvj.]} {RUB. T<itol><<o>> xxxij<<o>> de com<m>o ayu<n>tara<n> enlos
+c'ielo el dia del juyzio.} {AD. [^2#a xxxvj.]}
+{AD. [^2#a xxxvj.]} {RUB. T<itol><<o>> xxxij<<o>> de com<m>o ayu<n>tara<n> enlos
 om<br>es q<ue> muere<n> la carne el dia del juyzio}
 {RUB. T<itol><<o>> xxxiij<<o>> q<u><<a>>l es mayor maraujlla
 engendrar se el om<br>e del vjent<r><<e>> de
 su madre o de rresuc'itar de mue<r>te
-a vida.} {AD. [^1#a xxxvij.]}
-{AD. [^1#a xxxviij]} {RUB. T<itol><<o>> xxxiiij<<o>> sy las almas q<ue> esta<n> en
+a vida.} {AD. [^2#a xxxvij.]}
+{AD. [^2#a xxxviij]} {RUB. T<itol><<o>> xxxiiij<<o>> sy las almas q<ue> esta<n> en
 p<ar>ayso ha<n> codic'ia de alg<un><<a>> cosa}
 {RUB. T<itol><<o>> xxxv delas cosas vjuas de so-
 bre t<ie>rra sy las fizo dios o com<m>o
-fuero<n> fechas} {AD. [^1#a xxxjx.]}
+fuero<n> fechas} {AD. [^2#a xxxjx.]}
 {RUB. T<itol><<o>> xxxvj<<o>> de q<u><<a>>l delas costados de
 ada<n> saco dios la costiella de q<ue> fizo
-eua.} {AD. [^1#a xxxjx.]}
-{AD. [^1#a xl.]} {RUB. T<itol><<o>> xxxvij<<o>> sy el angel q<ue> g<u><<a>>rda al om<br>e
+eua.} {AD. [^2#a xxxjx.]}
+{AD. [^2#a xl.]} {RUB. T<itol><<o>> xxxvij<<o>> sy el angel q<ue> g<u><<a>>rda al om<br>e
 & anda ala ma<no> derecha sy es delos q<ue>
 puso dios en<e>l c'ielo o fecho de Nueuo.}
 {RUB. T<itol><<o>> xxxviij<<o>> sy la alma q<ue> esta en +}}
@@ -125,56 +124,56 @@ puso dios en<e>l c'ielo o fecho de Nueuo.}
 {RUB. purgatorio & vje<n> el angel a co<n>fortalla sy se
 puede el q<ue>mar asy com<m>o ella o no<n>.}
 {RUB. T<itol><<o>> xxxjx<<o>> del angel q<ue> guarda la alma
-de q<u><<a>>l delas ordenes es.} {AD. [^1#a xlij.]}
+de q<u><<a>>l delas ordenes es.} {AD. [^2#a xlij.]}
 {RUB. T<itol><<o>> xl<<a>> sy el angel q<ue> gu<<a>>rda vna ves la
-alma sy guarda depues ot<r><<a>>.} {AD. [^1#a xliij.]}
+alma sy guarda depues ot<r><<a>>.} {AD. [^2#a xliij.]}
 {RUB. T<itol><<o>> xl<<a>>j sy el ant<e> x<pist><<o>> a de au<er> angel
-bono q<ue>lo guarde.} {AD. [^1#a xliiij<<o>>.]}
+bono q<ue>lo guarde.} {AD. [^2#a xliiij<<o>>.]}
 {RUB. T<itol><<o>> xl<<a>>ij<<o>> dela alma q<ue> va ap<ar>ayso sy va
 aq<ue>lla orde<n> del angel q<ue>la guarda sy sube
-mas alto o baxo.} {AD. [^1#a xliij.]}
+mas alto o baxo.} {AD. [^2#a xliij.]}
 {RUB. T<itol><<o>> xl<<a>>iij<<o>> sylas almas delos om<br>es q<ue> va<n>
 a p<ar>ayso & las po<n> dios enla<s> siellas onde
 cayero<n> los angeles malos sy son llenas.}
 {RUB. T<itol><<o>> xl<<a>>iiij<<o>> sy las almas q<ue> esta<n> agora
 enlas siellas del c'ielo sy estara<n> y depue-
-s en cue<r>pos & en almas.} {AD. [^1#a xlvij]}
+s en cue<r>pos & en almas.} {AD. [^2#a xlvij]}
 {RUB. T<itol><<o>> xl<<a>>v<<o>> sy las almas del p<ar>ayso ve<n> las
 del jnfie<r>no alas de purgatorio asy las del
-jnfierno ve<n> alas de purgatorio.} {AD. [^1#a xljx]}
+jnfierno ve<n> alas de purgatorio.} {AD. [^2#a xljx]}
 {RUB. T<itol><<o>> xl<<a>>vj<<o>> por q<ue> rrazo<n> puso dios p<r><<a>>zo
 ala fjn del mu<n>do q<ue> ha q<u><<a>>ntia sabida
 de an<n>os.}
 {RUB. T<itol><<o>> xl<<a>>vij<<o>> la alma del om<br>e en q<ue> bjue
 & se ma<n>tjene mje<n>tra esta metida en<e>l cue<r>po
-del om<br>e} {AD. [^1#a liiij<<o>>.]}
+del om<br>e} {AD. [^2#a liiij<<o>>.]}
 {RUB. T<itol><<o>> xl<<a>>viij<<o>> sy la alma del om<br>e puede
 ser ta<n> co<n>plida depues q<ue> dios la ha fecha
 no<n> seyendo en<e>l cue<r>po del om<br>e com<m>o sy esto-
-diese dent<r><<o>> metida.} {AD. [^1#a lv.]}
+diese dent<r><<o>> metida.} {AD. [^2#a lv.]}
 {RUB. T<itol><<o>> xl<<a>>jx com<m>o puede dios saber todo lo q<ue>
-om<br>e cuyda & faze.} {AD. [^1#a lvj.]}}
+om<br>e cuyda & faze.} {AD. [^2#a lvj.]}}
 [fol. 2r]
 {CB2.
 {RUB. T<itol><<o>> L<<a>> pues dios c<r><<i>>a las almas sy alg<un><<a>>
 q<ue> sea c<r><<i>>ada de mayor u<er>tud o de mayor
-seso q<ue>la ot<r><<a>>.} {AD. [^1#a lvij.]}
+seso q<ue>la ot<r><<a>>.} {AD. [^2#a lvij.]}
 {RUB. T<itol><<o>> L<<a>>j por q<ue> rrazo<n> la alma q<ue> esta enc'e-
 rrada en<e>l cue<r>po del om<br>e no<n> conosc'e el
-angel q<ue> es de su natu<r><<a>>.} {AD. [^1#a lviij<<o>>.]}
+angel q<ue> es de su natu<r><<a>>.} {AD. [^2#a lviij<<o>>.]}
 {RUB. T<itol><<o>> L<<a>>ij<<o>> sy por pecador q<ue>l om<br>e sea arrepe<n>-
 tjendose de sus pecados si lo p<er>dona dios}
 {RUB. T<itol><<o>> L<<a>>iij<<o>> sy tomara dios carne en <santa> <maria>
-sy ada<n> & eua no<n> pecara.} {AD. [^1#a ljx]}
+sy ada<n> & eua no<n> pecara.} {AD. [^2#a ljx]}
 {RUB. T<itol><<o>> L<<a>>iiij<<o>> sy p<r><<e>>siera dios mue<r>te e<n>la
 crus sy ada<n> & eua no<n> pecara}
 {RUB. T<itol><<o>> L<<a>>iiiij<<o>> por q<ue> rrazo<n> dio dios a moy-
 sen los x ma<n>damje<n>tos esc<r><<i>>p<t>os e<n>las ta-
-bras dela ley.} {AD. [^1#a lxiij]}
+bras dela ley.} {AD. [^2#a lxiij]}
 {RUB. T<itol><<o>> L<<a>>vj<<o>> por q<ue> q<ue>[ ]so[n] q<u><<a>>t<r><<o>> eua<n>geljstas
-& no<n> mas nj<n> menos.} {AD. [^1#a lxiiij]}
+& no<n> mas nj<n> menos.} {AD. [^2#a lxiiij]}
 {RUB. T<itol><<o>> L<<a>>vij<<o>> por q<ue> rrazo<n> dioro<n> alas eua<n>-
-gelistas aq<ue>llas figu<r><<a>>s} {AD. [^1#a lxjx]}
+gelistas aq<ue>llas figu<r><<a>>s} {AD. [^2#a lxjx]}
 {RUB. T<itol><<o>> L<<a>>viij<<o>> por q<ue> rrazo<n> no<n> son en vna t<ie>rra
 ta<n> gra<n>de el dia & la noche com<m>o en otra.}
 {RUB. T<itol><<o>> L<<a>>jx q<u><<a>>ndo la luna es toda llena
@@ -182,18 +181,18 @@ q<ue> parec'e alos om<bre>s el lunar mayor &
 mas claro la noche q<ue> faze nubrado q<ue>
 q<u><<a>>ndo esta estrellado & claro el c'ielo.}
 {RUB. T<itol><<o>> L<<a>>x por q<ue> se faze el fruto del
-ljmo<n> frio.} {AD. [^1#a lxx.]}
+ljmo<n> frio.} {AD. [^2#a lxx.]}
 {RUB. T<itol><<o>> L<<a>>xj por q<ue> rrazo<n> la formjga mu-
 chos pies & el cauallo no<n> mas de q<u><<a>>t<r><<o>>.}
 {RUB. T<itol><<o>> L<<a>>xij<<o>> por q<ue> rrazo<n> no<n> semeja vn
-om<br>e a otro.} {AD. [^1#a lxxiij.]}
+om<br>e a otro.} {AD. [^2#a lxxiij.]}
 {RUB. T<itol><<o>> L<<a>>xiij<<o>> por q<ue> rrazo<n> el diabro anda
 mas por engan<n>ar al om<br>e q<ue> a ot<r><<a>>s c<r><<i>>atu<r><<a>>s.}}
 {CB2.
 {RUB. T<itol><<o>> L<<a>>xiiij<<o>> por q<ue> rrazo<n> toma el om<br>e mayor
 mjedo del o<mbr>e mue<r>to q<ue> conosc'e q<ue> del q<ue> no<n> conosc'e}
 {RUB. T<itol><<o>> L<<a>>xv<<o>> por q<ue> rrazo<n> ha el om<br>e mayor
-mjedo de andar de noche q<ue> de dia.} {AD. [^1#a lxxjx]}
+mjedo de andar de noche q<ue> de dia.} {AD. [^2#a lxxjx]}
 {RUB. T<itol><<o>> L<<a>>xvj com<m>o pudo tragar la ballena
 a jonas el p<ro>feta.}
 {RUB. T<itol><<o>> L<<a>>xvij<<o>> por rrazo<n> son las aues
@@ -209,17 +208,17 @@ ha<n> cue<r>nos no<n> ha<n> dient<e>s de suso.}
 {RUB. T<itol><<o>> L<<a>>xxij<<o>> por q<ue> rrazo<n> la c'ie<r>ua & la
 oueja no<n> ha cue<r>nos e<n>la cabec'a}
 {RUB. T<itol><<o>> L<<a>>xxiij<<o>> del capo<n> q<ue> no<n> ha cresta
-com<m>o el gallo.} {AD. [^1#a lxxxviiij<<o>>]}
+com<m>o el gallo.} {AD. [^2#a lxxxviiij<<o>>]}
 {RUB. T<itol><<o>> L<<a>>xxiiij<<o>> com<m>o el di<c'ipul><<o>> rrogo al ma<estr><<o>>
-q<ue>l p<er>donase por lo q<ue>l p<r><<e>>gu<n>tase.} {AD. [^1#a xc]}
+q<ue>l p<er>donase por lo q<ue>l p<r><<e>>gu<n>tase.} {AD. [^2#a xc]}
 {RUB. T<itol><<o>> L<<a>>xxv<<o>> por q<ue> se faze<n> los cue<r>nos
-delas cabras can<n>aueras.} {AD. [^1#a xcij]}
+delas cabras can<n>aueras.} {AD. [^2#a xcij]}
 {RUB. T<itol><<o>> L<<a>>xxvj<<o>> por q<ue> rrazo<n> teme<n> todas las
 aues ala agujla & las a<n>i<m>aljas al leo<n>.}
 {RUB. T<itol><<o>> L<<a>> xxvij<<o>> por q<ue> rrazo<n> es el leo<n> ve-
-lloso el medio cue<r>po.} {AD. [^1#a xcij]}
+lloso el medio cue<r>po.} {AD. [^2#a xcij]}
 {RUB. T<itol><<o>> L<<a>>xxviij<<o>> com<m>o no<n> ha la leona
-crines.} {AD. [^1#a xciij]}
+crines.} {AD. [^2#a xciij]}
 {RUB. T<itol><<o>> L<<a>>xxviiij<<o>> por q<ue> rrazo<n> cria<n> ??? +}}
 [fol. 2v]
 {CB2.
@@ -230,49 +229,49 @@ pare<n> ta<n> bje<n> machos com<m>o fenbras}
 {RUB. T<itol><<o>> L<<a>>xxxj la oueja q<ue> no<n> pare mas
 de vna vez en<e>l an<n>o o dos por q<ue>[ ]so[n]
 mas la loba muchas & mas fiios por
-q<ue> son mas ouejas q<ue> lobos.} {AD. [^1#a xciiij<<o>>]}
+q<ue> son mas ouejas q<ue> lobos.} {AD. [^2#a xciiij<<o>>]}
 {RUB. T<itol><<o>> L<<a>>xxxij<<o>> por q<ue>no<n> faze<n> fiios
-el mulo & la mula.} {AD. [^1#a xcv]}
+el mulo & la mula.} {AD. [^2#a xcv]}
 {RUB. T<itol><<o>> L<<a>>xxxiij<<o>> por rrie el om<br>e.}
 {RUB. T<itol><<o>> L<<a>>xxxiiij<<o>> por rrazo<n> los om<bre>s neg<r><<o>>s
-a<n> los dientes bra<n>cos.} {AD. [^1#a xcvj]}
+a<n> los dientes bra<n>cos.} {AD. [^2#a xcvj]}
 {RUB. T<itol><<o>> L<<a>>xxxv<<o>> por q<ue> rrazo<n> las lieb<r><<e>>s
 & los conejos no<n> ha<n> vn<n>a fendida.}
 {RUB. T<itol><<o>> L<<a>>xxxvj por q<ue>las li<e>bres due<r>-
-me<n> co<n>los ojos abie<r>tos.} {AD. [^1#a xcvij]}
-{RUB. T<itol><<o>> L<<a>>xxxvij delos suen<n>os.} {AD. [^1#a xcviij]}
+me<n> co<n>los ojos abie<r>tos.} {AD. [^2#a xcvij]}
+{RUB. T<itol><<o>> L<<a>>xxxvij delos suen<n>os.} {AD. [^2#a xcviij]}
 {RUB. T<itol><<o>> L<<a>>xxxviij<<o>> por q<ue> fizo dios las
-piedras prec'iosas de muchas color<e>s} {AD. [^1#a xcviij<<o>>]}
+piedras prec'iosas de muchas color<e>s} {AD. [^2#a xcviij<<o>>]}
 {RUB. T<itol><<o>> L<<a>>xxxviiij<<o>> por q<ue> rrazo<n> anda
 el om<br>e enfiesto & las ot<r><<a>>s anjmalias
-baxas.} {AD. [^1#a xcjx]}
+baxas.} {AD. [^2#a xcjx]}
 {RUB. T<itol><<o>> xc por q<ue>no<n> es el om<br>e cobje<r>to
 de cabellos en<e>l cue<r>po com<m>o las ot<r><<a>>s
-a<n>i<m>aljas.} {AD. [^1#a c]}
+a<n>i<m>aljas.} {AD. [^2#a c]}
 {RUB. T<itol><<o>> xcj por q<ue> rrazo<n> no<n> creze<n> al
-om<br>e e<n>los cabellos delas c'eberc'ejas} {AD. [^1#a cj.]}}
+om<br>e e<n>los cabellos delas c'eberc'ejas} {AD. [^2#a cj.]}}
 {CB2.
 {RUB. T<itol><<o>> xcij<<o>> por rrazo<n> no<n> nac'e<n> los dientes
 al om<br>e q<u><<a>>ndo nac'e.}
 {RUB. T<itol><<o>> xciij<<o>> por q<ue> rrazo<n> vjue la criatura
 q<u><<a>>ndo nac'e a ix meses.}
 {RUB. T<itol><<o>> xciijj<<o>> por q<ue> faze om<br>e fiios en
-todo t<ien>po.} {AD. [^1#a ciiij]}
+todo t<ien>po.} {AD. [^2#a ciiij]}
 {RUB. T<itol><<o>> xciiijj<<o>> por q<ue> las a<n>i<m>aljas menor<e>s
-faze<n> mas fiios q<ue>las mayor<e>s.} {AD. [^1#a cv]}
+faze<n> mas fiios q<ue>las mayor<e>s.} {AD. [^2#a cv]}
 {RUB. T<itol><<o>> xcvj por q<ue> el om<br>e q<ue> husa co<n>las
 mug<e>r<e>s mucho enfraq<ue>c'e mas en<e>l c'elebro
-q<ue> e<n>los ot<r><<o>>s mje<n>bros.} {AD. [^1#a cvj]}
+q<ue> e<n>los ot<r><<o>>s mje<n>bros.} {AD. [^2#a cvj]}
 {RUB. T<itol><<o>> xcvij<<o>> por q<ue> rrazo<n> el sete<n>brio es
-mas caljente q<ue>l marc'io.} {AD. [^1#a cvij]}
+mas caljente q<ue>l marc'io.} {AD. [^2#a cvij]}
 {RUB. T<itol><<o>> xcviij<<o>> por q<ue> parec'e alos om<br>es
-viscos de vna cosa dos.} {AD. [^1#a cviij]}
+viscos de vna cosa dos.} {AD. [^2#a cviij]}
 {RUB. T<itol><<o>> xcjx por q<ue> el c'ie<r>uo q<u><<a>>ndo es
 cansado trae la boca c'errada & echa
 la espuma por las naric'es.}
-{AD. [^1#{RUB. T<itol><<o>> de la estoria de sant amador
-de com<m>o fue muy <santo> varo<n>}
-a cxi]}}
+{AD. {RUB. [^2#T<itol><<o>> de la y<s>toria de sant amador
+de com<m>o fiz muy <santa> vyda.
+a cxj.]}}}
 [fol. 3r]
 {CB2.
 {IN5.} EN el no<n>bre de dios ame<n>
@@ -414,7 +413,6 @@ planetas % E delas otras estrellas
 q<ue> llama<n> fixas % E este saber delas
 naturas es mas comunal a todas}
 [...]
-{RMK: 1 folio missing.}
 [fol. 4r]
 {CB2.
 obra sea bje<n> conplida com<m>o de tal sen<n>or
@@ -1913,11 +1911,11 @@ palabras de allj adelant<r><<e>> % mas el
 angel toda la me<n>sageria t<r><<o>>xo o-
 rdenada de dios & toda se auja
 (^& toda se auja) acabar fasta en
-c'jma % E allj do ella rrespo<n>dio}
-{AD. [^2#Juan f<ernande>s]}
+c'jma % E allj do ella rrespo<n>dio
+{AD. [^3#Juan f<ernande>s]}}
 [fol. 14v]
 {CB2.
-[^1#ae
+[^2#ae
 la] sjerua de dios sea fecho
 en mj segu<n>d la tu palabra %
 luego en aq<ue>lla ora fue n<uest>ro se-
@@ -2129,7 +2127,6 @@ era a(^l) el & a todos los ot<r><<o>>s e-
 nla nac'enc'ia & enla pasio<n> de
 jh<es>u xp<ist>o.}
 [...]
-{RMK: 1 folio missing.}
 [fol. 16r]
 {HD. \ xviij<<o>>}
 {CB2.
@@ -2401,9 +2398,8 @@ z<er> su madre & nac'io el d<e>lla & esta
 fue la q<u><<a>>rta generac'io<n> q<ue> fue}
 [fol. 18r]
 {HD. \ xxxij}
-{RMK: binding error, folios 18r-18v should be between folios 30v-31r in the original sequence.}
 {CB2.
-cue<r>po & en alma a p<ar>ayso & los otros al enfje<r>-
+{RMK: binding error, folios 18r-18v should be between folios 30v-31r in the original sequence.} cue<r>po & en alma a p<ar>ayso & los otros al enfje<r>-
 no % mas no<n> cuyde[s] tu q<ue> va<n> a p<ar>ayso to-
 das las almas q<ue> agora son en<e>l enfie<r>no
 q<ue>las q<ue> son en<e>l p<ar>ayso vayan al jnfie<r>no ca
@@ -4096,7 +4092,6 @@ ma bje<n> asy com<m>o q<u><<a>>ndo pecaro<n> & en a-
 q<ue>lla carne mjsma en q<ue> cada vno
 vjujo en<e>ste mu<n>do & los vnos yra<n> en}
 [...]
-{RMK: 1 folio missing.}
 [fol. 31r]
 {HD. \ xxxiij}
 {CB2.
@@ -4698,7 +4693,7 @@ m<br>e q<ue> tan graue cosa es de se}
 p<ar>tir della q<ue> en todo el mu<n>do no<n> ha cosa
 q<ue>l podjese dar por q<ue> q<u><<i>>sjese tornar aq<ue>l
 cue<r>po onde saljo por au<er> s saljr otra ve-
-gada onde saljo {GL. [^1#asy lo dize
+gada onde saljo {GL. [^2#asy lo dize
 n<uest>ro sen<n>or en
 vn eua<n>g<e>lio
 {LAT. sp<irit>us vadens
@@ -6314,11 +6309,13 @@ durabre la q<u><<a>>l c<r><<i>>atu<r><<a>> nj<n>g<un><<o>> no<n> podria faz<er>
 obra el dia q<ue> q<u><<i>>so nac'er & tomar carne
 dela u<<i>><r>ge<n> <santa> <maria> % E depues q<u><<a>>ndo}
 [fol. 49v]
-{BLNK: blank page.}
-{RMK: the text from fol. 49r continues in fol. 50v, there is no interruption or missing text.}
+{CB2.
+{RMK: the text from fol. 49r continues in fol. 50v, there is no interruption or missing text.}}
+{CB2.}
 [fol. 50r]
 {HD. \ lij}
-{BLNK: blank page.}
+{CB2.}
+{CB2.}
 [fol. 50v]
 {CB2.
 tomo mue<r>te & pasion e<n>la cruz por q<ue>
@@ -7703,7 +7700,6 @@ dia nj<n> de noche de dez<ir> <santos>
 <santos> <santos> dios Sen<n>or q<ue> eras
 poderoso & q<ue> seras por sjenp<r><<e>> jamas}
 [...]
-{RMK: 1 folio missing.}
 [fol. 63r]
 {HD. \ lxvj}
 {CB2.
@@ -8039,7 +8035,7 @@ no<n> ha<n> claridat nj<n>g<un><<a>> de suyo sj
 no<n> la rrec'iben del sol mas la
 luna enla claridat q<ue> da de
 sy q<u><<a>>ndo faz el lunar esta
-claridat no<n> ha ella mas a se[^1#n<n>a]-
+claridat no<n> ha ella mas a se[^2#n<n>a]-
 llada q<ue>las ot<r><<a>>s est<r><<e>>llas % ca}
 {CB2.
 ella & las ot<r><<a>>s del sol la rrec'jben
@@ -9176,7 +9172,6 @@ q<ue> yazen & corre<n>las co<n> galgos
 por q<ue> son bestigolos muy pesa-
 dos & no<n> ha<n> co<n> q<ue> se defienda<n>}
 [...]
-{RMK: 1 folio missing.}
 [fol. 77r]
 {HD. \ lxxxj}
 {CB2.
@@ -12067,7 +12062,6 @@ corac'o<n> & el c'elebro son los dos mas
 nobres mje<n>bros q<ue> en<e>l om<br>e ha [%] E
 asy com<m>o el (^om<br>e) es mas nobre}
 [...]
-{RMK: 1 folio missing.}
 [fol. 102r]
 {HD. \ cvij}
 {CB2.
@@ -12311,7 +12305,7 @@ q<ue>no<n> destorue al su correr.
 ter x<pist><<o>> Ame<n> Johanes
 sc<r><<i>>psit hu<n>c libru<m> lau-
 detur x<pist><<o>> Amen}
-{AD. [^3#conp<r><<e>> este ljbro por c'iento e
+{AD. [^4#conp<r><<e>> este ljbro por c'iento e
 c'inq<ue>nta m<a>r<auedi>s p<agu><<e>> luego a J<u><<a>>n los
 c'ient m<a>r<auedi>s deuole c'inq<ue>nta esta<n>
 las fojas en pre<n>das. di<eg><<o>> g<onc'ale>s
@@ -12321,15 +12315,15 @@ de salama<n>ca jueu<e>s xxvj de julljo.
 didacus
 g<u>n<disal><<uj>>]}
 {CB2.
-{AD. [^3#p<r><<e>>ste a J<u><<a>>n m<artine>s m<edi><<o>> Real e a mjg<ue>ll ff<errande>s ot<r><<o>> m<edi><<o>>
+{AD. [^4#p<r><<e>>ste a J<u><<a>>n m<artine>s m<edi><<o>> Real e a mjg<ue>ll ff<errande>s ot<r><<o>> m<edi><<o>>
 e la nuera de t??<<o>> f<e>rr<ande>s ot<r><<o>> medio xxxxv.
 men-
 c'ia
-deue di<eg><<o>> may?? so?? ??l texillo desu mug<er>
+deue di<eg><<o>> ma<rtine>z sobr<e> ??l texillo desu mug<er>
 dozjentos & ocho m<a>r<auedi>s fecha cue<n>ta e<n> rreal<e>s. a viij<<o>>.
-q<ue>le p<r><<e>>ste e iiij<<o>> ??gos q<ue>le vendj los codigos/ la mjtad
+q<ue>le p<r><<e>>ste e iiij<<o>> d<iner>os q<ue>le vendj los codigos/ la mjtad
 diego
 g<onc'ale>s]}
-{AD. [^4#{LAT. Johanes g<u>n<disal><<uj>>
+{AD. {LAT. [^5#Johanes g<u>n<disal><<uj>>
 locu<m> tenent<em>
-archip<r><<e>>sbit<er>}]}}
+archip<r><<e>>sbit<er>]}}}
