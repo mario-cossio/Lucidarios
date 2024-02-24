@@ -6,15 +6,15 @@ They are by no means complete -they are constantly revised– and they use examp
 transcribed using the Hispanic Seminary of Medieval Studies' transcription guidelines, as proposed in David Mackenzie 'A Manual of Manuscript
 Transcription for the Dictionary of Old Spanish Language' (1997, 5th revised edition).
 
-The processes described in this document include the regularization of vowels and consonants according to their phonetic value 
-(v~u, i~j~y, and geminate consonants at the beginning of words), separating words written in a single stroke but formed by two 
-independent syntactic units (article + verb, pronoun + article, or in more complex cases: proclitic pronouns + verbs, 
-verbs + enclitic pronouns, and the clitics and auxiliaries of analytic futures and conditionals), using majuscules to 
+The processes described in this document include the regularization of vowels and consonants according to their phonetic value
+(v~u, i~j~y, and geminate consonants at the beginning of words), separating words written in a single stroke but formed by two
+independent syntactic units (article + verb, pronoun + article, or in more complex cases: proclitic pronouns + verbs,
+verbs + enclitic pronouns, and the clitics and auxiliaries of analytic futures and conditionals), using majuscules to
 differentiate proper nouns, or joining words written in two strokes but forming a single unit. These minor alterations are meant
 to facilitate the process of comparing and contrasting the readings of the different witnesses of a work using an automated
 collation software (in this case, ChrysoCollate)
 
-Based on several scripts developed by José Manuel Fradejas Rueda for normalizing the transcriptions of the Siete Partidas corpus (here: 
+Based on several scripts developed by José Manuel Fradejas Rueda for normalizing the transcriptions of the Siete Partidas corpus (here:
 https://github.com/7PartidasDigital/XML-TEI/tree/master/scripts)
 
 [Last Updated: November 19, 2023]
@@ -22,7 +22,7 @@ https://github.com/7PartidasDigital/XML-TEI/tree/master/scripts)
 Basic Graphic Normalization
 
 # original value > # replaced value
-Delete all <, >, {RUB.}, {LAT.}, {HD.}, {AD.}, {CW.}, {GL.}, {CB1.}, {CB2.}, {IN.} [+], (^), [^], (), [], or any other encoding mark and replace for 
+Delete all <, >, {RUB.}, {LAT.}, {HD.}, {AD.}, {CW.}, {GL.}, {CB1.}, {CB2.}, {IN.} [+], (^), [^], (), [], or any other encoding mark and replace for
 appropriate convention (use colors, make deletions, etc.)
 / > .
 , > .
@@ -162,7 +162,7 @@ nos otros > nosotros
 si se > sise (meaning 'in himself', 'in herself')
 so uno > souno (meaning 'together')
 sobre verna > sobreverna
-Any adverb + space + mente > adverb+mente without space 
+Any adverb + space + mente > adverb+mente without space
 
 Separation to Differentiate Apocopated Compounds or Words Written in a Single Graphic Unity
 
@@ -170,7 +170,9 @@ acabo > a cabo
 acad... > a cad...
 acuy... > a cuy...
 adesora > a desora
+adio... > a dio...
 ael > a el
+aent... > a ent... (except in Occidental texts with entender verb)
 aes... > a es...
 agran > a gran
 ala/s/o/s > a la/s/o/s (except 'ala', when meaning 'wing')
@@ -195,8 +197,12 @@ avos > a vos
 ayuso > a yuso
 cael > ca el
 cala > ca la
-canon > ca non 
+canon > ca non
+canos > ca nos
+case > ca se
 casi > ca si (except when meaning 'almost')
+comol... > como l...
+comoq... > como q...
 conel > con el
 cones > con es
 conla/conlo > con la/con lo
@@ -241,6 +247,7 @@ lasu > la su
 loque > lo que
 mel... > me l...
 onon > o non
+oqu... > o qu...
 ose > o se
 ote > o te
 otrosi > otro si
@@ -269,8 +276,8 @@ sela > se la
 sele > se le
 selos > se los
 senos > se nos
-siel > si el
-sila > si las 
+siel... > si el...
+sila... > si la...
 sino > si no
 sinon > si non
 sobrel > sobre el
