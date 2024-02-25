@@ -176,6 +176,7 @@ aent... > a ent... (except in Occidental texts with entender verb)
 aes... > a es...
 agran > a gran
 ala/s/o/s > a la/s/o/s (except 'ala', when meaning 'wing')
+amen... > a men...
 ami/s > a mi/s
 anos > a nos
 antel > ant el
@@ -212,6 +213,7 @@ consu > con su
 contrael... > contra el...
 contral... > contra l...
 dale/s > da le/s
+daq... > d aq...
 dase > da se
 dela/s/o/s > de la/s/o/s
 dele/s > de le/s
@@ -220,6 +222,7 @@ deotra/s/o/s > de otra/s/o/s
 deque > de que
 desa/s/o/s > d esa/s/o/s
 desdel > desd el
+dese > de se
 desi/dessi > de si (except when equivalent to 'after')
 deso/desso > de so
 desta/s/o/s > d esta/s/o/s
@@ -228,6 +231,11 @@ desuso > de suso
 deyuso > de yuso
 deti > de ti
 devegada > de vegada
+dola/s/e/s/o/s > do la/s/e/s/o/s
+dome > do me
+dose > do se
+dote > do te
+dovos > do vos
 enel > en el
 enell... > en ell...
 enes > en es
@@ -236,7 +244,7 @@ enla/s/o/s > en la/s/o/s
 enllo > en lo
 enque > en que
 ensi > en si
-ensu > en su
+ensu/s > en su/s
 enta... > en ta...
 enti > en ti
 ento... > en to...
@@ -245,13 +253,21 @@ entrel > entr el
 entres... > entr es...
 lasu > la su
 loque > lo que
+masq... > mas q...
 mel... > me l...
+ode > o de
+oen > o en
+ola/s > o la/s
+omas > o mas
+omenos > o menos
 onon > o non
 oqu... > o qu...
 ose > o se
+osi > o si
 ote > o te
 otrosi > otro si
 otrossi > otro ssi
+ninl... > nin l...
 nol... > no l...
 nonl... > non l...
 nons... > non s...
@@ -272,18 +288,23 @@ quest... > qu est...
 quete > que te
 quetu > que tu
 queyo > que yo
-sela > se la
-sele > se le
-selos > se los
+sela/s > se la/s
+sele/s > se le/s
+selo/s > se lo/s
 senos > se nos
 siel... > si el...
-sila... > si la...
+sila/s/e/s/o/s > si la/s/e/s/o/s
 sino > si no
 sinon > si non
+sise > si se
+site > si te
 sobrel > sobre el
 sobres > sobr es
 sola > so la (equivalent to 'under the')
 tel... > te l... (except 'tela', meaning 'fabric')
+yal... > ya l...
+yate > ya te
+yase > ya se
 
 Clitic Separation
 
