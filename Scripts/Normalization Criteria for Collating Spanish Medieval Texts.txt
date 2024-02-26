@@ -32,6 +32,7 @@ aa > a a
 ally > alli
 aua > ava
 aue > ave
+aui > avi 
 auo > avo
 avn > aun
 aur > avr
