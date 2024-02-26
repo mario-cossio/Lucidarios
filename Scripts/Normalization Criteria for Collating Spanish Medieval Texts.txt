@@ -38,6 +38,7 @@ avn > aun
 aur > avr
 ayr > air
 bj > bi
+cj > ci
 commo > como
 cuy > cui
 çe, çi > ce, ci (keep ça, ço and çu)
@@ -88,6 +89,7 @@ srr > sr
 suar > svar
 sj > si 
 sy > si
+tj > ti 
 ty > ti
 ueni > veni
 uj > vi
@@ -222,6 +224,7 @@ dase > da se
 dela/s/o/s > de la/s/o/s
 dele/s > de le/s
 della/s/o/s > d ella/s/o/s
+demi > de mi
 deotra/s/o/s > de otra/s/o/s
 deque > de que
 desa/s/o/s > d esa/s/o/s
