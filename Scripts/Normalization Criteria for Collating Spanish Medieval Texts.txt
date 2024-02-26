@@ -86,10 +86,13 @@ ry > ri
 ryr > rir
 srr > sr
 suar > svar
+sj > si 
 sy > si
 ty > ti
 ueni > veni
 uj > vi
+uar > var
+uer > ver  
 uua > uva
 uue > uve
 uuo > uvo
@@ -173,7 +176,7 @@ acuy... > a cuy...
 adesora > a desora
 adio... > a dio...
 ael > a el
-aent... > a ent... (except in Occidental texts with entender verb)
+aent... > a ent... (except in Occidental texts, where aentender is accepted)
 aes... > a es...
 agran > a gran
 ala/s/o/s > a la/s/o/s (except 'ala', when meaning 'wing')
@@ -185,7 +188,7 @@ anuest... > a nuest...
 aotr... > a otr...
 aque > a que (except 'aquella/o')
 aquien > a quien
-asaber > a saber
+asaber > a saber (except in Occidental text, where asaber is accepted) 
 ase > a se
 asu > a su
 asuso > a suso
