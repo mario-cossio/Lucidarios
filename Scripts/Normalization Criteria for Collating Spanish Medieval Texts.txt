@@ -47,6 +47,7 @@ dj > di
 eua > eva
 euan > evan
 eue > eve
+eui > evi 
 euo > evo
 ey > ei
 eyn > ein
@@ -56,13 +57,16 @@ fuy > fui
 gelj > geli
 gj > gi
 guj > gui
+hj > hi 
 Initial ff  > f
 Initial rr > r
 Initial ss  > s
 iua > iva
 iue > ive
+iui > ivi 
 iuo > ivo
 jn > in
+js > is 
 juy > jui
 lj > li
 lua > lva
@@ -76,6 +80,7 @@ nrr > nr
 ñj > ñi
 oua > ova
 oue > ove
+oui > ovi
 ouo > ovo
 oy > oi
 pj > pi
@@ -118,7 +123,8 @@ yv > iv
 yz > iz
 zj > zi
 
-Uppercase Letters in Proper Nouns:
+Uppercase Letters in Proper Nouns (this is a *tentative* list, and will need to be adapted for any other text. The transcriber should keep
+a list of the proper names and their forms):
 
 Abraam / Abraan
 Adam / Adan
