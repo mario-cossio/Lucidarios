@@ -19,7 +19,8 @@ https://github.com/7PartidasDigital/XML-TEI/tree/master/scripts)
 
 [Last Updated: November 19, 2023]
 
-Basic Graphic Normalization
+Basic Graphic Normalization (some of these replacements should be done more than one time, as the base text will change after each one.
+For example: if 'aui' > 'avi' is executed, and after the 'uj' > 'ui', new instances of 'aui' will probably appear.) 
 
 # original value > # replaced value
 Delete all <, >, {RUB.}, {LAT.}, {HD.}, {AD.}, {CW.}, {GL.}, {CB1.}, {CB2.}, {IN.} [+], (^), [^], (), [], or any other encoding mark and replace for
@@ -130,6 +131,7 @@ Abraam / Abraan
 Adam / Adan
 Agostin / Agustin / Augustin
 Alfonso
+Ante xpisto > Antecristo
 Castilla
 David / Davit
 Dionis
@@ -159,6 +161,7 @@ Tobias
 Toledo
 Tomas
 Violante
+xpisto > Cristo (of Christo, if latin)
 
 Deletion of Spaces
 
