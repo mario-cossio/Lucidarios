@@ -108,6 +108,7 @@ veya > veia
 vj > vi
 vm > um
 vn > un
+vñ > vñ 
 vs > us
 xj > xi
 xris > cris
@@ -241,7 +242,7 @@ desdel > desd el
 dese > de se
 desi/dessi > de si (except when equivalent to 'after')
 deso/desso > de so
-desta/s/o/s > d esta/s/o/s
+desta/s/e/s/o/s > d esta/s/e/s/o/s
 desu > de su
 desuso > de suso
 deyuso > de yuso
@@ -299,11 +300,13 @@ quees > que es
 quel... > que l... (or qu el...)
 quemas > que mas (except when 3rd person present tense reflexive of 'quemar' with clitic, in that case, quema s)
 queme > que me
+quenon > que non 
 ques... > qu es or que s...
 quest... > qu est...
 quete > que te
 quetu > que tu
 queyo > que yo
+quevos > que vos
 sela/s > se la/s
 sele/s > se le/s
 selo/s > se lo/s
@@ -324,8 +327,8 @@ yase > ya se
 
 Clitic Separation
 
-...ala/s/o/s > a la/s/o/s
-...ele/s > e le/s
+...ala/s/e/s/o/s > a la/s/e/s/o/s
+...ela/s/e/s/o/s > e la/s/e/s/o/s
 ...ola/s/e/s/o/s > o la/s/e/s/o/s
 ...onos > o nos
 ...nla/s/e/s/o/s > n la/s/e/s/o/s
@@ -336,7 +339,6 @@ Clitic Separation
 ...ixol > ixo l
 ...nese > ne se
 ...nse > n se
-...luen > lve/n
 ...ase > a se (restricted, not for 2nd person singular conjugations)
 ...erla/s/e/s/o/s > er la/s/e/s/o/s
 ...irla/s/e/s/o/s > ir la/s/e/s/o/s
