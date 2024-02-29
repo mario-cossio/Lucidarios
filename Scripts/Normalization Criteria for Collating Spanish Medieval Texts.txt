@@ -17,7 +17,7 @@ collation software (in this case, ChrysoCollate)
 Based on several scripts developed by José Manuel Fradejas Rueda for normalizing the transcriptions of the Siete Partidas corpus (here:
 https://github.com/7PartidasDigital/XML-TEI/tree/master/scripts)
 
-[Last Updated: November 19, 2023]
+[Last Updated: February 29, 2024]
 
 Basic Graphic Normalization (some of these replacements should be done more than one time, as the base text will change after each one.
 For example: if 'aui' > 'avi' is executed, and after the 'uj' > 'ui', new instances of 'aui' will probably appear.) 
@@ -300,6 +300,7 @@ quees > que es
 quel... > que l... (or qu el...)
 quemas > que mas (except when 3rd person present tense reflexive of 'quemar' with clitic, in that case, quema s)
 queme > que me
+quenos > que nos 
 quenon > que non 
 ques... > qu es or que s...
 quest... > qu est...
