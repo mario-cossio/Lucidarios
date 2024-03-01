@@ -341,6 +341,7 @@ Clitic Separation
 ...nese > ne se
 ...nse > n se
 ...ase > a se (restricted, not for 2nd person singular conjugations)
+...ese > e se
 ...erla/s/e/s/o/s > er la/s/e/s/o/s
 ...irla/s/e/s/o/s > ir la/s/e/s/o/s
 ...orla/s/e/s/o/s > or la/s/e/s/o/s
