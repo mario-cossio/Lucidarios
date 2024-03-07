@@ -133,10 +133,12 @@ Adam / Adan
 Agostin / Agustin / Augustin
 Alfonso
 Ante xpisto > Antecristo
+Casandra
 Castilla
 David / Davit
 Dionis
 Eva
+Escariote
 Ezechiel
 Gabriel / Grabiel
 Galizia
@@ -146,6 +148,7 @@ Jaen / Jahen
 Job
 Jonas / Joanas
 Juan / Joan
+Judas
 Leon
 Lucas
 Marcos
@@ -158,6 +161,7 @@ Noe / Nohe
 Rafael / Raphael
 Salamon / Salomon
 Sancho
+Sebila/Sevilla
 Tobias
 Toledo
 Tomas
@@ -184,6 +188,7 @@ Separation to Differentiate Apocopated Compounds or Words Written in a Single Gr
 
 acabo > a cabo
 acad... > a cad...
+acima > a cima
 acuy... > a cuy...
 adesora > a desora
 adio... > a dio...
@@ -198,6 +203,7 @@ anos > a nos
 antel > ant el
 anuest... > a nuest...
 aotr... > a otr...
+aqua... > a qua...
 aque > a que (except 'aquella/o')
 aquien > a quien
 asaber > a saber (except in Occidental text, where asaber is accepted) 
