@@ -337,7 +337,8 @@ Clitic Separation
 ...ala/s/e/s/o/s > a la/s/e/s/o/s
 ...ela/s/e/s/o/s > e la/s/e/s/o/s
 ...ola/s/e/s/o/s > o la/s/e/s/o/s
-...onos > o nos
+...onos > ...o nos
+...rnos > ...r nos
 ...nla/s/e/s/o/s > n la/s/e/s/o/s
 ...dola/s/e/s/o/s > do la/s/e/s/o/s
 ...rse > r se
