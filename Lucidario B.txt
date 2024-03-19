@@ -1,25 +1,12 @@
+{RMK: HSMS-0463}
 {RMK: Sancho IV el Bravo, rey de Castilla y León.}
 {RMK: [LUB] Lucidario.}
 {RMK: .}
 {RMK: Salamanca | Biblioteca General Histórica, Universidad de Salamanca | 1958.}
 {RMK: Mario Antonio Cossío Olavide.}
-[fol. 0r]
-{CB1.
-{GL. [^6#De la Bibliotheca del Col<egi><<o>> M<ay><<or>> de Cuenca
-Este libro es llamado Luc'idario e fic'ole
-conponer a muchos sauios el no-
-ble e catholico Rey Don
-sancho el seteno Rey de los que
-fueron en Castilla e en Leon fixo
-del muy noble Rey Don
-Alfonsso e de la muy noble Rey-
-na Violante e fic'olo ordenar pa-
-ra los entendimientos de los hon-
-bres simples e mandolo ordenar
-en manera de question que fac'ia
-vn Dic'ipulo con su Maestro]}}
 [fol. 1r]
 {CB1.
+{RMK: HSMS-0463-0001: Lucidario.}
 {AD. [^2#Este libro es llamado luc'idario & fizo le co<n>poner a muchos sabios El noble &
 catholico rrey do<n> sancho el seteno rrey de los q<ue> fuero<n> en castilla & en leon fijo del
 muy noble rrey do<n> alfon<so> & de la muy noble rreyna violante & fizo lo ordenar
@@ -454,7 +441,7 @@ pulo q<ue> estoujese ant<e> su maestro}
 & q<ue>l p<r><<e>>gu<n>tase sobre cada cosa & el
 maestro q<ue> le rrespo<n>djese aello
 E comjenc'a asy %
-{BLNK: 16 lines.}
+{BLNK: 16 lines left blank.}
 {IN3.} Maestro yo soy tu de-
 c'ipulo & tu me as
 ensen<n>ado mucho bje<n>
@@ -885,7 +872,7 @@ ntura estjendese & torna a
 su estado & semeja a nos q<ue>
 cresc'e {RUB. T<itol><<o>> segu<n>do de q<ue> fizo
 dios el sol & la luna.}
-{BLNK: 4 lines.}
+{BLNK: 4 lines left blank.}
 {IN3.} Dema<n>do el dic'ipulo
 maest<r><<o>> pues q<ue>me
 as dicho las p<ro>pie-
@@ -1366,7 +1353,7 @@ na<n>te era & fjnca ljnpia & sana
 de aq<ue>l mal q<ue> rrec'ebjo % E por
 esta rrazon ma<n>da(^l)[^n] los maestros
 g<u><<a>>rdar aq<ue>llos dias q<ue> de suso dixe
-{BLNK: 12 lines.}
+{BLNK: 12 lines left blank.}
 {RUB. T<itol><<o>> t<er>c'ero do estaua dios q<u><<a>>ndo fizo
 el c'ielo & la t<ie>rra}
 {IN3.} Pr<e>gu<n>to el dec'ipulo maestro
@@ -1420,7 +1407,7 @@ en otro en aq<ue>l a do el estodiese se-
 ria abondado & el ot<r><<o>> seria me<n>gua-
 do % mas por q<ue> el es en todo lugar
 por eso ha todo lugar ma<n>tene<n>c'ia
-& abonadamje<n>to % mas bje<n> es u<er>dat
+& abon(a)damje<n>to % mas bje<n> es u<er>dat
 q<ue>los <santos> llama<n> la siella de dios
 en<e>l jx<<o>> c'ielo por q<ue> allj ve<n> los b-
 ie<n> aue<n>turados la su gloria q<ue> esta<n>
@@ -2422,14 +2409,14 @@ vjda deste mu<n>do mas q<ue>la gl<or>ia del p<ar>ayso %
 mas an lo por q<ue> q<ue>rria<n> q<ue>los cue<r>pos q<ue>les
 fuero<n> ma<n>dados & obedec'jent<e>s & q<ue> se venc'ioro<n>
 delos sus sabor<e>s por las bondades delas al-
-mas fuesen co<n> ellas ayu<n>tadas de suno enla
+mas fuesen co<n> ellas ayu<n>tadas de[+]suno enla
 gl<or>ia del p<ar>ayso asy com<m>o lo a<n> de ser del
-dia del juyzio adelant<e> las almas de co<n>
+dia del juyzio adelant<e> las almas de co<n>[+]-
 suno co<n>los cue<r>pos glo[ri]ficados o de aq<ue>lla era
 adelantre seria el p<ar>ayso conplido & acabado
 del todo % otrosy de aq<ue>l dia en adelant<r><<e>>
 a semeja<n>c'a desto asy seria<n> los cue<r>pos & las
-almas aju<n>tados de suno en<e>l jnfie<r>no lo q<ue>
+almas aju<n>tados de[+]suno en<e>l jnfie<r>no lo q<ue>
 agora no<n> son ssjno<n> en almas & de}
 {CB2.
 allj adelant<e> sy el galardo<n> del bje<n> en
@@ -4248,7 +4235,7 @@ ljno o de seda % E ac'erca de aq<ue>l filo
 lanc'a otro & depues ot<r><<o>> fasta q<ue>lo
 faze q<ue> entjenda ella q<ue> pueda a<n>-
 dar por ellas % & va fasta el ca-
-bo onde se trauro<n> los filos & pon
+bo onde se trau[a]ro<n> los filos & pon
 y de aq<ue>lla materia donde se fezjo-ro<n>}
 {CB2.
 los filos por q<ue> sea firm<e> % & de sy torna
@@ -4568,7 +4555,7 @@ natu<r><<a>>s la p<r><<i>>m<er>a rrazon de teologia
 <santa> es esta % asy com<m>o el n<uest>ro
 sen<n>or jh<es>u xp<ist>o ouo poder de
 faz<er> la carne del om<br>e de no<n> na-
-da & q<ue> fuese ju<n>tada toda de su-
+da & q<ue> fuese ju<n>tada toda de[+]su-
 no co<n> cue<r>po & co<n> huesos cue<r>po
 de om<br>e vjuo asy com<m>o el a poder
 desto vje<n> asy a poder de cobrar a-
@@ -4846,7 +4833,7 @@ q<ue> a el cue<r>po q<ue> es mat<eri>a de ser co<n>la al-
 ma q<ue> es forma % E p<ro>eua <santo> agosti<n>
 q<ue>l dia del n<uest>ro rresuc'itamje<n>to q<ue> estas dos
 codic'ias q<ue> son q<ue> u<er>na la obra de dios
-q<ue>las ayu<n>tara de suno q<ue> nu<n>ca aura<n> co-
+q<ue>las ayu<n>tara de[+]suno q<ue> nu<n>ca aura<n> co-
 dic'ia de nj<n>g<un><<a>> cosa q<ue> sea. {RUB. T<itol><<o>> xxxv<<o>>
 de todas las cosas vjuas de sobre t<ie>rra
 si las fizo dios o com<m>o fuero<n> fechas}
@@ -4924,11 +4911,11 @@ las dela t<ie>rra & dio acada vna com<m>o ve-
 ujese & q<u><<a>>nto valjese segu<n>d el bje<n> q<ue> e-
 n<e>lla fuese. {RUB. T<itol><<o>> xxxvj de q<u><<a>>l delos
 costados de ada<n> saco dios la costiella
-de q<ue> fizo aeua del d<er>echo o del esq<u><<i>>erdo}
+de q<ue> fizo a eua del d<er>echo o del esq<u><<i>>erdo}
 {IN3.} Pr<e>gu<n>to el dec'jpulo asu ma<estr><<o>> & dixo
 ma<estr><<o>> rruegote q<ue>me digas de
 q<u><<a>>l<e>s delos costados de adan saco
-n<uest>ro sen<n>or la costiella de q<ue> fizo aeua sy
+n<uest>ro sen<n>or la costiella de q<ue> fizo a eua sy
 fue del costado derecho o del esq<u><<i>>erdo % rrespo<n>-
 dio el ma<estr><<o>> sepas q<ue> esta dema<n>da q<ue>no<n>
 es de natu<r><<a>>s mas es de teologia & segu<n>d
@@ -4979,11 +4966,11 @@ carr<e>ra toujesen % E por eso q<u><<i>>ero q<ue>
 sepas q<ue> en<e>l ofic'io de <santa> ygl<es>ia}
 [fol. 38r]
 {CB2.
-q<u><<a>>ndo casan el marido & la mug<er> de suno
+q<u><<a>>ndo casan el marido & la mug<er> de[+]suno
 & les djzen la mjsa del casamje<n>to po-
 ne<n> la mug<er> ala p<ar>te senjestra del ma-
 rido % E es asemeja<n>c'a de com<m>o el n<uest>ro
-sen<n>or c<r><<i>>o a adan & aeua fuera de p<ar>ayso
+sen<n>or c<r><<i>>o a adan & a eua fuera de p<ar>ayso
 q<u><<a>>ndo los p<r><<i>>m<er>o fizo % E depues q<ue>los
 ouo fechos metiolos anbos & dos en<e>l
 p<ar>ayso terrenal % E por eso te toma el
@@ -5780,7 +5767,7 @@ q<ue>llo q<ue> fezjera<n> mje<n>tre fuera<n>
 vjuas en<e>ste mu<n>do % E este
 galardon q<ue> serie en<e>l cue<r>po & e<n>
 ela alma seye<n>do todo ayu<n>ta-
-do de suno % por ende mjo
+do de[+]suno % por ende mjo
 ma<estr><<o>> q<ue>rria saber de tj estas al-
 mas q<ue> agora esta<n> e<n>las siellas
 del (^sie) c'ielo sy estara<n> y depues
@@ -6284,7 +6271,7 @@ seta delos moros q<ue> llama<n> ellos
 ley & mjente<n> % ca ley no<n> puede}
 {CB2.
 ser fecha sjno<n> por ma<n>dado de dios asy
-com<m>o la ley q<ue> djo amoysen esc<r><<i>>ta por
+com<m>o la ley q<ue> djo a moysen esc<r><<i>>ta por
 figu<r><<a>> % o la q<ue> es fecha por obra de dios
 asy com<m>o q<u><<a>>ndo el vjeno a encarnar e<n>la
 u<<i>><r>ge<n> <santa> <maria> & co<n>plio todo lo q<ue> auja a
@@ -7341,7 +7328,7 @@ yo agora % E en<e>l comje<n>c'o q<u><<a>>ndo dios crio
 todas las cosas ordeno q<u><<a>>tro generac'ion<e>s
 & convjenj<e> q<ue> se co<n>pljesen todas % la p<rimer><<a>>
 fue q<u><<a>>ndo fizo a adan sin padre & sin ma-
-dre & adan saco aeua & eua ouo padre &
+dre & adan saco a eua & eua ouo padre &
 no<n> ouo madre % E asy se co<n>pljoro<n> las
 dos generac'ion<e>s % la p<rimer><<a>> fue sin padre &
 sin madre % la segu<n>da q<ue> ouo padre & no<n> o-
@@ -7450,7 +7437,7 @@ ley los diez ma<n>damje<n>tos}
 xol ma<estr><<o>> rruegote q<ue>me digas
 vna dema<n>da q<ue> te q<u><<i>>ero faze<r>
 la q<u><<a>>l es esta % por q<ue> rrazon di(^x)o el
-n<uest>ro sen<n>or amoysen esc<r><<i>>ptos enlas ta-
+n<uest>ro sen<n>or a moysen esc<r><<i>>ptos enlas ta-
 bras los diez ma<n>damje<n>tos % q<ue> pues q<ue>
 los fiios de jsrra<e>l era<n> om<br>es grandes
 & tribus generac'iones & auya<n> a veujr &
@@ -7677,7 +7664,7 @@ dor q<u><<a>>tro anjmaljas llenas de ojos ta<n>}
 bje<n> delant<e> com<m>o en pos de sy %
 E tu mj dec'jpulo deues saber en<e>ste
 lugar q<ue> estos muchos ojos co<n> q<ue> ca-
-taua<n> amuchas p<ar>tes son los ojos
+taua<n> a muchas p<ar>tes son los ojos
 de gra<n>de alu<n>bramje<n>to & de c'ienc'ia
 & de gra<n> s<an>tidat q<ue> dios puso en<e>stas
 q<u><<a>>tro eua<n>geljstas por q<ue> conoc'ioro<n> &
@@ -8007,7 +7994,7 @@ en<e>l c'ielo estrellado q<ue>no<n> en<e>l
 nubrado pues rruegote q<ue>me dj-
 gas por q<ue> es % rrespondio el
 ma<estr><<o>> & dixo tu me afjncas mucho
-q<ue>te rresponda amuchas dema<n>-
+q<ue>te rresponda a muchas dema<n>-
 das q<ue>me fazes alas q<u><<a>>l<e>s o-
 tro mejor maest<r><<o>> q<ue> yo auria}
 [fol. 66r]
@@ -8145,7 +8132,7 @@ segunda por la friura dela t<ie>rra q<ue>
 sube por el a c'jma % la t<er>c'era por
 la humjdat gra<n>de del agua co<n>la
 q<ue>lo rriega<n> & todas estas friuras
-aju<n>tadas de suno fazen el meollo
+aju<n>tadas de[+]suno fazen el meollo
 destas arbor<e>s tornar ag<r><<o>> % E asy
 va sobjendo este meollo de rra-
 mo en rramo fasta allj do cria
@@ -9339,7 +9326,7 @@ la mar q<ue> salen dellos q<ue> por el bol-
 uj(e)mje<n>to delas ondas del mar buelue<n> lo}
 [fol. 78v]
 {CB2.
-& ayu<n>ta<n> lo todo de suno % E esto es
+& ayu<n>ta<n> lo todo de[+]suno % E esto es
 lo q<ue> estas ballenas menor<e>s come<n>
 & por q<ue> son ta<n> gruesas estas balle-
 nas menor<e>s q<ue>nos los om<bre>s comemos
@@ -9565,7 +9552,7 @@ el verano % E esta t<ie>rra fria onde ellas
 c<r><<i>>a<n> sabemos por c'ie<r>to q<ue> es alle<n>de jnglat<e>rra & asy}
 [fol. 80v]
 {CB2.
-com<m>o co<n>tec'e delas grr<uy>as fallamos de o-
+com<m>o co<n>tec'e delas grr<u>as fallamos de o-
 tras t<ie>rras muchas q<ue> ha por el mu<n>-
 do en q<ue> falla om<br>e vnas aues q<ue> bjue<n>
 y & no<n> las falla<n> en otra t<ie>rra % E
@@ -10522,7 +10509,7 @@ son muy caljent<e>s de natu<r><<a>> & a<n> la
 sang<r><<e>> muy caljent<e> % muy mas
 lo son las due<n>das de(^l) casa q<ue>las
 ot<r><<a>>s % E esto puedes ver por ellas
-por com<m>o son veellosas e<n>los pies
+por com<m>o son vellosas e<n>los pies
 & an mas froxel q<ue>las ot<r><<a>>s palonbas
 e<n>los pescuec'os & e<n>los pechos & esto les
 contec'e por la gra<n> humjdat & por la
@@ -11867,8 +11854,8 @@ dentro & por ende no<n> osan andar & esta<n> en-
 cogidas & no<n> toma<n> sabor de sy & por el
 t<ien>po muy fuerte q<ue>les faze no<n> falla<n> ta<n>
 bje<n> de come<r> com<m>o en verano [%] E las
-aguas q<ue> boue<n> fallan las muy frias [%]
-E por eso an poco sabor de boue<r> dela
+aguas q<ue> b(o)[e]ue<n> fallan las muy frias [%]
+E por eso an poco sabor de b(o)[e]ue<r> dela
 agua ca fallec'e<n>les dos frutos com<m>o la
 vna del t<ien>po dela otra dela agua q<ue> es
 fria com<m>o q<u><<i>>er q<ue>las aues mucho sjente<n>
@@ -11950,7 +11937,7 @@ mug<er> fermosa de q<ue>se pague}
 ayu<n>ta<n>dose co<n> ella ta<n> bje<n> faze<n> sus
 fiios en Jnuje<r>no com<m>o en verano
 ca tres cosas son q<ue> faze<n> al om<br>e
-faz<er> gonerac'io<n> [%] la p<rimer><<a>> ver por los o-
+faz<er> g(o)[e]nerac'io<n> [%] la p<rimer><<a>> ver por los o-
 jos aq<ue>llo de q<ue>se paga & ymagjnar
 lo en su alma & en su volu<n>tad [%]
 lo ij<<o>> codic'iar lo [%] lo t<er>c'ero desq<ue> lo a
@@ -12312,8 +12299,8 @@ las fojas en pre<n>das. di<eg><<o>> g<onc'ale>s
 pague a J<u><<a>>n ot<r><<o>>s c'inq<ue>nta m<a>r<auedi>s no<n>
 le deuo nada deste ljbro q<u><<a>>ndo vjno
 de salama<n>ca jueu<e>s xxvj de julljo.
-didacus
-g<u>n<disal><<uj>>]}
+{LAT. didacus
+g<u>n<disal><<uj>>}]}}
 {CB2.
 {AD. [^4#p<r><<e>>ste a J<u><<a>>n m<artine>s m<edi><<o>> Real e a mjg<ue>ll ff<errande>s ot<r><<o>> m<edi><<o>>
 e la nuera de t??<<o>> f<e>rr<ande>s ot<r><<o>> medio xxxxv.
@@ -12327,3 +12314,6 @@ g<onc'ale>s]}
 {AD. {LAT. [^5#Johanes g<u>n<disal><<uj>>
 locu<m> tenent<em>
 archip<r><<e>>sbit<er>]}}}
+[fol. 104v]
+[fol. 105r]
+{RMK: HSMS-0463-0002: Vida de San Amaro.}  
