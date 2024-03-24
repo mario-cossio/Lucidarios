@@ -23,10 +23,11 @@ How to quote:
 
 <ol>
 <li>Cossío Olavide, Mario (2023). «<em>Lucidario</em>, testimonio A (Biblioteca Nacional de España, ms. 3369), transcripción semipaleográfica». <em>Lucidarios, v. 0.3</em>, https://doi.org/10.5281/zenodo.10819485, fecha de consulta.</li>
+<li>Cossío Olavide, Mario (2024). «<em>Lucidario</em>, testimonio B (Biblioteca General Histórica de la Universidad de Salamanca, ms. 1958), transcripción semipaleográfica». <em>Lucidarios, v. 0.3</em>, https://doi.org/10.5281/zenodo.10819485, fecha de consulta.</li>
 <li>Cossío Olavide, Mario (2022). «<em>Lucidario</em>, testimonio C (Real Biblioteca, ms. II/793), transcripción semipaleográfica». <em>Lucidarios, v. 0.3</em>, https://doi.org/10.5281/zenodo.10819485, fecha de consulta.</li>
 <li>Cossío Olavide, Mario (2022). «<em>Lucidario</em>, testimonio D (Real Academia Española, ms. 15), transcripción semipaleográfica». <em>Lucidarios, v. 0.3</em>, https://doi.org/10.5281/zenodo.10819485, fecha de consulta.</li>
 <li>Cossío Olavide, Mario (2022). «<em>Lucidario</em>, testimonio E (Biblioteca Nacional de España, ms. 6958), transcripción semipaleográfica». <em>Lucidarios, v. 0.3</em>, https://doi.org/10.5281/zenodo.10819485, fecha de consulta.</li>
-<li>Cossío Olavide, Mario (2023). «<em>Lucidario</em>, testimonio F (Biblioteca General Histórica de la Universidad de Salamanca, ms. 2401), transcripción semipaleográfica». <em>Lucidarios, v. 0.3</em>, https://doi.org/10.5281/zenodo.10819485, fecha de consulta.</li>
+<li>Cossío Olavide, Mario (2024). «<em>Lucidario</em>, testimonio F (Biblioteca General Histórica de la Universidad de Salamanca, ms. 2401), transcripción semipaleográfica». <em>Lucidarios, v. 0.3</em>, https://doi.org/10.5281/zenodo.10819485, fecha de consulta.</li>
 <li>Cossío Olavide, Mario (2022). «<em>Lucidario</em>, testimonio G (Real Academia de la Historia, ms. 101), transcripción semipaleográfica». <em>Lucidarios, v. 0.3</em>, https://doi.org/10.5281/zenodo.10819485, fecha de consulta.</li>
 <li>Cossío Olavide, Mario (2022). «<em>Lucidario</em>, testimonio H (Bibliothèque patrimonial Villon, ms. A283), transcripción semipaleográfica». <em>Lucidarios, v. 0.3</em>, https://doi.org/10.5281/zenodo.10819485, fecha de consulta.</li>
 <li>Cossío Olavide, Mario (2023). «<em>Lucidario</em>, testimonio I (Biblioteca de la Fundación Bartolomé March Servera, ms. MA26-5-07), transcripción semipaleográfica». <em>Lucidarios, v. 0.3</em>, https://doi.org/10.5281/zenodo.10819485, fecha de consulta.</li>
