@@ -5,7 +5,7 @@ This is a repository for the nine witnesses of Sancho IV's <em>Lucidario</em>. T
 
 <ol>
 <li>A (Biblioteca Nacional de España, ms. 3369)</li>
-<li>B (Biblioteca General Histórica, Universidad de Salamanca, ms. 1958).</li>
+<li>B (Biblioteca General Histórica, Universidad de Salamanca, ms. 1958)</li>
 <li>C (Real Biblioteca, ms. II/793)</li>
 <li>D (Real Academia Española, ms. 15, códice de Puñonrostro)</li>
 <li>E (Biblioteca Nacional de España, ms. 6958)</li>
