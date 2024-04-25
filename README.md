@@ -44,7 +44,7 @@ All rubrics have been extracted from the chapters and compiled into separate Ms.
 
 The '2. Colación' folder can contain up to three plain text files: 'Chapter Number+_separado', 'Chapter Number+_unido', and 'Chapter Number+_colación'. These files are [ChryscoCollate](https://cental.uclouvain.be/chrysocollate/) collation files. 'Chapter Number+_separado' contains all collated witnesses with their readings in separate, individual columns. 'Chapter Number+_unido' is similar, but with all the common readings across witnesses grouped in blocks. 'Chapter Number+_colación' is the final collated text. The '4. Edición' (or '3. Edición') folder contains a single Ms. Word with the exported, edited file for the chapter.
 
-Note that this is an ongoing process, so not all chapters have a folder at this moment, and most 'Edición' folders are empty. They will be added as the collation progresses, with an estimated completion time of July 2025).
+Note that this is an ongoing process, so not all chapters have a folder at this moment, and most 'Edición' folders are empty. They will be added as the collation progresses, with an estimated completion time of July 2025.
 
 **<em>Stylo</em>**
 
