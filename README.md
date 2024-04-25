@@ -57,3 +57,5 @@ A Separate text file has been created for the rubrics of each witness.
 This subfolder contains various scripts for BBEdit, Mac Terminal and R, along with a set of normalization criteria developed for the <em>collatio</em> of semi-paleographic transcriptions of medieval Spanish texts.
 
 <p align="right">MCO</p>
+<p align="right">Last update of Readme.md: April 26, 2024</p>
+
