@@ -17,7 +17,7 @@ This is a repository for the nine witnesses of Sancho IV's <em>Lucidario</em>. T
 
 Currently, I'm transcribing F (Biblioteca General Histórica, Universidad de Salamanca, ms. 2401), a Latin translation by Juan Eusebio Nieremberg, at a slow pace, and should be done by July 2024.
 
-The repository also holds the transcription of the only medieval Spanish translation of Honorius Augustodunensis' <em>Elucidarium</em>, the <em>Lucidario romanceado</em>, preserved in the Biblioteca Histórica Marqués de Valdecilla of the Universidad Complutense de Madrid, ms. 148, which I have edited in <em>Incipit</em>'s [issue 41](http://www.iibicrit-conicet.gov.ar/ojs/index.php/incipit/article/view/541).
+The repository also holds the transcription of the only medieval Spanish translation of Honorius Augustodunensis' <em>Elucidarium</em>, the <em>Lucidario romanceado</em>, preserved in the Biblioteca Histórica Marqués de Valdecilla of the Universidad Complutense de Madrid, ms. 148, published in <em>Incipit</em>'s [issue 41](http://www.iibicrit-conicet.gov.ar/ojs/index.php/incipit/article/view/541).
 
 How to quote:
 
