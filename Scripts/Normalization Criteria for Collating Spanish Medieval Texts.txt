@@ -174,7 +174,7 @@ Deletion of Spaces
 - + space > nothing
 caña vera > cañavera
 des que > desque
-en antes > enantes
+en ante/s > enante/s
 en pero > enpero
 em pos > empos
 en pos > enpos
