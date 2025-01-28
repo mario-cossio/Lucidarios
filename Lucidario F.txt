@@ -8,16 +8,16 @@
 {RUB. ELVCIDARIUM
 serenissimi Regis Cas-
 tellae et Legionis D<omi>ni
-Sanctii Fortis cogno-
-mento filii Regis
+Sanctij Fortis cogno-
+mento filij Regis
 D<ominus> Alfonsi Sapi-
 entis.}
 Auctore ipso Rege Sanctio secum ipso
 meditante et confabulante sub
 Doctoris et Auditoris
-Persona
-Quod extat manuscriptu<m> antiquissimi membranis
-Bibliothecae D<omini> Laurentii
+Persona.
+Quod extat manuscriptu<m> in antiquissimis membranis
+Bibliothecae D<omini> Laurentij
 Ramirez de Padro
 Et ex antiquo Hispaniae charactere et idiomate
 in latinum vertit P<ater> Ioannes Evsebivs
@@ -25,8 +25,7 @@ Nierembergivs Societatis
 Iesu.}}
 [fol. 34r]
 {CB1.
-{LAT. 
-{RUB. ELVCIDARIVM SERENIS-
+{LAT. {RUB. ELVCIDARIVM SERENIS-
 simi Regis Castellae et Legionis D<omini>
 Sanctij Fortis cognomento, filij Regis
 D<ominus> Alfonsi Sapientis
@@ -39,7 +38,7 @@ idiomate interpretatus est. P<ater> I<oannes> Evsebius
 Nierembegius
 (^et in lucem dedit)}
 {IN1.} IN Nomine Dei. Amen. et sanctissimae Mariae. Magister
-mi, ego quia discipulus a[ ]te instituens plura et optima didici,
+mi, ego quia discipulus a[ ]te institutus plura et optima didici,
 et ferme quaecumque edocuisti, mera Theologia est; tamen locus
 hic, vbi otium nostrum, et vita modo degitur, scholis claret, (^vo-
 bis) in quibus plurimae florent scientiae. interdum euenit,
@@ -57,13 +56,12 @@ a te sum informateis, proinde antequam manum et disputa-
 tionem conferam cum scholari aliquo, tecum prius velitare
 est animus, quoniam praeceptor meus es, vt plene satisfacias
 his, quae curiosus postulauero iuxta sapientiam, et peritiam
-tuam. Itaque actutum postulare exordiar. Rogo igitur,}
+tuam. Itaque actutum postulare exordiar. Rogo igitur, +}
 {CW. quae}}
 [fol. 34v]
 {CB1.
-{LAT.
-quaenam prior res, quae in caelis et terra est. Respondit Ma-
-gister, probe interrogasti, morem perlibenter geram.
+{LAT. quaenam prior res, quae in caelis et terra est. Respondit Ma-
+gister, probe interrogasti, morem per(l)[h]ibenter geram.
 {RUB. Titulus 1. Quid sit primum in coelis, et terra?}
 Scias rerum omnium antelatum, et priorem Numen esse, quod indicare
 ex Theologia lubet, quam scientiam profiteor ipse, atque etiam ex
@@ -84,27 +82,26 @@ fuisse. si aliquis {AD. ^dicat} hominem fuisse auctorem illum id pronum
 impugnare est, quod nolo ex Theologia fulciri, sed ex
 mera natura: nam quemadmodum haec vniuersi machi-
 natio ex elementis quatuor subsistit, ita homo ex humori-
-bus totidem quibus Deus insersit Adamum, cum e<x> limo
+bus totidem quibus Deus infersit Adamum, cum e<x> limo
 figulauit, et quemadmodum terra, vel[ ]potius orbis quatuor
 elementis procuratur, ita humanum corpus humoribus
-elementali ???. Prior itaque homo in vniuerso Adam
+elementali ritu. Prior itaque homo in vniuerso Adam
 fuit, (^et) qui e<x> terra subactus et formatus. Porro terra
 aliunde subsumpta fuit, portio (^mundi) enim mundi
 est; mundus autem non suapte genitus, sed auctorem habuit.
 auctor vero est Deus, caeli terraeque conditor. ideo primum
 omnium ens in caelis et terra. idcirco etiam prius ele-
-mentum nominis Domini, quod aleph dicunt .a. respon-det}
+mentum nominis Domini, quod aleph dicunt .a. respon-det, +}
 {CW. det}}
 [fol. 35r]
 {CB1.
-{LAT.
-(det), nempe totius Alphabeti caput.
+{LAT. nempe totius Alphabeti caput.
 {RUB. Titulus 2. Quid sit primum lumen orbis, et
 virtus solis?}
 Tunc auditor, obsecro, inquit edoceas modo, quaesit lux, quae orbem
-collustrat. Ad haec Magister scito lumen, quo purpuratur et illu-
+collustrat. Ad haec Magister, scito lumen, quo purpuratur et illu-
 minatur mundus, Deum esse, quod itidem ex Theologia (^et) {AD.^nec sine} Physi-
-ce fulciam. ¶ inuenimus in quodam Euangelij oraculo edictum
+ce fulciam. inuenimus in quodam Euangelij oraculo edictum
 ego sum lux, quod item contestatur Joannes Apostolus, ex Euan-
 gelistes suo Euangelio, qui sublimiori quam alij eloquio tenauit,
 inde orsus in principio erat verbum. ibi ait hominum vitam
@@ -113,7 +110,7 @@ Itaque per hanc lucem Deus dumtaxat indigetatur. adiungit
 praeterea Joannes (nam de alieno Joanne Baptista sermonem
 miscere placuit) fuisse hominem missum a Deo, cui nomen erat
 Joannes, atque hunc venisse, vt testimonium perhiberet
-gentibus in mundo, vt audirent verbum huius luminus, quod
+gentibus in mundo, vt audirent verbum huius luminis, quod
 in mundo iam aderat per eximia opera promulgandum {AD. quae} dum
 in terris moraretur in Christi Jesu aduentu, ipse Dominus
 effecturus erat, tum per mortem {AD. ^dominicam} et passionem nostri causa
@@ -121,48 +118,47 @@ futuram. verum cum haec sua praedicatione Baptizator to-
 naret mundo, plures id non capiebant, sed Joannem ipsum
 rebantur hoc lumen fore, qui collustraturus esset vniuersum.
 hi similes erant ijs , qui pellucentibus, et conspicuis sunt
-oculis; nihil tamen propterea valent cernere, perinde ac si e?utos
-saluissent. inde quoque in Euangelio eodem dicutur: ipsum fuisse lucem
+oculis; nihil tamen propterea valent cernere, perinde ac si exutos
+habuissent. inde quoque in Euangelio eodem dicitur: ipsum fuisse lucem
 quae illuminat omnem orbem. Decet quidem vt fidem faciat Joan-
 nes euangelista, quippe coniunctissimus, et addictissimus fuerit
 Christo Domino nunquam ab eo separatus, nec in vita, nec morte
 vbicumque opportuisset, ideo et testimonium eius verum est.
-quin?, et fide plena dignus est, qui oculatus fuit tertis. Nunc
+quin et fide plena dignus est, qui oculatus fuit testis. Nunc
 ex Philosophia non piget ad idem inclinare; caeli lumina, sol
 luna, sydera, nullum dempto sole voluit Deus suapte lucem
 iaculari: nam et luna et stellae {AD. ^spissae} sunt, et tenebrosae
-sed candicantes, vt in se iubar acceptent, quod a sole instillatur,}
+sed candicantes, vt in se iubar acceptent, quod a sole instillatur, +}
 {CW. et}}
 [fol. 35v]
 {CB1.
-{LAT.
-¶ et dum sol terram pererra, quam incolimus tantus est splendor, quem
-inse continet a Deo creduus, vt lunae, et astrorum claritas coram ipso
+{LAT. et dum sol terram pererrat, quam incolimus tantus est splendor, quem
+in se continet a Deo creduus, vt lunae, et astrorum claritas coram ipso
 euanescat, quia maiori fulgore torpet vis minoris. Praetera in sole
-radicata est claritudo, quam in illo Deus velut penu deposuit esno-
+radicata est claritudo, quam in illo Deus velut penu deposuit e<x> suo
 lumine, alia vero mendicant illam a sole, qui eam dispensat. opor-
-tet igitur, vt quod radicatum est, et ex suo censu vim sorbitur,
-robustiorem virtutem sabeat quam id quod alicunde est indultum;
-quod trino exemplo lig??idum faciam; fiat duplex sonus vnus altero maior,
-ab hoc minor absorbetur. itera; fiat ingens rogus inlatissimo campo;
+tet igitur, vt quod radicatum est, et ex suo censu vim sortitur,
+robustiorem virtutem habeat quam id quod alicunde est indultum;
+quod bino exemplo liquidum faciam; fiat duplex sonis vnus altero maior,
+ab hoc minor absorbetur. itera; fiat ingens rogus in latissimo campo;
 locetur prope parua lucerna, nec apparebit, nec illuscescet coram
-splendore rogi: prorsus idem est lunae et astris coram sole: solare
-enim corpus solum hauret proxime a Deo fulgorem; idcirco sol vocatur.
+splendore rogi: prorsus idem est lunae et astris coram {AD. ^sole}: solare
+enim corpus solum haurit proxime a Deo fulgorem; idcirco sol vocatur.
 ab ipso tamen caetera mutuantur. Rursus postulauit discipulus, quare luna
 et astra noctu coruscant non diu. scias, inquit Magister, mundum,
-in quod degimus globosum instar sphaerae esse, caelum quoque orbicula
+in quo degimus globosum instar sphaerae esse, coelum quoque orbicula-
 tum est, vt quaedam pila maior, atque hic est orbis seu mundus.
-Porro ille globus capit et claudit alium minorem, et cum sol ambu
+Porro ille globus capit et claudit alium minorem, et cum sol ambit
 hanc terrae superficiem, quam incolimus diescit nobis, ijs vero
 qui oppositam terrae plagam occupant, nox erit. Proinde cum sol
-nostrum terrae ambitum lustrar, vt ruper dixi, dies est: item cum occi-
+nostrum terrae ambitum lustrar, vt nuper dixi, dies est: item cum occi-
 dit nobis, superficiem oppositam ambiens, nox est nobis. Tunc reliquit
-lunam et stella ??olante splendore suo, sed radij solares eminus
-iaculati eam etiam claritatem excutiunt? ab illis, sol quippe magni-
-tudine excedit centies, et septuagies quinquies globum terrarum
-et quaemeus sol peragret et subeat terrae latera, licet eius iubar
+lunam et stella auolante splendore suo, sed radij solares eminus
+iaculati eam etiam claritatem excutiunt ab illis; sol quippe magni-
+tudine excedit centies, et septuagies quinquies globum terrenum
+et quaemeus? sol peragret et subeat terrae latera, licet eius iubar
 proxime non attingamus, illud tamen penitus obnubere nequit,
-quin eius magnitudo circum ceruscet et scandat; quia vti ??per-
+quin eius magnitudo circum ¶ ceruscet et scandat; quia vti ??per-
 rime manui, maior est. Denique idem contiget cum sole et
 Deo, quod aquis et mari. fontes, fluminaque omnis quae ter-
 ras perfluunt e<x> mari originem capiunt, illucque regrediuntur
@@ -171,11 +167,11 @@ tit, vt terrenas plagas prpurent, sic alij velut scandunt coram
 conspectu diuino, quod (^desupeabet) [^expostulent] ex eius splendore, plus minusue pro-
 ut dispensare placuerit. quin adeo mera et defaecata solaris
 claritudo est, vt reliquae coram minime scintillent, nect com-
-pa-(pa)reant.}}
+pa-reant. +}
+{CW. pa}}
 [fol. 36r]
 {CB1.
-{LAT.
-Tunc Tyro?, si, quemadmodum sol haurit e diuino fonte fulgurem,
+{LAT. Tunc Tyro?, si, quemadmodum sol haurit e diuino fonte fulgurem,
 quare nobis saepe apparet meditate, aut tertia portione niger, et in
 reliquo solaris globi conspicuis? Ad haec Magister: minime hic defectus
 est, quominus promanet a diuino origine et fontali iubare, sedex
@@ -207,12 +203,11 @@ trimestre interstitium consumere in ascensu suo inde descen-
 dere orditur. Et quamuis tunc iam deflectat, adeo adusta et
 calens est terra a radijs recta iaculatis, vt pristinum et ebi-
 bitum calorem non adeo facile exuat; naturae enim, ritus est,
-celerius calefieri frigidum, quam calidum frigefieri. Porro
-{CW. nimio}}}
+celerius calefieri frigidum, quam calidum frigefieri. Porro +}
+{CW. nimio}}
 [fol. 36v]
 {CB1.
-{LAT.
-nimio calore imbuta fuerat. Dein a<d> medietate Junij declinat sol per
+{LAT. nimio calore imbuta fuerat. Dein a<d> medietate Junij declinat sol per
 Julium et Augustum vsque ad septembrus medietatem, vt trimestri
 alio descendat, sicut ascenderat trimestri: ita semestre impletur
 caterum oblique terram decurrit in Octobri, Nouembri, Decembri,
@@ -244,12 +239,11 @@ pro ut soli respondet. At Dispiculus objecit. Dixisti lunam
 nec in se augeri nec decrescere, sed omnem fulgorem e<x> sole bibere
 iuxta quem incrementi et diminutionis vicissitudines sumit; quare
 ergo minuit et auget rerum omnium nucleum et meddullam. Ad
-haec ait Doctor: monui iam et humentem et frigidam luna messe}
+haec ait Doctor: monui iam et humentem et frigidam luna messe +}
 {CW. et}}
 [fol. 37r]
 {CB1.
-{LAT.
-et quemadmodum dixi per hanc frigiditatem temperatur caliditas,
+{LAT. et quemadmodum dixi per hanc frigiditatem temperatur caliditas,
 quam a solari splendore mutuat. illa enim duplici (^illa) natura gaudet
 sed sol veluti tertiam indulget, vnde duo temperamenta illi sunt.
 Temperatur enim, vt dixi solis lumine. illa frigida est, et
@@ -280,12 +274,11 @@ tus, vt ad legationem, et edictum eius solum, fiant quae gestit
 prius iubet, dein, opportet vt ipse prouideat, quo pacto exequen-
 dum, postea sua ipsa assistentia et corpore laborare, demum
 haud exiguam molestiam, curam, sumptum sui et aliorum do-
-neccepta perficiat tolerare. non ita Dei virtus, quippe non}
+neccepta perficiat tolerare. non ita Dei virtus, quippe non +}
 {CW. alia}}
 [fol. 37v]
 {CB1.
-{LAT.
-alia causa fit, quod placuit ipsi, nisi quia praecepat et quia voluit; vbi haec
+{LAT. alia causa fit, quod placuit ipsi, nisi quia praecepat et quia voluit; vbi haec
 sunt, confestim facta omnia sunt. Ergo huius Domini, qui immen-
 sa hac potentia pollet, si opera narrarentur nobis, velut si terreni
 hominis alicuius essent, haud satis exedere, et nosse possemus, quis
@@ -317,11 +310,11 @@ benter credo et suspicor Theologiae in his rebus {AD. ^plus esse} quam naturae,
 obsecro vt id ex rerum naturus ostendas. Vidisti, respondit
 Doctor, hoc progressi et ratione sermonis, me tantum fusse
 loquuntum de rerum primordijs, et quemadmodum singula
-struxit Deus. illo enim die quod ad creatoris titulum promotus}
+struxit Deus. illo enim die quod ad creatoris titulum promotus +}
 {CW. est}}
 [fol. 38r]
 {CB1.
-est, Auspicatur est omnium rerum naturam, simulat q<uae>? singula
+{LAT. est, Auspicatur est omnium rerum naturam, simulat q<uae>? singula
 condidit, suam cuique indulsit naturam, vt generaretur, dein-
 ceps nasceretur, viueret, et occideret iuxta cursum et seriem
 vniuersi, in quo singulae, alendae, et duraturae forent. iam
@@ -338,16 +331,65 @@ non omnibus. Tunc Magister. Videris mihi, ait paulatim velle su-
 gere et laurire, quidquid scio. Et sane tuis suscitationibus places, m??
 fortunatum aestimo, quod similem auditorem sim sortitus, acumine
 perspicacem, et memoria tenacem, vt quae docuerim accipiat cele-
-riter, et recondat perenniter.
-{LAT.
-}}
+riter, et recondat perenniter. De hoc Rex Salomon dixit glo-
+riam et foelicitatem paternam filium sapientem esse. tu mihi
+in loco filjs es, ideo placet plene respondere, ad illud quod de luna
+(^ser??s) {AD. ^scrutatus} fuisti. scias stellas errones, seu planetas coeli septem
+esse, quorum haec nomina. 1. Saturnus. 2. Juppiter. 3. Mars.
+4. Sol. 5. Venus, 6. Mercurius. 7. Luna, quae infimae spherae
+praediset, et viciniori nobis. singuli orbes occupant singulos, qui-
+bus cursum suum absoluunt, et rotantur, iuxta concitationem sphae-
+rae, in qua singuli vincti sunt. Alia sunt lumina, quae fixa sy-
+dera nuncupantur. quia non eandem virtutem habeant, ac septem
+errons: fixum enim idem est, ac firmatum, et manens, et
+quamus dixi nullam stellam errantium claritate frui?, nisi
+quam a solem mendicat, minorem splendorem ea sydera sor-
+tiuntur; noctu quidem contemplari potes ea lumina non nisi
+per parum fulgere, quod inde non accidit, quod exigua in
+se sint. Aliae quoque stellae sunt eiusdem naturae, fixae nun-
+cupate, et nubilosae, quae obscuriores sunt, vt nec limpidissi-mo +}
+{CW. mo}}
 [fol. 38v]
 {CB1.
-{LAT.
-}}
+{LAT. aethere refulgeant noctu, neque suam exerant naturam, vt appa-
+reant nobis. inter fixa lumina zodiaci signa duodecim stellata,
+et effigiata sunt. Primus Aries dicitur, quoniam speciem arietus
+praeferat. 2. Tautus, quia figuret tornositatem taurinam. conuer-
+sa fronte minet, vt integer vultus appareat. 3 est Gemini(^s), si-
+mulachrum est duarum puellarum, quae mutuo amplexantur se.
+4. Cancer est, qui iconem cancri obrjcit, caput exerens, remosque
+omnes, siue ramos manuum. 5. Leo quia lenenino gestu mi-
+nitetur, conuersum rictum habet conspectans ferocissima fronte.
+6. Virgo imaginem habe foemine virgineo flore, capillitio
+soluto et protenso, amicta candidis vestibus instar conniuen-
+tis et conspicantis nos oculis suis blande et modestissime. 7. Libra
+Trutinae speciem habet, quam nos libram dicimus; apparet,
+ac si appenderetur aliquid statera pendula, et vtrimque
+pondere librato aequa lance, ac si nihil in alterutram prae-
+ponderet. 8. Scorpius eo est gestu signum hoc, ac si minitare-
+tur ictum caudato aculeo. 9. Sagittarius; huius monstri fi-
+gura est, dimidia pars hominis, dimidia equina, ita discissa
+vt in equinam desinat naturam, et humana enineat? sursum
+ab vmbilico. equus hic eo artificio formatus est, ac si collum
+et caput exiguum haberet, verum horum loco suffectum
+est humanum corpus deinceps. speciem habet currentis equi
+et homo caput vertit at ergo contendens arcum. Decimus est
+Capricornius, eius animalis similitudinem gerit, habens in
+medio frontis cornu; reliquum corporis hircina specie est,
+sed bastius et maius. Vundecimus Aquarius refert ho-
+minem decurrentem manu prehendente amphoram aquae, et
+effundit totam aquam. Denique duodecimus Piscis. Huius
+icon<ismus> sunt duo pisces subtili funiculo? colligati, cuius extre-
+mitates videntur vtriusque ori infertae, situ opporiso,
+ita sunt, vt caput alterutrius, et cauda alterius eodem
+prospectent, eoque sunt gestu, vt alter ab altero diffuge-
+ret, nisi funiculo illo prehensi coexcerentur. Et quamus
+signa haec, quaedam alijs minora sint, benignitas, qua
+pollent, nen aeque in tota figura instillatur, quaedam +}
+{CW. enim}}
 [fol. 39r]
 {CB1.
-{LAT.
+{LAT. enim penitus benigna sunt quoties 
 }}
 [fol. 39v]
 {CB1.
