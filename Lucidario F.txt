@@ -1,7 +1,7 @@
-{RMK: Sancho IV el Bravo, rey de Castilla y Le√≥n.}
+{RMK: Sancho IV el Bravo, rey de Castilla y León.}
 {RMK: [LUL] Elucidarium.}
-{RMK: Salamanca | Biblioteca General Hist√≥rica de la Universidad de Salamanca | 2401.}
-{RMK: Mario Antonio Coss√≠o Olavide.}
+{RMK: Salamanca | Biblioteca General Histórica de la Universidad de Salamanca | 2401.}
+{RMK: Mario Antonio Cossío Olavide.}
 [fol. 33r]
 {CB1.
 {LAT.
@@ -38,12 +38,12 @@ idiomate interpretatus est. P<ater> I<oannes> Evsebius
 Nierembegius
 (^et in lucem dedit)}
 {IN1.} IN Nomine Dei, Amen, et sanctissimae Mariae. Magister
-mi, ego quia discipulus √† te institutus plura et optima didici,
+mi, ego quia discipulus à te institutus plura et optima didici,
 et ferme quaecumque edocuisti, mera Theologia est.; tamen locus
 hic, vbi otium nostrum, et vita modo degitur, scholis claret,
 in quibus plurimae florent scientiae., interdum euenit,
 vt aliquas frequentauerim, quo viderem eas, et Doctorum prae-
-ceptiones auscultarem, si fort√® aequ√® imbuissent tyrones, ac
+ceptiones auscultarem, si fortè aequè imbuissent tyrones, ac
 ipse me instituis et formas. Contigit semel, vt adirem
 gymnasium, in quo naturalis ars, puraque omnia physica
 tractantur, inueni grauem profecto controuersiam inter
@@ -52,7 +52,7 @@ voluptatem rerum earum, quae disceptabantur, vt ((sincere
 cor meum tibi aperiam)) iterum et iterum frequentauerim,
 et denique identidem, quo plura condiscerem, cum aduerti
 animum magna ex parte reperi penitus contraria fuisse ijs quibus
-√† te sum informatus, proinde antequ√†m manum et disputa-
+à te sum informatus, proinde antequàm manum et disputa-
 tionem conferam cum scholari aliquo, tecum prius velitare
 est animus, quoniam praeceptor meus es, vt plene satisfacias
 his, quae curiosus postulauero iuxta sapientiam, et peritiam
@@ -82,11 +82,11 @@ fuisse. Si aliquis {AD. ^dicat} hominem fuisse auctorem illum id pronum
 impugnare est, quod nolo ex Theologia fulciri, sed ex
 mera natura: nam quemadmodum haec vniuersi machi-
 natio ex elementis quatuor subsistit, ita homo ex humori-
-bus totidem quibus Deus infersit Adamum, cum √® limo
+bus totidem quibus Deus infersit Adamum, cum è limo
 figulauit, et quemadmodum terra, vel potius orbis quatuor
 elementis procuratur, ita humanum corpus humoribus
 elementali ritu. Prior itaque homo in vniuerso Adam
-fuit, (^et) qui √® terra subactus et formatus. Porro terra
+fuit, (^et) qui è terra subactus et formatus. Porro terra
 aliunde subsumpta fuit, portio (^mundi) enim mundi
 est; mundus autem non suapte genitus, sed auctorem habuit.
 auctor vero est Deus, coeli terraeque conditor. Ideo primum
@@ -103,9 +103,9 @@ collustrat. Ad haec Magister, scito lumen, quo purpuratur et illu-
 minatur mundus, Deum esse, quod itidem ex Theologia (^et) {AD. ^nec sine} Physi-
 ce fulciam. Inuenimus in quodam Euangelij oraculo edictum
 Ego sum lux, quod item contestatur Joannes Apostolus, et Euan-
-gelistes suo Euangelio, qui sublimiori qu√†m alij eloquio tenauit,
+gelistes suo Euangelio, qui sublimiori quàm alij eloquio tenauit,
 inde orsus in principio erat verbum. Ibi ait hominum vitam
-lucem fuisse, qu√†m lucem tenebrae nequiuerunt comprehendere.
+lucem fuisse, quàm lucem tenebrae nequiuerunt comprehendere.
 Itaque per hanc lucem Deus dumtaxat indigetatur. adiungit
 praeterea Joannes ((nam de altero Joanne Baptista sermonem
 miscere placuit)) fuisse hominem missum a Deo, cui nomen erat
@@ -135,7 +135,7 @@ sed candicantes, vt in se iubar acceptent, quod a sole instillatur, +}
 {LAT. et dum sol terram pererrat, quam incolimus tantus est splendor, quem
 in se continet a Deo creduus, vt lunae, et astrorum claritas coram ipso
 euanescat, quia maiori fulgore torpet vis minoris. Praetera in sole
-radicata est claritudo, qu√†m in illo Deus velut penu deposuit e suo
+radicata est claritudo, quàm in illo Deus velut penu deposuit e suo
 lumine, alia vero mendicant illam a sole, qui eam dispensat. opor-
 tet igitur, vt quod radicatum est, et ex suo censu vim sortitur,
 robustiorem virtutem habeat quam id quod alicunde est indultum;
@@ -143,7 +143,7 @@ quod bino exemplo liquidum faciam; fiat duplex sonis vnus altero maior,
 ab hoc minor absorbetur. itera; fiat ingens rogus in latissimo campo;
 locetur prope parua lucerna, nec apparebit, nec illuscescet coram
 splendore rogi: prorsus idem est lunae et astris coram {AD. ^sole:} solare
-enim corpus solum haurit proxim√® a Deo fulgorem, idcirco sol vocatur.
+enim corpus solum haurit proximè a Deo fulgorem, idcirco sol vocatur.
 ab ipso tamen caetera mutuantur. Rursus postulauit discipulus, quare luna
 et astra noctu coruscant non diu. scias, inquit Magister, mundum,
 in quo degimus globosum instar sphaerae esse, coelum quoque orbicula-
@@ -157,20 +157,20 @@ lunam et stellas auolante splendore suo, sed radij solares eminus
 iaculati eam etiam claritatem excutiunt ab illis., sol quippe magni-
 tudine excedit centies, et septuagies quinquies globum terrenum
 et quamuis sol peragret et subeat terrae latera, licet eius iubar
-proxim√® non attingamus, illud tamen penitus obnubere nequit,
+proximè non attingamus, illud tamen penitus obnubere nequit,
 quin eius magnitudo circum coruscet et scandat; quia vti nuper-
 rime monui, maior est. Denique idem contigit cum sole et
-Deo, quod aquis et mari. fontes, fluminaqu√® omnia quae ter-
-ras perfluunt √® mari originem capiunt, illucque regrediuntur.
+Deo, quod aquis et mari. fontes, fluminaquè omnia quae ter-
+ras perfluunt è mari originem capiunt, illucque regrediuntur.
 ita sol fulgorem mutuatur adeo, et quemadmodum radios demit-
 tit, vt terrenas plagas purpurent., sic alij velut scandunt coram
 conspectu diuino, quod {AD. ^expostulent} ex eius splendore, plus minusue, pro-
 ut dispensare placuerit. quin adeo mera et defaecata solaris
-claritudo est, vt reliquae coram minim√® scintillent, nec com-pareant. +}
+claritudo est, vt reliquae coram minimè scintillent, nec com-pareant. +}
 {CW. pa}}
 [fol. 36r]
 {CB1.
-{LAT. Tunc Tyro, si, [^quemadmodum] inquis sol haurit √® diuino fonte fulgorem,
+{LAT. Tunc Tyro, si, [^quemadmodum] inquis sol haurit è diuino fonte fulgorem,
 quare nobis saepe apparet meditate, aut tertia portione niger; et in
 reliquo solaris globi conspicuus? Ad haec Magister: minime hic defectus
 est, quominus promanet a diuino origine et fontali iubare, sedex
@@ -191,8 +191,8 @@ ne (^est) sit. Iterum discipulus; quare sol calefaci(^e)t terram quadam
 anni periodo plus quam alia? Magister dixit: scias solarem cursum
 duodecim mensium spatio absolui., insterstitium istud annus nun-
 capatur. sex mensibus oblique sol decurrit, atque ipsos radios obli-
-qu√® vibrat; ideo non magnopere aduxit; at reliquis sex mensi-
-bus cum sol assurgit, et eminet, recta ferit √® regione terrae, hinc
+què vibrat; ideo non magnopere aduxit; at reliquis sex mensi-
+bus cum sol assurgit, et eminet, recta ferit è regione terrae, hinc
 fit vt plus calefaciat et exurat diuersis temporibus. Verum et do-
 cebo qua lege Deus solarem cursum disposuit per menses duodecim
 anni. Scito post medietatem mensis Martij, usque ad Junij me-
@@ -206,7 +206,7 @@ celerius calefieri frigidum, quam calidum frigefieri. Porro +}
 {CW. nimio}}
 [fol. 36v]
 {CB1.
-{LAT. nimio calore imbuta fuerat. Dein √† medietate Junij declinat sol per
+{LAT. nimio calore imbuta fuerat. Dein à medietate Junij declinat sol per
 Julium et Augustum vsque ad septembris medietatem, vt trimestri
 alio descendat, sicut ascenderat trimestri: ita semestre impletur
 caeterum oblique terram decurrit in Octobri, Nouembri, Decembri,
@@ -217,7 +217,7 @@ sito suu obijciatur; hoc itaque pacto absoluuntur duodecim menses
 anni. Tunc auditor iterum quaerit. Atqui de luna quid tandem {AD. ^dices?}
 frigida ne est, an sicca, humida, vel calida? Respondit Praeceptor:
 Luna frigida est atque humida, iuxta {AD. ^virtutem et} munia sua; nam in se hoc
-temperamento caret., calorem {AD. ^in super} excipit √® solaribus fulgoribus.
+temperamento caret., calorem {AD. ^in super} excipit è solaribus fulgoribus.
 Illa itaque frigida est et humida: per frigiditatem regna gerit
 in aquis, per humiditatem vim habet in nucleis et medullis,
 quae in terra procreantur, tum hominum, tum brutorum, auium
@@ -225,7 +225,7 @@ et piscium; et iuxta crementum eius, aut diminutionem {AD. ^crescunt}
 vel decrescunt, vti illa. Hinc Discipulus rogauit. Vnde Lunae
 crementum nosse possumus vel secus? Ait Magister., lubenter
 docebo. Noris iam nullum in se splendorem ((praeter illum
-quem √® sole haurit)) habere lunam, idcirco iuxta solis progressum
+quem è sole haurit)) habere lunam, idcirco iuxta solis progressum
 apparet dimidia portione soli opposita illuminata, inde cum
 luna media obijcitur inter nos et solem, ea portio, que solem
 prospicit, fulgida est, quae vero versus nos respectat, tenebres-
@@ -235,7 +235,7 @@ iuxta respectum, et oppositum situm cum sole augetur, vel descrescit
 ita nos iuxta id quod apparet nobis iudicamus incrementum, et
 diminutionem; illa tamen continuo media sui parte illustratur,
 prout soli respondet. At Discipulus objecit. Dixisti lunam
-nec in se augeri nec decrescere, sed omnem fulgorem √® sole bibere
+nec in se augeri nec decrescere, sed omnem fulgorem è sole bibere
 iuxta quem incrementi et diminutionis vicissitudines sumit; quare
 ergo minuit et auget rerum omnium nucleum et medullam. Ad
 haec ait Doctor: monui iam et humentem et frigidam lunam esse +}
@@ -260,7 +260,7 @@ tim ex humiditate et calore vis defluit protenduntur, et pris-
 tinum statum reciperant, hoc reputamus nos incrementum
 et decrementum.
 {RUB. Titulus .3. Exqua {AD. ^materie} sunt facta sol et luna}
-{IN1.} Obsecro, Praeceptor mi, iterum tyro inquit, √® quanam re solem et lunam
+{IN1.} Obsecro, Praeceptor mi, iterum tyro inquit, è quanam re solem et lunam
 Deus fabre fecit, et qua naturae vi pollent. ex nihilo respondit Ma-
 gister, fabricatus est; quod nec in sole, nec luna dumtaxat, sed
 in omnibus quae Deus procreauit, verissimum reperio; eius enim
@@ -287,7 +287,7 @@ magis indulget et (^prodigis) {AD. ^largitur} nobis eo sumus obliuiosi. Redeo ad
 et lunam, velim obserues ex omnibus quae Deus condidit nihil ex
 materia mixta; sed simplici procreatum de me virum et foemi-
 nam, quos effinxit Deus ex materia non simplici uti ab initio
-erat. Quippe homo √® limo terrae formatus fuit. Tenes iam terram
+erat. Quippe homo è limo terrae formatus fuit. Tenes iam terram
 ab initio aridam effectam et primogenitam rerum sublunarium
 post coelum et Angelos, vt in exordio sacrae paginae dicitur
 creauit Deus coelum et terram. Ita accipiendum est, vt terra
@@ -305,7 +305,7 @@ ra sua conspicemur diu noctuque, et reuereamur illum, et agnoscamus
 ex operibus, et quemadmodum creator est; ita eo tempore et oppor-
 tunitate, qua ipsi placet potest creare, quoniam in manu eius
 cuncta sint. Tunc interrupit Discipulus. Haec omnia, ait, lu-
-benter credo et suspicor Theologiae in his rebus {AD. ^plus esse} qu√†m naturae.,
+benter credo et suspicor Theologiae in his rebus {AD. ^plus esse} quàm naturae.,
 obsecro vt id ex rerum naturis ostendas. Vidisti, respondit
 Doctor, hoc progressi/u* et ratione sermonis, me tantum fuisse
 loquuntum de rerum primordijs, et quemadmodum singula
@@ -355,17 +355,17 @@ reant nobis. Inter fixa lumina zodiaci signa duodecim stellata
 et effigiata sunt. Primus Aries dicitur, quoniam speciem arietis
 praeferat. 2. Taurus, quia figuret toruositatem taurinam. conuer-
 sa fronte minet, vt integer vultus appareat. 3 est Gemini(^s), si-
-mulachrum est duarum puellarum, quae mutu√≤ amplexantur se.
+mulachrum est duarum puellarum, quae mutuò amplexantur se.
 4. Cancer est, qui iconem cancri obijcit, caput exerens, remosque
 omnes, siue ramos manuum. 5. Leo quia Lenonino gestu mi-
 nitetur, conuersum rictum habet conspectans ferocissima fronte.
 6. Virgo imaginem habet foeminae* virgineo flore, capillitio
 soluto et protenso, amicta candidis vestibus instar conniuen-
-tis et conspicantis nos oculis suis bland√® et modestissim√®. 7. Libra
+tis et conspicantis nos oculis suis blandè et modestissimè. 7. Libra
 Trutinae speciem habet, quam nos libram dicimus; apparet,
 ac si appenderetur aliquid statera pendula, et vtrimque
-pondere librato, aequ√† lance*, ac si nihil in alterutram prae-
-ponderet. 8. Scorpius eo est gest√∫ signum hoc, ac si minitare-
+pondere librato, aequà lance*, ac si nihil in alterutram prae-
+ponderet. 8. Scorpius eo est gestú signum hoc, ac si minitare-
 tur ictum caudato aculeo. 9. Sagittarius; huius monstri fi-
 gura est, dimidia pars hominis, dimidia equina; ita discissa
 vt in equinam desinat naturam, et humana emineat sursum
@@ -384,14 +384,14 @@ ita sunt, vt caput alterutrius, et cauda alterius eodem
 prospectent, eoque sunt gestu, vt alter ab altero diffuge-
 ret, nisi funiculo illo prehensi coercerentur. Et quamuis
 signa haec, quaedam alijs minora sint, benignitas, qua
-pollent, non aequ√® in tota figura instillatur, quaedam +}
+pollent, non aequè in tota figura instillatur, quaedam +}
 {CW. enim}}
 [fol. 39r]
 {CB1.
 {LAT. enim penitus benigna sunt quoties affulget vultus signi; alia vero benig-
 nitatem retractam habent in quadam membrorum portione, vti in
 Tauri signo reperimus, qui propitius est, verum in anteriori parte
-nimia benignitate corruscat, qu√†m in posteriori. Et ni tempus pro-
+nimia benignitate corruscat, quàm in posteriori. Et ni tempus pro-
 ducerem longa narratione idem monstrare possem in signis alijs, per
 inde atque in Taurino. Itaque sunt in zodiaco sita et effigiata
 vt monui fixo sydere signa; at cum errones suo cientur cursu vsu
@@ -401,12 +401,12 @@ erro subeat, et iuxta hoc artis astrologiae iudiciarij portendunt
 fausta, aut maesta*. Pene enim omnis vis astrologiae in iudicijs
 est, quae qui probe obseruare cupit, haec studeat obseruanda. Primo
 praeteritum tempus. 2. quo pacto sol et luna afficiantur, quos*
-v√®* ascendentes habeant. 3. quot sint magnitudinis gradus,
+vè* ascendentes habeant. 3. quot sint magnitudinis gradus,
 et minuta. Cum autem haec noueris, iudicium probe decernes.
 satisfaciam modo, cur luna nigricans appareat nobis: nam
 luna ex septem erronibus est, vicinior nobis prae alijs decur-
-rens, nam √® nouis sphaeris, ipsa infimam, quae minor
-est, occupat, quod facil√® ostendam:, nam velut si quis ro-
+rens, nam è nouis sphaeris, ipsa infimam, quae minor
+est, occupat, quod facilè ostendam:, nam velut si quis ro-
 tundasset rem aliquam, deinde aliam circum maiorem,
 qua illa circunscriberetur, post aliam, qua duo illa clau-
 derentur, et sic deinceps quotquot fecisse posset. Ita in sphae-
@@ -418,7 +418,7 @@ go luna, quaec* hoc minore orbe pererrat, statis tempori-
 bus gyrat, et circulatim ad terrae rotunditatem deflec-
 titur sphaera eius, cum ad illum descensum pertingit, vm-
 bra terreni globi assurgit obiecta inter lunam et so-
-lem, impediens ne integr√®, vt consueuerat solares ra-
+lem, impediens ne integrè, vt consueuerat solares ra-
 dios excipiat luna, quae lumine sic orba, suo proprio
 schemate amicitur, et nobis nigricare videtur, id per-
 durat tamdiu, donec assurgat ab descensione illa, qua +}
@@ -436,9 +436,9 @@ quod solaris fit interiecta luna; at lunaris adumbrante terra.
 Illud tantum moneo iuxta peritiam astrologiae. Quotquot ea
 callent obseruare ecclypses solis et lunae, nequid immutent, nec
 aggrediantur diebus octo ante et post illam. Et quamuis solarem
-affatim pertimescant, praecipu√® in lunari cauent. Tunc Discipu-
+affatim pertimescant, praecipuè in lunari cauent. Tunc Discipu-
 lus, cur ita inquit? Respondit Magister, quoniam solaris de-
-fectio nihil aliud est, qu√†m lunae interiectio, et impedimen-
+fectio nihil aliud est, quàm lunae interiectio, et impedimen-
 tum inter nos et solem. sed ea est virtus radiorum solarium
 cum eiaculantur, vt etsi a luna velut obice coerceantur: ta-
 men quemadmodum ignis scintillas quas magno conatu sagitta-
@@ -448,18 +448,18 @@ dant, vnde progredi nequeant. Ideo licet quidquam minus
 benignum in luna esset, haud inficeret solem; praeterquam
 quod nihil pessimum in illa est; condita enim a deo est, eius
 quam dixi naturae; defectio vero lunae contingit aliter
-nam terra omnium rerum virulentior est, qu√†m sint
+nam terra omnium rerum virulentior est, quàm sint
 in coelo, idcirco in illa pr(^i)[^o]creantur bestiolae venenatae, quae*
 serpunt super terram, et alia multa animalia huiusmodi,
-quae terram eandem incolunt, eaque omnia √® terrestri-
+quae terram eandem incolunt, eaque omnia è terrestri-
 bus venenis gignuntur. Cum igitur terra
 adeo venenosa sit, oportet vt eius exhalationes natura
 ipsa virulentae consurgant, cum ergo terrestris vmbra
 in lunam impetit, caligo illa etiam venenata est; tum quia
-√® terra profluit, tum quia terram linquit tenebrosam, ex
+è terra profluit, tum quia terram linquit tenebrosam, ex
 hoc igitur vitio, quae illa in se continet, partem perfri-
 cat luna; et cum postea facessit, linquitur luna; vt homo
-languens et marcidus √® graui morbo, et sicut homo ille +}
+languens et marcidus è graui morbo, et sicut homo ille +}
 {CW. va}}
 [fol. 40r]
 {CB1.
@@ -510,7 +510,7 @@ pectato numine solum, quin et sancti paradisi incolae, haud conspican-
 tur in illo formam aliquam nisi lumen et fulgorem suum pro merito-
 rum ratione, qua fruitione nusquam temporum satiari possunt. cae-
 terum ad id ex scriptura, quod obieceras, quoniam Adam iuxta {AD. ^vel scriptos}
-characteres et speciem delineatus (^est) fuit e√¢dem figurari Deum opor-
+characteres et speciem delineatus (^est) fuit eâdem figurari Deum opor-
 tere, non hic eius loci intellectus est, quem iam dabo. Ante Adami
 formationem nouerat Deus quid ille facturus esset et delicturum
 vti deliquit, quod adeo plene nouit, ac postmodum, cum nostra
@@ -530,7 +530,7 @@ continetur, quod tribis* ei rationibus placuit. Prima propter violen-
 tiam bonitatis suae. 2<<a>>. ex commiseratione nostri, ne opus suum
 periret. 3<<a>> vt suam potentiam ostentaret quanta fuisset, quemad-
 modum suppetit virtus, vt quae nihilum essent conuerteret in
-valde bona et grandia, ita aequ√® vim habebat, vt grandia conuer-
+valde bona et grandia, ita aequè vim habebat, vt grandia conuer-
 tat in pusilla; prout ipsi libet. Ita fecit vt numen velut fieret
 homo, et quia consilij sui decreto sancitum fuerat stato et
 opportuno tempore id exequi. Hac de causa, quod immutabili in-
@@ -542,9 +542,9 @@ dum ipse in semet* vidit futurum, velut praesens sibi iam erat, +}
 {LAT.
 cum Adamum formaturus esset, atque quod facturus erat confectum
 inde recensebat, idcirco dixit, faciamus hominem ad imaginem
-nostram; iam en√≠m illam formam sibi elegerat, qua illius erra-
-tu·∏ø emendaturus erat. Tum etiam id dictum ratione alterius
-portionis, qu√†m in Adamum inspirauit, nempe animam, quae
+nostram; iam ením illam formam sibi elegerat, qua illius erra-
+tum emendaturus erat. Tum etiam id dictum ratione alterius
+portionis, quàm in Adamum inspirauit, nempe animam, quae
 trina virtute naturae constat, vegetatiua vna, altera sensitiua,
 tertia rationali. Prima vis augendi est, qua simul etiam velut cres-
 cit illa, exerendo se se suique vim, sicuti et corpus augescit, alia
@@ -566,10 +566,10 @@ nibus numerationibus ab vnitate vsque ad mille haud aliam si-
 milem inuenies summam, atque ista, quam mox ostendam; nec
 enim vis numerationis in vnitate est, sed in tribus, quod ita lubet
 exponere: noris initium esse a primo numero nempe vnitate
-qu√†m sui extremitate sinceram reperimus. si duo adnume-
+quàm sui extremitate sinceram reperimus. si duo adnume-
 rabis nempe se[c]undum numerum, socios haec duo reperies
 et aequales, qualis vnus, alter talis, nec inuenies vnde aus-
-piceris calculationem; aequ√® enim ab alterutro exordieris
+piceris calculationem; aequè enim ab alterutro exordieris
 Accedat tertius numerus et fiunt tres, inuenies in hac
 trium numeratione medium efficere, vt alter initium
 sit, alter extremum, vt ab alterutro supputationem queas
@@ -591,11 +591,11 @@ adorabantur, vti personarum Trinitas simplicitate vnici numi-
 nis continetur. Pater conditor et creator ac initium omnium est
 Filius Redemptor et sapientia mundi, spiritus sanctus illuminator
 et conseruator cunctarum rerum, qualis vnus, talis alter, idcirco
-Trinit√†s in vnitate Dei habetur trium personarum numeratione.
+Trinitàs in vnitate Dei habetur trium personarum numeratione.
 Obiecit discipulus, quare in hac trium calculatione supputasti, prius
 spiritum sanctum quam Filium: nam ipsa ratio ostendit coniun-
 ctissimam Patri esse Filij personam. Quare igitur prius spiri-
-tum designasti, quam genitum: nam et creberrim√® ita audies
+tum designasti, quam genitum: nam et creberrimè ita audies
 Patrem et Filium, et spiritum sanctum Deum esse. Respon-
 dit Magister, ea de causa id feci, quam nunc edisseram; quo-
 niam nimirum spiritus nexus, et velut medius amor est inter
@@ -604,13 +604,13 @@ tutum deuenimus, et per Filium Patrem noscimus. Nam
 eo ipso quod Filius exhibitus fuit, siquidem agnoscimus Filium,
 et genitorem esse opportet nouisse. Istae tres personae simplicitate
 diuinitatis clauduntur, vt saepe monui, et cum Gabriel An-
-gelus aduentauit salutaturus virginem legatione sua incarnati√≤-
+gelus aduentauit salutaturus virginem legatione sua incarnatiò-
 nem Christi Jesu insinuans, haud existimes tunc coepisse Tri-
 nitatem, absit, ab aeterno fuerat, sed nondum intellectu
 consequi poteramus notionem eius. In veteri lege scriptum
 inuenimus Abrahamum vidisse tres, et vnicum adorasse
 ex quo facile intelligitur tres illos numen vnicum fuisse,
-ac proinde Trinitat√®m, quae cum Deus sit; nunquam exor-
+ac proinde Trinitatèm, quae cum Deus sit; nunquam exor-
 dium habuit, sed perenni, suapteque substantia substitit, ta-
 men nec plene nosse, nec percipere potuimus, donec diuinum
 opus cernimus, cum scilicet ex Maria genitrice incarna-
@@ -638,7 +638,7 @@ virtus eius profunditur., nemo hominum est in orbe, qui aliquod
 membrum corporis mouere possit absque vi animae, quae id exe-
 qui negotiatur. Quemadmodum enim in voluntate id aggredi ani-
 mus molitur, ita vt vim suam delegat, vt exequatur. tum
-facil√® demonstrabo tibi, quod quotidie accidit, et ita esse quod edoceo
+facilè demonstrabo tibi, quod quotidie accidit, et ita esse quod edoceo
 conspicari ipse potes. intuere hominem nulla violenta morte, sed
 in lecto suo decedentem. Videbis quo pacto a corpore divellitur
 animus, (^vt ac ex it, huiusmodi) {AD. ^statim ac ex it} confestim emoritur corpus, a ge-
@@ -662,7 +662,7 @@ residet, quae in sanguine delitescit, quo membrum illud procuratur;
 vis enim animae, sanguinem fouet, quo vt ministro sibi vtitur
 vt per totum corpus effluat, et decurrat. Igitur cum (^ectus) {AD. ^vulnus} sit in
 loco membri recissi, simul ac vulnus infligitur accurrit sanguis
-calens animae vi, quam fert sec√πm, vt per illud diffluat, qua
+calens animae vi, quam fert secùm, vt per illud diffluat, qua
 parte difunditur, atque cum ea pars resecta sit, acris frigor
 sanguini intruditur, ac corrumpit illum; virtus vero animae
 sanguinis corruptionem persentiscit, atque in illum locum refluit
@@ -674,7 +674,7 @@ experiretur, prorsus eo pacto, ac corpus in amisso membro.
 {RUB. Titulus 10. Quare Deo assumere carnem
 placuit ex S<ancta> Maria?}
 {IN1.} Sciscitatus est Discipulus, quanam de causa libuit Deo carnem
-praeferre √® B<eata> Maria?, equidem in comperto est mihi, futuram
+praeferre è B<eata> Maria?, equidem in comperto est mihi, futuram
 etiam salutem orbi absque carnis assumptione, si placuisset, et
 absque aduentu suo. Ad haec Magister. Scias velim optima et
 recta ratione alio potiori consilio fieri non potuisse, praeter
@@ -688,7 +688,7 @@ qualiter acciderit lubet ostendere: nam serpentis vice sancti
 spiritus consilium fuit et negotiatio, quo pacto fieret incarna-
 tio, idque bifariam procurauit; primo Charismata disper-
 titus in Mariam sanctissimam, vt ea fieret, in qua ipse
-Deus dignaretur, im√≤ ius fore sibi iudicaret suscipere car-
+Deus dignaretur, imò ius fore sibi iudicaret suscipere car-
 nem. Deinde quoniam simul ac perfecisset in illa iure se obno-
 xium arbitratus est praeligere carnem virginis Mariae. Tum
 pro consensu Euae; aduolauit Gabriel Angelus, qui legationem +}
@@ -725,7 +725,7 @@ at iuxta solemnia naturae absque corruptione foetum edere nequit.
 Hoc igitur Deus miraculum fecit, vt suas vires exereret. Alte-
 ra est (^nam) {AD. ^Quoniam} illud effecit Deus ob sanctitatem Mariae: sicuti
 enim illa fuit ullo absque naeuo et macula, ita ipsi placuit
-seruare eam sibi ipsi, vt ad fastigium et coron√†m coelestis
+seruare eam sibi ipsi, vt ad fastigium et coronàm coelestis
 imperij subueheret illam, suaeque dextera<e>* assideret., vbi in
 aeuum ipse perenniter regnat.
 {RUB. Titulus .11. De salutatione et colloquio Angelico}
@@ -742,11 +742,11 @@ aiunt accidisse illis verbis spiritus sanctus superueniet inte, et vir-
 tus altissimi obumbrabit tibi. Rursus alij in initio collucutionis ubi
 dicitur Aue Maria gratia plena Dominus tecum. Ideo rogaui
 qua horum verborum frusto euenit. Ad haec Magister. voluntas
-diuina fuit, vt omnem suam legation√®m absolueret Angelus
+diuina fuit, vt omnem suam legationèm absolueret Angelus
 atque absoluto nuntio, expectare voluit responsum Virginis et
 quidem si ante absolutam* legationem fieret conceptus non
 esset, cur Angelus vltra procederet. Verum Angelus omne
-suum nunti√πm a Deo destinatum detulerat, et penitus prorsus
+suum nuntiùm a Deo destinatum detulerat, et penitus prorsus
 absoluendum erat, et tunc illa respondit: ecce ancilla Dei
 fiat mihi secundum verbum tuum e vestigio, eo momento (^Jesus) {AD. ^filius}
 (^Christo) {AD. ^Dei} carnem in illa induit. Etenim hoc responso nouit Deus
@@ -756,7 +756,7 @@ cum ancillam se nuncupauit. Post humilitatem vero consensus
 succesit legationi Angelicae, cum respondit, vt fieret illi iuxta
 eius verbum. Ab hoc connubio, inquo virgo consentit similis
 ritus celebris in nostra Christianorum obseruantia iuxta san-
-ctos Patres, qui illam ornarunt, atque pridemÃÄ in lege veteri
+ctos Patres, qui illam ornarunt, atque pridem in lege veteri
 etiam. omnes enim nuptiae, quae contrahuntur; viri et foemi-
 nae consensu sunt ratae, et quouis renuente irritae prorsus
 ac proinde est, ac si vi adigerentur; nullo enim pacto cele-
@@ -775,7 +775,7 @@ ea intercapedine {AD. ^mensium} qua noster Dominus maternis visceribus fuit clau
 sus, aut quem sui vicarium suffecit, quoniam a te audio tres per-
 sonas esse vnico in numine. Quod si dixeris conclusam vnam duas-
 ve vterino claustro, haud leuis vrgebit ratio, si malis inclusas
-omnes tres, vter foris vicarius pr√†efuit, vt coeli terraeque molem
+omnes tres, vter foris vicarius pràefuit, vt coeli terraeque molem
 gereret, regeretque cunctarum rerum, quae existunt, conditionem.
 Haec Discipuli quaestio, cui Magister. Dixi iam orbes nouem esse
 eo et maiori ambitu dissitos, ac interuallum est quod inter coelum
@@ -794,11 +794,11 @@ fuisse operatrices {AD. ^scilicet} potentia Patris, Geniti sapientia, et sancti
 spiritus amor, quae personae clauduntur numine simplici et
 vnico, quod minime coelum deseruit ab imperio suo, hoc est,
 praeclarum dogma omnium probe, et orthodoxe sapientium
-{RUB. Titulus 13. Qu√Æ potuerit B<eata> Maria Virgo
+{RUB. Titulus 13. Quî potuerit B<eata> Maria Virgo
 permanere postquam Christus Domin<us>
 natus ex ea fuit?}
 {IN1.} Postulauit auditor, et ait: Praeceptor mi Domine post
-Christi Domini natiuitatem √® Maria Virgine, quo pacto
+Christi Domini natiuitatem è Maria Virgine, quo pacto
 potuit accidere, vt adhuc in virginitate persisteret. Hoc
 inquit Magister, haud explicare poteram naturae discursu et
 ratione. Sed oportet te scire ipsum Dominum potentia sua
@@ -900,8 +900,8 @@ in resurrectione, cum a morte ad vitam suscitatus fuit.
 Veluti cum aquaeductus resarcitur et redintegratur, quo
 eandem altitudinem possit aqua repetere, ac defluerat
 omnes igitur simul conspicati sunt illum ad coelos re-
-gredi sessur√πm ad Patris dexteram corporaliter in
-carne, qu√†m √® B<eata> Virgine genitrice prehenderat.
+gredi sessurùm ad Patris dexteram corporaliter in
+carne, quàm è B<eata> Virgine genitrice prehenderat.
 {RUB. Titulus 17 Quare in coelum deportauit
 Christus corpus carneum?}
 {IN1.} Quaesit Discipulus. Cur Christus Dominus voluit ad
@@ -912,7 +912,7 @@ sanctissimam eius carnem apud nos manere praeter
 quam eo temporis spatio, quod ipse opportunum duxit,
 certissimum est in Christianorum Religione, quo
 die obijt sanctissima Maria eius genitrix auolasse,
-animam (^eius) eius sanctissimam √® corpore. hac fatali
+animam (^eius) eius sanctissimam è corpore. hac fatali
 lege neminem eximere voluit, nec se ipsum, nec Ma-
 riam ((oportebat omnes mori)) et postquam spiritus eius
 corporeis vinculis se absoluit, atque humata ab Aposto-
@@ -930,9 +930,9 @@ et seruaret corpus, quod mensibus nouem clausus coluit. secunda ne
 in peccatorum hominum arbitrium veniret. Tertia, vt eius sancti-
 moniam eximiam et merita remuneraret. Hoc itaque fieri stu-
 duit in corpore sanctissimae {AD. ^Dei} genitricis. perpende modo quam potiori
-iure in suo proprio corpore haec seruanda; ideo illud e√≤ deportare
+iure in suo proprio corpore haec seruanda; ideo illud eò deportare
 voluit. Vnde descenderat, assumpturus carnem sub forma nostra.
-Noris optim√®, si corpus eius depretiaretur, et exprobraretur tracta-
+Noris optimè, si corpus eius depretiaretur, et exprobraretur tracta-
 tione manuum nostrarum, veluti corpus hominis vulgaris de multis
 piaculum. id esse et opprobrium infandum. Attamen fuit charitas, et
 indulgentia eius, vt sui memoriam relinquere voluisset in pane qui conse-
@@ -989,7 +989,7 @@ et quotidie pone illum stipantes aspectando illum assidue.
 {RUB. Titulus 18 Cur ex costa Adae nata Eua}
 {IN1.} Scicitatus est Discipulus: quare placuit Deo, vt Eua ex
 hominis Adae costa nasceretur, non de terra, (^vt eius pater) {AD. ^quemadmodum eius}
-(^et) coniux Adamus., quod sicut in Adamo, aequ√® in illa
+(^et) coniux Adamus., quod sicut in Adamo, aequè in illa
 si vellet, potuisset exequi. Ad haec Doctor respondit,
 cum Deus condidit Euam ex Adae costa nulla poten-
 tiae iactura id fecit. Perinde potens erat formare
@@ -1029,7 +1029,7 @@ Porro tertia nostri et communi omnium natiuitate peccato
 velut oboerati, proni ad quamlibet nequitiam labimur. De-
 nique quarta generatio Christi Domini fuit ex B<eata> Virgine
 quae ab Angelo salutata, vt ex responsis suis colliges, noluit ac-
-quiescere, donec adaequat√® et plen√® rationem nouisset legatio-
+quiescere, donec adaequatè et plenè rationem nouisset legatio-
 nis Angelicae, vt esset sine errore, et dedecore suo. Haec
 igitur foemina virago debuit nuncupari iure potiori quam Eua: +}
 {CW. nam}}
@@ -1049,7 +1049,7 @@ peccatis nostris. Nam quemadmodum torcular, vbi concul-
 cantur vuae harum musto et humore abluitur. Ita orbis
 sanguine fuso Domini nostri Christi Jesu irriguus mun-
 datur., haec quae pro nobis fecit triplici de causa id voluit. Pri-
-mum quia quae ante fierent non optim√®, nec veluti ex
+mum quia quae ante fierent non optimè, nec veluti ex
 voto venirent. Item quia condoluit, et misertus fuit operis
 sui ne in iugem* interitum praeceps rueret. Demum vt suam
 potentiam immensam ostentaret, nec minorem misera-
@@ -1094,8 +1094,8 @@ legauit, quo ritu missit., nacti quippe sunt spiritus sancti gratiam
 quae in illis diu morata perstitit, idcirco erudias velim, mi Prae-
 ceptor, num haec persona fuerit e tribus Triadis sanctissimae
 vtrum in illis demorata, vel regressa ad Patrem vnde
-aduen√®rat. Fili, respondit Magister, verum est spiritum
-ad ill√≤s devolasse eo loco quo {AD. ^conuenerant}, iaculantem et emit-
+aduenèrat. Fili, respondit Magister, verum est spiritum
+ad illòs devolasse eo loco quo {AD. ^conuenerant}, iaculantem et emit-
 tentem ex se igneos radios instar linguarum, et singulos
 radios singulos Apostolorum perculisse, vt omnes pariter
 exundarent, deincepsque ignitis* linguis omnibus, omnium +}
@@ -1112,7 +1112,7 @@ beretur per radios illos ignitos, qui linguarum speciem simu-
 labant, effusa est pleno alueo; neque alia (^persona) ratione per-
 sona spiritus sancti descendit. impetrauit Filius a Patre bene-
 ficium hoc socijs et comitibus suis in hoc mundo, quibus restituere
-premium et gratiam studuit, qu√†m pollicitatione sua prius
+premium et gratiam studuit, quàm pollicitatione sua prius
 deuouerat. Ideo dixerat se ad Patrem ascendere, vnde de
 lapsus fuerat, vt pararet illis loca et domicilia, quo tandem
 appulsuri essent., ac postquam praesto, parataque omnia mitte-
@@ -1129,7 +1129,7 @@ ignei radij argumento sunt donorum intellectus, quibus Apos-
 tolos cumulauit, qui deinde quaestu* vberiori ad solidissimi amo-
 ris dona erga Christum Dominum sunt promoti, pro quo mor-
 tem oppeterent et expeterent, vitamque vbiq<ue> locorum liben-
-tissim√® agerent. Linguae praetendunt charismata, quae habue-
+tissimè agerent. Linguae praetendunt charismata, quae habue-
 runt ob praestantiam affluentem spiritus. Humana enim
 lingua praestantissimum membrum {AD. ^est, cui} prae caeteris* diffun-
 dit Deus gratiam vberiorem, gratiarum eadem interpres
@@ -1148,9 +1148,9 @@ manibusque id vti sentit, lingua effatur. Itaque omnium quinque
 sensuum index et repertorium {AD. ^est} lingua, sed non absque mentis
 humanae beneficio et reminiscentia, absque qua torperet ipsa; id-
 circo* Salomon Rex ait, ex abundantia cordis humani hominis os
-loquitur. Nec enim aliter os sermonem habet, qu√†m linguae in-
+loquitur. Nec enim aliter os sermonem habet, quàm linguae in-
 dustria, ipsa indigetat, quae sint commoda in humanis membris
-et sensibus quinque, vis√π, audit√π, olfactu, gust√π, et tactu. Nam
+et sensibus quinque, visù, auditù, olfactu, gustù, et tactu. Nam
 Christus Dominus suam gratiam voluit, in illis quinque plenam
 fore, ideo et gratiam delegauit linguarum forma et specie: nam
 per linguas iudicantur quinque sensus. Haec dona, haec charis-
@@ -1162,14 +1162,14 @@ creare, cum stata lege eius interitum et finitionem scisceret. Deus
 voluit, inquit Praeceptor, res omnes vniuersi ((iam monui Angelos
 et animas hoc priuilegio donasse, vt exordium habuissent exemptum*
 interitu)) obnoxias fini condere, vnde cuncta ex terra procreari
-duxit hac lege, vt et initium, et exitium aequ√® sortirentur. pru-
-dentissim√® prouidit, cauens absurditatem ingratam orbis, ho-
+duxit hac lege, vt et initium, et exitium aequè sortirentur. pru-
+dentissimè prouidit, cauens absurditatem ingratam orbis, ho-
 minum nimirum in eo degentium, qui cum se nouerint exor-
-dium sortitos* aequ√® ac finem, recusant illi reuerentiam et ho-
+dium sortitos* aequè ac finem, recusant illi reuerentiam et ho-
 norem. Quid auderent, si fine omni se exemptos, liberosque
 putarent? (^Quam primum) nihil minus presumerent quam
 diuinitatem. cuncta illis pro libito essent et verba et opera. Inue-
-nimus ex sacra scriptione ab Adan vsque {AD. ^ad}  Noe primam +}
+nimus ex sacra scriptione ab Adan vsque {AD. ^ad} Noe primam +}
 {CW. hu}}
 [fol. 49v]
 {CB1.
@@ -1188,9 +1188,9 @@ ad orbis exitum est futurum, vt experiuntur homines, qui nunc
 viuimus. mirum est, si centessimum annum quis attingat
 cum pridem ad sexentessimum, septuacetess<imu><<m>> et octuacentess<imu><<m>>. pro-
 ducerentur. Iurequidem optimo breuior cuique vita destinata
-contemplare modo qu√†m rigidum et rude genium in orbis infan-
+contemplare modo quàm rigidum et rude genium in orbis infan-
 tia occupauit homines longaeuos, et annis ditiores omnibus poste-
-ris. Credo tamen nullos plus ingratos qu√†m modernos, et si
+ris. Credo tamen nullos plus ingratos quàm modernos, et si
 deteriori conditione, vitaque breuiori mulctatos, attendunt nihil
 quam vitae transeuntis, et apparentis aeras, nec nosse student
 Dominum, in cuius manus et arbitrium incident, huius
@@ -1225,12 +1225,12 @@ Salomon: velut aqua procellosa decurrit per saxa, sic decurrunt
 celerrime dies mei, nec morantur hora vel puncto. hic igitur
 homo et mures arrodentes, donec decidat, vitam hominis refe-
 runt in hoc mundo; quae tandem casura est, ipsoque momento
-ruinae frustratur, cunctis mundanis delicijs et voluptatib<us>. aequ√®
+ruinae frustratur, cunctis mundanis delicijs et voluptatib<us>. aequè
 omnino, ac si nunquam illis potitus fuisset. Vnicornius pur-
 gatorium est, eius supplicium prius patitur; nam si quid gessit
 vnde ab aditu paradysi moretur, nisi in purgatorio mundetur
 ibi plene expiatur a rebus omnibus, quibus dum viueret, deli-
-quit. Colubrus, qu<ae>* √† sinistris erat, figurat infernum: postquam
+quit. Colubrus, qu<ae>* à sinistris erat, figurat infernum: postquam
 enim quis cecidisset in fauces eius, et degluti erit, non amplius
 apparet. Ita hominis anima delapsa in infernum, posthac
 non comparebit, nec inde regreditur, praeter quam in die
@@ -1271,7 +1271,7 @@ tati sunt. Idcirco de ijs qui illum stipabant et videbant,
 dixit beati vos estis, qui me videtis, quoniam multi Reges
 et Principes et Dynastae desiderarunt videre, quod vos
 videtis, et non potuerunt videre. Nihilominus postmodum*
-Thomae Apostolo, qui noluit credere Jesum Christum √® mortuis
+Thomae Apostolo, qui noluit credere Jesum Christum è mortuis
 surrexisse ad vitam, postquam ostendit sua vulnera, et digetis*
 immissis tractanda dedit, inquit: quia vidisti me Thoma
 credidisti, beatior erit, qui non videbit, et credet in me. Id
@@ -1279,7 +1279,7 @@ non pro sancto Thoma, quam pro nobis dixit, postea nas-
 cituris, qui adeo conspicue cernere non poteramus, atque ij
 qui ipsius comites extiterunt. Quia tamen tanto beneficio priuati
 manebamus, ne nos putaremus orphanos relictos, suum
-opus magnific√® indulsit, relinquens illud in altari consecran-
+opus magnificè indulsit, relinquens illud in altari consecran-
 dum, vt certi essemus ipsum {AD. ^nos} cernere Dominum, cum conspi-camur +}
 {CW. ca}}
 [fol. 51r]
@@ -1299,8 +1299,8 @@ nec alius inueniri nequiret.
 fastidiret ob curiositatem suam.}
 {IN1.} Obsecro Domine, ait Discipulus ad Magistrum, ne graueris, nec
 succenseas* meis quaestiunculis, et scitationibus., Deum testor*, animum
-meum non alium esse qu√†m (^ob) maturitate(^m) {AD. ^vti*} tua(^m), tam in peritia
-litterarum omnium, qu√†m in natiuo mentis pondere et pruden-
+meum non alium esse quàm (^ob) maturitate(^m) {AD. ^vti*} tua(^m), tam in peritia
+litterarum omnium, quàm in natiuo mentis pondere et pruden-
 tia. Tum quia a te perdiscere cupio, vt proficiam, si vel etiam
 doctrinae honorem et titulum adipisci, tandem possem, quare
 si fastidis et mauis vt taceam, nec verbum deinceps mutiam.
@@ -1308,9 +1308,9 @@ Tunc Magister: Fili, optime et vrbane gesisti, gratiam habeo
 animo tuo, quia arbitrio et praeceptioni meae obsequi voluisti.
 Roga quidquid {AD. ^placuerit} quoad potero, et sciuero faciam satis ex Philo-
 sophia et Theologia, prout opus fuerit; artificis enim peritia
-est nosse instrumenta, et prob√® vti ijs, quae operi cuique confi-
+est nosse instrumenta, et probè vti ijs, quae operi cuique confi-
 ciendo accommoda sunt. Idcirco his duobus instrumentis artis
-meae phisiologia, et Theologia vtar sua cuique adaptans, vt spe-
+meae phisiologia, et Theologia vtar* sua cuique adaptans, vt spe-
 rem ope diuina satisfacere ijs, quae postulaueris. Quare postu-
 la, iam age; perlubenter* respondebo.
 {RUB. Titulus 24. Cur Deus {AD. ^cunctos} ad iudicium {AD. ^homines} est vocaturus?
@@ -1334,7 +1334,7 @@ tiam Deum exequi. Porro iudicium generale in corpore et anima
 fiet, ibi ratum manebit suplicium, aut praemium, in aeuum pen-
 dendum. Ratio haec est; quia naturae mos est, quidquid homini
 acciderit, siue incommodum, siue iucundum sensibilius, et appa-
-rentius sentiat corpus qu√†m anima: nam haec spiritus merus et
+rentius sentiat corpus quàm anima: nam haec spiritus merus et
 simplex, quem ex nihilo Deus condidit, atque omni est effigie orba,
 corpus vero elementali quadriga est compactum, et praeter alia
 commoda, sensibus quinque, quibus administratur et regitur
@@ -1342,7 +1342,7 @@ vnus est visus, hic datur ad cernendum, et discernendum colores,
 vt sicut hic sensus alborem a negritie discernit, sic sciat homo
 discernere bonum a malo, ideo Deus humanam animam iudicat
 non alterius creaturae; quia homo nouit bonum pro quo laborasse
-oportebat, quod si ignorasset, non magis damnaretur, qu√†m
+oportebat, quod si ignorasset, non magis damnaretur, quàm
 brutorum et volucrum animae, quae occisso corpore, occiduntur,
 et in nihilum facessunt. At hominis anima nunquam moritur
 nec perit; quia* intellectu et ratione est praedita, ideo vocatur
@@ -1361,11 +1361,11 @@ per meatus interiores, quae sursum versus frontem assurgunt. +}
 {LAT.
 et sic hic sensus in illis est. Secundus sensus auditus (^et) {AD. ^seu} auris: {AD. ^et accidit}
 (^que audi?? est vt) {AD. ^tanquam per} foramen Torcularis; nam vox in audiente penetrat
-ad medullam occipitis, in quibus receptat audit√†, et iudicantur, reti-
+ad medullam occipitis, in quibus receptat audità, et iudicantur, reti-
 nenturq<ue> donec opus fuerit, reminisci. Tertius olfactus per nares
 cum olfacit homo, consurgit vaporatio odoris per narium foramina, ad
 medullam etiam, quae est prope frontem, et statim ac ibi attigit iu-
-dicatur √† medulla, quis odor suauis ne, an teter, et iuxta iudicium
+dicatur à medulla, quis odor suauis ne, an teter, et iuxta iudicium
 complacet vel displicet. Quartus sensus gustus est, huius munus spectat
 ad medullam et cor, vtriusque virtutem exponam. Lingua in se
 habet quatuor chordulas, vt velut radices appareant, et sunt
@@ -1402,7 +1402,7 @@ et animo voluere, vt certior fiat. Ideo autem tardius, et pigrius sen-
 satio huius sensus fit; quoniam quatuor alij sensus foramina habent, et
 meatus qui in cerebrum deducuntur, ideo citius iudicant; sunt etenim
 omnes a gutture sursum, tactus vero longiquus et procul protractus est
-fitque praecipue manibus et pedibus, inde vim constantis certiq<ue> iudicij √®
+fitque praecipue manibus et pedibus, inde vim constantis certiq<ue> iudicij è
 longinquo deportat, vt pote a cerebro, a quo dirigitur cor, et inde
 transit ad manum vel pedem, qui contrectat in quod impingit. Igitur
 quinque horum sensuum Deus posuit duos velut sequestros, et arbitros,
@@ -1416,14 +1416,14 @@ et consilium capere de illo recta quoque ratione, per illam nouit
 se se homo, et reliqua quae in orbe sunt singula iusta trutina* pon-
 derans qualia, quanta ve. cum ergo in peccatum labitur homo non
 sine errore quodam id fit, et quinque sensibus deducto, vt modo
-edisseram. Primum omni√πm videndo, ex ipso visu fallitur, ac si
+edisseram. Primum omniùm videndo, ex ipso visu fallitur, ac si
 exoculatus, coecusque fuisset, caecitatem* inserens intellectui in ani-
 mae oculis, item audiendo auscultat concinnatam aliquam, et
 spetiosam sententiam, quae mendacium sit. Sic homo deceptus ab illa
-manet*, ac si nulla verior in orbe, vt aequ√® vtramque crederet,
+manet*, ac si nulla verior in orbe, vt aequè vtramque crederet,
 atque quemadmodum dixi de his duobus sensibus, sic in reliquis,
 donec peccet* et erret mente ipsa, atque in ipso errato iacet, vt
-coec√ªs in fossa in quam incidit*, vnde exilire nequit absque subsi-
+coecûs in fossa in quam incidit*, vnde exilire nequit absque subsi-
 dio alieno, nempe poenitentiae* a Domino, quae iniquum extrahit
 a peccato, in quo iacebat; Quia igitur hi quinque sensus organa
 sint humani corporis, perque illos erret homo, decreuit Deus om-
@@ -1444,7 +1444,7 @@ nus dixit {AD. ^in} libris de ciuit. Dei. vsque ad diem iudicij non adeo con-
 summatam esse paradysi gloriam, vt postea futura est; quoniam
 qui modo ibi sint, licet plene habeant gratiam bona omnia et glo-
 riam, nihilominus quandam {AD. ^quasi} diminutionem modo in se habent,
-quae diminutio nil est aliud* qu√†m appetentia religationis, et remigra-
+quae diminutio nil est aliud* quàm appetentia religationis, et remigra-
 tionis, remeandi {AD. ^scilicet} ad corpora, vnde exierunt, quam cupiditatem non
 habent illi, quia praeferant concupiscentias huiusmundi* gloriae para-
 dysi, sed quia cupiunt corpora, quae optemperantia, et obsequentia* fue-
@@ -1458,7 +1458,7 @@ infligetur.
 {RUB. Titulus 25. Quare non sit animal aequa et
 integra perfectione quinque sensuum?}
 {IN1.} Postulauit Discipulus. Quaeso Magister mi, num hos* quinq<ue>
-sensus, qui in homine pollent, habeat aliquod animal aequ√®
+sensus, qui in homine pollent, habeat aliquod animal aequè
 viuaces et acres? Respondens Praeceptor, ait: Scias nullam
 sub coelo inuenire creaturam, quae adeo integris sensibus
 gaudeat, vt non defraudetur, et minua**or alter ab altero,
@@ -1478,9 +1478,9 @@ ob figuram oculorum quos inuenim<us> in superiore capitis portione
 et in fastigio ferme frontis fixos, at homines, aliaque animalia ma-
 iore distantia submissa habent lumina, superque declinatio aliqua
 est, vnde visus occupatur et torpet., quod sane in aquila
-non accidit. Item aquila oculos habet, non ade√≤ grandes., oblon-
+non accidit. Item aquila oculos habet, non adeò grandes., oblon-
 gi sunt, palpebrae exiguae, subtilesque, vt visus non detineatur
-et obnubiletur. Idcirco hac videndi vi acerrim√® pollet, quod dixi
+et obnubiletur. Idcirco hac videndi vi acerrimè pollet, quod dixi
 de regia volucri, De Regulo inquam, qui lumine suo interi-
 mit, ob acres radios opticos, quos a visu suo iaculatur acutissi-
 mos, virulentosque, qui simul ac impingunt in aliqua, et figuntur
@@ -1493,18 +1493,18 @@ rimus suem celerius et acrius audire prae alijs anima-
 libus, rationem quoque lubet reddere. Scias licet gran-
 de et oblongum caput habeat, medulam coniunctissi-
 mam habere ossi verticis, et supremo valde capiti. Item
-praegrandes aures habet, et apertas idone√®, nec supra
+praegrandes aures habet, et apertas idoneè, nec supra
 illas suspenditur, quod auditionem magnopere occupet.
 auricularesque meatus, latos, spatiosos, et minus-
-occupatos, qu√†m alia animalia habet, ita vt quae lon-
-gissim√® sonant, percipiat illico, et quaerit subter fugere alio,
+occupatos, quàm alia animalia habet, ita vt quae lon-
+gissimè sonant, percipiat illico, et quaerit subter fugere alio,
 atque ab loco, vnde audiuit strepitum., tantum hoc commodi
 lucratur ex auditu, vt fugere possit, et in locum incolumem
 accurrere, quod ipsi satis. At quamuis* sues* omnes ha-
 beant hanc* audiendi sensationem acriorem alijs animan-
 tibus praecipue ea pollet aper; domestici enim sues iam assue-
 facti {AD. ^sunt} quotidianis vocibus et strepitibus, vel cum iacent,
-in plateis, qu√¢ deambulant omnes, vel cum domi
+in plateis, quâ deambulant omnes, vel cum domi
 sunt. Consuetudo enim isthaec paululum minuit acu-
 men sensationis, vt non adeo viuax sit, ac montano
 sui. Tertio quoque sensu olfactus vultur gaudet. +}
@@ -1555,7 +1555,7 @@ aut vinum, aut quiuis alius liquor, cui immissus fuerit, vim
 eius calculi suxerit, sicque ebibat (^quid) quod potuerit; residuum
 quod in poculo subsederit ipsis naribus hauriat, et certum
 habeat, si per continuos octo dies id repetat, recuperaturum
-integr√®, ac antea olfaciendi virtutem. Hanc eandem vim et
+integrè, ac antea olfaciendi virtutem. Hanc eandem vim et
 olfactum simius sortitur, tametsi non (^modo) adeo plenam
 et acrem ac vultur; quaecumque enim simio dantur, prius
 olfacit, et postquam satis odoratu percepit, et ad gustum suum commo-
@@ -1572,26 +1572,26 @@ ipsa texit contrectatione crurum illorum {AD. ^aut pedum} quos ipsa habet vica-
 rios manuum. Hic rogauit Discipulus, quomodo aranea telam
 texit, et qua materia? Respondit Praeceptor. Aranea fri-
 gidae et melancholicae naturae est, atque ideo venenata; ple
-raque enim venena frigida sunt, qu√†m calida; huius autem
-vis frigida est, nec a s√® vim venenandi habet, sed ex
+raque enim venena frigida sunt, quàm calida; huius autem
+vis frigida est, nec a sè vim venenandi habet, sed ex
 natiua copia melancholiae, vnde hoc malum originem tra-
 hit. Cum igitur textura est telam, virus illud, quod ad
 os accedit, euomit subtiliter, magnoque conatu et pulsu pellit,
 quo proijcere vult, et postquam lancinatum fuerit, prehen-
 ditur in alio frusto., cumque humor ille vicosus* (^est) sit, soli-
-d√® aglutinatur, et netur, ac si filum lineum, aut sericum +}
+dè aglutinatur, et netur, ac si filum lineum, aut sericum +}
 {CW. esset}}
 [fol. 55r]
 {CB1.
 {LAT.
-¬∂ esset, post illud filum euomit aliud, deinde aliud, donec eo robore
+¶ esset, post illud filum euomit aliud, deinde aliud, donec eo robore
 firmet, vt ipsa secura* sit, vt inseder* e supra possit, et sic pro-
 cedit vsque ad extremam partem, vnde extremitates filorum
-connexae sur, atque vt firmior tela sit, iterum caepit* retexere
+connexae sur, atque vt firmior tela sit, iterum coepit* retexere
 ab vno ad alterum filum, et quibusdam paruulis manibus, quae
 ipta habet in extremitate crurum, laborat ipsa telam, quam
-nectit viscositate illa, quam in ore habet., √® quo glutino conte-
-xitur tela subtilissim√® et delicat√®, vt ipse conspicaris. Hinc conijci
+nectit viscositate illa, quam in ore habet., è quo glutino conte-
+xitur tela subtilissimè et delicatè, vt ipse conspicaris. Hinc conijci
 potes magna vi araneam frui in tactu et peritia illa, quae opera-
 tur telam adeo commodam, aequalem et subtilem, per eandem*
 hanc viscositatem e qua tela contexta est, animalia quae circum-
@@ -1603,7 +1603,7 @@ labor (^uel) et opus araneae in hac tela, vti satis dixi.
 post extremum iudicij diem}
 {IN1.} Sciscitatus Discipulus ait: Magister Domine, post finitum extre-
 mum iudicium a Christo Domino, quo pacto orbis permanebit-
-Eruntne* creaturae et homines ac mod√≤ sunt; an vero in nihi-
+Eruntne* creaturae et homines ac modò sunt; an vero in nihi-
 lum facessent omnia? Prius respondebo tibi, ait Magister, iuxta
 praescripta Theologiae, deinde iuxta rerum naturas. Scito,
 post omnia illa signa, et portenta stupenda, quae in fine orbis
@@ -1615,7 +1615,7 @@ nouerant eo die resoluendas, et finiendas nubes coelorum, syderaq<ue>*
 iuxta propletiam sybillae Babylonicae, aliorumq<ue>* Prophetarum,
 et alterius sybillae Cassandriae Trojanae*, quae de eodem vatici-
 nata fuit. Omnes hae* prophetantes conuenerunt extremo illo die
-casuras* √® coelo stellas in terram, simul et nubes. Quod ideo Deus +}
+casuras* è coelo stellas in terram, simul et nubes. Quod ideo Deus +}
 {CW. po}}
 [fol. 55v]
 {CB1.
@@ -1681,7 +1681,7 @@ fiunt. Primo mutantur homines, et alia animantia*, quae
 in terra sunt ab vno loco in alium progressiuo motu, alia
 mutatio est, cum vitam cum morte commutant. Igitur
 cum terra sit, in qua degimus, et nos qui in illa viuimus
-sumus mundus ob mutationem. Ergo si duraturi perpetu√≤
+sumus mundus ob mutationem. Ergo si duraturi perpetuò
 fuissemus perpetua generatione, et vicisitudine ab parentib<us>
 in filios, mundus proinde perpetuus et aeternus foret. ve-
 rum iam huius rei iudicium rectum, et ipsissimam veri-
@@ -1715,9 +1715,9 @@ permansurae* sint?}
 {IN1.} Obsecro Magister, (^rogans) Discipulus ait, vt iterum edoceas
 rationem illam quam reddidisti*, quando quaestiunculam {AD. ^explicuiste*}
 meam. (^desiderant,) cum nuper colloquuti* fuimus., dixisti, casu-
-ra √® coelo astra extrema iudicij luce, cum omnium rerum
+ra è coelo astra extrema iudicij luce, cum omnium rerum
 interitus est futurus, quod ex sanctis firmasti, ita euen-
-tum iri, quod igitur sancti et prophetae Theologic√®* prae-
+tum iri, quod igitur sancti et prophetae Theologicè* prae-
 dixerunt, ostende nunc iuxta solemnia naturae id ita {AD. ^accidere non posse; et quo pacto reliquae manebunt stellae?}
 Scias, inquit Magister, huic quaestioni res-
 pondens, Planetas septem locatos* a Deo esse in coelo-
@@ -1735,236 +1735,237 @@ vt quiescat, et sistat*. Sic deinceps quieti erunt, vt +}
 [fol. 57r]
 {CB1.
 {LAT.
-¬∂ amplius nunquam cientur, vti reliquae stellae nuncupatae
-fixae quod idem continget soli, qui modo oritur et occidit
-cursum suum et progressionem centinebit, fixusque in coelo
+amplius nunquam cientur, vti reliquae stellae nuncupatae
+fixae: quod idem continget soli, qui modò oritur et occidit,
+cursum suum et progressionem continebit, fixusquè in coelo
 erit ad neutram partem agitatus, eodem ferme modo, ac
-cum a Deo conditus fuit, in ipso met loco persister stabili-
-ter. Auius causa est; nam si sol, luna, alijque Planetae
-tunc mouerentur eodem pacto ob viritutem motuum suorum
-fecissent germinari et procreari res ac modo; quia tamen-
-deinceps id interdixerit Deus virtutem motricem impetuma
-ademit illis, vt nullo cencitentur, sed fixi maneant, atque
-hoc pacto, nec in coelo, nec in terra quidquam moueatur
-sed omnia fixa, stabiliaque durent perenno quiete
-Titulus 2e Quo pacto copulabuntur corpora
-mortuorum
-ann Magauaa postaulauit auditor vicas quos
-de eis qui onortui volucribus, aut feris pabila dedere; qua
-gorum carnibus saginata sunt bruita, deinde ab volucribo
-alijs et feris votata sart et rursus haec ab alijs, quomodo-
+cum a Deo conditus fuit, in ipso met loco persistet* stabili-
+ter. Huius causa est; nam si sol, luna, alijque Planetae
+tunc mouerentur eodem pacto ob virtutem motuum suorum
+fecissent germinari* et procreari res ac modo; quia tamen
+deinceps id interdixerit Deus virtutem motricem, impetumq<ue>*
+ademit illis, vt nullô concitentur, sed fixi maneant, atque
+hoc pacto, nec in coelo, nec in terra quidquam moueatur,
+sed omnia fixa, stabiliaque durent perenni quiete.
+{RUB. Titulus 28 Quo pacto copulabuntur corpora
+mortuorum?}
+{IN1.} Domine et Magister, postulauit auditor, dicas quaeso*
+de eis qui mortui volucribus, aut feris pabula dedere; queq<ue>*
+eorum carnibus saginata sunt bruta, deinde ab volucrib<us>
+alijs et feris vorata* sunt* et rursus haec ab alijs, quomodo
 igitur horum hominum caro in die extremo ossibus co-
-pulabitur, vt gerpus integr corgmentetur, aut quo
-pacto ante tribunast Domini sistent. satisfaciam prius
-inquit Magister, ex Theologia, deinde ex naturali?
-similitudine. scito potentgam fuisse Domino,s vt ex
-nihilo carnem efficeret, vt coagmentata fuisseset sa-
-mul cum ossibus in corpus integrum hominis viuentiss
-ita etiam facultas viresque sunt illi reciperai-
-carnem eandem, quae ex illo corpore deperdita fuit
-vt in illo die appareat vti antea, optime enim nori-
-ex nihilo fuisse humanum corpuis, at que sicut potentiam
-habet procreandi hominem ex semine e<x> quo tit, quia
-ipsi placuit, ita easdem quoque vires habet, tst peragat
-quaecumque ipse veli nunc placet ex natura ipsa rerum
-id ostenderes cadm Deus finrit Adamumt formauit illum
-e<x> terra. quod plane miranda res et paradexa iuxta
-praescripta naturae fuit: nam accepit terram humefactam +}
+pulabitur, vt corpus integrè coagmentetur, aut quo
+pacto ante tribunal Domini sistent*. satisfaciam prius
+inquit Magister, ex Theologia, deinde ex naturali
+similitudine. Scito potentiam fuisse Domino, vt ex
+nihilo carnem efficeret, vt coagmentata fuisset* si-
+mul cum ossibus in corpus integrum hominis viuentis*
+ita etiam facultas viresque sunt illi, recipera(^t)[^ndi]
+carnem eandem, quae ex illo corpore deperdita fuit,
+vt in illo die appareat vti antea, optime enim noris
+ex nihilo fuisse humanum corpus, at que sicut potentiam
+habet procreandi hominem ex semine e quo fit; quia*
+ipsi placuit, ita easdem quoque vires habet, vt peragat
+quaecumque ipse velit. nunc placet ex natura ipsa rerum
+id ostendere., cum Deus finxit* Adamum, formauit illum
+è terra, quod plane miranda res et paradoxa* iuxta
+praescripta naturae fuit: nam accepit terram humefactam, +}
 {CW. quae}}
 [fol. 57v]
 {CB1.
 {LAT.
-quae natura sua frigida, siccaque est, et ex illa condidit Gu
-omanum corpus viuiens, carneumque Artifex ergo iste, qui
+quae natura sua frigida, siccaque est, et ex illa condidit hu-
+manum corpus viuens, carneumque. Artifex ergo iste, qui
 illud opus super naturam fecit, coagmentabit carnem in eodem
-corpore, eo ritu al nuper dixi peritus enim artifex, qui semed
-laboratt opus aliquod, nouit iterum opificium idem seu sinule-
-repetere. si iusisses ferrario fabro vt incantationem aliquum
-praepararet, vtique nequaquum effuere nesset, si vero id ab
-mago aliqui petissses, propecto efficeret. Hinc capere potes Deum
+corpore, eo ritu ae* nuper dixi; peritus enim artifex, qui semel
+laborauit opus aliquod, nouit iterum opificium idem, seu simile
+repetere. Si iusisses ferrario fabro vt incantationem aliquum
+praepararet, vtique nequaquum effcere* nosset; si vero id ab
+mago aliqui petijsses, profectò efficeret. Hinc capere potes Deum
 illum, qui sine natura fecit cuncta quae sunt super naturam
-tosse peritissime hoc opificium ipsum refilere; praeter eum
-nemo alius
-Titut  Ex qua Adam latere forcmaa tafuit
-Eua
-eftetintequit eostaqua su Po samtmm
-prnam vtro ex Adami ldtere ctraxit? An ex dextsa-
-vel lexa parte. suias, despondit Proceptor, interrogatium
-culam istam ad Meolo giam spectare lubrnter taen respon-
-debo certam habeta exsinistro latere erutar eduenimus tum
-ex dictis eristi Domini quxta Euangelistasj, tum ex aliorum
-sanctdum doctrina  hominibusgd
-egnitari spiritus, Angetum custodesi ad dexteramsso-
-ab sinictram daemonem, ijque diserimine quodam, primum
-obijciuna homini bonitatem einde voluntatem inuitant
-edemum ad oplis trahunt, vnuis in com modum
-alter in pernieten prastat itaque, matorque inest virtis
-trae parto quam duae. ideo etiam Fex Dauid einit
-extera Domini felit, vertutem, ex quo loco pallgm noris
-emmendatam d Dauide prae sinistra dextrasm, ios
-igiti ad eiussimaginem facto sumus, et quemadmodum
-ipsicis dertesra praestat; ata et noctra obsmilitudin em
-quae interfedit. Edextera igitur quamsDeus sic praetulit
-oporiebst ordiesse nihiloriri, quinletrimentum nostri
-cederset, vti cessit ex Eua, quae de efldamo nata fuit, dam
-nusn nostrum, quod incidimus lapsut et errore suo illa-
-qutem ex sinistro eetere orta fust, et quia Dpiritus nequam +}
+nosse peritissime hoc opificium ipsum reficere*; praetereum*
+nemo alius.
+(^{RUB. Titul[us] 29. Ex quo Adami latere formata fuit
+Eua?}
+{IN1.} Quaeso, inquit Auditor, consta** è qua struixit Deus foeminam
+primam vtro ex Adami latere exiraxit? An ex dextra
+vel leua parte? Scias, respondit Praeceptor, interrogatiun-
+culam istam ad Theologiam spectare. lubenter tamen respon-
+debo. Certum* habeto ex sinistro latere erutam. inuenimus tum
+ex dictis Christi Domini iuxta Euangelistas, tum ex aliorum
+sanctorum doctrina (^omnibus) {AD. ^solitos} hominibus (^viris et foeminis duos) {AD. ^diuersos}
+emitari spiritus, Angelum custodem {AD. ^qui} ad dexteram (^ad) {AD. refertur sicut}
+{AD. ^ab} sinistram daemonem, ijque discrimine quodam, primum
+obijciunt homini bonitatem {AD. ^aliquam,} deinde voluntatem inuitant
+et demum ad opus trahunt, vnus in commodum*
+alter in perniciem. praestat itaque, maiorque in est virtus
+dextrae parti quam leuae*. ideo etiam Rex Dauid cecinit*
+dextera Domini fecit virtutem, ex quo loco palam* noris
+commendatam a Dauide prae sinistra dextram, nos
+igitur ad eius imaginem facti sumus, et quemadmodum
+ipsius dextera praestat; ita et nostra ob similitudinem
+quae intercedit*. E dextera igitur quam Deus sic praetulit
+oportebat* ordinasse nihil oriri, quod in detrimentum nostri
+cederet, vti cessit ex Eua, quae de Adamo nata fuit, dam-
+num* nostrum, in quod incidimus lapsu et errore suo. Illa
+autem ex sinistro latere orta fuit, et quia spiritus nequam*) +}
 {CW. plus}}
 [fol. 58r]
 {CB1.
 {LAT.
-plus sinistrorsum valeat, suaesit, et conpertit luae indlm ad credit
-litatem totorum, quae Daeon exgetebat, vsin ed atque isi alijs
-futuris Pxeius tenerationexercetet, ftque miserrimsvitae
-cursu vexaret, iode etiam i ecclefiasts ritibo caatumonio-
-copulantua   acrificiersont to foemna a ligibus
-e r ate  i
-Titulus Ro Qualis sit Angelus quicomitatur
-et custodit hominem
-dit Discipulus, obsecro Magister, num eAngelus, qui custodit homi-
-nem, fuaeque Dextrae comitatur, de illorum catalogo sit quos Deus ab
-initio in coelo statuit, an denuo creatus simul cum anima, quam
-ili incustodiaae tutelamqu credidit. Rias  Magister prespondit tum
-Deus obngelia nsto condidit, in singulis ordinibo plures
-degiones disposuisse. porro numerus legiomis est eebe sed legio-
-nes illae plures sunt numero, prout ipse nouit opera qua<e> fece-
-rat, quo pacto perficienda gonia, siue in coelis, sfiue interris.
-quin et coelestibo splgris planetarum ac syderum has intelligen-
+(^plus sinistrorsum valeat, suasit, et con**ertit Euae in dolem ad creditu-
+litatem tot malorum, quae Daemon expetebat, vt in ea atque in alijs
+futuris ex eius generatione {AD. ^regna} exerceret, atque miserrimo vitae
+cursu vexaret., inde etiam in ecclesiasteis* ritib<us> cum matrimonio
+copulantur aliqui, et sacrificio intersunt* nuptiali, foemina a sinistris
+est, vir autem a dextris.)
+{RUB. Titulus (^30) {AD. ^29} Qualis sit Angelus qui comitatur
+et custodit hominem}
+{IN1.} Ait Discipulus, obsecro Magister, num Angelus, qui custodit homi-
+nem, suaeque Dextrae comitatur, de illorum catalogo sit quos Deus ab
+initio in coelo statuit, an denuo* creatus simul cum anima, quam
+illi* in custodiam tutelamq<ue> credidit. Scias, ((Magister respondit)) cum
+Deus Angelicas substantias condidit, in singulis ordinib<us> plures
+legiones disposuisse., porrò numerus legionis est 6666. sed legio-
+nes illae plures sunt numero, prout ipse nouit opera, que* fece-
+rat, quo pacto perficienda omnia, siue in coelis, siue in terris.
+quin et coelestib<us> spheris* planetarum ac syderum has intelligen-
 tias praefecit, vt quisque orbium virtutem suam stillaret per
-Angelum, qui in rotationem illam et motum pelleret iuxta na
-Hiuam cuiusque periodum et cursug paulo minus ve concitatum
-quae superiora corpora in duratione diutura solidauit iuxta
-arbitrium suum ideo struxat illa ferme cum Angelis, et quem
-admodum id in coelis prouidit, simuitea i tedispouit, vt
-ailque animarum rationalium Angelum itidem concederet
-nempe custodles hominum  nrm, non vero singulis
-ereaturis, quae rationis sunt expertes ideo autem placuit Dec
-animabus rationalibo indulgere, vt comitem et paedagogumbn-
-gelum habuissent, vt si forte deliquissent, causa et actio Dei peus
-iustificata fuisset; rece quidem nouit Deus animam, quam
-ipse mere ex nihilo creauerat, et humane corpore vinxerat
-immiserata, quod compositione sua pronum est, vt ipsam
-animam in errorem aliquen truderet ex ipsa copullatione
+Angelum, qui in rotationem illam et motum pelleret iuxta na-
+tiuam cuiusque periodum et cursum paulo minus ve concitatum,
+quae superiora corpora in duratione diuturna solidauit iuxta
+arbitrium suum, ideo struxit illa ferme cum Angelis, et quem-
+admodum id in coelis prouidit, similiter in terra disposuit, vt
+cuique animarum rationalium Angelum itidem concederet,
+nempe custodes hominum (^; et foeminarum), non vero singulis
+creaturis*, quae rationis sunt expertes. ideo autem placuit Deo
+animabus rationalib<us> indulgere, vt comitem et paedagogum An-
+gelum habuissent, vt si forte deliquissent, causa et actio Dei plus
+iustificata fuisset., recte quidem nouit Deus animam, quam
+ipse mere ex nihilo creauerat*, et humano {AD. ^cum} corpore vinxerat
+immisseratq<ue>*, quod compositione sua pronum est, vt ipsam
+animam in errorem aliquem {AD. ^corpus} truderet, ex ipsa copulatione
 et immissione plura mala fricaturam, et accepturam, ideo +}
-{CW. }}
+{CW. vo}}
 [fol. 58v]
 {CB1.
 {LAT.
-voluit Angelo commitere illam, vteam tutaretur, donec eam inse
-dem perueniret, vbi pro qualitate operum merx erit, et enad
-gle
-xtut moiguuis, cum igitur anima tempus suum consummat, de-
-fertur a sancto Angelo in purgatorilm, dumque illa cuepis
-suis expiatur, inuisitur gab ipso Angelo refucitur roboratur
-in suppliaj illis, vbi punitur, donec inde exiens in paradisi
+voluit Angelo committere illam, vt eam tutaretur, donec eam in se-
+dem* perueniret, vbi pro qualitate operum merx erit, (^et quemad-
+modum tutat*** animam Angelus bonus, quae eius de***ce adhe-
+ret assiduè, ita alius Angelus comitatur illius sinistram, nempe
+spiritus malignus,) cum igitur anima tempus suum consummat, de-
+fertur* a sancto Angelo in purgatorium, dumque illa culpis*
+suis expiatur, inuisitur ab ipso Angelo, reficitur, roboratur
+in supplicijs illis, vbi punitur, donec inde exiens in paradisi
 gloriam admittatur coram praesentia et facie Dei, nullo dein-
-ceps custode Angelo indigas qui reficiat, et soletur; ibenim.
-exundat in summo illo bono, omnibus rebus, summo sailicet in
-astagio bonorum in aeuitm promota: miseram vero alteramani-
-cam qua  iniquigasfsistens, herensquo
-trahit in infernum, postquam illuc , deferit: n-
-tormentis illis perennibo, in quae trudit, ideo Jobait: in inser
-cro nulla est redemptie, scicet cesfandi ast soluendi, nee
-enim induleetur cuiquam, vt mitio sit illi va hora quar alia
-Miselea anima, quae illo incidet afficitur nullo sola
-mine, nulla spe honi, quae necinde ibi potest afulgere. iam igitur
-Angelus ille honus iuxa inquisitionemtuam non fuit a Deo recens-
-creatus, cum creauit animam, sed ex Choris Angelicis est, aebi-
-ornes legiones Angelorum militant, Angelos enim non nisi-
-simul condidit Deus initio; tunc eorum vberem meiltitudi
-nem fecit;  suffecuros satis ministerijs ant
-margim et hominum futurorum, et alearum rerum, in
-quibus Angelorum ministerio et obsequio vsus est. Hoc qui
-dera triplici causa decreuit Deus, prima vt potentiam suam
-ostentaret. secunda vt eiusdem potentiae plenitudinem nos
-ceremus. Tertia vt certi essemus ex nihilo creare nunc-
-animas, qui iam diu Angelos e<x> nihilo item condiderat, sid
-ad singula placet descersu quodam venire. Primum
-omnium potentiam suam probatam exhibuit. quanta
-sit, quii vnica luce Angelas omnes elasorauit; crean-
-ttio enim illos, fiue hora vna diue die fostentauit bra-chium +}
+ceps custode Angelo indiga, qui reficiat, et soletur; ibi enim
+exundat in summo illo bono, omnibus rebus, summo scilicet in
+fastigio* bonorum in aeuum promota: miseram vero alteram ani-
+mam, quàm (^a sinistrus Angelus) {AD. ^spiritus} iniquus* assistens, herensquo*
+trahit in infernum, postquam illuc {AD. ^lancinauerit}, deserit* in
+tormentis illis perennib<us>, in quae trudit, ideo Job ait: in infer-
+no nulla est redemptio, scilicet cessandi avt soluendi, nec
+enim indulgetur cuiquam, vt miti<us>* sit illi v*a hora quàm alia
+Misella* anima, quae illô incidet (^pe*i*s et peius*) {AD. ^pessime semper} afficitur nullo sola-
+mine, nulla spe boni, quae nec unde ibi potest affulgere*. Iam igitur
+Angelus ille bonus iux[^t]a inquisitionem tuam non fuit a Deo recens
+creatus, cum creauit animam, sed ex Choris Angelicis est, vbi
+omnes legiones Angelorum militant.; Angelos enim non nisi
+simul condidit Deus initio; tunc eorum vberem multitudi-
+nem fecit; suffecturos* satis ministerijs ani-
+marum et hominum futurorum, et aliarum rerum, in
+quibus Angelorum ministerio, et obsequio vsus est. Hoc qui-
+dem triplici causa decreuit Deus., prima vt potentiam suam
+ostentaret. Secunda vt eiusdem potentiae plenitudinem nos-
+ceremus*. Tertia vt certi essemus ex nihilo creare nunc
+animas, qui iam diu Angelos e nihilo item condiderat. Sed
+ad singula placet descensu quodam venire. Primum
+omnium potentiam suam probatam exhibuit, quanta
+sit, qui* vnica luce Angelos omnes elaborauit*; crean-
+do enim illos, siue hora vna, siue die {AD. ^, siue vno momento ante primum diem} ostentauit bra-chium +}
 {CW. chium}}
 [fol. 59r]
 {CB1.
 {LAT.
-virtutis immensae, nulla alia potentia id exequi posset nisi-
-ipse  solus, quippe Deus, omnium creator vniuersi-
-tatis auctor. ostendit quoque sapientiam; nouit enim omnia futura
-ad vsque saeculi interitum sapientia sua praeidens t
-feturas animas, obngelos deoreuit, earumdim paedagogos; alioqui
+virtutis immensae., nulla alia potentia id exequi posset nisi
+ipse (^ipse* solitarius, et) solus, quippe Deus, omnium creator vniuersi-
+tatis auctor. Ostendit quoque sapientiam; nouit enim omnia futura
+ad vsque saeculi interitum {AD. ^et enim} sapientia (^quidem) sua praeuidens (^quot)
+[^fu]turas animas, Angelos decreuit, earumdem* paedagogos; alioqui
 enim non plene potentiam suam exhiberet; in illo tamen plenas
 et integras vires demonstrauit efficiendo semel et simul omnium
-Angetorum copias vt habundarent ad custodiam futurarum
-inimarum, deinde quo pacto potentiam suam perhibuit mags-
-na et plena fuit in dispositione Angelicarum classium, quae
-nouem sunt  Diminus
-nocter, vt dixi vires suas ostentauit simultanea illa spi-
-rituum creatione, vnica eadem<> lluce, ex quo intelligere
-est pronum, si vnico momento fuit, potuisset facere, quan-
-do et prout libuerit sigullatim, natura enim compertum
+Angelorum copias vt {AD. ^super} abundarent ad custodiam futurarum
+animarum. deinde quo pacto potentiam suam perhibuit, mag-
+na et plena fuit in dispositione Angelicarum classium, que*
+nouem sunt. (^, de qua modo placet pauca libare.) Dominus
+noster, vt dixi vires suas ostentauit simultanea illa spi-
+rituum creatione, vnica eademq<ue>* luce*, ex quo intelligere
+est pronum*., si vnico momento fuit, potuisset facere, quan-
+do et prout libuerit* sigillatim., natura enim compertum
 est, vbi maior virtus splendet, minor item adsit, ex
-maiori enim dimancit minor, tametsi ex minori maior-
-on profluat. Tertium quod dixi, quare voluit creatio-
-nem Atngelorum ab animarum creatione seiungere eara
-tione fecit, quam mox indicabo, Quotidie ex nihilo creat
-Deus animas, quas nulla ex re speciosa, quaeve in preti
-haberetur, creari Do reuererentur animae crea
-torem et auctorem sui, et noscemt se e<x> nihilo mere
-factas, deinde vt se non  Angelis, qui
-Deo viciniores sunt, earumdemql curatores, quin repe-
+maiori enim dimanat* minor, tametsi ex minori maior
+non profluat. Tertium quod dixi, quare voluit creatio-
+nem Angelorum ab animarum creatione seiungere* ea ra-
+tione fecit, quam mox indicabo., Quotidie ex nihilo creat
+Deus animas, quas nulla ex re speciosa*, quaeve* in pretio
+haberetur, creari (^oportuit, est) {AD. ^necesse fuit. sit} reuere(^re)ntur animae crea-
+torem et auctorem sui, et noscient* se e nihilo merè
+factas, deinde vt se non (^antecellerent*) {AD. ^preferrent} Angelis, qui
+Deo viciniores sunt, earumdemq<ue>* curatores., quin repe-
 rimus cum Deus condidit Angelos nullam tunc in ter-
 ra fuisse animam creatam viuentis hominis, prius
-enim effecit illos, quam Adam niim antequam
-ingessisset in illum spiraculum vitale. Hinc licet homines
-videant quotidianam et recentem animarum productionen
-in mundo simul cum corporum natiuitate, inquae vien-
-ciuntur immissae, alivero corporibus exuta ab hoc
-mundo aduolare superiorem, nihlomino nulla tan
+enim effecit illos, quàm Adam. (^nimirum,) antequam
+ingessisset* in illum spiraculum vitale. Hinc licet homines
+videant quotidianam et recentem animarum productionem
+in mundo simul cum corporum natiuitate, in quae vin-
+ciuntur immissae, aliis* vero corporibus exutus* ab hoc
+mundo aduolare superiorem, nihilomin<us> nulla tan-
 guntur inuidia, aut succensione, quod se inferiores
-videant, sed agneoscunt Angelicam ex cellentiam tribo
-saltem praest antem, quoniam conditi priosquiam +}
+videant, sed agnoscunt* Angelicam excellentiam trib<us>
+saltem* praest antem, quoniam conditi pri<us> {AD. ^Angeli} quam +}
 {CW. ani}}
 [fol. 59v]
 {CB1.
 {LAT.
-animae postea creandae, nequ> enim cum illos fecit Deus aliud
-viuens erat, quod testis esset quando, quane de materia ereati
+animae postea creandae*, neq<ue> enim cum illos fecit Deus, aliud
+viuens erat, quod testis esset quando, quare de materia creati,
 nondum quidquam factum fuerat, solus ipse aderat initio om-
 ni et exitu exemptus et immunis. Tuum etiam agnoscunt ani-
-mae proaeeminentiam angelicam; quoniam illorem statum de-
-creuit Deus constantem, fixum, sbabi lem, nec obnoxium
-miserijs, quibus velut oberatae sunt animae in hoc mundo
-Demum quia administratores, tutoresque
-illarum sint, eorum<ue> suggestioe onsilioque reguntur
-Titulus Vo Eetrum Angelgs visntantes
+mae praeeminentiam angelicam; quoniam illorum* statum de-
+creuit* Deus constantem, fixum, stabilem, nec obnoxium
+miserijs, quibus velut obaeratae sunt animae in hoc mundo.,
+(^imo et in alio.) Demum quia administratores, tutoresque
+illarum sint, eorumq<ue>* suggestio[^ne], consilioque reguntur.
+{RUB. Titulus 3(^1)[^0] Vtrum* Angelos visitantes
 animas in purgatorio ignis ille possit
-lefficere?
-Comine et Magister (yro rogibatij cumditasti animas
-in purgatorio fore, addidisti etiam illue aduentare Angelum
-et inuisere illas, vt solaretur et reficeret. si ergo anime
-quae spiritus est, ibi destinata vt expietur piaculis vitae ar-
-det, licet sit spiritus; igni et flama illa expiatrice quare
-Angelus neutiquam aduretur, acceclens eodem solatu
-rus illam, plane spiritus est pariter, ac illa. Mihi quidem
+afficere?}
+{IN1.} Domine et Magister ((Tyro rogabat)) cum dixisti animas
+in purgatorio fore, addidisti etiam illuc* aduentare Angelum
+et inuisere illas, vt solaretur et reficeret. Si ergo anima,
+quae spiritus est, ibi destinata vt expietur piaculis vitae, ar-
+det, licet sit spiritus; igni et flama illa expiatrice {AD. ^afflictatur}, quare
+Angelus neutiquam aduretur, (^etiam,) accedens eodem solatu-
+rus illam., plane spiritus est pariter, ac illa. Mihi quidem
 compertum est, si spiritus aliquis capax est tormenti et
-doloris, pstique et aliu spiritum similem affectionem
-pesse pati; nam aeque vterque spiritus est. si dixisses
-aeque comburere et nocere ignem Angelo acanioaejes
-etiam peccator erit, nullagxcellentia praestabit animae
-Ad haec Praeceptor. Tria saltem sunt igniggenera, pri-
-mum huius terreni ionis, scilicet quo passim vtimur
-qui naturalis ignis Etiam ignis ab peritis dicisolet, tum
+doloris, vtique et alium spiritum similem affectionem
+posse* pati; nam aequè vterque spiritus est. Si dixisses
+aequè comburere et nocere ignem Angelo ac animae, {AD. ^Numquid aeque} (^aeque)
+etiam peccator erit, nullaq<ue>* excellentia praestabit animae.
+Ad haec Praeceptor. Tria saltem sunt ignis genera, pri-
+mum huius terreni ignis, scilicet quo passim vtimur,
+qui naturalis ignis etiam ignis ab peritis dici solet, tum
 quia natura sua densior et corpulentior sit, tum quia
-id ex quo caepit ardere corruptionem accipit, propter hanc
-igitur corpulentiam et ardorem, seu incensionem dici-
-naturalis sueuit. 2> species ignis in dere conficitier, ex
-quio fulmina excutiuntur, is subtilior est terrestri igni-
-nihilominuisj, in aere sit vaporatior, conspissatur. Forro +}
+id ex quo coepit ardere corruptionem accipit, propter hanc
+igitur corpulentiam et ardorem, seu incensionem dici*
+naturalis sueuit. 2<<a>> species ignis in aere conficitier, ex
+quo fulmina excutiuntur, is subtilior est terrestri igni.
+Nihilominus {AD. ^cum} in aere sit vaporatior, conspissatur. Porrò +}
 {CW. fla}}
 [fol. 60r]
 {CB1.
 {LAT.
-flatus ille bifacriam est; nam et calidus, sicusa et exalia parte
+¶ flatus ille bifacriam est; nam et calidus, sicusa et exalia parte
 humidus et fuigidus, hae duae featuum naturae vaporantur
 et exhalantur e<x> rebus spissioribo terrae et aquae, atque scardunt
 vsque ad nubes vbi couliguntur, versusque coaelum superius dedu-
@@ -1976,7 +1977,7 @@ calore, et adustione, de que rebus quae in terra aduruntur, hunc
 itidem receptant nubes, sursumque deferunt, cumq<ue> in superiorem
 aeuis partem deducunt, qui aer etiam iuxta naturam suam cali-
 dus est, flatus ille ignescet, dein quaedam nubes impetunt, collidunta
-ad alias, im√≤ et subintrantur inuicem et penetrantur, atque
+ad alias, imò et subintrantur inuicem et penetrantur, atque
 tune ille flatus siccus et calidus peruadit alium fribidum
 et himidum, indeque excutitur fulmen, qui coelestis ignisdu-
 citur, et quia fit ex flatibo duobus, atque vterque spissib
@@ -1998,7 +1999,7 @@ citur postquam vero incendit, comburit <s> aliqua
 rati one materiae crassescit, perinde ac alter ignis
 cuiius aliquiam similitudinem exhibebo lapidis cu-
 iusdam, quii soli oppositus collidunt ibi radij, et
-fulgores solares, ipse  cum persbicuis eit, natura
+fulgores solares, ipse cum persbicuis eit, natura
 fiia cale fit caliditate solis, quae illum penetrat, inde +}
 {CW. sit}}
 [fol. 60v]
@@ -2029,12 +2030,12 @@ gatorio puniuntur, extrahuntur inde, vt ad paradi-
 sum post plenam expiationem omnium, quae in mun-
 do deliquerunt, demum deferantur. Eiusdem ignis
 aliam similitudinem ostendo in bestiolis quibusdam
-quae salamandriae dicuntur  instar muris sunt
+quae salamandriae dicuntur instar muris sunt
 hae inter ignes aluntur, et viuunt , adeo vt si-
 inde extrahantur, pereant. sicut igitur bestiolae istae
 in flammis viuunt, nec consumuntur, ita et arimae
 hominum, quae non pereunt sed viuunt in purgatoris
-et inferni igni supplicijs earum destinato. im√≤ sirecte
+et inferni igni supplicijs earum destinato. imò sirecte
 res perpendus: maiuis est miraculum bestiolas illas
 quae caducae et mortalas sunt, viuere in flammus illis
 materialibo, quam aninias immortales in igne tar
@@ -2053,7 +2054,7 @@ quo tempore ibi sunt, nisi quem in eo loco, quo ipsae sunt velut
 intimum habent, proinde singulae ardent pro qualitate me-
 ritorum si enim omnis ignis idem fuisset, aeque omnes ardore
 punirtur, ille igitur interior ignis Angetum nequit adurere
-Praeterea Angeli creaturae sunt, quas  Deus absque naeuo
+Praeterea Angeli creaturae sunt, quas Deus absque naeuo
 et macula peccati creauit, nec enim vel effectu vel affectu
 vnquam peccarunt, deme illos qui perierunt ingrati erga
 Dominum et Deum suum, priusquam plene illos solidaret
@@ -2106,7 +2107,7 @@ cui comitatus fuit vsque ad diem iadicij
 Titilus 3a Ctrum Antichristus vit
 habiturus custodem Angelum?
 Miscasta Praeceptor omibus seminibus dedisse Deum
-Angelum custodem  Antichristum certissima
+Angelum custodem Antichristum certissima
 res est futurum hominem ex earne dequa viro defl-
 foemina, vellem scire nunquid et Angelus bonus et
 sit adhaesurus in custodiam, aeque atque alijs io
@@ -2145,7 +2146,7 @@ Antichristo cuslodem Angelum eius anima habitura est
 perinde ac reliqui homines assidues. Angelus custo
 diturus est illum, vla licet absque spe salutis, nouit ernim
 perditionem suam. sed si ab Angelo desereretur
-plura maioraque facinora patrasset,  cudiretur
+plura maioraque facinora patrasset, cudiretur
 Titulus HA De anima padadysum
 appetende?
 Rogauit Discipulus Magistrum. Praeceptor, et
@@ -2159,7 +2160,7 @@ vel inferiorem sedem Ad haec Praeceptor: cum Deus
 Angelorum copias et classes ordinauit decreuit nouem ordines
 fuisse vti modo sunt ex singulis nouem ceciderunt plures spi-
 ritus vaccantibus sedibus puerimis, Deus tamen, qui vniuer
-sorum est conditor  eas sedes reparars, nouit vacus
+sorum est conditor eas sedes reparars, nouit vacus
 et inanes manerent; id obiter atten de sicut illi qui ceciderunt
 e<x> sidibus sais, spiritus Angelici erant deturbati ob superbiam
 et ingratam mentem, ideo opus esse inibi collocare spritus
@@ -2178,7 +2179,7 @@ fesee, statim cognitionem habet creatoris sui, qui eam
 ex nihilo condidit, ex hac notitia ad amerem Dei, assur
 git ac proinde ex amore etiam ad timendum pperuenit.
 pua propter Angelocuitm spiritus in eam pernitiem ob
-defectum huius  deturbati sunt suis sedibus, quaes
+defectum huius deturbati sunt suis sedibus, quaes
 inanes vacuaque restiterunt, erunt tamen plenae a b
 animabus, quae ob hanc cognitionem saluae fiunt, quo non as-
 alium ordinem promouebuntur, nisi ad eas sedes vacuas,
