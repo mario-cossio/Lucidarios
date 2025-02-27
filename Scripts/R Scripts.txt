@@ -21,3 +21,39 @@ for(i in 1:length(recto)){
   image_write(final, path = paste("Title", recto[i], sep = ""), format = "jpg")
 }
 # Replace 'Title' in line 21 for the desired end title.
+
+
+Download images from repositories (with serial names):
+
+install.packages("httr")
+install.packages("fs")
+# Installs the necessary packages
+
+library(httr)
+library(fs)
+# Calls the librares
+
+base_url <- "https://imagenes.patrimonionacional.es/iiif/2/II_00793%2F"
+file_suffix <- "/full/3498,/0/default.jpg?download=true"
+# Defines the static URL and file pattern (for this example: 'https://imagenes.patrimonionacional.es/iiif/2/II_00793%2FII_793_0002.jpg/full/3498,/0/default.jpg?download=true').
+
+output_folder <- "imagenes"
+dir_create(output_folder)
+# Defines and creates the output folder
+
+for (i in 1:443) {
+  file_name <- sprintf("II_793_%04d.jpg", i) 
+  image_url <- paste0(base_url, file_name, file_suffix)
+  output_path <- file.path(output_folder, file_name)
+# Instructs to loop through image numbers (1 to 443), and format the files names with zeros.
+
+tryCatch({
+    GET(image_url, write_disk(output_path, overwrite = TRUE))
+    cat("Downloaded:", file_name, "\n")
+  }, error = function(e) {
+    cat("Error downloading:", file_name, "-", e$message, "\n")
+  })
+}
+
+cat("Download completed. Files saved in", output_folder, "\n")
+# Runs the script
