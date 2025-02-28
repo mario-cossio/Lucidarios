@@ -1584,23 +1584,23 @@ dè aglutinatur, et netur, ac si filum lineum, aut sericum +}
 [fol. 55r]
 {CB1.
 {LAT.
-¶ esset, post illud filum euomit aliud, deinde aliud, donec eo robore
+esset, post illud filum euomit aliud, deinde aliud, donec eo robore
 firmet, vt ipsa secura sit, vt inseder e supra possit, et sic pro-
 cedit vsque ad extremam partem, vnde extremitates filorum
-connexae sur, atque vt firmior tela sit, iterum coepit retexere
+connexae sunt, atque vt firmior tela sit, iterum coepit retexere
 ab vno ad alterum filum, et quibusdam paruulis manibus, quae
-ipta habet in extremitate crurum, laborat ipsa telam, quam
+ipsa habet in extremitate crurum, laborat ipsa telam, quam
 nectit viscositate illa, quam in ore habet., è quo glutino conte-
 xitur tela subtilissimè et delicatè, vt ipse conspicaris. Hinc conijci
 potes magna vi araneam frui in tactu et peritia illa, quae opera-
 tur telam adeo commodam, aequalem et subtilem, per eandem
-hanc viscositatem e qua tela contexta est, animalia quae circum-
+hanc viscositatem (^ae) e qua tela contexta est, animalia quae circum-
 volitant praehendit, quae in retia illa impingunt, persentiscit que,
 si vel pede occurrant, praedaque araneae fit statim, vt nec mo-
 ueri possit, donec ab aranea capiatur. Hac igitur de causa {AD. ^fit}
 labor (^uel) et opus araneae in hac tela, vti satis dixi.
 {RUB. Titulus 26 Quomodo mundus remanebit
-post extremum iudicij diem}
+post extremum iudicij diem.}
 {IN1.} Sciscitatus Discipulus ait: Magister Domine, post finitum extre-
 mum iudicium a Christo Domino, quo pacto orbis permanebit
 Eruntne creaturae et homines ac modò sunt; an vero in nihi-
@@ -1612,7 +1612,7 @@ euentura sunt, hanc terrae faciem conflagraturam, quae manebit*
 velut noua manente simili recenti operi; ideo plures sancti loquuti
 de hac terra noua etiam addunt faciendum coelum nouum, quia
 nouerant eo die resoluendas, et finiendas nubes coelorum, syderaq<ue>
-iuxta propletiam sybillae Babylonicae, aliorumq<ue> Prophetarum,
+iuxta prophetiam sybillae Babylonicae, aliorumq<ue> Prophetarum,
 et alterius sybillae Cassandriae Trojanae*, quae de eodem vatici-
 nata fuit. Omnes hae prophetantes conuenerunt extremo illo die
 casuras è coelo stellas in terram, simul et nubes. Quod ideo Deus +}
@@ -1625,7 +1625,7 @@ de causa locauit illic, prima vt ab hominibus, qui in terra degimus
 in laude, et admiratione esset, ob eximium et speciosum illud opus
 adeo mirandum, vt eius potentiam reuereamur quotiescumq<ue> illa
 conspicamur: Inde in artificis notitiam ducimur, qualis, quantusque {AD. ^sit}
-2<<a>> quia earum virtutibus alimur in terra (^., et co*** p***t opus fue-
+2<<a>> quia earum virtutibus alimur in terra (^., et co???? prout opus fue-
 rit). Quod dixi de stellis, item inquam de nubibus eo die dispari-
 turas. Nec enim aliam ob causam fecit et coagmentauit illas, nisi
 vt temperiem coeli opportunam, et prout res flagitassent, efficerent
@@ -1635,13 +1635,13 @@ nes, ferae, volucres, pisces, reliqua animantia. tunc deficient
 Planetae et astra, quae modo sunt, tunc nubes, quae conuolant
 in aeris medio, et si qua alia Deus in ministerium et commo-
 dum* terrae fuit molitus. (^ob hanc quoque resolutionem mundani
-artificis, similia contingent in corporibus cum animabus. ita)
+artificij, similia contingent in corporibus cum animabus. ita)
 {AD. ^ita} dixerunt sancti viri futurum deinceps coelum nouum, terram
 nouam, nec amplius duratura viuentia. Dominus autem cum san-
 ctis suis, qui paradysum adipisci meruerunt, considebit in eo gaudio
-et bonis omnibus, quae indulsit illis in (^duam) {AD. ^aeuum}, nunquam finien-
+et bonis omnibus, quae indulsit illis in (^ducem) {AD. ^aeuum}, nunquam finien-
 da; alij vero in suplicijs perennibus inferni sepelientur. Hacte-
-nus ex Theologis, nunc ex rerum natura, vt vtrobique
+nus ex Theologis; nunc ex rerum natura, vt vtrobique
 in eadem sententia conspiratio constet*, nullaq<ue> discordia, et
 repugnantia inter Theologiam et naturam: nam et sa-
 pientes sancti viri, periti quoque fuerunt in physicis. Vt
@@ -1657,7 +1657,7 @@ tamen} Philosophus in suis commentarijs comprobat res valide*, +}
 [fol. 56r]
 {CB1.
 {LAT.
-et plene quippe iuxta rerum naturas asserta sua exquisite robo-
+¶ et plene quippe iuxta rerum naturas asserta sua exquisite robo-
 ret; is igitur in octauo Physicorum docuit mundum iuxta re-
 rum naturam, expertem fine et interitu esse, cuius placiti ra-
 tionem hanc reddit, scilicet ita mundum diuina mente fuisse
