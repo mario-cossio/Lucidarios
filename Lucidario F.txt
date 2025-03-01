@@ -1657,7 +1657,7 @@ tamen} Philosophus in suis commentarijs comprobat res valide*, +}
 [fol. 56r]
 {CB1.
 {LAT.
-¶ et plene quippe iuxta rerum naturas asserta sua exquisite robo-
+et plene quippe iuxta rerum naturas asserta sua exquisite robo-
 ret; is igitur in octauo Physicorum docuit mundum iuxta re-
 rum naturam, expertem fine et interitu esse, cuius placiti ra-
 tionem hanc reddit, scilicet ita mundum diuina mente fuisse
@@ -1667,7 +1667,7 @@ generatio fiat. Ideo dixit Aristoteles ab quadam generatione
 in generationem aliam processum fore perennem, ita vt nullus
 terminus, meta, et finis sit futurus: nam et rerum genera-
 tiones ex hoc processu absque termino fuissent, hoc pacto pro-
-bat mundum in aeuum duraturum. Nunc igitur lubet satis
+bat mundum in aeuum duraturum. Nunc igitur lubet satis-
 facere; quoniam iam nouisti Aristotelicum placitum, et pondus
 rationis, atque animum, quo in id assertum impulsus fuit. Et
 quidem verissimum esset, quod edocuit Philosophus, si rerum
@@ -1682,32 +1682,32 @@ in terra sunt ab vno loco in alium progressiuo motu, alia
 mutatio est, cum vitam cum morte commutant. Igitur
 cum terra sit, in qua degimus, et nos qui in illa viuimus
 sumus mundus ob mutationem. Ergo si duraturi perpetuò
-fuissemus perpetua generatione, et vicisitudine ab parentib<us>
-in filios, mundus proinde perpetuus et aeternus foret. ve-
+fuissemus perpetua generatione, et vicissitudine ab parentib<us>
+in filios, mundus proinde perpetuus et aeternus foret. Ve-
 rum iam huius rei iudicium rectum, et ipsissimam veri-
-tatem optima ratione ostendo., viuentium enim generatio
+tatem optima ratione ostendo; viuentium enim generatio
 exordium aliquod sortita est, eiusque exordij auctor Deus
 fuit, qui igitur initium dedit, decreuit etiam finem,
 et terminum; omnia enim hac sunt ab eo lege condita,
 vt et interitum, et exordium habuissent., Deme Deum
 ipsum, Angelos, et animas, vti edocui iam; Has enim
 et spiritus exemit interitu et fine, contentus initio quod +}
-{CW. }}
+{CW. ha}}
 [fol. 56v]
 {CB1.
 {LAT.
 (quod) habuerunt. Si igitur viuentia, quae in terra sunt finem
 sunt sortitura, oportet vt et interitum mundus habeat, nos igi-
 tur mundus sumus, et terra figulati, et ex elementali quadriga
-compositi ac congruum est finem sortiri, nec sempiterne
+compositi (^ac cingunuum) ac congruum est finem sortiri, nec sempiterne
 processu isto durare. Iam igitur ratione ex Theologia, et Philosophia
 ostendi ita esse; omnium enim rerum auctoritas penes Deum est, qui
 cuncta condidit, atque ita decreuit, eius tamen operi et voluntati
-neque natura est^, nec alia res, quae resistere ratione aliqua possit.
+neque natura est, nec alia res, quae resistere ratione aliqua possit.
 Deus enim supra omnem rationem et legem naturae est. Ideo ex illo
 extremo die manebit terra orba generationibus rerum, quae modo
-in se nutrit et fouet; ipse autem Deus in coelis residebit
-cum omnibus spiritibus (^locatis), et animabus, quae circum
+in se nutrit et fouet; ipse autem Deus in coelis residebit (^cum om-
+nibus) cum omnibus spiritibus (^locatis), et animabus, quae circum
 habebit cum corporibus gloriosis. hoc quidem sempiterne durabit
 vllo absque exitu.
 {RUB. Titulus 27. An stellae post iudicij diem
@@ -1719,7 +1719,7 @@ ra è coelo astra extrema iudicij luce, cum omnium rerum
 interitus est futurus, quod ex sanctis firmasti, ita euen-
 tum iri, quod igitur sancti et prophetae Theologicè prae-
 dixerunt, ostende nunc iuxta solemnia naturae id ita {AD. ^accidere non posse; et quo pacto reliquae manebunt stellae?}
-Scias, inquit Magister, huic quaestioni res-
+(^{AD. accidere posse?}) Scias, inquit Magister, huic quaestioni res-
 pondens, Planetas septem locatos a Deo esse in coelo-
 rum firmamento, quod nomen inditum est ob firmitu-
 dinem, et stabilitatem suam, omniumque rerum, quae
@@ -1727,7 +1727,7 @@ in coelis sunt, nam quamuis hi septem errones mouean-
 tur et pererrent singuli in sphaeris singulis, in quibus
 sibi sunt, eorum tamen duratio constans est. idcirco
 non, inquam, iuxta naturam casuros esse, aut disparituros
-sed tantum motum illum et vagationem, unde nobis suam
+sed tantum motum illum et vagationem, (^i)[^u]unde nobis suam
 virtutem iaculantes influunt iuxta cursum suum, quo
 vel se respectant inuicem, vel appropinquant, fore
 vt quiescat, et sistat. Sic deinceps quieti erunt, vt +}
@@ -1752,7 +1752,7 @@ mortuorum?}
 {IN1.} Domine et Magister, postulauit auditor, dicas quaeso
 de eis qui mortui volucribus, aut feris pabula dedere; qu<ae>q<ue>
 eorum carnibus saginata sunt bruta, deinde ab volucrib<us>
-alijs et feris vorata sunt et rursus haec ab alijs, quomodo
+alijs et feris vorata (^sunt)* et rursus haec ab alijs, quomodo
 igitur horum hominum caro in die extremo ossibus co-
 pulabitur, vt corpus integrè coagmentetur, aut quo
 pacto ante tribunal Domini sistent. satisfaciam prius
@@ -1760,10 +1760,10 @@ inquit Magister, ex Theologia, deinde ex naturali
 similitudine. Scito potentiam fuisse Domino, vt ex
 nihilo carnem efficeret, vt coagmentata fuisset* si-
 mul cum ossibus in corpus integrum hominis viuentis
-ita etiam facultas viresque sunt illi, recipera(^t)[^ndi]
+ita etiam facultas viresque sunt illi, reciper(^et)[^andi]
 carnem eandem, quae ex illo corpore deperdita fuit,
 vt in illo die appareat vti antea, optime enim noris
-ex nihilo fuisse humanum corpus, at que sicut potentiam
+ex nihilo fuisse humanum corpus, atque sicut potentiam
 habet procreandi hominem ex semine e quo fit; quia
 ipsi placuit, ita easdem quoque vires habet, vt peragat
 quaecumque ipse velit. nunc placet ex natura ipsa rerum
@@ -1779,28 +1779,28 @@ manum corpus viuens, carneumque. Artifex ergo iste, qui
 illud opus super naturam fecit, coagmentabit carnem in eodem
 corpore, eo ritu ac* nuper dixi; peritus enim artifex, qui semel
 laborauit opus aliquod, nouit iterum opificium idem, seu simile
-repetere. Si iusisses ferrario fabro vt incantationem aliquum
+repetere. Si iusisses ferrario fabro vt incantationem aliquam
 praepararet, vtique nequaquam efficere nosset; si vero id ab
-mago aliqui petijsses, profectò efficeret. Hinc capere potes Deum
+mago aliquo petijsses, profectò efficeret. Hinc capere potes Deum
 illum, qui sine natura fecit cuncta quae sunt super naturam
 nosse peritissime hoc opificium ipsum reficere; praetereum
 nemo alius.
 (^{RUB. Titul[us] 29. Ex quo Adami latere formata fuit
 Eua?}
-{IN1.} Quaeso, inquit Auditor, constan* è qua struixit Deus foeminam
+{IN1.} Quaeso, inquit Auditor, constam* è qua struixit Deus foeminam
 primam vtro ex Adami latere exiraxit? An ex dextra
 vel leua parte? Scias, respondit Praeceptor, interrogatiun-
-culam istam ad Theologiam spectare. lubenter tamen respon-
+culam istam ad Theologiam spectare. Lubenter tamen respon-
 debo. Certum habeto ex sinistro latere erutam. inuenimus tum
 ex dictis Christi Domini iuxta Euangelistas, tum ex aliorum
 sanctorum doctrina (^omnibus) {AD. ^solitos} hominibus (^viris et foeminis duos) {AD. ^diuersos}
-emitari spiritus, Angelum custodem {AD. ^qui} ad dexteram (^ad) {AD. refertur sicut}
-{AD. ^ab} sinistram daemonem, ijque discrimine quodam, primum
+emitari* spiritus, Angelum custodem {AD. ^qui} ad dexteram (^ad) {AD. refertur sicut}
+{AD. ^ad} sinistram daemonem, ijque discrimine quodam, primum
 obijciunt homini bonitatem {AD. ^aliquam,} deinde voluntatem inuitant
 et demum ad opus trahunt, vnus in commodum
 alter in perniciem. praestat itaque, maiorque in est virtus
 dextrae parti quam leuae. ideo etiam Rex Dauid cecinit
-dextera Domini fecit virtutem, ex quo loco palam* noris
+dextera Domini fecit virtutem, ex quo loco palam noris
 commendatam a Dauide prae sinistra dextram, nos
 igitur ad eius imaginem facti sumus, et quemadmodum
 ipsius dextera praestat; ita et nostra ob similitudinem
@@ -1813,15 +1813,15 @@ autem ex sinistro latere orta fuit, et quia spiritus nequam) +}
 [fol. 58r]
 {CB1.
 {LAT.
-(^plus sinistrorsum valeat, suasit, et con**ertit Euae in dolem ad creditu-
+(^plus sinistrorsum valeat, suasit, et con*ertit Euae in dolem ad creditu-
 litatem tot malorum, quae Daemon expetebat, vt in ea atque in alijs
 futuris ex eius generatione {AD. ^regna} exerceret, atque miserrimo vitae
-cursu vexaret., inde etiam in ecclesiasticis ritib<us> cum matrimonio
+cursu vexaret., inde etiam in Ecclesiasticis ritib<us> cum matrimonio
 copulantur aliqui, et sacrificio intersunt nuptiali, foemina a sinistris
 est, vir autem a dextris.)
 {RUB. Titulus (^30) {AD. ^29} Qualis sit Angelus qui comitatur
-et custodit hominem}
-{IN1.} Ait Discipulus, obsecro Magister, num Angelus, qui custodit homi-
+et custodit hominem.}
+¶ {IN1.} Ait Discipulus, obsecro Magister, num Angelus, qui custodit homi-
 nem, suaeque Dextrae comitatur, de illorum catalogo sit quos Deus ab
 initio in coelo statuit, an denuo creatus simul cum anima, quam
 illi in custodiam tutelamq<ue> credidit. Scias, ((Magister respondit)) cum
