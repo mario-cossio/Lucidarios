@@ -1,30 +1,36 @@
 Normalization Criteria for Collating Spanish Medieval Texts
 
-These are suggested criteria for normalization (not modernization!) of Spanish medieval texts to facilitate their collation.
+These are suggested criteria for the normalization (not modernization!) of Spanish medieval texts to facilitate their collation.
 
-They are by no means complete -they are constantly revised– and they use examples taken from the vocabulary of Sancho IV's Lucidario,
-transcribed using the Hispanic Seminary of Medieval Studies' transcription guidelines, as proposed in David Mackenzie 'A Manual of Manuscript
-Transcription for the Dictionary of Old Spanish Language' (1997, 5th revised edition).
+They are by no means exhaustive—rather, they are continuously revised—and they rely on examples taken from the vocabulary of Sancho IV's
+Lucidario, transcribed according to the Hispanic Seminary of Medieval Studies' transcription guidelines, as proposed in David Mackenzie's
+"A Manual of Manuscript Transcription for the Dictionary of Old Spanish Language" (1997, 5th revised edition).
 
-The processes described in this document include the regularization of vowels and consonants according to their phonetic value
-(v~u, i~j~y, and geminate consonants at the beginning of words), separating words written in a single stroke but formed by two
-independent syntactic units (article + verb, pronoun + article, or in more complex cases: proclitic pronouns + verbs,
-verbs + enclitic pronouns, and the clitics and auxiliaries of analytic futures and conditionals), using majuscules to
-differentiate proper nouns, or joining words written in two strokes but forming a single unit. These minor alterations are meant
-to facilitate the process of comparing and contrasting the readings of the different witnesses of a work using an automated
-collation software (in this case, ChrysoCollate)
+The processes described in this document include:
 
-Based on several scripts developed by José Manuel Fradejas Rueda for normalizing the transcriptions of the Siete Partidas corpus (here:
-https://github.com/7PartidasDigital/XML-TEI/tree/master/scripts)
+— The regularization of vowels and consonants according to their phonetic value (v ~ u, i ~ j ~ y, and geminate consonants at the
+beginning of words).
+— The separation of words written in a single stroke but consisting of two independent syntactic units (e.g., article + verb,
+pronoun + article). More complex cases include: proclitic pronouns + verbs, verbs + enclitic pronouns, and the clitics and auxiliaries
+of analytic futures and conditionals.
+— The use of capital letters to distinguish proper nouns.
+— The joining of words written in two strokes but forming a single unit
 
-[Last Updated: February 29, 2024]
+These minor alterations aim to facilitate the process of comparing and contrasting different witnesses of a work using automated collation
+software (in this case, ChrysoCollate, available here: https://cental.uclouvain.be/chrysocollate/).
 
-Basic Graphic Normalization (some of these replacements should be done more than one time, as the base text will change after each one.
-For example: if 'aui' > 'avi' is executed, and after the 'uj' > 'ui', new instances of 'aui' will probably appear.) 
+This approach is expands several scripts developed by José Manuel Fradejas Rueda for normalizing transcriptions of the Siete Partidas corpus,
+available here: https://github.com/7PartidasDigital/XML-TEI/tree/master/scripts.
+
+[Last Updated: March 3, 2025]
+
+Basic Graphic Normalization (Some of these replacements should be performed multiple times, as the base text will change after each iteration.
+For example, if aui > avi is applied first and later uj > ui, new instances of aui may appear and require further normalization.)
 
 # original value > # replaced value
-Delete all <, >, {RUB.}, {LAT.}, {HD.}, {AD.}, {CW.}, {GL.}, {CB1.}, {CB2.}, {IN.} [+], (^), [^], (), [], or any other encoding mark and replace for
-appropriate convention (use colors, make deletions, etc.)
+Delete all <, >, {RUB.}, {LAT.}, {HD.}, {AD.}, {CW.}, {GL.}, {CB1.}, {CB2.}, {IN.} [+], (^), [^], (), [],  or any other encoding marks. Replace them
+with the appropriate convention (e.g., use colors, apply strikethrough for deletions or delete the text, etc.)
+
 / > .
 , > .
 : > .
@@ -125,8 +131,8 @@ yv > iv
 yz > iz
 zj > zi
 
-Uppercase Letters in Proper Nouns (this is a *tentative* list, and will need to be adapted for any other text. The transcriber should keep
-a list of the proper names and their forms):
+Uppercase Letters in Proper Nouns (This is a *tentative* list and should be adapted for each specific text.
+The transcriber should maintain a record of proper names and their variations.)
 
 Abraam / Abraan
 Adam / Adan
@@ -184,7 +190,7 @@ so uno > souno (meaning 'together')
 sobre verna > sobreverna
 Any adverb + space + mente > adverb+mente without space
 
-Separation to Differentiate Apocopated Compounds or Words Written in a Single Graphic Unity
+Separation to Differentiate Apocopated Compounds or Words Written as a Single Graphic Unity
 
 acabo > a cabo
 acad... > a cad...
@@ -206,7 +212,7 @@ aotr... > a otr...
 aqua... > a qua...
 aque > a que (except 'aquella/o')
 aquien > a quien
-asaber > a saber (except in Occidental text, where asaber is accepted) 
+asaber > a saber (except in Occidental texts, where asaber is accepted) 
 ase > a se
 asu > a su
 asuso > a suso
@@ -304,7 +310,7 @@ queel... > que el...
 queen > que en
 quees > que es
 quel... > que l... (or qu el...)
-quemas > que mas (except when 3rd person present tense reflexive of 'quemar' with clitic, in that case, quema s)
+quemas > que mas (except when it is the 3rd person present tense reflexive form of 'quemar' with a clitic, in which case: quema s).
 queme > que me
 quenos > que nos 
 quenon > que non 

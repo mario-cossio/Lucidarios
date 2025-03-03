@@ -1,10 +1,8 @@
 Scripts for R
 
-# Join two images (recto-folio) in a single image
-# When using, start with a 0000v.jpg to make the folios align (0-1r, 1v-2r, etc.)
-# The files must have a *r.jpg and *v.jpg structure
-# Adapted from https://github.com/7PartidasDigital/XML-TEI/blob/master/scripts/unir_imagenes.R
-
+Join two images (recto-folio) in a single image.
+When using, start with a 0000v.jpg to force the folios to align (0-1r, 1v-2r, etc.). The filenames
+must have a *r.jpg and *v.jpg structure. Adapted from https://github.com/7PartidasDigital/XML-TEI/blob/master/scripts/unir_imagenes.R
 
 install.packages('magick')
 # Installs the necessary package
@@ -20,10 +18,10 @@ for(i in 1:length(recto)){
   final <- image_append(c(left,right))
   image_write(final, path = paste("Title", recto[i], sep = ""), format = "jpg")
 }
-# Replace 'Title' in line 21 for the desired end title.
+# Replace 'Title' in line 21 with the desired name for the file.
 
 
-Download images from repositories (with serial names):
+Download images from repositories (with serial numeration):
 
 install.packages("httr")
 install.packages("fs")
