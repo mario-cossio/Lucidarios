@@ -1,7 +1,9 @@
 {RMK: Sancho IV el Bravo, rey de Castilla y León.}
+{RMK: Juan Eusebio Nieremberg, translator}
 {RMK: [LUL] Elucidarium.}
 {RMK: Salamanca | Biblioteca General Histórica de la Universidad de Salamanca | 2401.}
 {RMK: Mario Antonio Cossío Olavide.}
+{RMK: Hand 1 original (^1#) is the copyist, while hand 2 (2^#) is the author}
 [fol. 33r]
 {CB1.
 {LAT.
@@ -18,7 +20,7 @@ Doctoris et Auditoris
 Persona.
 Quod extat manuscriptu<m> in antiquissimis membranis
 Bibliothecae D<omini> Laurentij
-Ramirez de Padro
+Ramirez de Prado
 Et ex antiquo Hispaniae charactere et idiomate
 in latinum vertit P<ater> Ioannes Evsebivs
 Nierembergivs Societatis
@@ -60,7 +62,7 @@ tuam. Itaque actutum postulare exordiar. Rogo igitur, +}
 {CW. quae}}
 [fol. 34v]
 {CB1.
-{LAT. quae nam prior res, quae in coelis et terra est. Respondit Ma-
+{LAT. quaenam prior res, quae in coelis et terra est. Respondit Ma-
 gister, probe interrogasti, morem perhibenter geram.
 {RUB. Titulus 1. Quid sit primum in coelis, et terra?}
 {IN1.} Scias rerum omnium antelatum, et priorem Numen esse, quod indicare
@@ -69,8 +71,8 @@ naturali cognitione, quam doctrinam ipse mendicasti alienis acade-
 mijs, quas triuisti, et primum ex Theologia mystica exordiar. hostiam
 panis, quae in sacris aedibus consecratur, et fit corpus Domini, san-
 citum est a priscis Patribus rotundam fieri, neque figura formari
-alia permis(^s)erunt, non oblonga, non tetragona, sed velut circum-
-orbiculata: nam in circulari specie nec initium, nec exitus {AD. ^potest}
+alia permis(^s)erunt, non oblonga, non tetragona, sed velut circino
+orbiculata: nam in circulari specie nec initium, nec exitus [^2#potest]
 reperiri., talis est Deus, qui adest ibi. Iam itaque noris, quoniam
 exordium non habet, hanc rem primam computandam esse
 omnium, quae in coelis, et in terris. Modo ex Philosophia id
@@ -103,7 +105,7 @@ collustrat. Ad haec Magister, scito lumen, quo purpuratur et illu-
 minatur mundus, Deum esse, quod itidem ex Theologia (^et) {AD. ^nec sine} Physi-
 ce fulciam. Inuenimus in quodam Euangelij oraculo edictum
 Ego sum lux, quod item contestatur Joannes Apostolus, et Euan-
-gelistes suo Euangelio, qui sublimiori quàm alij eloquio tenauit,
+gelistes suo Euangelio, qui sublimiori quàm alij eloquio tonauit,
 inde orsus in principio erat verbum. Ibi ait hominum vitam
 lucem fuisse, quàm lucem tenebrae nequiuerunt comprehendere.
 Itaque per hanc lucem Deus dumtaxat indigetatur. adiungit
@@ -133,18 +135,18 @@ sed candicantes, vt in se iubar acceptent, quod a sole instillatur, +}
 [fol. 35v]
 {CB1.
 {LAT. et dum sol terram pererrat, quam incolimus tantus est splendor, quem
-in se continet a Deo creduus, vt lunae, et astrorum claritas coram ipso
-euanescat, quia maiori fulgore torpet vis minoris. Praetera in sole
+in se continet a Deo creditus, vt lunae, et astrorum claritas coram ipso
+euanescat, quia maiori fulgore torpet vis minoris. Praeterea in sole
 radicata est claritudo, quàm in illo Deus velut penu deposuit e suo
 lumine, alia vero mendicant illam a sole, qui eam dispensat. opor-
 tet igitur, vt quod radicatum est, et ex suo censu vim sortitur,
 robustiorem virtutem habeat quam id quod alicunde est indultum;
-quod bino exemplo liquidum faciam; fiat duplex sonis vnus altero maior,
-ab hoc minor absorbetur. itera; fiat ingens rogus in latissimo campo;
+quod bino exemplo liquidum faciam; fiat duplex sonus vnus altero maior,
+ab hoc minor absorbetur. item; fiat ingens rogus in latissimo campo;
 locetur prope parua lucerna, nec apparebit, nec illuscescet coram
 splendore rogi: prorsus idem est lunae et astris coram {AD. ^sole:} solare
 enim corpus solum haurit proximè a Deo fulgorem, idcirco sol vocatur.
-ab ipso tamen caetera mutuantur. Rursus postulauit discipulus, quare luna
+¶ ab ipso tamen caetera mutuantur. Rursus postulauit discipulus, quare luna
 et astra noctu coruscant non diu. scias, inquit Magister, mundum,
 in quo degimus globosum instar sphaerae esse, coelum quoque orbicula-
 tum est, vt quaedam pila maior, atque hic est orbis seu mundus.
@@ -2192,4 +2194,4 @@ animabus, quae ob hanc cognitionem saluae fiunt, qu<ae> non ad
 alium ordinem promouebuntur, nisi ad eas sedes vacuas,
 ibique pro meritis considebunt suo quaeque loco, vt inde gra-
 tiam Dei exudent perenniter.
-{AD. ^2#desunt reliqua}}
+[^2#desunt reliqua]}}

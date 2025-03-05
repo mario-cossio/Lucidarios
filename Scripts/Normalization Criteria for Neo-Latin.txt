@@ -2,7 +2,7 @@ Normalization Criteria for Neo-Latin Texts
 
 These are suggested criteria for the normalization (not modernization!) of Neo-Latin texts to facilitate their collation and comparison.
 
-The processes described in this document include the regularization of vowels and consonants according to the norms of Classical Latin
+The processes described in this document include the regularization of vowels and consonants according to modern norms for editing Latin
 (j > i, v > u), as well as the deletion of diacritic accents used in Neo-Latin—such as the circumflex, which differentiates the ablative
 from the nominative/accusative (eâdem/eadem, quâ/qua), and adjectives/adverbs from pronouns (illô/illo, nullô/nullo, quî/qui). Grave accents,
 which are used to mark the prepositions a (ad) and e (ex) to avoid assimilation (à medulla, è sole), as well as to mark adverbs (blandè,
@@ -26,8 +26,10 @@ Deletion of Spaces
 (( > —
  )) > —
 
-à > a
-è > e
+...à > ...a
+à > a<d>
+...è > ...e
+è > e<x>
 ì > i
 ò > o
 ù > u
@@ -41,6 +43,7 @@ aeuu > aevu
 aui > avi
 euo > evo
 ij > ii
+ue > ve
 ui > vi
 uu > vu/uv
 vb > ub
