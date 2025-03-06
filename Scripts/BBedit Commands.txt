@@ -5,3 +5,6 @@ Useful BBEdit commands
 \n # line jump
 @\w+>.*?@ # finds words without opening '<'. Replace @ with a space (with Grep)
 @\w+<\w-[^>][a-zA-Z`] # finds words without closing '>'. Replace @ with a space (with Grep)
+\([^)]*\) # finds text between parenthesis
+\(([^)]+)\) # finds text between parenthesis
+\[[^]]*\] # finds text between bracket

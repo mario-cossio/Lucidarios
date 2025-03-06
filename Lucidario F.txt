@@ -146,7 +146,7 @@ ab hoc minor absorbetur. item; fiat ingens rogus in latissimo campo;
 locetur prope parua lucerna, nec apparebit, nec illuscescet coram
 splendore rogi: prorsus idem est lunae et astris coram {AD. ^sole:} solare
 enim corpus solum haurit proximè a Deo fulgorem, idcirco sol vocatur.
-¶ ab ipso tamen caetera mutuantur. Rursus postulauit discipulus, quare luna
+ab ipso tamen caetera mutuantur. Rursus postulauit discipulus, quare luna
 et astra noctu coruscant non diu. scias, inquit Magister, mundum,
 in quo degimus globosum instar sphaerae esse, coelum quoque orbicula-
 tum est, vt quaedam pila maior, atque hic est orbis seu mundus.
@@ -173,25 +173,25 @@ claritudo est, vt reliquae coram minimè scintillent, nec com-pareant. +}
 [fol. 36r]
 {CB1.
 {LAT. Tunc Tyro, si, [^quemadmodum] inquis sol haurit è diuino fonte fulgorem,
-quare nobis saepe apparet meditate, aut tertia portione niger; et in
+quare nobis saepe apparet medietate, aut tertia portione niger; et in
 reliquo solaris globi conspicuus? Ad haec Magister: minime hic defectus
-est, quominus promanet a diuino origine et fontali iubare, sedex
+est, quominus promanet a diuino origine et fontali iubare, sed ex
 lunari interiectu accidit; luna enim obijcitur media inter nos et solare
 corpus, et quanto solem obnubit, nigrescere videtur nobis, tamen ipse
 in se {AD. ^manet} limpidus et pellucens. simile quid accidit cum nubila
 obtenduntur; nec enim nobis apparet conspicuus, ac cum sudum est.
 porro illud ecclipsis dicitur. Adhuc suscitatus est discipulus; quae
-natura solis est, est ne grossus an subtilis, gelidusne, an calens?
+natura solis est, estne grossus an subtilis, gelidusne, an calens?
 Scias ((Doctor respondit)) solis splendorem conspicuum oppido esse
 ac propterea absque spissitudine. idcirco terram fouet et calefacit
 luminis sui radiatione. id considera radijs suis introeuntibus do-
-mum aliquam. Quaeque leuissima, et sicca essent ibi, ad se trahit, et
+mum aliquam. ¶1¶Quaeque leuissima, et sicca essent ibi, ad se trahit, et
 sugit., vt (^qui) in metallo auri contigit. ductilius, subtilius, et nobi-
 lius hoc metallum reliquis est, ideo etiam reperitur super terrae
 superficiem; quia id solaris vis sugit, quoniam naturae solis affi-
 ne (^est) sit. Iterum discipulus; quare sol calefaci(^e)t terram quadam
 anni periodo plus quam alia? Magister dixit: scias solarem cursum
-duodecim mensium spatio absolui., insterstitium istud annus nun-
+duodecim mensium spatio absolui., in(s)terstitium istud annus nun-
 capatur. sex mensibus oblique sol decurrit, atque ipsos radios obli-
 què vibrat; ideo non magnopere aduxit; at reliquis sex mensi-
 bus cum sol assurgit, et eminet, recta ferit è regione terrae, hinc
@@ -219,7 +219,7 @@ sito suu obijciatur; hoc itaque pacto absoluuntur duodecim menses
 anni. Tunc auditor iterum quaerit. Atqui de luna quid tandem {AD. ^dices?}
 frigida ne est, an sicca, humida, vel calida? Respondit Praeceptor:
 Luna frigida est atque humida, iuxta {AD. ^virtutem et} munia sua; nam in se hoc
-temperamento caret., calorem {AD. ^in super} excipit è solaribus fulgoribus.
+temperamento caret., calorem {AD. ^insuper} excipit è solaribus fulgoribus.
 Illa itaque frigida est et humida: per frigiditatem regna gerit
 in aquis, per humiditatem vim habet in nucleis et medullis,
 quae in terra procreantur, tum hominum, tum brutorum, auium
@@ -257,11 +257,11 @@ cit minorem quam consueuit, splendorem a sole receptans, ex
 ea parte quo nos conspicit. Oportet vt etiam calor minuatur
 et in medullas dispertitur, inde etiam reliqua minuuntur
 et concrescunt: nam et medulla; quia in se contrahitur, et
-coagulatur (diminuit) diminui[t] nobis apparet. Cum vero vber-
+coagulatur (diminuit) diminui nobis apparet. Cum vero vber-
 tim ex humiditate et calore vis defluit protenduntur, et pris-
 tinum statum reciperant, hoc reputamus nos incrementum
 et decrementum.
-{RUB. Titulus .3. Exqua {AD. ^materie} sunt facta sol et luna}
+{RUB. Titulus .3. Ex qua {AD. ^materie} sunt facta sol et luna}
 {IN1.} Obsecro, Praeceptor mi, iterum tyro inquit, è quanam re solem et lunam
 Deus fabre fecit, et qua naturae vi pollent. ex nihilo respondit Ma-
 gister, fabricatus est; quod nec in sole, nec luna dumtaxat, sed
@@ -283,13 +283,13 @@ nec cepta perficiat, tolerare. non ita Dei virtus, quippe non +}
 sunt, confestim facta omnia sunt. Ergo huius Domini, qui immen-
 sa hac potentia pollet, si opera narrarentur nobis, velut si terreni
 hominis alicuius essent, haud satis credere, et nosse possemus, quis
-tandem ille, et qualis esset. Et tamen ((Proh seclus)) nescimus
+tandem ille, et qualis esset. Et tamen ((Proh scelus)) nescimus
 agnoscere et referre gratiam beneficentiae eius, vti par est. Et quo
 magis indulget et (^prodigis) {AD. ^largitur} nobis eo sumus obliuiosi. Redeo ad solem
 et lunam, velim obserues ex omnibus quae Deus condidit nihil ex
 materia mixta; sed simplici procreatum de me virum et foemi-
 nam, quos effinxit Deus ex materia non simplici uti ab initio
-erat. Quippe homo è limo terrae formatus fuit. Tenes iam terram
+erat. Quippe homo è limo terrae formatus fuit. ¶2CG¶ Tenes iam terram
 ab initio aridam effectam et primogenitam rerum sublunarium
 post coelum et Angelos, vt in exordio sacrae paginae dicitur
 creauit Deus coelum et terram. Ita accipiendum est, vt terra
@@ -338,7 +338,7 @@ in loco filij es; ideo placet plene respondere, ad illud quod de luna
 (^seruatus) {AD. ^scrutatus} fuisti. scias stellas errones, seu planetas coeli septem
 esse, quorum haec nomina. 1. Saturnus. 2. Juppiter. 3. Mars.
 4. Sol, 5. Venus, 6. Mercurius. 7. Luna, quae infimae sph<ae>rae
-praediset, et viciniori nobis. singuli orbes occupant singulos, qui-
+praesidet, et viciniori nobis. singuli orbes occupant singulos, qui-
 bus cursum suum absoluunt, et rotantur, iuxta concitationem sphae-
 rae, in qua singuli vincti sunt. Alia sunt lumina, quae fixa sy-
 dera nuncupantur; quia non eandem virtutem habeant, ac septem
@@ -400,7 +400,7 @@ vt monui fixo sydere signa; at cum errones suo cientur cursu vsu
 venit, vt misceantur his signis, et in singulis morentur iuxta cur-
 sum motionis suae, atque dies et hora stata est, qua signi caput
 erro subeat, et iuxta hoc artis astrologiae iudiciarij portendunt
-fausta, aut mesta. Pene enim omnis vis astrologiae in iudicijs
+fausta, aut moesta. Pene enim omnis vis astrologiae in iudicijs
 est, quae qui probe obseruare cupit, haec studeat obseruanda. Primo
 praeteritum tempus. 2. quo pacto sol et luna afficiantur, quos-
 vè ascendentes habeant. 3. quot sint magnitudinis gradus,
@@ -416,7 +416,7 @@ ris accidit, et quamuis prima haec et proxima nobis bastissima
 sit, et latissima comparatione terrae, quam nomine mundi in-
 telligo, capatior est altera; quae hanc claudit, et ita dein-
 ceps donec nona attingatur, altera altera superior est. Er-
-go luna, quae(c) hoc minore orbe pererrat, statis tempori-
+go luna, quae(e) hoc minore orbe pererrat, statis tempori-
 bus gyrat, et circulatim ad terrae rotunditatem deflec-
 titur sphaera eius, cum ad illum descensum pertingit, vm-
 bra terreni globi assurgit obiecta inter lunam et so-
@@ -428,8 +428,8 @@ durat tamdiu, donec assurgat ab descensione illa, qua +}
 [fol. 39v]
 {CB1.
 {LAT.
-sub terrae vmbris delicuit, et ad ascensum suum reciperat lumen, quo-
-niam pone se relinquit vmbras, donec integre conspicua sit. Quod
+sub terrae vmbris delituit, et ad ascensum suum reciperat lumen, quo-
+niam pone se relinquit vmbras, donec integre conspicua sit. ¶2¶ Quod
 experiri potes oculis ipsis, et si noctu fiat., accipe peluim plenam
 aqua, et oppone lunae, lunarem speciem ibi conspicaberis, et quo
 pacto fiant omnia; hoc est, quod lunae ecclipsim dicunt. Alia

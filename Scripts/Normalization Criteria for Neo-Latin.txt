@@ -38,11 +38,14 @@ Deletion of Spaces
 î > i
 ô > o
 û > u
+...ue > ...ve
 aeui > aevi
 aeuu > aevu
 aui > avi
 euo > evo
 ij > ii
+ju > iu
+sy > si
 ue > ve
 ui > vi
 uu > vu/uv
