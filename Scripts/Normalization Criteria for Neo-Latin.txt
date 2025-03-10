@@ -42,10 +42,13 @@ Deletion of Spaces
 aeui > aevi
 aeuu > aevu
 aui > avi
+duo > dvo
 euo > evo
 ij > ii
 ju > iu
+lui > lvi
 sy > si
+...ue > ...ve
 ue > ve
 ui > vi
 uu > vu/uv
@@ -54,3 +57,4 @@ vl > ul
 vn > un
 vt > ut
 vr- > ur-
+vx- > ux-
