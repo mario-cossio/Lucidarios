@@ -528,7 +528,7 @@ debilia conuellantur. Ita in hac re euenit, et quamuis miraculum
 ingens {AD. ^fuerit} fieri hominem Adam. Illud stupendum fieri Deum
 hominem terrenum, et qui nullam sui diminutionem patitur,
 velle fieri minorem creaturam, quae in vniuerso ex rationalib<us>
-continetur, quod tribus ei rationibus placuit. ¶1¶Prima propter violen-
+continetur, quod tribus ei rationibus placuit. Prima propter violen-
 tiam bonitatis suae. 2<<a>>. ex commiseratione nostri, ne opus suum
 periret. 3<<a>> vt suam potentiam ostentaret quanta fuisset, quemad-
 modum suppetit virtus, vt quae nihilum essent conuerteret in
@@ -635,7 +635,7 @@ iuxta sapientium dogma., praetorium eius, quod inhabitat, quoque
 plus est radicata, cor hominis est, quod inde conijci potest; quoniam
 homo vulnere aliquo sauciatus in corde, statim emoritur; totum
 enim cor virtute animae pr<ae>hensum est. At quamuis locus ille pr<ae>-
-cipuus, et velut curia inter reliquos sit, tamen pertotum corpus
+cipuus, et velut curia inter reliquos sit, tamen per totum corpus
 virtus eius profunditur., nemo hominum est in orbe, qui aliquod
 membrum corporis mouere possit absque vi animae, quae id exe-
 qui negotiatur. Quemadmodum enim in voluntate id aggredi ani-
@@ -738,7 +738,7 @@ aeuum ipse perenniter regnat.
 {LAT.
 verbum aliquod de salutatione, qua Gabriel Angelus affatus est san-
 ctissimam virginem qua verborum parte negotiatus in ea fuit spiritus
-incarnationem. Scio enim haud leuem hac in re inquisitionem esse
+incarnationem. ¶1¶ Scio enim haud leuem hac in re inquisitionem esse
 in magna pietatis disceptatione, qua de re nunc colloquimur. Quidam
 aiunt accidisse illis verbis spiritus sanctus superueniet in te, et vir-
 tus altissimi obumbrabit tibi. Rursus alij in initio collucutionis ubi
@@ -1096,7 +1096,7 @@ legauit, quo ritu missit., nacti quippe sunt spiritus sancti gratiam
 quae in illis diu morata perstitit, idcirco erudias velim, mi Prae-
 ceptor, num haec persona fuerit e tribus Triadis sanctissimae
 vtrum in illis demorata, vel regressa ad Patrem vnde
-aduenèrat. ¶2¶ Fili, respondit Magister, verum est spiritum
+aduenèrat. Fili, respondit Magister, verum est spiritum
 ad illòs devolasse eo loco quo {AD. ^conuenerant}, iaculantem et emit-
 tentem ex se igneos radios instar linguarum, et singulos
 radios singulos Apostolorum perculisse, vt omnes pariter
@@ -1143,7 +1143,7 @@ gua deinde audita reddit, et effert, si olfacit homo siue +}
 [fol. 49r]
 {CB1.
 {LAT.
-suaue, sine iucundum, id lingua prodit. si gustat haec peculiaris lin-
+suaue, siue iucundum, id lingua prodit. si gustat haec peculiaris lin-
 guae tessera et munus, id ipsa garrit: nam degustante lingua. statim
 homo, sitne dulce vel amarum profert., tum quod tractat pedibus
 manibusque id vti sentit, lingua effatur. Itaque omnium quinque
@@ -1171,7 +1171,7 @@ dium sortitos aequè ac finem, recusant illi reuerentiam et ho-
 norem. Quid auderent, si fine omni se exemptos, liberosque
 putarent? (^Quam primum) nihil minus presumerent quam
 diuinitatem. cuncta illis pro libito essent et verba et opera. Inue-
-nimus ex sacra scriptione ab Adan vsque {AD. ^ad} Noe primam +}
+nimus ex sacra scriptione ab Adam vsque {AD. ^ad} Noe primam +}
 {CW. hu}}
 [fol. 49v]
 {CB1.
@@ -1265,7 +1265,7 @@ reperit in lucro habet. Alterum in quo complacet panis est
 qui in altari consecratus conuertitur in corpus Domini; nec
 sane quidquam gratius possunt Christiani studia, nam et ipse
 praecepit, vt adorarent et manducarent illum, vti semetipsum.
-Nam quo tempore consecratur fit idem Dominus. Item cum homo
+¶2¶Nam quo tempore consecratur fit idem Dominus. Item cum homo
 feruentiori affectu et humilitate erga illum. accedit eo certio-
 rem faciet se posthac maiora exhibiturum, si homo posset
 oculis cernere, sicut Apostoli et Discipuli, qui illum comi-
