@@ -3,7 +3,7 @@
 {RMK: [LUL] Elucidarium.}
 {RMK: Salamanca | Biblioteca General Histórica de la Universidad de Salamanca | 2401.}
 {RMK: Mario Antonio Cossío Olavide.}
-{RMK: Hand 1 original (^1#) is the copyist, while hand 2 (2^#) is the author}
+{RMK: Hand 1 (marked in corrections and deletions with ^1#) is the original scribe, while Hand 2 (2^#) is the author of the translation}
 [fol. 33r]
 {CB1.
 {LAT.
@@ -320,7 +320,7 @@ condidit, suam cuique indulsit naturam, vt generaretur, dein-
 ceps nasceretur, viueret, et occideret iuxta cursum et seriem
 vniuersi, in quo singulae, alendae, et duraturae forent. Iam
 igitur videbis ex operibus istis naturam dedicasse quomodo igitur
-id fulciri potest ex rerum naturis. ¶1¶ cum illud factum adeo fuerit
+id fulciri potest ex rerum naturis. cum illud factum adeo fuerit
 praeter naturam, et super naturam, in quo potentiam suam
 placuit ostentare.
 {RUB. Titulus .4. Quomodo Luna nigrescat?}
@@ -394,7 +394,7 @@ pollent, non aequè in tota figura instillatur, quaedam +}
 nitatem retractam habent in quadam membrorum portione, vti in
 Tauri signo reperimus, qui propitius est, verum in anteriori parte
 nimia benignitate corruscat, quàm in posteriori. Et ni tempus pro-
-ducerem longa narratione idem monstrare possem in signis alijs, per
+ducerem longa narratione idem monstrare possem in signis alijs, per-
 inde atque in Taurino. Itaque sunt in zodiaco sita et effigiata
 vt monui fixo sydere signa; at cum errones suo cientur cursu vsu
 venit, vt misceantur his signis, et in singulis morentur iuxta cur-
@@ -428,7 +428,7 @@ durat tamdiu, donec assurgat ab descensione illa, qua +}
 [fol. 39v]
 {CB1.
 {LAT.
-sub terrae vmbris delituit, et ad ascensum suum reciperat lumen, quo-
+sub terrae vmbris delituit, et ad ascensum suum rec(^2#e)[^2#i]perat lumen, quo-
 niam pone se relinquit vmbras, donec integre conspicua sit. Quod
 experiri potes oculis ipsis, et si noctu fiat., accipe peluim plenam
 aqua, et oppone lunae, lunarem speciem ibi conspicaberis, et quo
@@ -528,7 +528,7 @@ debilia conuellantur. Ita in hac re euenit, et quamuis miraculum
 ingens {AD. ^fuerit} fieri hominem Adam. Illud stupendum fieri Deum
 hominem terrenum, et qui nullam sui diminutionem patitur,
 velle fieri minorem creaturam, quae in vniuerso ex rationalib<us>
-continetur, quod tribus ei rationibus placuit. Prima propter violen-
+continetur, quod tribus ei rationibus placuit. ¶1¶Prima propter violen-
 tiam bonitatis suae. 2<<a>>. ex commiseratione nostri, ne opus suum
 periret. 3<<a>> vt suam potentiam ostentaret quanta fuisset, quemad-
 modum suppetit virtus, vt quae nihilum essent conuerteret in
@@ -799,13 +799,13 @@ praeclarum dogma omnium probe, et orthodoxe sapientium
 {RUB. Titulus 13. Quî potuerit B<eata> Maria Virgo
 permanere postquam Christus Domin<us>
 natus ex ea fuit?}
-¶2¶{IN1.} Postulauit auditor, et ait: Praeceptor mi Domine post
+{IN1.} Postulauit auditor, et ait: Praeceptor mi Domine post
 Christi Domini natiuitatem è Maria Virgine, quo pacto
 potuit accidere, vt adhuc in virginitate persisteret. Hoc
 inquit Magister, haud explicare poteram naturae discursu et
 ratione. Sed oportet te scire ipsum Dominum potentia sua
 effecisse, vt ex ea carnem sibi copularet, quin violaretur
-et absque corruptione, quam in se persentisceret.; simili tamen
+et absque corruptione, quam in se persentis ceret.; simili tamen
 quodam id explicabo. Attende vitreum poculum, quod fit +}
 {CW. ex}}
 [fol. 44v]
@@ -818,7 +818,7 @@ natura sua, conspicaberis solari radio transverberatum et penetra-
 tum vlla absque fractione et corruptione. Et quemadmodum sol ver-
 titur, atque ab situ demutatur, ita radius facessit, remeatque
 qua peruasit pridem, relinquens vitrum integrum, et illaesum
-atque prius fuerat. Huius modi contigit sanctissimae Mariae
+atque prius fuerat. Huiusmodi contigit sanctissimae Mariae
 cum Christum Jesum concepit, ante et postquam peperit. Nec
 reperimus, qui aliam rationem efficatiorem reddat; totum
 enim stupendum miraculum fuit, quod se ipsomet placuit Deo
@@ -831,7 +831,7 @@ feros postquam crucis suplicium, et mortem tulit? Scias Prae-
 ceptor ait, ab piaculo Adami ad momentum {AD. ^vsque} illud, solemne
 fuisse tam iustos quam iniquos infernas sedes post exitum admi-
 grare. Nec tamen sine discrimine poenae; iusti enim ad
-sedem quandam tenebrosam subvolabant: at peccatorees fun-
+sedem quandam tenebrosam subvolabant: at peccatores fun-
 dum ipsum inferni attingebant; quoniam autem Christus
 Dominus hominem plene esse, et absoluere voluit, eundem
 cursum aggredi gestiuit, quem omnes alij triuerunt. diuer-
@@ -910,7 +910,7 @@ Christus corpus carneum?}
 coelos deferre terrenum corpus, quod in hoc mundo sibi
 capessijt? Respondit Magister, duabus ex causis. Pri-
 mum, quia nec congruum, nec rationabile, nec ius duxit
-sanctissimam eius carnem apud nos manere praeter
+sanctissimam eius carnem apud nos manere praeter-
 quam eo temporis spatio, quod ipse opportunum duxit,
 certissimum est in Christianorum Religione, quo
 die obijt sanctissima Maria eius genitrix auolasse,
@@ -942,7 +942,7 @@ cratur verbis, quae in altari proferuntur in sacrificio. De hoc pane
 Discipulis suis in coena dixit, hoc est corpus meum, quod pro vobis
 trado noui testamenti, vt mei commemorationem habeatis. Alibi
 inquit: Ego sum panis et vinum verum, qui de coelo descendi, et
-qui manducauerit ex hoc pane, et biberit hoc vino in me viuetin
+qui manducauerit ex hoc pane, et biberit hoc vino in me viuet in
 aeternum, et ego in eo. Adeo iniqui nos Christiani sumus, qui hanc
 fidem credere tenemur, cum qui eam crediderint incolumes fu-
 turi sint, vt e vestigio obliuiscamur. Conspicamur illum quotidie
@@ -1096,7 +1096,7 @@ legauit, quo ritu missit., nacti quippe sunt spiritus sancti gratiam
 quae in illis diu morata perstitit, idcirco erudias velim, mi Prae-
 ceptor, num haec persona fuerit e tribus Triadis sanctissimae
 vtrum in illis demorata, vel regressa ad Patrem vnde
-aduenèrat. Fili, respondit Magister, verum est spiritum
+aduenèrat. ¶2¶ Fili, respondit Magister, verum est spiritum
 ad illòs devolasse eo loco quo {AD. ^conuenerant}, iaculantem et emit-
 tentem ex se igneos radios instar linguarum, et singulos
 radios singulos Apostolorum perculisse, vt omnes pariter
