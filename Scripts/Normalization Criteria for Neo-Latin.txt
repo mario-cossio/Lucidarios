@@ -43,6 +43,7 @@ acu- > accu-
 aeui > aevi
 aeuu > aevu
 aui > avi
+cha- > ca-
 -cc- > -c-
 bas- > vas-
 dy- > di-
@@ -69,3 +70,4 @@ vn > un
 vt > ut
 vr- > ur-
 vx- > ux-
+vua > uva
