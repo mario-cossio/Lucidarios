@@ -549,7 +549,7 @@ tum emendaturus erat. Tum etiam id dictum ratione alterius
 portionis, quàm in Adamum inspirauit, nempe animam, quae
 trina virtute naturae constat, vegetatiua vna, altera sensitiua,
 tertia rationali. Prima vis augendi est, qua simul etiam velut cres-
-cit illa, exerendo se se suique vim, sicuti et corpus augescit, alia
+cit illa, exerendo sese suique vim, sicuti et corpus augescit, alia
 est sentiendi virtus quidquid feceris, postrema ratio ipsa est,
 qua nullum aliud animal donatur praeter hominem animae
 causa; quae similitudinem Angelicam refert, et sicuti Angeli
@@ -1382,7 +1382,7 @@ tem linguae commodant, vt ea enarret, quod praestat lingua subsi-
 dio medullarum cerebri. secundo, quia quod gustat lingua, cerebrum
 iudicat, vtrum placeat, vel secus. (^Iam de corde dicum) cor motio-
 nem praestat vt loquatur, et roborat, vt quae placuerint, enuntiet,
-ideo Salomon dixit, ex abundantia cordis os loquitur; ¶12¶per os
+ideo Salomon dixit, ex abundantia cordis os loquitur; per os
 non intelliguntur tantum labia, quae absque lingua eloqui nes-
 ciunt, sed lingua, quae intra labia est, haec mouentur ad
 linguae elocutionem absque qua nihil effatur. Ecce quartum sen-
@@ -1415,8 +1415,8 @@ omnium, quae in humano corpore sunt; in rationali enim por-
 tione duae virtutes resident., Prima {AD. ^est} ostendere quid homo velit
 iuxta rationem rectam. altera percipere quid homini loquatur
 et consilium capere de illo recta quoque ratione, per illam nouit
-se se homo, et reliqua quae in orbe sunt singula iusta trutina pon-
-derans qualia, quanta ve. cum ergo in peccatum labitur homo non
+sese homo, et reliqua quae in orbe sunt singula iusta trutina pon-
+derans qualia, quantave. cum ergo in peccatum labitur homo non
 sine errore quodam id fit, et quinque sensibus deducto, vt modo
 edisseram. Primum omniùm videndo, ex ipso visu fallitur, ac si
 exoculatus, coecusque fuisset, caecitatem inserens intellectui in ani-
@@ -1430,11 +1430,11 @@ dio alieno, nempe paenitentiae a Domino, quae iniquum extrahit
 a peccato, in quo iacebat; Quia igitur hi quinque sensus organa
 sint humani corporis, perque illos erret homo, decreuit Deus om-
 nes homines vocare ad iudicium corpore et anima {AD. ^ut quidam} paradisum
-appetant, alij in infernum detrudantur. Nec tamen cogites appor-
+appetant, alij in infernum detrud(^2#e)[^2#a]antur. Nec tamen cogites appor-
 tandas in paradysum animas, quae modo in inferno torquentur
 neque vice versa deferendas ad inferna, quae modo in parady-
 so gaudent; ipsissimam sententiam et remunerationem quam ani-
-mae nunc habent, tunc auscultabunt, tantum hoc discrimire +}
+mae nunc habent, tunc auscultabunt, tantum hoc discrimine +}
 {CW. quod}}
 [fol. 53r]
 {CB1.
@@ -1470,7 +1470,7 @@ e quinque acrior et perfectior sit quam in homine., edisse-
 ram tamen, quod sit, et eius causam aliquam. Aquila
 inter volucres acumen visus praestantissimum habet; lon-
 gissima, dissitaque cernit procul; ideo fastigia spherae
-aereae volatu suo petit, vt subse conspicetur omnia, quae
+aereae volatu suo petit, vt sub se conspicetur omnia, quae
 subvolant, et pererrant: Id plane volucris haec habet +}
 {CW. ob}}
 [fol. 53v]
@@ -1492,12 +1492,12 @@ aliquam, transverberat visu, et quae citra sunt. Imo Boetius
 sapiens dixit, adeo roboris hoc animal in visu frui in quaecumq<ue>
 suo lumine impingat, penetret, et transfodiat. Item repe-
 rimus suem celerius et acrius audire prae alijs anima-
-libus, rationem quoque lubet reddere. Scias licet gran-
+libus, rationem quoque l(^1#u)[^1#i]bet reddere. Scias licet gran-
 de et oblongum caput habeat, medulam coniunctissi-
 mam habere ossi verticis, et supremo valde capiti. Item
 praegrandes aures habet, et apertas idoneè, nec supra
 illas suspenditur, quod auditionem magnopere occupet.
-auricularesque meatus, latos, spatiosos, et minus-
+auricularesque meatus, latos, spatiosos, et minus
 occupatos, quàm alia animalia habet, ita vt quae lon-
 gissimè sonant, percipiat illico, et quaerit subter fugere alio,
 atque ab loco, vnde audiuit strepitum., tantum hoc commodi
@@ -1533,7 +1533,7 @@ reficiant ventrem aere, ac si carnibus saturi, plenique
 essent. postea rostra concludunt, ne ventus effluat. Ita
 succensent postea aere illo, quo infertum stomachum ha-
 bent, vt amittant gustum, et cupidinem edendi, adeoq<ue>
-scandunt, vt vix cernis queant, sicque ex alto speculan-
+scandunt, vt vix cerni queant, sicque ex alto speculan-
 tur plagas omnes sub se, obijcientes rostri fenestellas
 contra flatum ventorum, atque ex odore inde deducto
 coniectantur nunc prope, aut procul esca sit., si vici-
@@ -1587,12 +1587,12 @@ dè aglutinatur, et netur, ac si filum lineum, aut sericum +}
 {CB1.
 {LAT.
 esset, post illud filum euomit aliud, deinde aliud, donec eo robore
-firmet, vt ipsa secura sit, vt inseder e supra possit, et sic pro-
+firmet, vt ipsa secura sit, vt insidere supra possit, et sic pro-
 cedit vsque ad extremam partem, vnde extremitates filorum
 connexae sunt, atque vt firmior tela sit, iterum coepit retexere
 ab vno ad alterum filum, et quibusdam paruulis manibus, quae
 ipsa habet in extremitate crurum, laborat ipsa telam, quam
-nectit viscositate illa, quam in ore habet., è quo glutino conte-
+nectit viscositate illa, quam in ore habet., ¶12¶è quo glutino conte-
 xitur tela subtilissimè et delicatè, vt ipse conspicaris. Hinc conijci
 potes magna vi araneam frui in tactu et peritia illa, quae opera-
 tur telam adeo commodam, aequalem et subtilem, per eandem
