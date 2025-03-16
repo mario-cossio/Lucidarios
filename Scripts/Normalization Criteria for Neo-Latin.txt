@@ -39,6 +39,7 @@ Deletion of Spaces
 ô > o
 û > u
 ...ue > ...ve
+ab > a before consonant
 acu- > accu-
 aeui > aevi
 aeuu > aevu
@@ -50,6 +51,7 @@ dy- > di-
 duo > dvo
 euo > evo
 exp- > exsp-
+-fl- > -ffl- 
 ij > ii
 Jo > Io
 ju > iu
