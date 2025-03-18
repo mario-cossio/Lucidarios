@@ -1,9 +1,9 @@
 {RMK: Sancho IV el Bravo, rey de Castilla y León.}
-{RMK: Juan Eusebio Nieremberg, translator}
+{RMK: Juan Eusebio Nieremberg, translator.}
 {RMK: [LUL] Elucidarium.}
 {RMK: Salamanca | Biblioteca General Histórica de la Universidad de Salamanca | 2401.}
 {RMK: Mario Antonio Cossío Olavide.}
-{RMK: Hand 1 (marked in corrections, deletions, and additions with ^1#) is the original scribe, while Hand 2 (2^#) is the author of the translation}
+{RMK: Hand 1 (marked in corrections, deletions, and additions with ^1#) is the original scribe, while Hand 2 (2^#) is the author of the translation.}
 [fol. 33r]
 {CB1.
 {LAT.
@@ -160,7 +160,7 @@ iaculati eam etiam claritatem excutiunt ab illis., sol quippe magni-
 tudine excedit centies, et septuagies quinquies globum terrenum
 et quamuis sol peragret et subeat terrae latera, licet eius iubar
 proximè non attingamus, illud tamen penitus obnubere nequit,
-quin eius magnitud(^2#ine][^2#o] [^2#c]ircum coruscet et scandat; quia vti nuper-
+quin eius magnitud(^2#ine)[^2#o] [^2#c]ircum coruscet et scandat; quia vti nuper-
 rime monui, maior est. Denique idem contigit cum sole et
 Deo, quod aquis et mari. f(^2#le)[^2#o]ntes, fluminaquè omnia quae ter-
 ras perfluunt è mari originem capiunt, illucque regrediuntur.
@@ -731,7 +731,7 @@ seruare eam sibi ipsi, vt ad fastigium et coronàm coelestis
 imperij subueheret illam, suaeque dexter<ae> assideret., vbi in
 aeuum ipse perenniter regnat.
 {RUB. Titulus .11. De salutatione et colloquio Angelico}
-{IN1.} Instabat Discip[^2#u]lus, Magister Domine, (^2#f)inquit, ¶fac¶ +}
+{IN1.} Instabat Discip[^2#u]lus, Magister Domine, (^2#f)inquit, fac +}
 {CW. ver}}
 [fol. 43v]
 {CB1.
@@ -979,7 +979,7 @@ ni esse, quod in ara vera consecratur, credit intrepide, et absque
 haesitationis fermento, quam si ipsi adhuc in terra degenti adesset
 sicut Apostoli. Huius haud friuola ratio quadrat. Primum quo-
 niam immensam eius potentiam credit homo, vt quemadmodum
-potuit ex (^2#v)[^2#V]irgine sanctissima nasci, ita etiam valu(^2#it)[^2#uerit] potentia
+potuit ex (^2#v)[^2#V]irgine sanctissima nasci, ita etiam valu(^2#it)[^2#erit] potentia
 conuertendi panem in corpus suum verum, postrema hac cre-
 dulitate, prima intelligitur, nempe et ipsum valuisse cuncta
 exequi. Secunda, quia verior est amor accurare iussum, quod
@@ -1431,7 +1431,7 @@ dio alieno, nempe paenitentiae a Domino, quae iniquum extrahit
 a peccato, in quo iacebat; Quia igitur hi quinque sensus organa
 sint humani corporis, perque illos erret homo, decreuit Deus om-
 nes homines vocare ad iudicium corpore et anima [^2#ut quidam] paradisum
-appet(^2#e)[^2#a]nt, alij in infernum detrud(^2#e)[^2#a]antur. Nec tamen cogites appor-
+appet(^2#e)[^2#a]nt, alij in infernum detrud(^2#e)[^2#a]ntur. Nec tamen cogites appor-
 tandas in paradysum animas, quae modo in inferno torquentur
 neque vice versa deferendas ad inferna, quae modo in parady-
 so gaudent; ipsissimam sententiam et remunerationem quam ani-
@@ -1562,7 +1562,7 @@ integrè, ac antea olfaciendi virtutem. Hanc eandem vim et
 olfactum simius sortitur, tametsi non (^2#modo) adeo plenam
 et acrem ac vultur; quaecumque enim simio dantur, prius
 olfacit, et postquam satis odoratu percepit, et ad gustum suum commo-
-dum, (^2# contectat** est) comest. Quartum gustandi sensum lingua
+dum, (^2#contectat** est) comest. Quartum gustandi sensum lingua
 occupat, quem plene simius habet; canis quoque eximiam vim in lin-
 gua est nactus: nam et si validum sit vulnus gladio, vel alijs
 armis inflictum, dum modo percussio non subita nece perimat,
@@ -1797,7 +1797,7 @@ culam istam ad Theologiam spectare. Lubenter tamen respon-
 debo. Certum habeto e(^2#t)[^2#x] sinistro latere erutam. inuenimus tum
 ex dictis Christi Domini iuxta Euangelistas, tum ex aliorum
 sanctorum doctrina (^2#omnibus) [^2#solitos] hominibus (^2#viris et foeminis duos) [^2#diuersos]
-comitari spiritus, Angelum custodem [^2#qui] ad dexteram (^2#ad) [2#refertur sicut]
+comitari spiritus, Angelum custodem [^2#qui] ad dexteram (^2#ad) [^2#refertur sicut]
 [^2#ad] sinistram daemonem, ijque discrimine quodam, primum
 obijciunt homini bonitatem [^2#aliquam,] deinde voluntatem inuitant
 (^2#****inde) et demum ad opus trahunt, vnus in commodum

@@ -26,10 +26,8 @@ Deletion of Spaces
 (( > —
  )) > —
 
-...à > ...a
-à > a<d>
-...è > ...e
-è > e<x>
+à > a (except for isolated à > ad)
+è > e (except for isolated è > ex)
 ì > i
 ò > o
 ù > u
@@ -38,38 +36,24 @@ Deletion of Spaces
 î > i
 ô > o
 û > u
-...ue > ...ve
-ab > a before consonant
-acu- > accu-
-aeui > aevi
-aeuu > aevu
-aui > avi
+j > i
+v > u (but keep capital V)
+hy > hi (except: physica)
+sy > si (except: symbolum, sibylla)
+ty > ti
+
+**
+
+ly > li
+
+acu- > accu- (verb: accurare)
 cha- > ca-
 -cc- > -c-
 bas- > vas-
 dy- > di-
-duo > dvo
-euo > evo
 exp- > exsp-
 -fl- > -ffl- 
-ij > ii
-Jo > Io
-ju > iu
-lui > lvi
-ly > li
 -rr- > -r-
 oppo- > opo-
 scic- > scisc-
-sy > si
-ty > ti
-...ue > ...ve
-ue > ve
-ui > vi
-uu > vu/uv
-vb > ub
-vl > ul
-vn > un
-vt > ut
-vr- > ur-
-vx- > ux-
-vua > uva
+

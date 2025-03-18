@@ -1,9 +1,20 @@
 cff-version: 1.1.0
-message: "If you use these transcriptions, please quote them like this:"
+message: "If you use these transcriptions, please cite them following the instructions in the README.md file."
 authors:
   - family-names: Mario
     given-names: Cossío Olavide
     orcid: https://orcid.org/0000-0002-1447-3891
-title: «Lucidario [corresponding letter], semi-paleographic transcription», Lucidarios, v. 0.4
-version: 0.4
-date-released: 2024-03-14
+title: «Lucidario [corresponding letter], semi-paleographic transcription», Lucidarios, v. 0.5
+version: 0.5
+date-released: 2025-03-19
+publisher: GitHub
+repository: https://github.com/mario-cossio/Lucidarios
+license: MIT
+doi: https://doi.org/
+keywords:
+  - "semi-paleographic transcriptions"
+  - "digital collatio"
+  - "Sancho IV"
+  - "medieval studies"
+  - "Hispanic Seminary of Medieval Studies"
+  - "Lucidario"
