@@ -37,7 +37,7 @@ How to cite:
 This subfolder contains  materials for the <em>collatio</em> of the <em>Lucidario</em>, a work in progress for a critical edition in preparation. The documents are organized into folders with correlative numbers for each chapter, each containing up to four subfolders: '1. Textos', '2. Colación', '3. Rúbrica', and '4. Edición' (or sometimes '3. Edición').
 
 <ol>
-	<li>Textos: This subfolder contains the original transcriptions (by witness), which are divided into two subfolders: '1. Marcados' and '2. Limpios'.</li>
+	<li>Textos: This subfolder contains the original transcriptions (by witness), which are divided into two subfolders:</li>
 		<ol>
 			<li>Marcados: This folder includes the normalized transcriptions in Ms. Word <em>with</em> the original punctuation, page foliation, and a color code to highlight passages requiring attention. The color code is as follows:</li>
 				<ul>
@@ -45,10 +45,10 @@ This subfolder contains  materials for the <em>collatio</em> of the <em>Lucidari
 					<li>$${\color{orange}Orange}$$: text in Arabic, Hebrew, or Latin or lacunae</li>
 					<li>$${\color{blue}Blue}$$: additions or corrections by medieval hands different from the main scribe(s).</li>
 				</ul>
-			<li>Limpios: This folder contains the normalized transcriptions in Ms. Word <em>without</em> punctuation), foliation, or color coding (and all text previously highlighted in red is now deleted).</li>
+			<li>Limpios: This folder contains the normalized transcriptions in Ms. Word <em>without</em> punctuation, foliation, or color coding (and all text previously highlighted in red is now deleted).</li>
 		</ol>
 	</li>
-	<li>Colación: This subfolder can contain up to two plain text files: 'Chapter Number+_separado', and 'Chapter Number+_unido'. These files are [ChryscoCollate](https://cental.uclouvain.be/chrysocollate/) collation files.</li>
+	<li>Colación: This subfolder can contain up to two plain text files. These files are [ChrysoCollate](https://cental.uclouvain.be/chrysocollate) collation files.</li>
 		<ol>
 			<li>'Chapter Number+_separado': This file contains all collated witnesses with their readings in separate, individual columns.</li>
 			<li>'Chapter Number+_unido': This file contains all collated witnesses with all common readings across witnesses grouped in blocks.</li>
@@ -58,8 +58,8 @@ This subfolder contains  materials for the <em>collatio</em> of the <em>Lucidari
 	<li>Edición (or 3. Edición, when the <em>Rúbrica</em> subfolder is absent): This subfolder contains a single Ms. Word with the exported, edited version of the chapter.</li>
 </ol>
 
-Final Notes
-This is an ongoing process, so not all chapters have all subfolders at this moment, and most 'Edición' do not exist. They will be added as the collation progresses, with an estimated completion time of July 2026.
+<em>Nota Bene</em>
+This work is ongoing, so not all chapters have all subfolders at this moment, and most 'Edición' folders do not exist. They will be added as the collation progresses, with an estimated completion time of July 2026.
 
 **<em>Stylo</em>**
 
@@ -71,4 +71,4 @@ This subfolder contains various scripts for BBEdit, Mac Terminal, and R, along w
 
 <p align="right">MCO</p>
 <p align="right">Last update of Readme.md: March 19, 2025</p>
-
+<p align="right">Latest Release (Lucidarios v. 0.5): March 20, 2025</p>
