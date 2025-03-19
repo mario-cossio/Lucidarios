@@ -1,6 +1,7 @@
 # Lucidarios
 **Repository of witnesses of the <em>Lucidario</em>**
-[![DOI](https://zenodo.org/badge/568264531.svg)](https://doi.org/10.5281/zenodo.7388255)
+.. image:: https://zenodo.org/badge/568264531.svg
+  :target: https://doi.org/10.5281/zenodo.7388255
 
 This is a repository contains transcriptions of the nine witnesses of Sancho IV's <em>Lucidario</em>. The transcriptions are encoded using the [semi-paleographic system](http://www.hispanicseminary.org/manual-en.htm) of the Hispanic Seminary of Medieval Studies, as explained [here](https://lucidarios.hypotheses.org/transcripciones/normas-de-transcripcion):
 
