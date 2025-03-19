@@ -25,8 +25,7 @@ Deletion of Spaces
 [Punctuation]
 (( > —
  )) > —
-
-à > a (except for isolated à > ad)
+à > a
 è > e (except for isolated è > ex)
 ì > i
 ò > o
@@ -41,19 +40,15 @@ v > u (but keep capital V)
 hy > hi (except: physica)
 sy > si (except: symbolum, sibylla)
 ty > ti
+a > ab (when preposition, before vowels and h)
 
-**
+***
 
-ly > li
+[In Progress]
 
 acu- > accu- (verb: accurare)
-cha- > ca-
--cc- > -c-
+foe > fae 
 bas- > vas-
 dy- > di-
 exp- > exsp-
--fl- > -ffl- 
--rr- > -r-
-oppo- > opo-
-scic- > scisc-
-
+ly > li

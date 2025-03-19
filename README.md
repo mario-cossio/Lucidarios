@@ -1,5 +1,6 @@
 # Lucidarios
 **Repository of witnesses of the <em>Lucidario</em>**
+[![DOI](https://zenodo.org/badge/568264531.svg)](https://doi.org/10.5281/zenodo.7388255)
 
 This is a repository contains transcriptions of the nine witnesses of Sancho IV's <em>Lucidario</em>. The transcriptions are encoded using the [semi-paleographic system](http://www.hispanicseminary.org/manual-en.htm) of the Hispanic Seminary of Medieval Studies, as explained [here](https://lucidarios.hypotheses.org/transcripciones/normas-de-transcripcion):
 
@@ -20,16 +21,16 @@ The repository also holds the transcription of the only medieval Spanish transla
 How to cite:
 
 <ol>
-	<li>Cossío Olavide, Mario (2023). "<em>Lucidario</em>, witness A (Biblioteca Nacional de España, ms. 3369), semi-paleographic transcription". <em>Lucidarios, v. 0.5</em>, https://doi.org/10.5281/zenodo.10819485, date of access.</li>
-	<li>Cossío Olavide, Mario (2024). "<em>Lucidario</em>, witness B (Biblioteca General Histórica de la Universidad de Salamanca, ms. 1958), semi-paleographic transcription". <em>Lucidarios, v. 0.5</em>, https://doi.org/10.5281/zenodo.10819485, date of access.</li>
-	<li>Cossío Olavide, Mario (2022). "<em>Lucidario</em>, witness C (Real Biblioteca, ms. II/793), semi-paleographic transcription". <em>Lucidarios, v. 0.5</em>, https://doi.org/10.5281/zenodo.10819485,  .</li>
-	<li>Cossío Olavide, Mario (2022). "<em>Lucidario</em>, witness D (Real Academia Española, ms. 15), semi-paleographic transcription". <em>Lucidarios, v. 0.5</em>, https://doi.org/10.5281/zenodo.10819485, date of access.</li>
-	<li>Cossío Olavide, Mario (2022). "<em>Lucidario</em>, witness E (Biblioteca Nacional de España, ms. 6958), semi-paleographic transcription". <em>Lucidarios, v. 0.5</em>, https://doi.org/10.5281/zenodo.10819485, date of access.</li>
-	<li>Cossío Olavide, Mario (2025). "<em>Lucidario</em>, witness F (Biblioteca General Histórica de la Universidad de Salamanca, ms. 2401), semi-paleographic transcription". <em>Lucidarios, v. 0.5</em>, https://doi.org/10.5281/zenodo.10819485, date of access.</li>
-	<li>Cossío Olavide, Mario (2022). "<em>Lucidario</em>, witness G (Real Academia de la Historia, ms. 101), semi-paleographic transcription". <em>Lucidarios, v. 0.5</em>, https://doi.org/10.5281/zenodo.10819485, date of access.</li>
-	<li>Cossío Olavide, Mario (2022). "<em>Lucidario</em>, witness H (Bibliothèque patrimonial Villon, ms. A283), semi-paleographic transcription". <em>Lucidarios, v. 0.5</em>, https://doi.org/10.5281/zenodo.10819485, date of access.</li>
-	<li>Cossío Olavide, Mario (2023). "<em>Lucidario</em>, witness I (Biblioteca de la Fundación Bartolomé March Servera, ms. MA26-5-07), semi-paleographic transcription". <em>Lucidarios, v. 0.5</em>, https://doi.org/10.5281/zenodo.10819485, date of access.</li>
-	<li>Cossío Olavide, Mario (2021). "<em>Lucidario romanceado</em> (Biblioteca Histórica Marqués de Valdecilla, Universidad Complutense de Madrid, ms. 148), semi-paleographic transcription". <em>Lucidarios, v. 0.5</em>, https://doi.org/10.5281/zenodo.10819485, date of access.</li>
+	<li>Cossío Olavide, Mario (2023). "<em>Lucidario</em>, witness A (Biblioteca Nacional de España, ms. 3369), semi-paleographic transcription". <em>Lucidarios, v. 0.5</em>, https://doi.org/10.5281/zenodo.7388255, date of access.</li>
+	<li>Cossío Olavide, Mario (2024). "<em>Lucidario</em>, witness B (Biblioteca General Histórica de la Universidad de Salamanca, ms. 1958), semi-paleographic transcription". <em>Lucidarios, v. 0.5</em>, https://doi.org/10.5281/zenodo.7388255, date of access.</li>
+	<li>Cossío Olavide, Mario (2022). "<em>Lucidario</em>, witness C (Real Biblioteca, ms. II/793), semi-paleographic transcription". <em>Lucidarios, v. 0.5</em>, https://doi.org/10.5281/zenodo.7388255, date of access.</li>
+	<li>Cossío Olavide, Mario (2022). "<em>Lucidario</em>, witness D (Real Academia Española, ms. 15), semi-paleographic transcription". <em>Lucidarios, v. 0.5</em>, https://doi.org/10.5281/zenodo.7388255, date of access.</li>
+	<li>Cossío Olavide, Mario (2022). "<em>Lucidario</em>, witness E (Biblioteca Nacional de España, ms. 6958), semi-paleographic transcription". <em>Lucidarios, v. 0.5</em>, https://doi.org/10.5281/zenodo.7388255, date of access.</li>
+	<li>Cossío Olavide, Mario (2025). "<em>Lucidario</em>, witness F (Biblioteca General Histórica de la Universidad de Salamanca, ms. 2401), semi-paleographic transcription". <em>Lucidarios, v. 0.5</em>, https://doi.org/10.5281/zenodo.7388255, date of access.</li>
+	<li>Cossío Olavide, Mario (2022). "<em>Lucidario</em>, witness G (Real Academia de la Historia, ms. 101), semi-paleographic transcription". <em>Lucidarios, v. 0.5</em>, https://doi.org/10.5281/zenodo.7388255, date of access.</li>
+	<li>Cossío Olavide, Mario (2022). "<em>Lucidario</em>, witness H (Bibliothèque patrimonial Villon, ms. A283), semi-paleographic transcription". <em>Lucidarios, v. 0.5</em>, https://doi.org/10.5281/zenodo.7388255, date of access.</li>
+	<li>Cossío Olavide, Mario (2023). "<em>Lucidario</em>, witness I (Biblioteca de la Fundación Bartolomé March Servera, ms. MA26-5-07), semi-paleographic transcription". <em>Lucidarios, v. 0.5</em>, https://doi.org/10.5281/zenodo.7388255, date of access.</li>
+	<li>Cossío Olavide, Mario (2021). "<em>Lucidario romanceado</em> (Biblioteca Histórica Marqués de Valdecilla, Universidad Complutense de Madrid, ms. 148), semi-paleographic transcription". <em>Lucidarios, v. 0.5</em>, https://doi.org/10.5281/zenodo.7388255, date of access.</li>
 </ol>
 
 **<em>Collatio</em>**
@@ -48,7 +49,7 @@ This subfolder contains  materials for the <em>collatio</em> of the <em>Lucidari
 			<li>Limpios: This folder contains the normalized transcriptions in Ms. Word <em>without</em> punctuation, foliation, or color coding (and all text previously highlighted in red is now deleted).</li>
 		</ol>
 	</li>
-	<li>Colación: This subfolder can contain up to two plain text files. These files are [ChrysoCollate](https://cental.uclouvain.be/chrysocollate) collation files.</li>
+	<li>Colación: This subfolder can contain up to two plain text files. These files are ChrysoCollate (https://cental.uclouvain.be/chrysocollate) collation files.</li>
 		<ol>
 			<li>'Chapter Number+_separado': This file contains all collated witnesses with their readings in separate, individual columns.</li>
 			<li>'Chapter Number+_unido': This file contains all collated witnesses with all common readings across witnesses grouped in blocks.</li>

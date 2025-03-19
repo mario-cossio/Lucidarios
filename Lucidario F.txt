@@ -12,7 +12,7 @@ serenissimi Regis Cas-
 tellae et Legionis D<omi>ni
 Sanctij Fortis cogno-
 mento filij Regis
-D<ominus> Alfonsi Sapi-
+D<omini> Alfonsi Sapi-
 entis.}
 {IN1.} Auctore ipso Rege Sanctio secum ipso
 meditante et confabulante sub
@@ -30,7 +30,7 @@ Iesu.}}
 {LAT. {RUB. ELVCIDARIVM SERENIS-
 simi Regis Castellae et Legionis D<omini>
 Sanctij Fortis cognomento, filij Regis
-D<ominus> Alfonsi Sapientis
+D<omini> Alfonsi Sapientis
 AVCTORE IPSO REGE SANCTIO
 secum ipso meditante et confabulante sub
 Doctoris et Auditoris
@@ -65,7 +65,7 @@ tuam. Itaque actutum postulare [^2#ex]ordiar. Rogo igitur, +}
 {LAT. quaenam prior res, quae in coelis et terra est. Respondit Ma-
 gister, probe interrogasti, morem perhibenter geram.
 {RUB. Titulus 1. Quid sit primum in coelis, et terra?}
-{IN1.} Scias rerum omnium antelatum, et priorem Numen esse, quod indicare
+{IN1.} Scias rerum omnium antelatam, et priorem Numen esse, quod indicare
 ex Theologia lubet., quam scientiam profiteor ipse, atque etiam ex
 naturali cognitione, quam doctrinam ipse mendicasti alienis acade-
 mijs, quas triuisti, et primum ex Theologia mystica exordiar. hostiam
@@ -167,7 +167,7 @@ ras perfluunt è mari originem capiunt, illucque regrediuntur.
 ita sol fulgorem mutuatur adeo, et quemadmodum radios demit-
 tit, vt terrenas plagas purpurent., sic alij velut scandunt coram
 conspectu diuino, quod (^2#aexsuprant) [^2#expostulent] ex eius splendore, plus minusue, pro-
-ut dispensare placuerit. quin adeo mera et defaecata solaris
+ut dispensare placuerit. quin adeo mera et defoecata solaris
 claritudo est, vt reliquae coram minimè scintillent, nec com-pareant. +}
 {CW. pa}}
 [fol. 36r]
@@ -489,7 +489,7 @@ et denique locorum vbique: nam vbi creaturae resident, et opera ab
 ipso procurata, inibi quoque adest; ea enim potentia eius immen-
 sa est, vt omnia foueat, et prouideat affatim, quod ipse vtiq<ue>
 conspicaberis; neque enim ignoras, quod si ille quodam in loco
-tantum esse, non alibi, nec vbique; in eo quo adesset loco cir-
+tantum esset, non alibi, nec vbique; in eo quo adesset loco cir-
 cunscriberetur. Alia porro spatia vacua liquisset, et quia ipse om-
 nia est, ideo omnem locum fouet et sustentat. Verum est san-
 ctos sedem Dei vocasse nouum coelum; quia ibi Dei visione fruan-
