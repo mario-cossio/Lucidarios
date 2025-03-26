@@ -25,7 +25,8 @@ Deletion of Spaces
 [Punctuation]
 (( > —
  )) > —
-à > a
+à > a (when preposition before vowels and h > ab)
+a > ab (when preposition, before vowels and h)
 è > e (except for isolated è > ex)
 ì > i
 ò > o
@@ -37,18 +38,15 @@ Deletion of Spaces
 û > u
 j > i
 v > u (but keep capital V)
-hy > hi (except: physica)
-sy > si (except: symbolum, sibylla)
-ty > ti
-a > ab (when preposition, before vowels and h)
-
+y > i (except in Greek loans)
+i > y (only Sybilla > Sibylla)
+acu- > accu- (accuro)
+cc > c (when needed)
+oe > ae (coelo)
+p  > pp (suplicium)
 ***
 
-[In Progress]
 
-acu- > accu- (verb: accurare)
 foe > fae 
 bas- > vas-
-dy- > di-
 exp- > exsp-
-ly > li
