@@ -43,7 +43,10 @@ i > y (only Sybilla > Sibylla)
 acu- > accu- (accuro)
 cc > c (when needed)
 oe > ae (coelo)
-p  > pp (suplicium)
+p  > pp (suplicium > supplicium)
+t > tt (quatuor > quattuor)
+oe > e (foemina, foetus)
+oe > ae (defoecata > defaecata)
 ***
 
 
