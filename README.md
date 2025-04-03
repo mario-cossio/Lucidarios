@@ -50,7 +50,7 @@ This subfolder contains  materials for the <em>collatio</em> of the <em>Lucidari
 			<li>`Stylo`: This folder contains the normalized transcriptions in plain text format for stylometric analysis. All problematic passages (e.g., those containing question marks for unresolved characters or Latin quotes) have been resolved or removed.</li>
 		</ol>
 	</li>
-	<li>`*Colación*`: This subfolder can contain up to five plain text files, which are versioned **ChrysoCollate** collation files (https://cental.uclouvain.be/chrysocollate):</li>
+	<li><strong><code>Colación</code></strong>: This subfolder can contain up to five plain text files, which are versioned **ChrysoCollate** collation files (https://cental.uclouvain.be/chrysocollate):</li>
 		<ol>
 			<li>`Chapter Number+_separado`: This version contains all collated witnesses with their readings in separate, individual columns. There is no attempt to align witnesses that have extrapolated passages or additions not sustained by the rest of the tradition.</li>
 			<li>`Chapter Number+_revisado`: Similar to `_separado`, but if the chapter is transmitted by witness D, all its extrapolations and additions are deleted and registered as notes. The rest of the text remains unchanged.</li>
@@ -59,8 +59,8 @@ This subfolder contains  materials for the <em>collatio</em> of the <em>Lucidari
 			<li>`Chapter Number+_editado`: This version contains the edited chapter (which may still be in progress).</li>
 		</ol>
 	</li>
-	<li>`*Rúbrica*`: This subfolder contains a single Ms. Word document named `Rubrica+Chapter Number`, where all rubrics extracted from the chapters are compiled. If this subfolder does not exist, the chapter does not have a rubric in any of the witnesses. The document contains the definite (collated) title for the chapter, a complete list of the rubrics for the chapter found in each witness (including those from tables of contents) and from the Latin translation.</li>
-	<li>`*Edición*` (or `*3. Edición*`, when the `*Rúbrica*` subfolder is absent): This subfolder contains up to two Ms. Word files:
+	<li><strong><code>Rúbrica</code></strong>: This subfolder contains a single Ms. Word document named `Rubrica+Chapter Number`, where all rubrics extracted from the chapters are compiled. If this subfolder does not exist, the chapter does not have a rubric in any of the witnesses. The document contains the definite (collated) title for the chapter, a complete list of the rubrics for the chapter found in each witness (including those from tables of contents) and from the Latin translation.</li>
+	<li><strong><code>Edición</code></strong> (or <strong><code>3. Edición</code></strong>, when the <strong><code>Rúbrica</code></strong> subfolder is absent): This subfolder contains up to two Ms. Word files:
 		<ol>
 			<li>`Chapter Number_inicial`: This is the initial collated chapter without punctuation, capitalization, or other text normalization, but with a complete critical apparatus in footnotes.</li>
 			<li>`Chapter Number-F`: The collated chapter of the Latin translation, *F*, formatted according to editorial norms for classical Latin. In addition, red, italics and strikethrough ($${\color{red}*<s>text</s>*}$$) is used to mark editorial deletions by J.E. Nieremberg, and blue to mark $${\color{blue}text}$$ added by Nieremberg in the manuscript.</li>
@@ -72,7 +72,7 @@ This subfolder contains  materials for the <em>collatio</em> of the <em>Lucidari
 
 ***Stylo***
 
-This subfolder contains plain text files for stylometric analysis, organized by witness. The `Enteros` subfolder contains the same files as `3. Stylo` in the `*2. Colación*` folder. The main folder contains a single plain text document with the complete witness.
+This subfolder contains plain text files for stylometric analysis, organized by witness. The `Enteros` subfolder contains the same files as `3. Stylo` in the <strong><code>2. Colación</code></strong> folder. The main folder contains a single plain text document with the complete witness.
 
 The chapters do not always follow their original manuscript order; instead, they are arranged according to the reconstructed *original* order intended for the edition. Passages in other languages (Latin, Hebrew, or Arabic) and scribal deletions have been excluded to prevent stylistic contamination. *This folder is not currently updated but will be as the process continues.*
 
