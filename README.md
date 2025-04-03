@@ -40,30 +40,30 @@ This subfolder contains  materials for the <em>collatio</em> of the <em>Lucidari
 <ol>
 	<li><strong><code>Textos</code></strong>: This subfolder includes the transcriptions (organized by witness) of each chapter of the <em>Lucidario</em>, divided into three subfolders:</li>
 		<ol>
-			<li>`Marcados`: This folder includes the normalized transcriptions in Ms. Word <em>with</em> the original punctuation, page foliation, and a color code to highlight passages requiring editorial attention. If applicable, it also contains the transcription of the Latin translation, <em>F</em>. The color code is as follows:</li>
+			<li><code>Marcados</code>: This folder includes the normalized transcriptions in Ms. Word <em>with</em> the original punctuation, page foliation, and a color code to highlight passages requiring editorial attention. If applicable, it also contains the transcription of the Latin translation, <em>F</em>. The color code is as follows:</li>
 				<ul>
-					<li>$${\color{red}Red}$$: Duplications or errors identified by the scribe (s), but not cancelled. Fully cancelled text is deleted from this version, and registered in the original semi-paleographic transcription file for the witness.</li>
+					<li>$${\color{red}Red}$$: Duplications or errors identified by the scribe(s), but not cancelled. Fully cancelled text is deleted from this version, and registered in the original semi-paleographic transcription file for the witness.</li>
 					<li>$${\color{orange}Orange}$$: Text in Arabic, Hebrew, or Latin, or <em>lacunae</em>.</li>
 					<li>$${\color{blue}Blue}$$: Additions or corrections made by medieval hands other from the main scribe(s).</li>
 				</ul>
-			<li>`Limpios`: This folder contains the normalized transcriptions in Ms. Word <em>without</em> punctuation, foliation, or color coding. All text previously highlighted in red has been removed.</li>
-			<li>`Stylo`: This folder contains the normalized transcriptions in plain text format for stylometric analysis. All problematic passages (e.g., those containing question marks for unresolved characters or Latin quotes) have been resolved or removed.</li>
+			<li><code>Limpios</code>: This folder contains the normalized transcriptions in Ms. Word <em>without</em> punctuation, foliation, or color coding. All text previously highlighted in red has been removed.</li>
+			<li><code>Stylo</code>: This folder contains the normalized transcriptions in plain text format for stylometric analysis. All problematic passages (e.g., those containing question marks for unresolved characters or Latin quotes) have been resolved or removed.</li>
 		</ol>
 	</li>
 	<li><strong><code>Colación</code></strong>: This subfolder can contain up to five plain text files, which are versioned <strong>ChrysoCollate</strong> collation files (https://cental.uclouvain.be/chrysocollate):</li>
 		<ol>
-			<li>`Chapter Number+_separado`: This version contains all collated witnesses with their readings in separate, individual columns. There is no attempt to align witnesses that have extrapolated passages or additions not sustained by the rest of the tradition.</li>
-			<li>`Chapter Number+_revisado`: Similar to `_separado`, but if the chapter is transmitted by witness D, all its extrapolations and additions are deleted and registered as notes. The rest of the text remains unchanged.</li>
-			<li>`Chapter Number+_limpio`: This version contains all collated witnesses with their readings in separate, but all additions and extrapolations not supported by the tradition are deleted and recorded as notes.</li>
-			<li>`Chapter Number+_unido`: This version is identical to `_limpio`, except all shared readings are displayed in joined columns.</li>
-			<li>`Chapter Number+_editado`: This version contains the edited chapter (which may still be in progress).</li>
+			<li><code>Chapter Number+_separado</code>: This version contains all collated witnesses with their readings in separate, individual columns. There is no attempt to align witnesses that have extrapolated passages or additions not sustained by the rest of the tradition.</li>
+			<li><code>Chapter Number+_revisado</code>: Similar to <code>_separado</code>, but if the chapter is transmitted by witness D, all its extrapolations and additions are deleted and registered as notes. The rest of the text remains unchanged.</li>
+			<li><code>Chapter Number+_limpio</code>: This version contains all collated witnesses with their readings in separate, but all additions and extrapolations not supported by the tradition are deleted and recorded as notes.</li>
+			<li><code>Chapter Number+_unido</code>: This version is identical to <code>_limpio</code>, except all shared readings are displayed in joined columns.</li>
+			<li><code>Chapter Number+_editado</code>: This version contains the edited chapter (which may still be in progress).</li>
 		</ol>
 	</li>
-	<li><strong><code>Rúbrica</code></strong>: This subfolder contains a single Ms. Word document named `Rubrica+Chapter Number`, where all rubrics extracted from the chapters are compiled. If this subfolder does not exist, the chapter does not have a rubric in any of the witnesses. The document contains the definite (collated) title for the chapter, a complete list of the rubrics for the chapter found in each witness (including those from tables of contents) and from the Latin translation.</li>
+	<li><strong><code>Rúbrica</code></strong>: This subfolder contains a single Ms. Word document named <code>Rubrica+Chapter Number</code>, where all rubrics extracted from the chapters are compiled. If this subfolder does not exist, the chapter does not have a rubric in any of the witnesses. The document contains the definite (collated) title for the chapter, a complete list of the rubrics for the chapter found in each witness (including those from tables of contents) and from the Latin translation.</li>
 	<li><strong><code>Edición</code></strong> (or <strong><code>3. Edición</code></strong>, when the <strong><code>Rúbrica</code></strong> subfolder is absent): This subfolder contains up to two Ms. Word files:
 		<ol>
-			<li>`Chapter Number_inicial`: This is the initial collated chapter without punctuation, capitalization, or other text normalization, but with a complete critical apparatus in footnotes.</li>
-			<li>`Chapter Number-F`: The collated chapter of the Latin translation, <em>F</em>, formatted according to editorial norms for classical Latin. In addition, red, italics and strikethrough <em><s>$${\color{red}text}$$</em></s> is used to mark editorial deletions by J.E. Nieremberg, and blue to mark $${\color{blue}text}$$ added by Nieremberg in the manuscript.</li>
+			<li><code>Chapter Number_inicial</code>: This is the initial collated chapter without punctuation, capitalization, or other text normalization, but with a complete critical apparatus in footnotes.</li>
+			<li><code>Chapter Number-F</code>: The collated chapter of the Latin translation, <em>F</em>, formatted according to editorial norms for classical Latin. In addition, red, italics and strikethrough text is used to mark editorial deletions by J.E. Nieremberg, and blue to mark text added by Nieremberg in the manuscript.</li>
 		</ol>
 	</li>
 </ol>
