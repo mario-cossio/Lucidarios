@@ -18,7 +18,7 @@ This is a repository contains transcriptions of the nine witnesses of Sancho IV'
 
 The repository also holds the transcription of the only medieval Spanish translation of Honorius Augustodunensis' <em>Elucidarium</em>, the <em>Lucidario romanceado</em>, preserved in the Biblioteca Histórica Marqués de Valdecilla of the Universidad Complutense de Madrid, ms. 148. The edition of this text was published in <em>Incipit</em> [issue 41](http://www.iibicrit-conicet.gov.ar/ojs/index.php/incipit/article/view/541).
 
-How to cite:
+*How to cite*:
 
 <ol>
 	<li>Cossío Olavide, Mario (2023). "<em>Lucidario</em>, witness A (Biblioteca Nacional de España, ms. 3369), semi-paleographic transcription". <em>Lucidarios, v. 0.5</em>, https://doi.org/10.5281/zenodo.7388255, date of access.</li>
@@ -33,43 +33,53 @@ How to cite:
 	<li>Cossío Olavide, Mario (2021). "<em>Lucidario romanceado</em> (Biblioteca Histórica Marqués de Valdecilla, Universidad Complutense de Madrid, ms. 148), semi-paleographic transcription". <em>Lucidarios, v. 0.5</em>, https://doi.org/10.5281/zenodo.7388255, date of access.</li>
 </ol>
 
-**<em>Collatio</em>**
+***Collatio***
 
-This subfolder contains  materials for the <em>collatio</em> of the <em>Lucidario</em>, a work in progress for a critical edition in preparation. The documents are organized into folders with correlative numbers for each chapter, each containing up to four subfolders: '1. Textos', '2. Colación', '3. Rúbrica', and '4. Edición' (or sometimes '3. Edición').
+This subfolder contains  materials for the <em>collatio</em> of the <em>Lucidario</em>, a work in progress for a critical edition in preparation. The documents are organized into folders with correlative numbers for each chapter, each containing up to four subfolders: `1. Textos`, `2. Colación`, `3. Rúbrica`, and `4. Edición` (or sometimes `3. Edición`).
 
 <ol>
-	<li>Textos: This subfolder contains the original transcriptions (by witness), which are divided into two subfolders:</li>
+	<li>`*Textos*`: This subfolder includes the transcriptions (organized by witness) of each chapter of the *Lucidario*, divided into three subfolders:</li>
 		<ol>
-			<li>Marcados: This folder includes the normalized transcriptions in Ms. Word <em>with</em> the original punctuation, page foliation, and a color code to highlight passages requiring attention. The color code is as follows:</li>
+			<li>`Marcados`: This folder includes the normalized transcriptions in Ms. Word *with* the original punctuation, page foliation, and a color code to highlight passages requiring editorial attention. If applicable, it also contains the transcription of the Latin translation, *F*. The color code is as follows:</li>
 				<ul>
-					<li>$${\color{red}Red}$$: duplications or errors identified by the scribes (but not cancelled)</li>
-					<li>$${\color{orange}Orange}$$: text in Arabic, Hebrew, or Latin or lacunae</li>
-					<li>$${\color{blue}Blue}$$: additions or corrections by medieval hands different from the main scribe(s).</li>
+					<li>$${\color{red}Red}$$: Duplications or errors identified by the scribe (s), but not cancelled. Fully cancelled text is deleted from this version, and registered in the original semi-paleographic transcription file for the witness.</li>
+					<li>$${\color{orange}Orange}$$: Text in Arabic, Hebrew, or Latin, or *lacunae*.</li>
+					<li>$${\color{blue}Blue}$$: Additions or corrections made by medieval hands other from the main scribe(s).</li>
 				</ul>
-			<li>Limpios: This folder contains the normalized transcriptions in Ms. Word <em>without</em> punctuation, foliation, or color coding (and all text previously highlighted in red is now deleted).</li>
+			<li>`Limpios`: This folder contains the normalized transcriptions in Ms. Word *without* punctuation, foliation, or color coding. All text previously highlighted in red has been removed.</li>
+			<li>`Stylo`: This folder contains the normalized transcriptions in plain text format for stylometric analysis. All problematic passages (e.g., those containing question marks for unresolved characters or Latin quotes) have been resolved or removed.</li>
 		</ol>
 	</li>
-	<li>Colación: This subfolder can contain up to two plain text files. These files are ChrysoCollate (https://cental.uclouvain.be/chrysocollate) collation files.</li>
+	<li>`*Colación*`: This subfolder can contain up to five plain text files, which are versioned **ChrysoCollate** collation files (https://cental.uclouvain.be/chrysocollate):</li>
 		<ol>
-			<li>'Chapter Number+_separado': This file contains all collated witnesses with their readings in separate, individual columns.</li>
-			<li>'Chapter Number+_unido': This file contains all collated witnesses with all common readings across witnesses grouped in blocks.</li>
+			<li>`Chapter Number+_separado`: This version contains all collated witnesses with their readings in separate, individual columns. There is no attempt to align witnesses that have extrapolated passages or additions not sustained by the rest of the tradition.</li>
+			<li>`Chapter Number+_revisado`: Similar to `_separado`, but if the chapter is transmitted by witness D, all its extrapolations and additions are deleted and registered as notes. The rest of the text remains unchanged.</li>
+			<li>`Chapter Number+_limpio`: This version contains all collated witnesses with their readings in separate, but all additions and extrapolations not supported by the tradition are deleted and recorded as notes.</li>
+			<li>`Chapter Number+_unido`: This version is identical to `_limpio`, except all shared readings are displayed in joined columns.</li>
+			<li>`Chapter Number+_editado`: This version contains the edited chapter (which may still be in progress).</li>
 		</ol>
 	</li>
-	<li>Rúbrica: All rubrics have been extracted from the chapters and compiled into separate Ms. Word documents named 'Rúbrica + Chapter Number', located in the folder. If this subfolder does not exist, the chapter does not have a rubric in any of the witnesses. The document in this folder contains the definite (collated) title for the chapter, along with a complete listing of the rubrics found in each witness (including those from a table of contents, if applicable).</li>
-	<li>Edición (or 3. Edición, when the <em>Rúbrica</em> subfolder is absent): This subfolder contains a single Ms. Word with the exported, edited version of the chapter.</li>
+	<li>`*Rúbrica*`: This subfolder contains a single Ms. Word document named `Rubrica+Chapter Number`, where all rubrics extracted from the chapters are compiled. If this subfolder does not exist, the chapter does not have a rubric in any of the witnesses. The document contains the definite (collated) title for the chapter, a complete list of the rubrics for the chapter found in each witness (including those from tables of contents) and from the Latin translation.</li>
+	<li>`*Edición*` (or `*3. Edición*`, when the `*Rúbrica*` subfolder is absent): This subfolder contains up to two Ms. Word files:
+		<ol>
+			<li>`Chapter Number_inicial`: This is the initial collated chapter without punctuation, capitalization, or other text normalization, but with a complete critical apparatus in footnotes.</li>
+			<li>`Chapter Number-F`: The collated chapter of the Latin translation, *F*, formatted according to editorial norms for classical Latin. In addition, red, italics and strikethrough ($${\color{red}*<s>text</s>*}$$) is used to mark editorial deletions by J.E. Nieremberg, and blue to mark $${\color{blue}text}$$ added by Nieremberg in the manuscript.</li>
+		</ol>
+	</li>
 </ol>
 
-<em>Nota Bene</em>
-This work is ongoing, so not all chapters have all subfolders at this moment, and most 'Edición' folders do not exist. They will be added as the collation progresses, with an estimated completion time of July 2026.
+*Nota Bene*: This work is ongoing, so not all chapters currently have all subfolders or files. They will be added progressively as the collation advances, with an estimated completion date of July 2026.
 
-**<em>Stylo</em>**
+***Stylo***
 
-This subfolder contains plain text files for stylometric analysis, separated by witness. 'Enteros' contains the same files as '2. Limpios' in the '2. Colación' folder, but in .txt format. 'Limpios' here excludes Latin passages to minimize stylistic contamination. Each witness folder also contains a full transcription, excluding duplicate pasages, Arabic, Hebrew, or Latin quotes, page numbers, and rubrics. A separate text file has been created for the rubrics of each witness.
+This subfolder contains plain text files for stylometric analysis, organized by witness. The `Enteros` subfolder contains the same files as `3. Stylo` in the `*2. Colación*` folder. The main folder contains a single plain text document with the complete witness.
 
-**<em>Scripts</em>**
+The chapters do not always follow their original manuscript order; instead, they are arranged according to the reconstructed *original* order intended for the edition. Passages in other languages (Latin, Hebrew, or Arabic) and scribal deletions have been excluded to prevent stylistic contamination. *This folder is not currently updated but will be as the process continues.*
+
+**Scripts**
 
 This subfolder contains various scripts for BBEdit, Mac Terminal, and R, along with a set of normalization criteria developed for the collatio of semi-paleographic transcriptions of medieval Spanish and Neo-Latin texts.
 
 <p align="right">MCO</p>
-<p align="right">Last update of Readme.md: March 19, 2025</p>
+<p align="right">Last update of Readme.md: April 3, 2025</p>
 <p align="right">Latest Release (Lucidarios v. 0.5): March 20, 2025</p>

@@ -1,4 +1,10 @@
-Useful Mac OS terminal commands
+Useful macOS Terminal Commands
 
-textutil -convert txt #use to batch convert Word documents (doc or docx) to txt. Drag and drop the files after the command or indicate the path (i.e., ~/Desktop/Folder/*.docx) and hit enter.
-find . -type f -name '*' -exec mv -n '{}' . \; #moves all files in subfolders to the parent folder
+# textutil
+# A native macOS utility that allows quick conversion between text formats (from/to TXT, HTML, RTF, DOC/DOCX, ORD).
+ 
+textutil -convert txt 
+
+# This command converts any supported format to plain text (TXT). Drag and drop files after the command or specify the path (e.g., ~/Desktop/Folder/*.docx), then press Enter.
+
+find . -type f -name '*' -exec mv -n '{}' . \; # This command moves all files from subdirectories to the current directory without overwriting existing files.
