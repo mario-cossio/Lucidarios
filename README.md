@@ -38,7 +38,7 @@ The repository also holds the transcription of the only medieval Spanish transla
 This subfolder contains  materials for the <em>collatio</em> of the <em>Lucidario</em>, a work in progress for a critical edition in preparation. The documents are organized into folders with correlative numbers for each chapter, each containing up to four subfolders: `1. Textos`, `2. Colación`, `3. Rúbrica`, and `4. Edición` (or sometimes `3. Edición`).
 
 <ol>
-	<li>`*Textos*`: This subfolder includes the transcriptions (organized by witness) of each chapter of the *Lucidario*, divided into three subfolders:</li>
+	<li>*`Textos`*: This subfolder includes the transcriptions (organized by witness) of each chapter of the *Lucidario*, divided into three subfolders:</li>
 		<ol>
 			<li>`Marcados`: This folder includes the normalized transcriptions in Ms. Word *with* the original punctuation, page foliation, and a color code to highlight passages requiring editorial attention. If applicable, it also contains the transcription of the Latin translation, *F*. The color code is as follows:</li>
 				<ul>
