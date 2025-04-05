@@ -2,13 +2,18 @@ Normalization Criteria for Neo-Latin Texts
 
 These are suggested criteria for the normalization (not modernization!) of Neo-Latin texts to facilitate their collation and comparison.
 
-The processes described in this document include the regularization of vowels and consonants according to modern norms for editing classical Latin (j > i, v > u), as well as the deletion of diacritic accents used in Neo-Latin—such as the circumflex, which differentiates the ablative from the nominative/accusative (eâdem/eadem, quâ/qua), and adjectives/adverbs from pronouns (illô/illo, nullô/nullo, quî/qui). Grave accents, which are used to mark the prepositions a (ad) and e (ex) to avoid assimilation (à medulla, è sole), as well as to mark adverbs (blandè, facilè, imò, modestissimè, porrò), are also to be removed.
+The processes described in this document include the regularization of vowels and consonants according to modern norms for editing classical
+Latin (j > i, v > u), as well as the deletion of diacritic accents used in Neo-Latin—such as the circumflex, which differentiates the ablative
+from the nominative/accusative (eâdem/eadem, quâ/qua), and adjectives/adverbs from pronouns (illô/illo, nullô/nullo, quî/qui). Grave accents, which
+are used to mark the prepositions a (ad) and e (ex) to avoid assimilation (à medulla, è sole), as well as to mark adverbs (blandè, facilè, imò, modestissimè,
+porrò), are also to be removed.
 
 [Last Updated: April 6, 2025]
 
 Basic Graphic Normalization (Some of these replacements should be performed multiple times, as the base text will change after each iteration.)
 
-Delete all <, >, {RUB.}, {LAT.}, {HD.}, {AD.}, {CW.}, {GL.}, {CB1.}, {CB2.}, {IN.} [+], (^), [^], (), [], or any other encoding marks. Replace them with the appropriate convention (e.g., use colors, apply strikethrough for deletions, or delete the text outright, etc.)
+Delete all <, >, {RUB.}, {LAT.}, {HD.}, {AD.}, {CW.}, {GL.}, {CB1.}, {CB2.}, {IN.} [+], (^), [^], (), [], or any other encoding marks. Replace them with
+the appropriate convention (e.g., use colors, apply strikethrough for deletions, or delete the text outright, etc.)
 
 General Cleanup
 Original value > Replaced value
