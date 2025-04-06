@@ -1,6 +1,6 @@
-Normalization Criteria for Collating Spanish Medieval Texts
+Pre-Collation Normalization Criteria for Spanish Medieval Texts
 
-These are suggested criteria for the normalization (not modernization!) of Spanish medieval texts to facilitate their collation.
+These are suggested criteria for the normalization (not modernization!) of Spanish medieval texts to facilitate prior to collation.
 
 They are by no means exhaustive—rather, they are continuously revised—and they rely on examples taken from the vocabulary of Sancho IV's
 Lucidario, transcribed according to the Hispanic Seminary of Medieval Studies' transcription guidelines, as proposed in David Mackenzie's
@@ -8,28 +8,30 @@ Lucidario, transcribed according to the Hispanic Seminary of Medieval Studies' t
 
 The processes described in this document include:
 
-— The regularization of vowels and consonants according to their phonetic value (v ~ u, i ~ j ~ y, and geminate consonants at the
-beginning of words).
-— The separation of words written in a single stroke but consisting of two independent syntactic units (e.g., article + verb,
-pronoun + article). More complex cases include: proclitic pronouns + verbs, verbs + enclitic pronouns, and the clitics and auxiliaries
-of analytic futures and conditionals.
+— The regularization of vowels and consonants according to their phonetic value (u~v, i~j~y, and geminate consonants at the
+beginning of words, ff-, ss-, rr-).
+— The separation of words written in a single stroke but consisting of two independent syntactic units, especially when this obscures
+an apocopated form or syntactic distinction (e.g., article + verb, pronoun + article). More complex cases include: proclitic pronouns + verbs,
+verbs + enclitic pronouns, and the clitics and auxiliaries of analytic futures and conditionals.
 — The use of capital letters to distinguish proper nouns.
-— The joining of words written in two strokes but forming a single unit
+— The joining of words written in two strokes but forming a single unit.
 
-These minor alterations aim to facilitate the process of comparing and contrasting different witnesses of a work using automated collation
-software (in this case, ChrysoCollate, available here: https://cental.uclouvain.be/chrysocollate/).
+These minor normalization operations aim to facilitate the process of comparing and contrasting different witnesses of the same work using automated collation
+software (in this case, ChrysoCollate, available here: https://cental.uclouvain.be/chrysocollate/). They can be converted into a script ruleset or regex pattern
+to facilitate their implementation (however, replacement should always be supervised, as mistakes will happen.) 
 
-This approach is expands several scripts developed by José Manuel Fradejas Rueda for normalizing transcriptions of the Siete Partidas corpus,
+This approach builds upon several scripts developed by José Manuel Fradejas Rueda for normalizing transcriptions of the Siete Partidas corpus,
 available here: https://github.com/7PartidasDigital/XML-TEI/tree/master/scripts.
 
-[Last Updated: March 3, 2025]
+[Last Updated: April 7, 2025]
 
 Basic Graphic Normalization (Some of these replacements should be performed multiple times, as the base text will change after each iteration.
-For example, if aui > avi is applied first and later uj > ui, new instances of aui may appear and require further normalization.)
+For example, if aui > avi is applied first and later uj > ui, new instances of 'aui' may appear and require further normalization.)
 
-# original value > # replaced value
 Delete all <, >, {RUB.}, {LAT.}, {HD.}, {AD.}, {CW.}, {GL.}, {CB1.}, {CB2.}, {IN.} [+], (^), [^], (), [],  or any other encoding marks. Replace them
-with the appropriate convention (e.g., use colors, apply strikethrough for deletions or delete the text, etc.)
+with the appropriate convention (e.g., use colors, apply strikethrough for deletions, delete the text ouright, etc.)
+
+Original value > Replaced value
 
 / > .
 , > .
@@ -48,11 +50,9 @@ bj > bi
 cj > ci
 commo > como
 cuy > cui
-çe, çi > ce, ci (keep ça, ço and çu)
-çj > ci
+çe, çi~cj > ce, ci (maintain ça, ço, and çu as is)
 dj > di
 eua > eva
-euan > evan
 eue > eve
 eui > evi 
 euo > evo
@@ -61,13 +61,10 @@ eyn > ein
 eys > eis
 fj > fi
 fuy > fui
-gelj > geli
 gj > gi
 guj > gui
 hj > hi 
-Initial ff  > f
-Initial rr > r
-Initial ss  > s
+ff- > f
 iua > iva
 iue > ive
 iui > ivi 
@@ -93,10 +90,12 @@ oy > oi
 pj > pi
 ray > rai
 rj > ri
+rr- > r
 rua > rva
 ruo > rvo
 ry > ri
 ryr > rir
+ss-  > s
 srr > sr
 suar > svar
 sj > si 
@@ -131,7 +130,7 @@ yv > iv
 yz > iz
 zj > zi
 
-Uppercase Letters in Proper Nouns (This is a *tentative* list and should be adapted for each specific text.
+Uppercase Letters in Proper Nouns (This is a *tentative* list and should be adapted for each text.
 The transcriber should maintain a record of proper names and their variations.)
 
 Abraam / Abraan
@@ -176,7 +175,7 @@ xpisto > Cristo (of Christo, if latin)
 
 Deletion of Spaces
 
-^p+space > space
+^p + space > space
 - + space > nothing
 caña vera > cañavera
 des que > desque
@@ -188,7 +187,7 @@ nos otros > nosotros
 si se > sise (meaning 'in himself', 'in herself')
 so uno > souno (meaning 'together')
 sobre verna > sobreverna
-Any adverb + space + mente > adverb+mente without space
+Any adverb + space + mente > adverb+mente without space (e.g. clara mente > claramente)
 
 Separation to Differentiate Apocopated Compounds or Words Written as a Single Graphic Unity
 
@@ -199,10 +198,10 @@ acuy... > a cuy...
 adesora > a desora
 adio... > a dio...
 ael > a el
-aent... > a ent... (except in Occidental texts, where aentender is accepted)
+aent... > a ent... (except in Occidental texts, where 'aentender' is accepted)
 aes... > a es...
 agran > a gran
-ala/s/o/s > a la/s/o/s (except 'ala', when meaning 'wing')
+ala/s/o/s > a la/s/o/s (except 'ala' when meaning 'wing')
 amen... > a men...
 ami/s > a mi/s
 anos > a nos
@@ -210,14 +209,14 @@ antel > ant el
 anuest... > a nuest...
 aotr... > a otr...
 aqua... > a qua...
-aque > a que (except 'aquella/o')
+aque > a que (except in forms like 'aquel', 'aquella', 'aquello')
 aquien > a quien
-asaber > a saber (except in Occidental texts, where asaber is accepted) 
+asaber > a saber (except in Occidental texts, where 'asaber' is accepted) 
 ase > a se
 asu > a su
 asuso > a suso
-atal > a tal (except 'atal' when equivalent to 'tal')
-atan > a tan (same as above)
+atal > a tal (except when 'atal' is equivalent to 'tal' as a lexicalized form)
+atan > a tan (same exception as above)
 ati > a ti
 atod... > a tod...
 atu > a tu
@@ -252,7 +251,7 @@ deque > de que
 desa/s/o/s > d esa/s/o/s
 desdel > desd el
 dese > de se
-desi/dessi > de si (except when equivalent to 'after')
+desi/dessi > de si (except when a temporal adverb, equivalent to 'after')
 deso/desso > de so
 desta/s/e/s/o/s > d esta/s/e/s/o/s
 desu > de su
@@ -310,7 +309,7 @@ queel... > que el...
 queen > que en
 quees > que es
 quel... > que l... (or qu el...)
-quemas > que mas (except when it is the 3rd person present tense reflexive form of 'quemar' with a clitic, in which case: quema s).
+quemas > que mas (except when it is the 3rd person present tense of 'quemar' with a reflexive clitic, in which case > quema s).
 queme > que me
 quenos > que nos 
 quenon > que non 
@@ -332,7 +331,7 @@ sise > si se
 site > si te
 sobrel > sobre el
 sobres > sobr es
-sola > so la (equivalent to 'under the')
+sola > so la (only when equivalent to 'under the')
 tel... > te l... (except 'tela', meaning 'fabric')
 yal... > ya l...
 yate > ya te
@@ -353,7 +352,7 @@ Clitic Separation
 ...ixol > ixo l
 ...nese > ne se
 ...nse > n se
-...ase > a se (restricted, not for 2nd person singular conjugations)
+...ase > a se (restricted: does not apply to 2nd person singular verb forms, e.g., amase > amase)
 ...ese > e se
 ...erla/s/e/s/o/s > er la/s/e/s/o/s
 ...irla/s/e/s/o/s > ir la/s/e/s/o/s

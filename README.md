@@ -80,8 +80,8 @@ The chapters do not always follow their original manuscript order; instead, they
 
 **Scripts**
 
-This folder contains various scripts for BBEdit, Mac Terminal, and R, along with a set of normalization criteria developed for the collatio of semi-paleographic transcriptions of medieval Spanish and Neo-Latin texts.
+This folder contains various scripts for BBEdit, Mac Terminal, and R, along with two sets of normalization criteria developed for the <em>collatio</em> of semi-paleographic transcriptions, one for medieval Spanish and one for Neo-Latin texts.
 
 <p align="right"><strong>MCO</strong></p>
-<p align="right">Last update of <code>Readme.md</code> (reflecting upcoming release v0.6): April 5, 2025</p>
+<p align="right">Last update of <code>Readme.md</code> (reflecting upcoming release v0.6): April 7, 2025</p>
 <p align="right">Latest release (<em>Lucidarios</em>, v0.5): March 20, 2025</p>
