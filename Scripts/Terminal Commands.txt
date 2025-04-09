@@ -4,7 +4,7 @@ Useful macOS Terminal Commands
 # A native macOS utility that allows quick conversion between text formats (from/to TXT, HTML, RTF, DOC/DOCX, ORD).
  
 textutil -convert txt 
+# This command converts any supported format to plain text files (TXT). Drag and drop files after the command or specify the path (e.g., ~/Desktop/Folder/*.docx), then press Enter.
 
-# This command converts any supported format to plain text (TXT). Drag and drop files after the command or specify the path (e.g., ~/Desktop/Folder/*.docx), then press Enter.
-
-find . -type f -name '*' -exec mv -n '{}' . \; # This command moves all files from subdirectories to the current directory without overwriting existing files.
+find . -type f -name '*' -exec mv -n '{}' . \;
+# This command moves all files from a subdirectory structure to the main directory.
