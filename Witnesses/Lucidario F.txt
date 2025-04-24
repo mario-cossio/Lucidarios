@@ -706,7 +706,7 @@ opus. Reperies praeterea in salutationis exordio Angelum dixisse
 Aue Maria gratia plena. Illud Aue contrarium est Eua. eo
 tamen animo hoc dictum fuit; quoniam in rebus cunctis opposita
 fuisset futura. Iterum rogauit Discipulus, quare Christus Dominus
-voluit sanctam Mariam, e qua ipse praehendit carnem, fuisse
+voluit sanctam Mariam, e<x> qua ipse praehendit carnem, fuisse
 virginem antequam conciperet, post(^2#quam) ipsum partum virginem
 restitisse et durasse. Magister inquit, scito, cum Eua deliquit in
 paradiso, tunc adhec virginem fuisse, neque coniugem Adamum
