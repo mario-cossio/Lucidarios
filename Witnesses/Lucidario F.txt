@@ -916,7 +916,7 @@ sanctissimam eius carnem apud nos manere praeter-
 quam eo temporis spatio, quod ipse opportunum duxit,
 certissimum est in Christianorum Religione, quo
 die obijt sanctissima Maria eius genitrix auolasse,
-animam (^1#eius) eius sanctissimam è corpore. hac fatali
+animam (^2#eius) eius sanctissimam è corpore. hac fatali
 lege neminem eximere voluit, nec se ipsum, nec Ma-
 riam ((oportebat omnes mori)) et postquam spiritus eius
 corporeis vinculis se absoluit, atque humata ab Aposto-
@@ -1025,7 +1025,7 @@ cata fuit, vti dixi, expergefactus Adam e somno prope stantem
 foeminam conspicatus viraginis nomen indidit; quoniam ex
 viro fuisset formata, quod nomen retinuit, donec peccati insi-
 dijs fuisset correpta, tunc mulier appellata rem mobilem, et
-leuem significans; (^1#quoniam inconstans) quoniam inconstans, fa-
+leuem significans; (^2#quoniam inconstans) quoniam inconstans, fa-
 cilisque fuit peccando bifariam. Tum quia citius credidit, et ac-
 quieuit consilijs diaboli. Tum quia consuluit, et suasit marito
 quae adeo cordicitus hortata est, vt (^2#illum) [^2#eum] certamin(^2#o)[^2#e] illo vicerit.
@@ -1098,7 +1098,7 @@ legauit, quo ritu missit., nacti quippe sunt spiritus sancti gratiam
 quae in illis diu morata perstitit, idcirco erudias velim, mi Prae-
 ceptor, num haec persona fuerit e tribus Triadis sanctissimae
 vtrum in illis demorata, vel regressa ad Patrem vnde
-aduenèrat. Fili, respondit Magister, verum est spiritum
+aduenèrat. Fili, respond(^2#i)[^2#e]t Magister, verum est spiritum
 ad illòs devolasse eo loco quo (^2#coierant) [^2#conuenerant], iaculantem et emit-
 tentem ex se igneos radios instar linguarum, et singulos
 radios singulos Apostolorum perculisse, vt omnes pariter
@@ -1194,7 +1194,7 @@ viuimus. mirum est, si centessimum annum quis attingat
 cum pridem ad sexentessimum, septuacetess<imu><<m>> et octuacentess<imu><<m>>. pro-
 ducerentur. Iurequidem optimo breuior cuique vita destinata
 contemplare modo quàm rigidum et rude genium in orbis infan-
-tia occupauit homines longaeuos, et annis ditiores omnibus poste-
+tia occupauit homines longaeuos, et annis ditio(^2#n)[^2#r]es omnibus poste-
 ris. Credo tamen nullos plus ingratos quàm modernos, et si
 deteriori conditione, vitaque breuiori mulctatos, attendunt nihil
 quam vitae transeuntis, et apparentis aeras, nec nosse student
@@ -1209,7 +1209,7 @@ voluptate, duo mures arrodebant arboris radices, ater
 vnus, candidus alter. Hinc immanis colubrus ore diducto
 et inhianti hominis casum expectabat, faucibus suis hospi-
 taturus, illinc fera, quam dicunt vnicornius cornu pro-
-cero satis, et recta super ora homini quoque praest[^2#o]la-
+cero satis, et recta super ora homini quoque praest(^2#u)[^2#o]la-
 ta est, vt deorsum ruentem transfoderet: Quoniam
 vero descripsi aenigma placet ediserere, cuius rei sym-bolum +}
 {CW. bo}}
@@ -1370,7 +1370,7 @@ ad medullam occipitis, in quibus receptat audità, et iudicantur, reti-
 nenturq<ue> donec opus fuerit, reminisci. Tertius olfactus per nares
 cum olfacit homo, consurgit vaporatio odoris per narium foramina, ad
 medullam etiam, quae est prope frontem, et statim ac ibi attigit iu-
-dicatur à medulla, quis odor suauis ne, an teter, et iuxta iudicium
+dicatur à medulla, quis odor suauisne, an teter, et iuxta iudicium
 complacet vel displicet. Quartus sensus gustus est, huius munus spectat
 ad medullam et cor, vtriusque virtutem exponam. Lingua in se
 habet quatuor chordulas, vt velut radices appareant, et sunt
@@ -1504,7 +1504,7 @@ auricularesque meatus, latos, spatiosos, et minus
 occupatos, quàm alia animalia habet, ita vt quae lon-
 gissimè sonant, percipiat illico, et quaerit subter fugere alio,
 atque ab loco, vnde audiuit strepitum., tantum hoc commodi
-lucratur ex auditu(^2#m), vt fugere possit, et in locum incolumem
+lucratur e(^2#t)[^2#x] auditu(^2#m), vt fugere possit, et in locum incolumem
 accurrere, quod ipsi satis. (^2#E)[^2#A]t quam(^2# q)uis sues omnes ha-
 beant hanc audiendi sensationem acriorem alijs animan-
 tibus praecipue ea pollet aper; domestici enim sues iam assue-
@@ -1542,7 +1542,7 @@ contra flatum ventorum, atque ex odore inde deducto
 coniectantur nunc prope, aut procul esca sit., si vici-
 nam esse resciant ab altitudine illa se demittunt; si vero
 longinquam, conantur amplius scandere, et maiorem al-
-titudinem occupare, (^2#n)[^2#v]t inde recta deuolent in illum
+titudinem occupare, v(^2#n)[^2#t] inde recta deuolent in illum
 locum, ipsoque descensu propendet [^2#ae]r ille, quem in
 ventre habebant, super rostrum; atque ita evom(^2#it)[^2#ent]
 illum, vt cum demum acced[^2#ant] vacui [^2#sint] ventosa illa
@@ -1555,9 +1555,9 @@ quae acrius olfaciat, quisquis hoc sensu caret accipiat +}
 {LAT.
 lapillulum illum, qui in capite vulturis reperitur, cum
 occiditur, eumque in aquae, aut vini optimi poculo immittat
-(^1#ibique) illumque ibi relinquat integro die et nocte, donec aqua
+(^2#ibique) illumque ibi relinquat integro die et nocte, donec aqua
 aut vinum, aut quiuis alius liquor, cui immissus fuerit, vim
-eius cal[^2#cu]li suxerit, sicque ebibat (^1#quid) quod potuerit; residuum
+eius cal[^2#cu]li suxerit, sicque ebibat (^2#quid) quod potuerit; residuum
 quod in poculo subsederit ipsis naribus hauriat, et certum
 habeat, si per continuos octo dies id repetat, recuperaturum
 integrè, ac antea olfaciendi virtutem. Hanc eandem vim et
@@ -1606,7 +1606,7 @@ ueri possit, donec ab aranea capiatur. Hac igitur de causa [^2#fit]
 labor (^2#uel) et opus araneae in hac tela, vti satis dixi.
 {RUB. Titulus 26 Quomodo mundus remanebit
 post extremum iudicij diem.}
-{IN1.} S[^2#ci]scitatus Discipulus ait: Magister Domine, post finitum extre-
+{IN1.} S[^2#c]iscitatus Discipulus ait: Magister Domine, post finitum extre-
 mum iudicium a Christo Domino, quo pacto orbis permanebit
 Eruntne creaturae et homines ac modò sunt; an vero in nihi-
 lum facessent omnia? Prius respondebo tibi, ait Magister, iuxta

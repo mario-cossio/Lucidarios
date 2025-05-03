@@ -24,7 +24,7 @@ Original value > Replaced value
  )) > -
 à > a (when a preposition before vowels and h, then > ab)
 a > ab (when a preposition before vowels and h)
-è > e (except for isolated è > ex)
+è > e (except for isolated è > ex, but not in cases of isolated e: 'e somno', 'e vestigio')
 ì > i
 ò > o
 ù > u
@@ -34,11 +34,12 @@ a > ab (when a preposition before vowels and h)
 ô > o
 û > u
 j > i
-v > u (but keep capital V)
+u > v (only when it has a consonantic value)
 y > i (except in Greek loans)
 i > y (only Sybilla > Sibylla)
 acu- > accu- (e.g., accuro)
 ae > e (e.g., occaepit > occepit)
+ae > oe (e.g., paena > poena) --RV en documento final
 bas- > vas-
 cc > c (when needed)
 oe > e (e.g., foemina, foetus > femina, fetus)
