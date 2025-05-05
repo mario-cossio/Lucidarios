@@ -1,51 +1,46 @@
 Normalization Criteria for Neo-Latin Texts
 
-These are suggested criteria for the normalization (not modernization!) of Neo-Latin texts to facilitate their collation and comparison.
+These are suggested criteria for the normalization (not modernization!) of Neo-Latin texts, to facilitate their collation and comparison.
 
 The processes described in this document include the regularization of vowels and consonants according to modern norms for editing classical
-Latin (j > i, v > u), as well as the deletion of diacritic accents used in Neo-Latin—such as the circumflex, which differentiates the ablative
-from the nominative/accusative (eâdem/eadem, quâ/qua), and adjectives/adverbs from pronouns (illô/illo, nullô/nullo, quî/qui). Grave accents, which
-are used to mark the prepositions a (ad) and e (ex) to avoid assimilation (à medulla, è sole), as well as to mark adverbs (blandè, facilè, imò, modestissimè,
-porrò), are also to be removed.
+Latin (j > i, but u > v), as well as the removal of diacritic accents commonly used in Neo-Latin—-such as the circumflex, which distinguishes the ablative
+from the nominative/accusative (eâdem/eadem, quâ/qua), or adjectives/adverbs from pronouns (illô/illo, nullô/nullo, quî/qui).
 
-[Last Updated: April 6, 2025]
+Grave accents, which were used to mark the prepositions à (for ad) and è (for ex) to avoid assimilation (à medulla, è sole), as well as to mark adverbs
+(blandè, facilè, imò, modestissimè, porrò), are also to be removed.
 
-Basic Graphic Normalization (Some of these replacements should be performed multiple times, as the base text will change after each iteration.)
+[Last Updated: May 5, 2025]
 
-Delete all <, >, {RUB.}, {LAT.}, {HD.}, {AD.}, {CW.}, {GL.}, {CB1.}, {CB2.}, {IN.} [+], (^), [^], (), [], or any other encoding marks. Replace them with
-the appropriate convention (e.g., use colors, apply strikethrough for deletions, or delete the text outright, etc.)
+Basic Graphic Normalization
+(Note: Some of these replacements should be performed iteratively, as the base text will change after each pass.)
+
+Delete all of the following encoding marks: <, >, {RUB.}, {LAT.}, {HD.}, {AD.}, {CW.}, {GL.}, {CB1.}, {CB2.}, {IN.} [+], (^), [^], (), [], or any other markup.
+Replace them with the appropriate editorial conventions (e.g., use color, apply strikethrough for deletions, or simply delete the text outright, etc.)
 
 General Cleanup
 Original value > Replaced value
 
 ^p + space > space
 - + space > nothing
-(( > -
- )) > -
-à > a (when a preposition before vowels and h, then > ab)
-a > ab (when a preposition before vowels and h)
-è > e (except for isolated è > ex, but not in cases of isolated e: 'e somno', 'e vestigio')
-ì > i
-ò > o
-ù > u
-â > a
-ê > e
-î > i
-ô > o
-û > u
-j > i
-u > v (only when it has a consonantic value)
-y > i (except in Greek loans)
-i > y (only Sybilla > Sibylla)
-acu- > accu- (e.g., accuro)
-ae > e (e.g., occaepit > occepit)
-ae > oe (e.g., paena > poena) --RV en documento final
+(( > - (em dash)
+ )) > - (em dash)
+a > ab (if preposition before vowels or h)
+à > a (if preposition before vowels or h, then > ab)
+è > e 
+ì, ò, ù > i, o, u
+â, ê, î, ô, û > a, e, i, o, u
+acu- > accu- (acuro > accuro)
+ae > e (occaepit > occepit)
+ae > oe (paena > poena)
 bas- > vas-
+c > cc (sicus > siccus)
 cc > c (when needed)
-oe > e (e.g., foemina, foetus > femina, fetus)
-oe > ae (e.g., coelo, defoecata > defaecata, caelo)
-p  > pp (e.g., suplicium > supplicium)
-t > tt (e.g., quatuor > quattuor)
-
-***
-exp- > exsp-
+i > y (only Sybilla > Sibylla)
+j > i
+m > mm (flama > flamma)
+oe > ae (coelo, defoecata > defaecata, caelo)
+oe > e (foemina, foetus > femina, fetus)
+p  > pp (suplicium > supplicium)
+t > tt (quatuor > quattuor)
+u > v (only when u functions as a consonant: ueritate > veritate, but conspicuus  > conspicuus)
+y > i (except in Greek loanwords)
